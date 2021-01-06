@@ -157,7 +157,7 @@ Get the free heal from the breeder if low.
 
 Grab the X Speed to the left of Alder's house.
 
-![X Speed by Alder's House](https://raw.githubusercontent.com/Corvimae/white-2-manipless/main/assets/xspeed.png)
+![X Speed by Alder's House](xspeed.png)
 
 :::::::trainer[School Kid Seymore]
   :::::pokemon[Pansage]
@@ -181,7 +181,7 @@ Grab the X Speed to the left of Alder's house.
 
 Grab the X Defend in the Aspertia gym.
 
-![X Defend in Aspertia Gym](https://raw.githubusercontent.com/Corvimae/white-2-manipless/main/assets/xdefend.png)
+![X Defend in Aspertia Gym](xdefend.png)
 
 :::::::trainer[Youngster Pedro]
   :::::pokemon[Patrat]
@@ -309,7 +309,7 @@ Drop Repel after reaching Virbank City.
 
 Grab the Silk Scarf (hidden down the stairs in the bottom left).
 
-![Silk Scarf location](https://raw.githubusercontent.com/Corvimae/white-2-manipless/main/assets/silk-scarf.gif)
+![Silk Scarf location](silk-scarf.gif)
 
 Equip the Silk Scarf and heal to full.
 
@@ -374,7 +374,7 @@ Heal with Pecha if poisoned. Heal to full.
       - Work Up x2
       - Take Down :info[_Deals 10 damage of recoil._]
     ::: 
-    :::if{source="Lillipup" condition="atk=(# / 7- / x)"}
+    :::if{source="Lillipup" condition="atk=~(x / 8+ / #)"}
       - Work Up x2
       - Return x2
     ::: 
@@ -425,7 +425,7 @@ Drop Repel back in Virbank.
 
 Get the Heart Scale once you arrive in Castelia.
 
-![Castelia Heart Scale location](https://raw.githubusercontent.com/Corvimae/white-2-manipless/main/assets/heart-scale.png)
+![Castelia Heart Scale location](heart-scale.png)
 
 Register the Bike once you receive it and unregister the Medicine Bag, then head to the far left to the gym.
 
@@ -733,7 +733,7 @@ Heal to full. Head Up, Up, Up, Right, Down, Right, Up.
 
 Learn Fire Fang from the Move Relearner over Crunch.
 
-![Move Relearner location](https://raw.githubusercontent.com/Corvimae/white-2-manipless/main/assets/move-relearner.png)
+![Move Relearner location](move-relearner.png)
 
 :info[**Free heal**]{color=pink}
 
@@ -920,16 +920,16 @@ Swap Cobalion and Stoutland (so that Cobalion is in Slot 1 and Stoutland is in S
 
 Get the Rare Candies hidden in the Route 12 field and at the Village Bridge near the flute.
 
-![Rare Candy 1 location](https://raw.githubusercontent.com/Corvimae/white-2-manipless/main/assets/rare-candy-1.png)
-![Rare Candy 2 location](https://raw.githubusercontent.com/Corvimae/white-2-manipless/main/assets/rare-candy-2.gif)
+![Rare Candy 1 location](rare-candy-1.png)
+![Rare Candy 2 location](rare-candy-2.gif)
 
 Bike through Opelucid to Route 9. Grab the Elixir in the grass to the immediate south.
 
-![Elixir location](https://raw.githubusercontent.com/Corvimae/white-2-manipless/main/assets/elixir.png)
+![Elixir location](elixir.png)
 
 Go to the Route 9 Mall. Run up the left-most stairs to the battle item vendor.
 
-![Elixir location](https://raw.githubusercontent.com/Corvimae/white-2-manipless/main/assets/x-item-shop.png)
+![Elixir location](x-item-shop.png)
 
 ### Route 9 Mall Shopping
 > #### Buy
@@ -1103,7 +1103,7 @@ Heal to full.
 
 Get the Rare Candy next to the railing and fly to Humilau City.
 
-![Rare Candy 3 location](https://raw.githubusercontent.com/Corvimae/white-2-manipless/main/assets/rare-candy-3.gif)
+![Rare Candy 3 location](rare-candy-3.gif)
 
 Say No to Colress.
 
@@ -1243,7 +1243,7 @@ Fly to Humilau.
 
 Grab the Max Elixir.
 
-![Max Elixir location](https://raw.githubusercontent.com/Corvimae/white-2-manipless/main/assets/max-elixir.png)
+![Max Elixir location](max-elixir.png)
 
 :::::::trainer[Team Plasma Zinzolin]
   :::::pokemon[Cryogonal]
