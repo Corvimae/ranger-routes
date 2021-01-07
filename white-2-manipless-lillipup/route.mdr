@@ -189,7 +189,7 @@ Grab the X Defend in the Aspertia gym.
       - Bite
       - Tackle
     :::
-    :::if{source="Lillipup" condition="atk=(19- / x / x)"}
+    :::if{source="Lillipup" condition="atk=~(20+ / # / #)"}
       - Tackle x2
       - (Bite)
     :::
@@ -207,7 +207,7 @@ Grab the X Defend in the Aspertia gym.
     :::if{source="Lillipup" condition="atk=(x / 26+ / 17+)"}
       - Tackle x2 :info[87.64% chance to kill]{color=red}
     :::
-    :::if{source="Lillipup" condition="atk=(# / 25- / 16-)"}
+    :::if{source="Lillipup" condition="atk=~(x / 26+ / 17+)"}
        - Bite
       - Tackle x2
     :::
@@ -218,7 +218,7 @@ Grab the X Defend in the Aspertia gym.
       - Bite
       - Tackle
     :::
-    :::if{source="Lillipup" condition="atk=(29- / 4- / x)"}
+    :::if{source="Lillipup" condition="atk=~(30+ / 5+ / #)"}
       - Tackle x2
     ::: 
     :info[**Todo: combined ranges**]{color=gray}
@@ -241,7 +241,7 @@ Heal to full, register Medicine Pocket.
       - Leer
       - Tackle x2
     ::: 
-    :::if{source="Lillipup" condition="atk=(x / 11+ / 3+)"}
+    :::if{source="Lillipup" condition="atk=~(# / 10- / 2-)"}
       - Leer
       - Bite
       - Tackle
@@ -321,7 +321,7 @@ Equip the Silk Scarf and heal to full.
     - Tackle
     - (Tackle)
   ::: 
-  :::if{source="Lillipup" condition="atk=(# / 21- / 7-)"}
+  :::if{source="Lillipup" condition="atk=~(x / 22+ / 8+)"}
     - Work Up
     - Tackle x2
     - (Tackle)
@@ -345,7 +345,7 @@ Heal to full-ish. Heal with Pecha Berry if poisoned.
       - Work Up x2
       - Return x2
     ::: 
-    :::if{source="Lillipup" condition="(atk=(26+ / 6+ / #) && startingLevel=7) || startingLevel=6-"}
+    :::if{source="Lillipup" condition="(atk=~(25- / 5- / x) && startingLevel=7) || startingLevel=6-"}
       - Work Up
       - Return x2
     ::: 
@@ -359,7 +359,7 @@ Heal to full-ish. Heal with Pecha Berry if poisoned.
     :::if{source="Lillipup" condition="atk=(25- / 5- / x) && startingLevel=7"}
       - Take Down x2
     :::
-    :::if{source="Lillipup" condition="(startingLevel=4 && atk=(# / # / 18-)) || (startingLevel=7 && atk=(26+ / 6+ / #)) || startingLevel=5-6"}
+    :::if{source="Lillipup" condition="(startingLevel=4 && atk=~(x / x / 19+)) || (startingLevel=7 && atk=~(25- / 5- / x)) || startingLevel=5-6"}
       - Return
       - Take Down :info[**Todo: combined ranges**]{color=gray}
     :::
@@ -384,7 +384,7 @@ Heal with Pecha if poisoned. Heal to full.
       - Take Down :info[_Deals 11 damage of recoil._]
       - (Bite) :info[**Todo: combined ranges**]{color=gray}
     :::
-    :::if{source="Lillipup" condition="atk=(# / 20- / 1-)"}
+    :::if{source="Lillipup" condition="atk=~(x / 21+ / 2+)"}
       - Return x2
       - (Bite) :info[**Todo: combined ranges**]{color=gray}
     :::
@@ -402,7 +402,7 @@ Heal with Pecha if poisoned. Heal to full.
     :::if{source="Lillipup" condition="atk=(x / 27+ / 11+)"}
       - Return (x2) :info[Always kills at 145+ Friendship]{color=gray}
     ::: 
-    :::if{source="Lillipup" condition="atk=(# / 26- / 10-)"}
+    :::if{source="Lillipup" condition="atk=~(x / 27+ / 11+)"}
       - Take Down :info[_Deals 9 damage of recoil._]
     ::: 
   :::::
@@ -415,7 +415,7 @@ Use a Repel at the grass west of Virbank.
     :::if{source="Lillipup" condition="atk=(x / 27+ / 11+)"}
       - Return (x2) :info[Always kills at 145+ Friendship]{color=gray}
     ::: 
-    :::if{source="Lillipup" condition="atk=(# / 26- / 10-)"}
+    :::if{source="Lillipup" condition="atk=~(x / 27+ / 11+)"}
       - Take Down :info[_Deals 9 damage of recoil._]
     ::: 
   :::::
@@ -454,7 +454,7 @@ Take the entrance straight ahead when you enter the gym. Head to the right on th
       - Bite
       - Strength
     ::: 
-    :::if{source="Lillipup" condition="atk=(27+ / 5+ / #)"}
+    :::if{source="Lillipup" condition="atk=~(26- / 4- / x)"}
       - Work Up x2
       - Strength
     ::: 
@@ -464,7 +464,7 @@ Take the entrance straight ahead when you enter the gym. Head to the right on th
       - Bite
       - Strength
     ::: 
-    :::if{source="Lillipup" condition="atk=(27+ / 5+ / #)"}
+    :::if{source="Lillipup" condition="atk=~(26- / 4- / x)"}
       - Strength
     ::: 
   :::::
@@ -528,7 +528,7 @@ PC Heal and withdraw all Pokemon.
       - Work Up
       - Strength
     ::: 
-    :::if{source="Lillipup" condition="atk=(# / 24- / 7-)"}
+    :::if{source="Lillipup" condition="atk=~(x / 25+ / 8+)"}
       - Work Up
       - Strength
       - Strength
@@ -579,7 +579,7 @@ Use Paralyze Heal if paralyzed and heal if low.
       - Work Up
       - Strength
     ::: 
-    :::if{source="Lillipup" condition="atk=(# / # / 13-)"}
+    :::if{source="Lillipup" condition="atk=~(x / x / 14+)"}
       - Strength x2
     ::: 
   :::::
@@ -608,7 +608,7 @@ Use Paralyze Heal if paralyzed and **heal to full**.
     :::if{source="Lillipup" condition="atk=(# / 25- / 7-)"}
       - Work Up x3
     ::: 
-    :::if{source="Lillipup" condition="atk=(x / 26+ / 8+)"}
+    :::if{source="Lillipup" condition="atk=~(# / 25- / 7-)"}
       - Work Up x2
     :::
   :::::
@@ -960,7 +960,7 @@ Head up, and pick the trainer on the right.
       - Iron Head
       - Sacred Sword
     :::
-    :::if{source="Cobalion" condition="atk=(18- / x / x)"}
+    :::if{source="Cobalion" condition="atk=~(19+ / # / #)"}
       - Sacred Sword x2
     :::
   :::::
@@ -1122,7 +1122,7 @@ Say No to Colress.
       - Swords Dance
       - Iron Head
     :::
-    :::if{source="Cobalion" condition="atk=(x / 18+ / #)"}
+    :::if{source="Cobalion" condition="atk=~(# / 17- / x)"}
       - Iron Head
     :::
   :::::
@@ -1206,7 +1206,7 @@ Fly to Humilau.
       - Sacred Sword x2
       - Iron Head
     :::
-    :::if{source="Cobalion" condition="atk=(x / x / 13+)"}
+    :::if{source="Cobalion" condition="atk=~(# / # / 12-)"}
       - Sacred Sword
       - Iron Head
     :::
@@ -1367,7 +1367,7 @@ Use an Escape Rope.
       - Iron Head
       - (Iron Head)
     :::
-    :::if{source="Cobalion" condition="atk=(x / 26+ / 6+)"}
+    :::if{source="Cobalion" condition="atk=~(# / 25- / 5-)"}
       - Swords Dance
       - Iron Head
       - (Iron Head)
@@ -1417,7 +1417,7 @@ Heal if yellow bar.
       - Swords Dance x2
       - Sacred Sword
     :::
-    :::if{source="Cobalion" condition="atk=(x / 18+ / #)"}
+    :::if{source="Cobalion" condition="atk=~(# / 17- / x)"}
       - Swords Dance
       - Sacred Sword
     :::
@@ -1538,7 +1538,7 @@ Heal to full.
       - (Full Restore if Burned)
       - Sacred Sword
     :::
-    :::if{source="Cobalion" condition="atk=(x / 23+ / 2+)"}
+    :::if{source="Cobalion" condition="atk=~(# / 22- / 1-)"}
       - Sacred Sword
     :::
   :::::
