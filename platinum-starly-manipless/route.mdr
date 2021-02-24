@@ -5,6 +5,9 @@
    8 -> 1, 0, 0, 0, 0, 2 # Bidoof (1 HP)
    9 -> 1, 0, 0, 0, 1, 3 # Burmy (1 SPDEF), Starly (1 SPD)
    10 -> 1, 0, 0, 0, 1, 4 # Chimchar (1 SPD)
+   11 -> 1, 0, 0, 0, 1, 4
+   12 -> 1, 0, 0, 0, 1, 4
+   13 -> 1, 0, 4, 0, 0, 0 # 4 defense IVs before Cranidos
 :::
 
 :::tracker{species=Starly baseStats="[[40, 55, 30, 30, 30, 60], [55, 75, 50, 40, 40, 80], [85, 120, 70, 50, 50, 100]]"}
@@ -195,17 +198,15 @@
 # Pokemon Platinum Any% Manipless Glitchless Starly+
 
 Contact Etchy#0119 on Discord for questions/issues
-Credits to prabxz for the initial route and a lot of strats/ideas
 
-TODO: return ranges with known friendship levels
+Credits to prabxz for the initial route and a lot of strats/ideas
 
 ## Before you start
 
-1. Read the FAQ (V2 Changelog included!)
-2. Watch this video on spinner passing: [https://youtu.be/AQRMydButHQ](https://youtu.be/AQRMydButHQ). This should be your #1 priority to practice before a run.
-3. Open the IV Calculator by clicking here
-4. You can follow along with this video while learning [https://youtu.be/J0fRpVkn_Mk](https://youtu.be/J0fRpVkn_Mk)
-5. Hishato made images for all the movement in the run, recommend having [this guide](https://docs.google.com/document/d/1S5FdbsPsXzCooo-8tmslamsV9UqlFeb0RqSwd69rVP8/edit?usp=sharing) open if you're new! 
+1. Read the [**FAQ**](https://docs.google.com/document/d/1fqIYoi_89Db9awuvCxNATRhFC1SbLd3TtH56z5J7oRA/edit) (V2 Changelog included!)
+2. Watch this video on spinner passing: [**https://youtu.be/AQRMydButHQ**](https://youtu.be/AQRMydButHQ). This should be your #1 priority to practice before a run.
+3. You can follow along with this video while learning [**https://youtu.be/J0fRpVkn_Mk**](https://youtu.be/J0fRpVkn_Mk)
+4. Hishato made images for all the movement in the run, recommend having [**this guide**](https://docs.google.com/document/d/1S5FdbsPsXzCooo-8tmslamsV9UqlFeb0RqSwd69rVP8/edit) open if you're new! 
 
 Set date to 01/01 (year doesn't matter), time to 2AM-ish.
 - You want to be on set so that you get to Veilstone before 4AM, but get to Celestic town the second time after 4AM.
@@ -271,7 +272,7 @@ Tackle to yellow HP before trying to catch.
 
 Pick up Stardust before entering Jubilife
 
-![Hidden Stardust](https://raw.githubusercontent.com/lsliegeo/platinum-starly-manipless/master/assets/stardust.png)
+![Hidden Stardust](stardust.png)
 
 
 ## Jubilife City
@@ -288,7 +289,7 @@ Get Clowns for the Poketch, off to Rival in the east
 :::::::trainer[Rival Barry]
   :::::pokemon[Starly]
     - Tackle spam
-    ::damage[Quick Attack does (Def)]{source="Turtwig" level=8 offensive=false opponentLevel=7 opponentStat=13 movePower=40 stab=true}
+    ::damage[Quick Attack (Def)]{source="Turtwig" level=8 offensive=false opponentLevel=7 opponentStat=13 movePower=40 stab=true}
   :::::
   :::::pokemon[Chimchar]
     - Swap to other Pokemon, heal Turtwig if possible, die, swap back to Turtwig, Tackle spam
@@ -320,7 +321,7 @@ Once you enter the mine:
 
 **(Recommended) Grab Super Potion outside of Mine by talking to miner**
 
-![Miner Super Potion](https://raw.githubusercontent.com/lsliegeo/platinum-starly-manipless/master/assets/super-potion-miner.png)
+![Miner Super Potion](super-potion-miner.png)
 
 
 ## Oreburgh Gym
@@ -374,7 +375,7 @@ Right vendor
 
 **Get Dusk Ball from girl on 2nd floor of the last building you pass while leaving Oreburgh**
 
-![Dusk Ball](https://raw.githubusercontent.com/lsliegeo/platinum-starly-manipless/master/assets/dusk-ball.png)
+![Dusk Ball](dusk-ball.png)
 
 Head back through cave.
 
@@ -492,6 +493,7 @@ If you used the Oran, grab Chesto (left tree on the route), equip it now
   :::::pokemon[Glameow]
     - Pluck spam
     - Finish off with Quick Attack
+    - Heal sleep with Awakening
     ::damage[Scratch (Def)]{source="Starly" level=13 offensive=false opponentLevel=14 opponentStat=19 movePower=40 stab=true}
   :::::
 :::::::
@@ -505,6 +507,12 @@ Menu:
     - Wing Attack spam
   :::::
 :::::::
+
+:::card{theme=warning}
+You should have evolved before fighting Mars.
+
+If not, fight an optional.
+:::
 
 :::::::trainer[Galactic Mars]
   :::::pokemon[Zubat]
@@ -533,7 +541,7 @@ Menu before the grass:
 
 Grab X Sp Def near the hiker (you have to pass this spinner three times, be careful!)
 
-![X Sp Def](https://raw.githubusercontent.com/lsliegeo/platinum-starly-manipless/master/assets/sp-def.png)
+![X Sp Def](sp-def.png)
 
 :::::::trainer[Hiker Daniel (spinner)]
   :info[Strategy in case you hit the spinner]{color=pink}
@@ -592,7 +600,7 @@ Menu before far left side of the grass:
 **If you didn't catch Psyduck**: Grab this Net Ball
 :::
 
-![Net Ball](https://raw.githubusercontent.com/lsliegeo/platinum-starly-manipless/master/assets/net-ball.png)
+![Net Ball](net-ball.png)
 
 If you have no super potions, pick up the one behind the gym
 
@@ -638,6 +646,7 @@ If you have no super potions, pick up the one behind the gym
       - Pluck x2
     :::
     :info[Roserade will always outspeed you]{color=blue}
+    ::damage[Magical Leaf (Sp Def)]{source="Starly" level=21 evolution=1 offensive=false opponentLevel=22 opponentStat=61 movePower=60 special=true stab=true effectiveness=0.5}
   :::::
 :::::::
 
@@ -675,7 +684,7 @@ Off to Galactic HQ
   :::::
 :::::::
 
-![Scientist](https://raw.githubusercontent.com/lsliegeo/platinum-starly-manipless/master/assets/scientist-eterna.png)
+![Scientist](scientist-eterna.png)
 
 After the fight, go up the stairs next to him and grab the revive on the right after you go up the stairs.
 
@@ -690,6 +699,8 @@ Talk to Jupiter from the front
     - Endeavor x1-2 + Pluck / Quick Attack
     - Faster at 47 speed (x / 21+ / 4+)
     - Swap out if dead to Night Slash or Screech'd, heal Staravia before sending back out
+    ::damage[Night Slash (Def)]{source="Starly" level=23 evolution=1 offensive=false opponentLevel=23 opponentStat=45 movePower=70 stab=true}
+    ::damage[Night Slash at -1 (Def)]{source="Starly" level=23 evolution=1 offensive=false opponentLevel=23 opponentStat=45 movePower=70 stab=true opponentCombatStages=-1}
   :::::
 :::::::
 
@@ -714,15 +725,15 @@ Repel when it runs out
 
 Back to town, consider grabbing Oran berries for Endeavor setups, go south
 
-![Oran Berries](https://raw.githubusercontent.com/lsliegeo/platinum-starly-manipless/master/assets/oran-berries.png)
+![Oran Berries](oran-berries.png)
 
 
 ## Route 207
 
 Get hidden Rare Candy and revive
 
-![Hidden Rare Candy](https://raw.githubusercontent.com/lsliegeo/platinum-starly-manipless/master/assets/candy-207.png)
-![Hidden Revive](https://raw.githubusercontent.com/lsliegeo/platinum-starly-manipless/master/assets/revive-207.png)
+![Hidden Rare Candy](candy-207.png)
+![Hidden Revive](revive-207.png)
 
 Menu during spinner pass:
 - Revive Turtwig if dead
@@ -734,7 +745,7 @@ Menu during spinner pass:
 
 Once you enter grab the 2nd hidden Revive
 
-![Hidden Revive](https://raw.githubusercontent.com/lsliegeo/platinum-starly-manipless/master/assets/revive-coronet.png)
+![Hidden Revive](revive-coronet.png)
 
 
 ## Route 208
@@ -797,7 +808,7 @@ Second room doors: &#9788; - &#9678; - &#9789; - &#9734; - &#9825;
   :::::
   :::::pokemon[Mismagius]
     - Wing Attack spam
-    ::damage[Psybeam (Sp Def)]{source="Starly" level=24 evolution=1 offensive=false opponentLevel=26 opponentStat=55 movePower=65 special=true stab=false combatStages=1}
+    ::damage[Psybeam (+1 Sp Def)]{source="Starly" level=24 evolution=1 offensive=false opponentLevel=26 opponentStat=55 movePower=65 special=true stab=false combatStages=1}
   :::::
 :::::::
 
@@ -816,7 +827,6 @@ Menu:
   **Order may vary**
   :::::pokemon[Staravia]
     - Die, Wing Attack x2 + (Quick Attack)
-    - Faster at 51 speed (x / 22+ / 6+)
     :::if{source="Starly" level=25 evolution=1 condition="speed=51+"}
       :info[You are faster]{color=red}
     :::
@@ -827,7 +837,6 @@ Menu:
   :::::pokemon[Buizel]
     - Wing Attack + (Quick Attack)
     - Has Quick Attack
-    - Faster at 45 speed (x / 2+ / 0+)
     :::if{source="Starly" level=25 evolution=1 condition="speed=45+"}
       :info[You are faster]{color=red}
     :::
@@ -865,7 +874,7 @@ Note: Green Joggers can't see you at night
 
 Go up the ledge, move around and get this Ether in the middle
 
-![Hidden Ether](https://raw.githubusercontent.com/lsliegeo/platinum-starly-manipless/master/assets/ether-209.png)
+![Hidden Ether](ether-209.png)
 
 Menu at grass:
 - Swap Staravia to slot 1
@@ -882,14 +891,14 @@ Go up, the jogging double trainers won't fight you.
 
 Bike past double (can't see you). Go into tall grass, get this Candy, then up to the cafe.
 
-![Hidden Rare Candy](https://raw.githubusercontent.com/lsliegeo/platinum-starly-manipless/master/assets/candy-210.png)
+![Hidden Rare Candy](candy-210.png)
 
 Enter Pokemon Cafe
 - Buy dozen MooMoo milks at the cafe counter
 
 :::::::if{source="Starly" condition="atk=(x / 20+ / 0+)" theme=warning}
 ## Skip Fist Plate strats
-  ![Heracross trainer](https://raw.githubusercontent.com/lsliegeo/platinum-starly-manipless/master/assets/fist-plate-optional.png)
+  ![Heracross trainer](fist-plate-optional.png)
   :::::trainer[Collector Fernando]
     :::pokemon[Heracross]
     - Wing Attack
@@ -927,11 +936,11 @@ You will pick up Fist Plate later
 
 Get this Max Ether.
 
-![Max Ether](https://raw.githubusercontent.com/lsliegeo/platinum-starly-manipless/master/assets/max-ether-215.png)
+![Max Ether](max-ether-215.png)
 
 Grab this Revive.
 
-![Hidden Revive](https://raw.githubusercontent.com/lsliegeo/platinum-starly-manipless/master/assets/revive-215.png)
+![Hidden Revive](revive-215.png)
 
 :::if{source="Starly" condition="atk=(x / 20+ / 0+)" theme=warning}
 **Skip Fist Plate strats**
@@ -939,13 +948,20 @@ Grab this Revive.
 Pass the spinner and go through the grass
 :::
 
-:::if{source="Starly" condition="atk=~(x / 20+ / 0+)" theme=warning}
+:::::::if{source="Starly" condition="atk=~(x / 20+ / 0+)" theme=warning}
 **Fist Plate strats**
 
 Cut the tree after the bridge and fight this trainer to pick up the Fist Plate item below him
 
-![Fist Plate](https://raw.githubusercontent.com/lsliegeo/platinum-starly-manipless/master/assets/fist-plate.png)
-::::
+![Fist Plate](fist-plate.png)
+
+  :::::trainer[Black Belt Gregory]
+    - Teach Aerial Ace over Wing Attack
+    :::pokemon[Machop x3]
+      - Wing Attack / Aerial Ace
+    :::
+  :::::
+:::::::
 
 :::card{theme=warning}
 **If you didn't catch Psyduck**: Catch Marill in the grass anywhere on the route (45% at night)
@@ -962,12 +978,12 @@ Menu:
 
 Pick up the Iron before Ace Trainers
 
-![Hidden Iron](https://raw.githubusercontent.com/lsliegeo/platinum-starly-manipless/master/assets/iron-215.png)
+![Hidden Iron](iron-215.png)
 
 :::::::trainer[Top Ace Trainer Maya]
-  - Teach Aerial Ace over WA
+  - Teach Aerial Ace over Wing Attack
   :::::pokemon[Roselia]
-    - Substitute + Wing Attack
+    - Substitute + Wing Attack / Aerial Ace
   :::::
   :::::pokemon[Lickitung]
     - (Endeavor) + Return spam
@@ -1006,18 +1022,18 @@ Pick up the Iron before Ace Trainers
 Grab Star piece near warehouse (all the way north)<br>
 Pick up Calcium
 
-![Hidden Calcium](https://raw.githubusercontent.com/lsliegeo/platinum-starly-manipless/master/assets/calcium-veilstone.png)
+![Hidden Calcium](calcium-veilstone.png)
 
 Grab Rare Candy (north)
 
-![Rare Candy](https://raw.githubusercontent.com/lsliegeo/platinum-starly-manipless/master/assets/candy-veilstone.png)
+![Rare Candy](candy-veilstone.png)
 
 **Get Porygon from guy in house furthest right of Department Store**
 - Do not nickname
 
 Get this PP Up
 
-![Hidden PP Up](https://raw.githubusercontent.com/lsliegeo/platinum-starly-manipless/master/assets/pp-up-veilstone.png)
+![Hidden PP Up](pp-up-veilstone.png)
 
 :::::card{theme=neutral}
 ### Shopping
@@ -1055,12 +1071,12 @@ Get this PP Up
 :::card{theme=warning}
 **If lvl 30**:
 - Rare Candy x4 30 -> 34, don't learn Take Down, teach Close Combat over Substitute
-- Heal to full if not going for this (Maylene) Machoke offensive range:
+- Heal to full if not going for Machoke range:
 ::damage[+0 Aerial Ace]{source="Starly" level=34 evolution=2 offensive=true opponentStat=52 healthThreshold=92 movePower=60 stab=true effectiveness=2}
 
-
 **Else**:
-- Heal out of (Black Belt Rafael) Machoke defensive range
+- Heal out of Machoke defensive range:
+::damage[Karate Chop (Def)]{source="Starly" level=29 evolution=1 offensive=false opponentLevel=26 opponentStat=52 movePower=50 stab=true}
 :::
 
 :::::::trainer[Black Belt Rafael]
@@ -1081,7 +1097,8 @@ If not Level 30:
 :::card{theme=warning}
 **If you didn't candy yet**:
 - Rare Candy x4 30 -> 34, don't learn Take Down, teach Close Combat over Substitute
-- Heal to full if not going for (Maylene) Machoke offensive range
+- Heal to full if not going for Machoke range:
+::damage[+0 Aerial Ace]{source="Starly" level=34 evolution=2 offensive=true opponentStat=52 healthThreshold=92 movePower=60 stab=true effectiveness=2}
 :::
 
 :::::::trainer[Leader Maylene]
@@ -1120,7 +1137,7 @@ Head off to Warehouse, talk to Lucas to trigger the double.
 
 Go in and get Fly
 
-![Fly](https://raw.githubusercontent.com/lsliegeo/platinum-starly-manipless/master/assets/fly.png)
+![Fly](fly.png)
 
 Buy 1000 coins from Game Corner, get Silk Scarf next door
 
@@ -1215,7 +1232,7 @@ Menu:
 
 :::::::trainer[Leader Wake]
   :::::pokemon[Gyarados]
-    - Swap to Turtwig, faint, swap back to Staraptor
+    - Swap to Psyduck / rival 2 catch, faint, swap back to Staraptor
     :::if{source="Starly" level=38 evolution=2 condition="speed=97+"}
       - X Attack x2 + Return
     :::
@@ -1223,8 +1240,8 @@ Menu:
       - X Attack x2 + (Heal) + X Speed + Return
     :::
     - Heal whenever below half HP (cause of Brine)
-    - Skip 2nd X Attack if (x / x / 18+) assuming average friendship
-    ::damage[+1 Return]{source="Starly" level=38 evolution=2 offensive=true opponentStat=69 healthThreshold=111 movePower=0 stab=true combatStages=1 otherModifier=1.2}
+    - At high attack, can skip 1 X Attack
+    ::damage[+1 Return]{source="Starly" level=38 evolution=2 offensive=true opponentStat=69 healthThreshold=111 movePower=82 stab=true combatStages=1 otherModifier=1.2}
   :::::
   :::::pokemon[Floatzel]
     - (Heal if in Aqua Jet range) + Return
@@ -1232,7 +1249,7 @@ Menu:
   :::::
   :::::pokemon[Quagsire]
     - Return
-    ::damage[+1 Return]{source="Starly" level=38 evolution=2 offensive=true opponentStat=67 healthThreshold=113 movePower=0 stab=true combatStages=1 otherModifier=1.2}
+    ::damage[+1 Return]{source="Starly" level=38 evolution=2 offensive=true opponentStat=67 healthThreshold=113 movePower=82 stab=true combatStages=1 otherModifier=1.2}
   :::::
 :::::::
 
@@ -1326,8 +1343,8 @@ Menu:
     :::if{source="Starly" level=40 evolution=2 condition="speed=83-"}
        - X Speed + Return
     :::
-    - Can CC here if Attack is bad, just be aware of SpDef drop
-    ::damage[Return]{source="Starly" level=40 evolution=2 offensive=true opponentStat=57 healthThreshold=91 movePower=0 stab=true otherModifier=1.2}
+    - Can Close Combat here if Attack is bad, just be aware of SpDef drop
+    ::damage[Return]{source="Starly" level=40 evolution=2 offensive=true opponentStat=57 healthThreshold=91 movePower=85 stab=true otherModifier=1.2}
   :::::
   :::::pokemon[Golbat]
     - Aerial Ace + Return
@@ -1335,7 +1352,7 @@ Menu:
   :::::
   :::::pokemon[Murkrow]
      - Return
-    ::damage[Return]{source="Starly" level=40 evolution=2 offensive=true opponentStat=50 healthThreshold=100 movePower=0 stab=true otherModifier=1.2}
+    ::damage[Return]{source="Starly" level=40 evolution=2 offensive=true opponentStat=50 healthThreshold=100 movePower=85 stab=true otherModifier=1.2}
   :::::
 :::::::
 
@@ -1352,7 +1369,7 @@ Head left to Route 218
 
 Surf immediately above the bridge and get this Rare Candy
 
-![Rare Candy](https://raw.githubusercontent.com/lsliegeo/platinum-starly-manipless/master/assets/candy-218.png)
+![Rare Candy](candy-218.png)
 
 Surf all the way left, use bike to pass spinner
 
@@ -1371,20 +1388,20 @@ Surf all the way left, use bike to pass spinner
     - At high attack, can skip 1 X Attack (see Infernape range)
   :::::
   :::::pokemon[Heracross]
-    - Return (at +1)
-    - Aerial Ace (at +0)
+    - Return (X Attack x2)
+    - Aerial Ace (X Attack x1)
   :::::
   :::::pokemon[Infernape]
-    - Return (at +1)
-    - Aerial Ace (at +0)
+    - Return (X Attack x2)
+    - Aerial Ace (X Attack x1)
     ::damage[+0 Aerial Ace]{source="Starly" level=41 evolution=2 offensive=true opponentStat=63 healthThreshold=110 movePower=60 stab=true effectiveness=2} 
   :::::
   :::::pokemon[Floatzel]
     - Return
   :::::
   :::::pokemon[Roserade]
-    - Return (at +1)
-    - Aerial Ace (at +0)
+    - Return (X Attack x2)
+    - Aerial Ace (X Attack x1)
   :::::
 :::::::
 
@@ -1435,7 +1452,7 @@ Menu:
 
 Menu:
 - Heal to full if yellow hp
-- Ether CC
+- Ether Close Combat
 
 :::::::trainer[Black Belt David]
   :::::pokemon[Steelix]
@@ -1462,7 +1479,7 @@ Menu:
 
 Menu:
 - **Heal to full**
-- Max Ether CC
+- Max Ether Close Combat
 
 :::::::trainer[Leader Byron]
   :::::pokemon[Magneton]
@@ -1602,7 +1619,7 @@ Menu before the grass:
 - (Equip Choice Specs to Porygon)
 - Max Repel
 
-:::if{source="Starly" condition="speed=(0+ / -9 / x)"}
+:::if{source="Starly" condition="speed=(0+ / 9- / x)"}
 Grab Carbos in the grass (not hidden)
 - Effectively adds 2 IVs to Speed.
 - The calculator doesn't take this into account.
@@ -1615,13 +1632,13 @@ Head left to Route 211
 
 Grab Rare Candy behind 2 rock smash rocks (left of here)
 
-![Rare Candy](https://raw.githubusercontent.com/lsliegeo/platinum-starly-manipless/master/assets/candy-coronet-snow-1.png)
+![Rare Candy](candy-coronet-snow-1.png)
 
 Pick up this hidden Rare Candy before the 2nd floor stairs
 
-![Hidden Rare Candy](https://raw.githubusercontent.com/lsliegeo/platinum-starly-manipless/master/assets/candy-coronet-snow-2.png)
+![Hidden Rare Candy](candy-coronet-snow-2.png)
 
-:::if{source="Starly" condition="speed=(0+ / -9 / x)"}
+:::if{source="Starly" condition="speed=(0+ / 9- / x)"}
 Use 2 rare candies and Carbos now before the next fight
 :::
 
@@ -1742,7 +1759,7 @@ Take warp panels on left, and go below to avoid Scientist after going downstairs
 
 Get the Galactic Key (the Grunt beside it has no vision)
 
-![Galactic Key](https://raw.githubusercontent.com/lsliegeo/platinum-starly-manipless/master/assets/galactic-key.png)
+![Galactic Key](galactic-key.png)
 
 Go outside and enter main building from the middle door
 
@@ -1862,11 +1879,11 @@ Go into the cave then go behind the Galactic grunt
 
 Get this Max Elixir on 5F between rocks
 
-![Hidden Max Elixir](https://raw.githubusercontent.com/lsliegeo/platinum-starly-manipless/master/assets/max-elixir-coronet.png)
+![Hidden Max Elixir](max-elixir-coronet.png)
 
 Grab Full Restore behind the grunt (hidden), then talk to her from behind
 
-![Hidden Full Restore](https://raw.githubusercontent.com/lsliegeo/platinum-starly-manipless/master/assets/full-restore-coronet.png)
+![Hidden Full Restore](full-restore-coronet.png)
 
 :::::::trainer[Galactic 1]
   :::::pokemon[Houndour]
@@ -1879,7 +1896,7 @@ Grab Full Restore behind the grunt (hidden), then talk to her from behind
 
 Pickup Rare Candy just below here
 
-![Hidden Rare Candy](https://raw.githubusercontent.com/lsliegeo/platinum-starly-manipless/master/assets/candy-coronet-top.png)
+![Hidden Rare Candy](candy-coronet-top.png)
 
 :::::::trainer[Galactic 2]
   :::::pokemon[Glameow]
@@ -1924,7 +1941,7 @@ Pickup Rare Candy just below here
   - Generally heal in yellow HP, focus on left side first, then right
   - Infernape can really screw with this fight, be ready to heal
   - If Staraptor dies, swap to weakest poke, Revive Staraptor
-  - Return does about 20dmg less than CC on Bronzors
+  - Return does about 20dmg less than Close Combat on Bronzors
   - Always take out Skuntank and Purugly as soon as they appear
   :::::pokemon[Munchlax]
     - Return
@@ -1963,7 +1980,7 @@ Say Yes to Cynthia and through distortion world
 
 ## Distortion World
 
-This guide assumes you’ve memorized the Distortion World movement. If you don’t know where to go, follow [This guide assumes you’ve memorized the Distortion World movement. If you don’t know where to go, follow this guide (courtesy of The4thGenGamer)](this guide) (courtesy of The4thGenGamer)
+This guide assumes you’ve memorized the Distortion World movement. If you don’t know where to go, follow [**this guide**](https://docs.google.com/document/d/12SlEVLXY4OHffpboxmfDq9Tgf1LQjpQtISoulz9l52I/edit) (courtesy of The4thGenGamer)
 
 Talk to Cyrus and say no
 
@@ -2068,7 +2085,6 @@ Get Volkner from Lighthouse, then off to the gym
   :::::
   :::::pokemon[Raichu]
     - (Heal Para) + Return
-    ::damage[Thunderbolt (Sp Def)]{source="Starly" level=56 evolution=2 offensive=false opponentLevel=48 opponentStat=84 movePower=95 special=true stab=true effectiveness=2}
 :::::::
 
 Heal to full if static'd/hit
@@ -2127,7 +2143,7 @@ Menu:
   :::::pokemon[Mantyke, Remoraid]
     - Return / Aerial Ace
   :::::
-  :::::[Mantine]
+  :::::pokemon[Mantine]
     - Return
   :::::
 :::::::
@@ -2154,7 +2170,7 @@ Menu when repel runs off:
 
 Grab this hidden Rare Candy
 
-![Hidden Rare Candy](https://raw.githubusercontent.com/lsliegeo/platinum-starly-manipless/master/assets/candy-victory-road.png)
+![Hidden Rare Candy](candy-victory-road.png)
 
 :::::::trainer[Ace Trainer Omar]
   :::::pokemon[Mamoswine]
@@ -2304,6 +2320,7 @@ Menu:
 
 :::if{source="Starly" level=64 evolution=2 condition="speed=140-" theme=warning}
 Rare Candy x2 64 -> 66
+
 This messes with the damage calcs, but lets you actually beat Flint
 :::
 
@@ -2398,7 +2415,7 @@ Menu:
   :::::pokemon[Lucario]
     - (Heal to full if in Extremespeed range) + Close Combat
     ::damage[Extremespeed (Def)]{source="Starly" level=68 evolution=2 offensive=false opponentLevel=60 opponentStat=155 movePower=80 stab=false}
-    ::damage[+2 Return]{source="Starly" level=68 evolution=2 offensive=true opponentStat=107 healthThreshold=172 movePower=0 stab=true effectiveness=0.5 combatStages=2 otherModifier=1.2}
+    ::damage[+2 Return]{source="Starly" level=68 evolution=2 offensive=true opponentStat=107 healthThreshold=172 movePower=102 stab=true effectiveness=0.5 combatStages=2 otherModifier=1.2}
   :::::
   :::::pokemon[Milotic]
     - Return
