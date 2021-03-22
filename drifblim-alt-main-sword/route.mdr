@@ -332,12 +332,6 @@ Right:
     - 2 X-Atk 	    (^^)
     - 9 X-Def	      (v)
     - 3 X-SpDef	    (>)
-- **If you managed to get over $141000 after selling everything, then buy:**
-	- 60 X-SpAtk 	  (^^)
-    - 29 X-Atk 	    (^^)
-    - 16 X-Def	    (v)
-    - 10 X-SpDef	  (>)
-- This allows you to skip the second Motostoke shop but only do this if you happened to get this amount of money
 
 :::::::trainer[Team Yell Grunt]
   :::::pokemon[Zigzagoon]
@@ -435,6 +429,8 @@ You can also wait until she looks to the right where she won't see you if you hu
 Pick up the hidden X-Defenses by the mine entrance on the right  
 Go to the woman by the mine entrance if burned
 
+:info[**If you are short on money from the beginning, pick up the hidden Star Piece next to the cart you see as you enter the mine**]{color=Blue}
+
 :::::::trainer[Worker Sandra]
   :::::pokemon[Diglett]
     :::if{source="Drifloon" condition="(spa=(0-27 / 0-9 / x) && startingLevel=16-) || (spa=(0-2 / x / x) && startingLevel=17)"}
@@ -481,6 +477,8 @@ Go to the woman by the mine entrance if burned
   :::::
 :::::::
 
+:info[**If you are short on money from the beginning, pick up the hidden Stardust next to the crate you see before you exit the mine**]{color=Blue}
+
 - Leave the cave
 - Pickup hidden **Energy Powder** at the wooden boxes and the sand bags
 - Pickup the hidden **Rare Candy** at south-east most rock
@@ -489,6 +487,7 @@ Go to the woman by the mine entrance if burned
 - Follow Yamper
 - Pickup the **3 X-Atks** on the path to the right
 - Equip the **Sharp Beak** and fly to the Center after the cutscenes and head to the gym
+- :info[**If you picked up the money items, go into the center now and sell them**]{color=pink}
 
 :info[**Free heal**]{color=pink}
 
@@ -555,6 +554,8 @@ Heal to full
 :::::::
 
 # :info[Give all the Exp Candies to Drifloon and fly to Turffield Center]{color=red}
+
+Pick up the hidden Energy Root by the second bush on the left after the Pokemon Center
 
 :info[**Free heal**]{color=pink}
 
@@ -673,6 +674,9 @@ Make your way towards Hulbury, :info[**picking up the X-SpAtks by hugging the bo
     - 11 Energy Powders
     - 10 Energy Roots (v)
     - 5 Heal Powders (v)
+
+If you have more than $57000, consider buying more Energy Roots, making sure you have more than $55500 after you are done with Herb shopping
+
 - Head south from the shop to pick up the hidden **X-SpDef** by the broken fence.
 - Head west from the X-SpDef to pick up the **Magnet** and equip it immediately
 - Head for the lighthouse (up, right all the way, down, right) and talk to Nessa
@@ -999,14 +1003,27 @@ Head forward for the stadium
       - (X-Def +) X-SpAtk + Gust
       - :info[ &#8594; Shadow Ball is a 15/16 range at IVs (2- / x / x)]{color=red}
     :::
+    :::if{source="Drifloon" condition="(def=(5+ / x / x) && spa=(18- / x / x) && startingLevel=18-)"}
+      - X-SpAtk + Gust
+      - :info[ &#8594; Shadow Ball is a 15/16 range at IVs (2- / x / x)]{color=red}
+    :::
     :::if{source="Drifloon" condition="(def=(4- / x / x) && spa=(19+ / # / #) && startingLevel=18-)"}
       - (X-Def +) X-SpAtk + Thunderbolt
+    :::
+    :::if{source="Drifloon" condition="(def=(5+ / x / x) && spa=(19+ / # / #) && startingLevel=18-)"}
+      - X-SpAtk + Thunderbolt
     :::
     :::if{source="Drifloon" condition="(def=(1- / x / x) && spa=(12- / x / x) && startingLevel=19+)"}
       - (X-Def +) X-SpAtk + Gust
     :::
+    :::if{source="Drifloon" condition="(def=(2+ / x / x) && spa=(12- / x / x) && startingLevel=19+)"}
+      - X-SpAtk + Gust
+    :::
     :::if{source="Drifloon" condition="(def=(1- / x / x) && spa=(13+ / # / #) && startingLevel=19+)"}
       - (X-Def +) X-SpAtk + Thunderbolt
+    :::
+    :::if{source="Drifloon" condition="(def=(2+ / x / x) && spa=(13+ / # / #) && startingLevel=19+)"}
+      - X-SpAtk + Thunderbolt
     :::
     - :info[ &#8594; Only use X-Def if you have terrible HP IVs]{color=blue}
   :::::
@@ -1026,12 +1043,11 @@ Heal to full, equip Sharp Beak and :info[**use 1 rare candy if you just levelled
 :::::::trainer[Gym Trainer Simon]
   :::::pokemon[Hitmonlee]
     - X-SpAtk x2 + Gust (+ Thunderbolt)
-    - info:[14/16 range at Lv 32 (0-3 / x / x)]{color=red}
+    - :info[14/16 range at Lv 32 (0-3 / x / x)]{color=red}
   :::::
   :::::pokemon[Hitmonchan]
     - Gust (+ Thunderbolt)
-    - info:[14/16 range at Lv 32 (0-3 / x / x)]{color=red}
-    - info:[14/16 range at Lv 32 (0-3 / x / x)]{color=blue}
+    - :info[14/16 range at Lv 32 (0-3 / x / x)]{color=red}
   :::::
 :::::::
 
@@ -1125,7 +1141,7 @@ Head LEFT and up the stairs
       - Shadow Ball
     :::
   :::::
-  :::::pokemon[Hattrem]
+  :::::pokemon[Gothorita]
     :::if{source="Drifloon" condition="(spa=(28+ / # / #) && startingLevel=20)"}
       - X-SpAtk + Shadow Ball
     :::
@@ -1140,7 +1156,7 @@ Head LEFT and up the stairs
       - :info[ &#8594; Can skip X-SpAtk with IVs Lv35:(x / 28+ / 8-21) if willing to risk at worst 12/16 range on Hattrem and 13/16 range on Gothorita]{color=red}
     :::
   :::::
-  :::::pokemon[Gothorita]
+  :::::pokemon[Hattrem]
     - Shadow Ball
   :::::
   :::::pokemon[Ponyta]
@@ -1306,18 +1322,18 @@ Heal to full
 - **Mash B outside gym to skip slow travel**
 - Use **Flying Taxi** for the **Wild Area point outside Motostoke** and pick up the **Fire Stone**
 - Use **Flying Taxi** for **Motostoke Central**
-- Enter the Center (Skip if got enough money and did the shopping at the beginning)
+- Enter the Center
 
 - Shopping (right):
   - 7 X-SpDef	  (^)
-  - 29 X-SpAtk	(^^)
-  - 27 X-Atk	  (^)
+  - 29 X-SpAtk	(^)
   - 7 X-Def	    (^)
+  - 27 X-Atk	  (^)
 
 - Pick up the Nugget by heading east from the center and going down the path before the bridge
 - Use **Flying Taxi** for **Hammerlocke** (Press Y on map)
-- Go RIGHT for Sonia
 - If you caught a level 15 to 19 Drifloon and did not get a rare candy from the raid, go up the stairs, grab the rare candy and use it now
+- Go RIGHT for Sonia
 - Go talk to Sonia to trigger cutscene and then head East to route 7
 - Save before fighting Hop
 
@@ -1368,13 +1384,14 @@ Go down the ladder with the female doctor
 :::::::
 
 - Pickup 3 hidden **X-Defenses** after climbing the ladder
-- In the icy area, hug the top of the path to avoid the police officer
+- In the icy area, hug the top of the path to avoid the police officer  
+:info[**Optionally, if you need the money, go into the west patch of grass and pick up the hidden Star Pieces that are slightly to the right of the sharp turn at the back of the grass patch**]{color=blue}
 - Go into the first house on the left and talk to the guy to get **Icy Wind**
 - Head to the gym
 - Withdraw 4 Pokemon before starting the gym challenge
 - Evolve Vulpix into Ninetales
-
-Do 1st Gym Trainer skip: https://twitter.com/Buster_poke/status/1206932414477398018?s=19
+ 
+![Trainer Skip Movement](https://raw.githubusercontent.com/Corvimae/ranger-routes/main/drifblim-alt-main-sword/assets/gordieTrainerSkipMovement.mp4)
 
 :::::::trainer[Gym Trainer Abigail (If you failed trainer skip)]
   :::::pokemon[Boldore]
@@ -1389,10 +1406,17 @@ Do 1st Gym Trainer skip: https://twitter.com/Buster_poke/status/1206932414477398
 :::::::trainer[Gordie]
   :::::pokemon[Barbaracle]
     - Destiny Bond (x2)
+    - :info[**Send out the lowest level Pokemon**]{color=red}
   :::::
   :::::pokemon[Shuckle]
     - Max Revive Drifblim & Bring in Drifblim once sacrifice Pokemon is defeated
-    - Guard Spec + X-Speed + X-SpAtk + Shadow Ball x2
+    - If Shuckle did not use Power Split, bring in Ninetales and hope Shuckle uses it on this
+    :::if{source="Drifloon" condition="spe=(29- / 6- / x)"}
+      - Guard Spec + X-Speed + X-SpAtk + Shadow Ball x2
+    :::
+    :::if{source="Drifloon" condition="spe=(30+ / 7+ / #)"}
+      - Guard Spec + X-SpAtk + Shadow Ball x2
+    :::
   :::::
   :::::pokemon[Stonjourner]
     - Shadow Ball
@@ -1438,7 +1462,7 @@ Go down left side for the restaurant
 - Hug the right side of the wall to dodge the dancer
 
 :::::::trainer[Team Yell Grunt]
-  :::::pokemon[Dubwool]
+  :::::pokemon[Linoone]
     :::if{source="Drifloon" condition="atk=(# / 16- / x)"}
       - X-Atk + Acrobatics
     :::
@@ -1524,6 +1548,7 @@ Heal to full, revive Ninetales if needed and save
 
 :::::::trainer[Piers]
   :::::pokemon[Scrafty]
+    - Will-O-Wisp (Hope it gets burned) then switch in Drifblim immediately
     :::if{source="Drifloon" condition="(spe=(# / 24- / 6-) && atk=(28- / 6- / x))"}
       - X-Def x2 + X-Speed + X-Atk x3 + heal to full + Acrobatics
     :::
@@ -1567,7 +1592,7 @@ Heal to full, revive Ninetales if needed and save
 :::::::
 
 :::::::trainer[Gym Trainer Camilla]
-  :::::pokemon[Pelipper]
+  :::::pokemon[Ninetales]
     :::if{source="Drifloon" condition="(atk=(# / 14- / x))"}
       - X-Atk | X-Atk
       - Acrobatics | X-Speed / Heal Burn
@@ -1598,7 +1623,7 @@ Heal to full, revive Ninetales if needed and save
   :::::pokemon[Flygon]
     - X-Def Drifblim | Will-O-Wisp Gigalith :info[Always slower before X-Speed]{color=blue}
     - X-SpAtk Drifblim | Heal Drifblim to full or X-SpAtk if not damaged
-    - (Repeat move if Drifblim gets attack again)
+    - (Repeat move if Drifblim is not at +4 for SpAtk)
     - Icy Wind | X-Speed Drifblim
   :::::
   :::::pokemon[Sandaconda & Gigalith]
@@ -1624,7 +1649,7 @@ After taking the train, shop at the first guy behind the counter:
 Shopping:
 - 10 Full Restores (>^)
 
-:::::::trainer[Raihan]
+:::::::trainer[Doctor Graham]
   :::::pokemon[Gardevoir]
     - Shadow Ball x2
   :::::
@@ -1637,7 +1662,7 @@ Heal to full
   :::::pokemon[Pelipper]
     - Thunderbolt
   :::::
-  :::::pokemon[Pelipper]
+  :::::pokemon[Noctowl]
     - Acrobatics x2 :info[(Use Full Restore if Asleep)]{color=blue}
     - &#8594; Do not teach Tailwind
   :::::
