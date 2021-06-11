@@ -321,7 +321,7 @@ Head to the museum.
   :::pokemon[Zubat]{info="Faster at 21+ Speed (x / 26+ / 19+), tie at 20 Speed (x / 19-25 / 13-18)" infoColor=blue}
     - Rock Tomb
     - Water Gun
-    ::damage[Rock Tomb vs Zubat]{source="Mudkip" movePower=60 level=15 evs=7 opponentStat=15 effectiveness=2 healthThreshold=35 theme=error}
+    ::damage[+0 Rock Tomb vs Zubat]{source="Mudkip" movePower=60 level=15 evs=7 opponentStat=15 effectiveness=2 healthThreshold=35 theme=error}
 
     ::damage[Zubat's Wing Attack]{source="Mudkip" offensive=false movePower=60 level=15 evs=5 opponentLevel=14 opponentStat=17 stab=true}
   :::
@@ -440,7 +440,7 @@ Head north to the gym.
   :::pokemon[Ralts]
     - Bulldoze (+ Water Gun)
 
-    ::damage[Bulldoze vs Ralts]{source="Mudkip" evolution=1 movePower=60 stab=true level=19 evs=8 opponentStat=18  healthThreshold=40 otherPowerModifier=1.2 theme=error}
+    ::damage[+0 Bulldoze vs Ralts]{source="Mudkip" evolution=1 movePower=60 stab=true level=19 evs=8 opponentStat=18  healthThreshold=40 otherPowerModifier=1.2 theme=error}
   :::
 :::::
 
@@ -522,7 +522,7 @@ Head through the cave. After exiting, grab the Persim Berries from the middle bu
     - X Attack :info[_Unless you used it on Electrike_]{color=gray}
     - Bulldoze (x2)
 
-    ::damage[+1 Bulldoze vs Makuhita]{source="Mudkip" evolution=1 movePower=60 stab=true level=22 evs=9 opponentStat=21  healthThreshold=63 otherPowerModifier=1.2 combatStages=1 theme=error}
+    ::damage[+1 Bulldoze vs Makuhita]{source="Mudkip" evolution=1 movePower=60 stab=true level=22 evs=9 opponentStat=21 healthThreshold=63 otherPowerModifier=1.2 combatStages=1 theme=error}
   :::::
 :::::::
 
@@ -871,19 +871,19 @@ Gym puzzle:
   :::pokemon[Altaria]
     - Dragon Breath
 
-    ::damage[+2 Dragon Breath vs Altaria]{source="Latias" special=true movePower=60 stab=true level=31 evs=0 opponentStat=70 effectiveness=2 healthThreshold=97 combatStages=2}
+    ::damage[+2 Dragon Breath vs Altaria]{source="Latias" special=true movePower=60 stab=true level=31 evs=0 opponentStat=70 effectiveness=2 healthThreshold=97 combatStages=2 theme=error}
   :::
   :::pokemon[Skarmory]
     - Surf
 
-    ::damage[+2 Surf vs Skarmory]{source="Latias" special=true movePower=90 level=31 evs=0 opponentStat=56 healthThreshold=85 combatStages=2 otherPowerModifier=1.2}
+    ::damage[+2 Surf vs Skarmory]{source="Latias" special=true movePower=90 level=31 evs=0 opponentStat=56 healthThreshold=85 combatStages=2 otherPowerModifier=1.2 theme=error}
   :::
   :::pokemon[Pelipper]
     - Mist Ball
 
-    ::damage[+2 Mist Ball vs Pelliper]{source="Latias" special=true movePower=70 stab=true level=32 evs=1 opponentStat=56 healthThreshold=82 combatStages=2}
+    ::damage[+2 Mist Ball vs Pelliper]{source="Latias" special=true movePower=70 stab=true level=32 evs=1 opponentStat=56 healthThreshold=82 combatStages=2 theme=error}
 
-    ::damage[+3 Mist Ball vs Pelliper]{source="Latias" special=true movePower=70 stab=true level=32 evs=1 opponentStat=56 healthThreshold=82 combatStages=3}
+    ::damage[+3 Mist Ball vs Pelliper]{source="Latias" special=true movePower=70 stab=true level=32 evs=1 opponentStat=56 healthThreshold=82 combatStages=3 theme=error}
   :::
 :::::
 
@@ -906,7 +906,7 @@ Get the free heal before surfing to Mt. Pyre.
     - Mist Ball
     - Dragon Breath
 
-    ::damage[+0 Mist Ball vs Grimer]{source="Latias" special=true movePower=70 stab=true level=32 evs=1 opponentStat=45 healthThreshold=103 effectiveness=2}
+    ::damage[+0 Mist Ball vs Grimer]{source="Latias" special=true movePower=70 stab=true level=32 evs=1 opponentStat=45 healthThreshold=103 effectiveness=2 theme=error}
   :::
 :::::
 
@@ -1040,14 +1040,14 @@ Bike to the Harbor.
     :::if{source="Latias" condition="spatk=(x / x / 19+)"}
       - Surf
 
-      ::damage[+0 Surf vs Carvanha at Lv. 34]{source="Latias" special=true movePower=90 level=34 evs=1 opponentStat=18 healthThreshold=74 effectiveness=0.5 otherPowerModifier=1.2}
+      ::damage[+0 Surf vs Carvanha at Lv. 34]{source="Latias" special=true movePower=90 level=34 evs=1 opponentStat=18 healthThreshold=74 effectiveness=0.5 otherPowerModifier=1.2 theme=error}
     :::
   :::::
   :::::pokemon[Golbat]
     - Mist Ball
     - Surf
 
-    ::damage[+0 Mist Ball vs Golbat at Lv. 34]{source="Latias" special=true movePower=70 stab=true level=34 evs=1 opponentStat=56 healthThreshold=95 effectiveness=2}
+    ::damage[+0 Mist Ball vs Golbat at Lv. 34]{source="Latias" special=true movePower=70 stab=true level=34 evs=1 opponentStat=56 healthThreshold=95 effectiveness=2 theme=error}
   :::::
 :::::::
 
@@ -1063,7 +1063,7 @@ Bike to the Harbor.
     :::
     - Surf
 
-    ::damage[+1 Surf vs Swellow at Lv. 34]{source="Latias" special=true movePower=90 level=34 evs=1 opponentStat=37 healthThreshold=91 combatStages=1 otherPowerModifier=1.2}
+    ::damage[+1 Surf vs Swellow at Lv. 34]{source="Latias" special=true movePower=90 level=34 evs=1 opponentStat=37 healthThreshold=91 combatStages=1 otherPowerModifier=1.2 theme=error}
   :::::
   :::::pokemon[Sceptile]
     - Fly
@@ -1129,9 +1129,9 @@ Exiting the puzzle:
     - Surf
     - Finish the fight with Bulldoze if Latias is fainted.
 
-    ::damage[+0 Grass Knot vs Sharpedo at Lv. 36]{source="Latias" special=true movePower=80 level=36 evs=1 opponentStat=40 healthThreshold=112 effectiveness=2}
+    ::damage[+0 Grass Knot vs Sharpedo at Lv. 36]{source="Latias" special=true movePower=80 level=36 evs=1 opponentStat=40 healthThreshold=112 effectiveness=2} theme=error
 
-    ::damage[+0 Grass Knot vs Sharpedo at Lv. 37]{source="Latias" special=true movePower=80 level=37 evs=1 opponentStat=40 healthThreshold=112 effectiveness=2}
+    ::damage[+0 Grass Knot vs Sharpedo at Lv. 37]{source="Latias" special=true movePower=80 level=37 evs=1 opponentStat=40 healthThreshold=112 effectiveness=2 theme=error}
   :::
 :::::
 
@@ -1174,16 +1174,16 @@ Revive Latias if fainted. Heal to full and head to the Mossdeep City gym.
     - Mist Ball
     - (Mist Ball/Surf)
 
-    ::damage[+2 Mist Ball vs Muk at Lv. 38]{source="Latias" special=true movePower=70 stab=true level=38 evs=3 opponentStat=87 healthThreshold=137 effectiveness=2 combatStages=2}
+    ::damage[+2 Mist Ball vs Muk at Lv. 38]{source="Latias" special=true movePower=70 stab=true level=38 evs=3 opponentStat=87 healthThreshold=137 effectiveness=2 combatStages=2 theme=error}
 
-    ::damage[+2 Mist Ball vs Muk at Lv. 39]{source="Latias" special=true movePower=70 stab=true level=39 evs=3 opponentStat=87 healthThreshold=137 effectiveness=2 combatStages=2}
+    ::damage[+2 Mist Ball vs Muk at Lv. 39]{source="Latias" special=true movePower=70 stab=true level=39 evs=3 opponentStat=87 healthThreshold=137 effectiveness=2 combatStages=2 theme=error}
   :::
   :::pokemon[Crobat]
     - Mist Ball
 
-    ::damage[+1 Mist Ball vs Crobat at Lv. 38]{source="Latias" special=true movePower=70 stab=true level=38 evs=3 opponentStat=77 healthThreshold=120 effectiveness=2 combatStages=1}
+    ::damage[+1 Mist Ball vs Crobat at Lv. 38]{source="Latias" special=true movePower=70 stab=true level=38 evs=3 opponentStat=77 healthThreshold=120 effectiveness=2 combatStages=1 theme=error}
 
-    ::damage[+1 Mist Ball vs Crobat at Lv. 39]{source="Latias" special=true movePower=70 stab=true level=39 evs=3 opponentStat=77 healthThreshold=120 effectiveness=2 combatStages=1}
+    ::damage[+1 Mist Ball vs Crobat at Lv. 39]{source="Latias" special=true movePower=70 stab=true level=39 evs=3 opponentStat=77 healthThreshold=120 effectiveness=2 combatStages=1 theme=error}
   :::
   :::pokemon[Mega Sharpedo]
     - Grass Knot
@@ -1210,9 +1210,9 @@ Catch Kyogre with the Master Ball.
 :::::::trainer[Leader Wallace]
   :::::pokemon[Luvdisc]
      - Surf
-    ::damage[+0 Surf vs Luvdisc without Mystic Water]{source="Kyogre" special=true movePower=90 stab=true level=45 evs=0 opponentStat=62 healthThreshold=91 effectiveness=0.5 weatherBoosted=true}
+    ::damage[+0 Surf vs Luvdisc without Mystic Water]{source="Kyogre" special=true movePower=90 stab=true level=45 evs=0 opponentStat=62 healthThreshold=91 effectiveness=0.5 weatherBoosted=true theme=error}
     
-    ::damage[+0 Surf vs Luvdisc with Mystic Water]{source="Kyogre" special=true movePower=90 stab=true level=45 evs=0 opponentStat=62 healthThreshold=91 effectiveness=0.5 otherPowerModifier=1.2 weatherBoosted=true}
+    ::damage[+0 Surf vs Luvdisc with Mystic Water]{source="Kyogre" special=true movePower=90 stab=true level=45 evs=0 opponentStat=62 healthThreshold=91 effectiveness=0.5 otherPowerModifier=1.2 weatherBoosted=true theme=error}
   :::::
   :::::pokemon[Whiscash]
     - (Full Heal if confused)
@@ -1288,7 +1288,7 @@ At the Pokémon Center, deposit Castform and Latias. PC heal Kyogre, but keep Ma
   :::pokemon[Throh]
     - Origin Pulse / Surf
     - (Surf if Endured)
-    ::damage[+0 Surf vs Throh with Mystic Water]{source="Kyogre" special=true movePower=90 stab=true level=46 evs=0 opponentStat=72 healthThreshold=163 otherPowerModifier=1.2 weatherBoosted=true}
+    ::damage[+0 Surf vs Throh with Mystic Water]{source="Kyogre" special=true movePower=90 stab=true level=46 evs=0 opponentStat=72 healthThreshold=163 otherPowerModifier=1.2 weatherBoosted=true theme=error}
 :::::
 
 :::::trainer[Ace Trainer Edgar]
@@ -1329,9 +1329,9 @@ At the Pokémon Center, deposit Castform and Latias. PC heal Kyogre, but keep Ma
   :::pokemon[Mega Gallade]
     - Surf or Origin Pulse
     
-    ::damage[+2 Surf vs Mega Gallade with Mystic Water]{source="Kyogre" special=true movePower=90 stab=true level=47 evs=0 opponentStat=126 healthThreshold=123 otherPowerModifier=1.2 combatStages=2}
+    ::damage[+2 Surf vs Mega Gallade with Mystic Water]{source="Kyogre" special=true movePower=90 stab=true level=47 evs=0 opponentStat=126 healthThreshold=123 otherPowerModifier=1.2 combatStages=2 theme=error}
     
-    ::damage[+1 Origin Pulse vs Mega Gallade with Mystic Water]{source="Kyogre" special=true movePower=110 stab=true level=47 evs=0 opponentStat=126 healthThreshold=123 otherPowerModifier=1.2 combatStages=1}
+    ::damage[+1 Origin Pulse vs Mega Gallade with Mystic Water]{source="Kyogre" special=true movePower=110 stab=true level=47 evs=0 opponentStat=126 healthThreshold=123 otherPowerModifier=1.2 combatStages=1 theme=error}
   :::
 :::::
 
@@ -1358,7 +1358,7 @@ Deposit Marshtomp and PC heal Kyogre. If you're low on Full Restores, consider b
       - X Sp. Attack :info[Shiftry will usually use Fake Out if you are at full HP.]{color=gray}
     - Ice Beam
 
-    ::damage[+0 Ice Beam vs Shiftry]{source="Kyogre" special=true movePower=90 level=48 evs=4 opponentStat=69 healthThreshold=154 effectiveness=2}
+    ::damage[+0 Ice Beam vs Shiftry]{source="Kyogre" special=true movePower=90 level=48 evs=4 opponentStat=69 healthThreshold=154 effectiveness=2 theme=error}
   :::::
   :::::pokemon[Cacturne]
     - Ice Beam
@@ -1371,7 +1371,7 @@ Deposit Marshtomp and PC heal Kyogre. If you're low on Full Restores, consider b
     - _If it's raining_ or _you're at +1 Sp. Attack:_
       - Surf (or Origin Pulse to avoid the range)
 
-      ::damage[+1 Surf vs Sharpedo with Mystic Water]{source="Kyogre" special=true movePower=90 stab=true level=48 evs=4 opponentStat=49 healthThreshold=134 otherPowerModifier=1.2 combatStages=1 effectiveness=0.5}
+      ::damage[+1 Surf vs Sharpedo with Mystic Water]{source="Kyogre" special=true movePower=90 stab=true level=48 evs=4 opponentStat=49 healthThreshold=134 otherPowerModifier=1.2 combatStages=1 effectiveness=0.5 theme=error}
   :::::
   :::::pokemon[Absol]
     :::if{source="Kyogre" condition="spatk=(x / 20+ / 0+)"}
@@ -1394,7 +1394,7 @@ Heal to full.
     :::if{source="Kyogre" condition="spatk=(27+ / 0+ / 0+)"}
       - Surf
 
-      ::damage[+0 Surf vs Dusclops with Mystic Water]{source="Kyogre" special=true movePower=90 stab=true level=48 evs=4 opponentStat=126 healthThreshold=105 otherPowerModifier=1.2 weatherBoosted=true}
+      ::damage[+0 Surf vs Dusclops with Mystic Water]{source="Kyogre" special=true movePower=90 stab=true level=48 evs=4 opponentStat=126 healthThreshold=105 otherPowerModifier=1.2 weatherBoosted=true theme=error}
     :::
     :::if{source="Kyogre" condition="spatk=~(27+ / 0+ / 0+)"}
        - Origin Pulse
@@ -1433,7 +1433,7 @@ Heal to full.
         - Origin Pulse
       -
 
-      ::damage[+0 Surf vs Banette with Mystic Water]{source="Kyogre" special=true movePower=90 stab=true level=49 evs=5 opponentStat=73 healthThreshold=130 otherPowerModifier=1.2}
+      ::damage[+0 Surf vs Banette with Mystic Water]{source="Kyogre" special=true movePower=90 stab=true level=49 evs=5 opponentStat=73 healthThreshold=130 otherPowerModifier=1.2 theme=error}
     :::
   :::::
 :::::::
@@ -1451,7 +1451,7 @@ Heal to full.
     :::if{source="Kyogre" condition="speed=(22+ / 0+ / 0+)"}
       - Surf / Origin Pulse
 
-      ::damage[+0 Surf vs Glalie with Mystic Water]{source="Kyogre" special=true movePower=90 stab=true level=49 evs=5 opponentStat=92 healthThreshold=149 otherPowerModifier=1.2 weatherBoosted=true}
+      ::damage[+0 Surf vs Glalie with Mystic Water]{source="Kyogre" special=true movePower=90 stab=true level=49 evs=5 opponentStat=92 healthThreshold=149 otherPowerModifier=1.2 weatherBoosted=true theme=error}
     :::
     :::if{source="Kyogre" condition="speed=~(22+ / 0+ / 0+)"}
       :info[_Slow strat to stall out Light Screen_]{color=gray}
@@ -1496,17 +1496,17 @@ Heal to full.
   :::::pokemon[Froslass]
     - (Calm Mind if it's not raining and you haven't already used it.)
     - Surf
-    ::damage[+0 Origin Pulse vs Froslass with Mystic Water]{source="Kyogre" special=true movePower=110 stab=true level=50 evs=5 opponentStat=89 healthThreshold=138 otherPowerModifier=1.2}
+    ::damage[+0 Origin Pulse vs Froslass with Mystic Water]{source="Kyogre" special=true movePower=110 stab=true level=50 evs=5 opponentStat=89 healthThreshold=138 otherPowerModifier=1.2 theme=error}
   :::::
   :::::pokemon[Froslass]
     - (Calm Mind if it's not raining and you haven't already used it.)
     - Surf
-    ::damage[+0 Origin Pulse vs Froslass with Mystic Water]{source="Kyogre" special=true movePower=110 stab=true level=50 evs=5 opponentStat=89 healthThreshold=138 otherPowerModifier=1.2}
+    ::damage[+0 Origin Pulse vs Froslass with Mystic Water]{source="Kyogre" special=true movePower=110 stab=true level=50 evs=5 opponentStat=89 healthThreshold=138 otherPowerModifier=1.2 theme=error}
   :::::
   :::::pokemon[Glalie]
     - (Calm Mind if it's not raining and you haven't already used it.)
     - Surf
-    ::damage[+0 Origin Pulse vs Glalie with Mystic Water]{source="Kyogre" special=true movePower=110 stab=true level=50 evs=5 opponentStat=92 healthThreshold=149 otherPowerModifier=1.2}
+    ::damage[+0 Origin Pulse vs Glalie with Mystic Water]{source="Kyogre" special=true movePower=110 stab=true level=50 evs=5 opponentStat=92 healthThreshold=149 otherPowerModifier=1.2 theme=error}
   :::::
 :::::::
 
@@ -1586,11 +1586,11 @@ Heal if below 75%.
     - _Otherwise (+3 Sp. Attack)_:
       - Surf :info[Ice Beam always kills at +3]{color=gray}
     -
-    ::damage[+2 Surf vs Cradily without Rain with Mystic Water]{source="Kyogre" special=true movePower=90 stab=true level=52 evs=6 opponentStat=136 healthThreshold=174 otherPowerModifier=1.2 combatStages=2}
+    ::damage[+2 Surf vs Cradily without Rain with Mystic Water]{source="Kyogre" special=true movePower=90 stab=true level=52 evs=6 opponentStat=136 healthThreshold=174 otherPowerModifier=1.2 combatStages=2 theme=error}
     
-    ::damage[+2 Ice Beam vs Cradily]{source="Kyogre" special=true movePower=90 level=52 evs=6 opponentStat=136 healthThreshold=174 effectiveness=2 combatStages=2}
+    ::damage[+2 Ice Beam vs Cradily]{source="Kyogre" special=true movePower=90 level=52 evs=6 opponentStat=136 healthThreshold=174 effectiveness=2 combatStages=2 theme=error}
 
-    ::damage[+3 Surf vs Cradily without Rain with Mystic Water]{source="Kyogre" special=true movePower=90 stab=true level=52 evs=6 opponentStat=136 healthThreshold=174 otherPowerModifier=1.2 combatStages=3}
+    ::damage[+3 Surf vs Cradily without Rain with Mystic Water]{source="Kyogre" special=true movePower=90 stab=true level=52 evs=6 opponentStat=136 healthThreshold=174 otherPowerModifier=1.2 combatStages=3 theme=error}
   :::::
   :::::pokemon[Aggron]
     - Ice Beam
@@ -1609,11 +1609,11 @@ Heal if below 75%.
     - _Otherwise:_
       - Surf
     -
-    ::damage[+2 Origin Pulse vs Mega Metagross without Rain with Mystic Water]{source="Kyogre" special=true movePower=110 stab=true level=53 evs=6 opponentStat=144 healthThreshold=172 otherPowerModifier=1.2 combatStages=2}
+    ::damage[+2 Origin Pulse vs Mega Metagross without Rain with Mystic Water]{source="Kyogre" special=true movePower=110 stab=true level=53 evs=6 opponentStat=144 healthThreshold=172 otherPowerModifier=1.2 combatStages=2 theme=error}
 
-    ::damage[+2 Surf vs Mega Metagross without Rain with Mystic Water]{source="Kyogre" special=true movePower=90 stab=true level=53 evs=6 opponentStat=144 healthThreshold=172 otherPowerModifier=1.2 combatStages=2}
+    ::damage[+2 Surf vs Mega Metagross without Rain with Mystic Water]{source="Kyogre" special=true movePower=90 stab=true level=53 evs=6 opponentStat=144 healthThreshold=172 otherPowerModifier=1.2 combatStages=2 theme=error}
 
-    ::damage[+3 Surf vs Mega Metagross without Rain with Mystic Water]{source="Kyogre" special=true movePower=90 stab=true level=53 evs=6 opponentStat=144 healthThreshold=172 otherPowerModifier=1.2 combatStages=3}
+    ::damage[+3 Surf vs Mega Metagross without Rain with Mystic Water]{source="Kyogre" special=true movePower=90 stab=true level=53 evs=6 opponentStat=144 healthThreshold=172 otherPowerModifier=1.2 combatStages=3 theme=error}
 
     ::damage[Metagross' Bullet Punch]{source="Kyogre" offensive=false movePower=40 stab=true level=53 evs=9 opponentLevel=59 opponentStat=185 effectiveness=0.5}
   :::::
