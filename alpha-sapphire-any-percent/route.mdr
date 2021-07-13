@@ -340,6 +340,7 @@ Head to the museum.
 > - ALL Poké Balls
 > - Balm Mushroom
 > - Great Ball
+> - PP Up
 > #### Buy (Top)
 > :::if{source="Mudkip" condition="speed=(x / 28+ / 16+)"}
 > - 5 X Speed
