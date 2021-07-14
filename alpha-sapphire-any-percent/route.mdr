@@ -1130,7 +1130,7 @@ Exiting the puzzle:
     - Surf
     - Finish the fight with Bulldoze if Latias is fainted.
 
-    ::damage[+0 Grass Knot vs Sharpedo at Lv. 36]{source="Latias" special=true movePower=80 level=36 evs=1 opponentStat=40 healthThreshold=112 effectiveness=2} theme=error
+    ::damage[+0 Grass Knot vs Sharpedo at Lv. 36]{source="Latias" special=true movePower=80 level=36 evs=1 opponentStat=40 healthThreshold=112 effectiveness=2 theme=error}
 
     ::damage[+0 Grass Knot vs Sharpedo at Lv. 37]{source="Latias" special=true movePower=80 level=37 evs=1 opponentStat=40 healthThreshold=112 effectiveness=2 theme=error}
   :::
