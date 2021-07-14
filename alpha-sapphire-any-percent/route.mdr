@@ -936,11 +936,11 @@ If in yellow health:
 
 - Heal to full.
 - Use the Rare Candy if you picked it up and haven't used it yet.
-:::if{source="Latias" condition="spatk=(0+ / 27- / 6-)"}
+:::if{source="Latias" condition="speed=(0+ / 27- / 6-)"}
 - _If Latias is slower or speed tied with Sharpedo (Lv. 33: 0+ / 27- / 6-) (Lv. 34: 0+ / 20- / x)_:
   - Move Marshtomp to the front of the party.
 :::
-:::if{source="Latias" condition="spatk=~(0+ / 27- / 6-)"}
+:::if{source="Latias" condition="speed=~(0+ / 27- / 6-)"}
 - _If Latias is faster than Sharpedo (Lv. 33: x / 28+ / 7+) (Lv. 34: x / 21+ / 0+)_:
   - Teach Fly over Dragon Breath (slot 2). :info[Unless you don't trust the Surf range]{color=gray}
 :::
