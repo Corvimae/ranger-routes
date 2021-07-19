@@ -400,7 +400,12 @@ After beating Isabel:
     :::if{source="Mudkip" condition="speed=(22-26 / 5 - 8 / x) || spatk=~(# / 18- / 2-)"}
     - X Sp. Attack x3
     ::: 
+    :::if{source="Mudkip" condition="speed=(21- / 4- / x)"}
+    - X Speed
+    :::
+    :::if{source="Mudkip" condition="speed=~(21- / 4- / x)"}
     - X Speed x2
+    :::
     - (Heal if one Incinerate will put you into Grovyle's Quick Attack range)
     - Echoed Voice x2
 
