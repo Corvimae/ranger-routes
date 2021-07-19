@@ -186,18 +186,18 @@ Immediately after entering Rusturf Tunnel:
       - Rock Tomb
       - Water Gun x2
     :::
-    :::if{source="Mudkip" condition="((speed=(20+ / 4+ / 0+) && spatk=~(25+ / 9+ / 0+)) || (speed=~(20+ / 4+ / 0+) && spatk=~(x / 25+ / 17+))) && atk=(# / 0-1 / x)"}
+    :::if{source="Mudkip" condition="((speed=(20+ / 4+ / 0+) || spatk=~(25+ / 9+ / 0+)) || (speed=~(20+ / 4+ / 0+) || spatk=~(x / 25+ / 17+))) && atk=(# / 0-1 / x)"}
       - Rock Tomb x3 :info[69.4% at 18/19 Sp. Attack]{color=red}
     :::
-    :::if{source="Mudkip" condition="((speed=(20+ / 4+ / 0+) && spatk=~(25+ / 9+ / 0+)) || (speed=~(20+ / 4+ / 0+) && spatk=~(x / 25+ / 17+))) && atk=(x / 2-18 / 0-1)"}
+    :::if{source="Mudkip" condition="((speed=(20+ / 4+ / 0+) || spatk=~(25+ / 9+ / 0+)) || (speed=~(20+ / 4+ / 0+) || spatk=~(x / 25+ / 17+))) && atk=(x / 2-18 / 0-1)"}
       - Rock Tomb x2
       - Water Gun (x2)
     :::
-    :::if{source="Mudkip" condition="((speed=(20+ / 4+ / 0+) && spatk=~(25+ / 9+ / 0+)) || (speed=~(20+ / 4+ / 0+) && spatk=~(x / 25+ / 17+))) && atk=(x / 19+ / 2-18)"}
+    :::if{source="Mudkip" condition="((speed=(20+ / 4+ / 0+) || spatk=~(25+ / 9+ / 0+)) || (speed=~(20+ / 4+ / 0+) || spatk=~(x / 25+ / 17+))) && atk=(x / 19+ / 2-18)"}
       - Rock Tomb
       - Tackle x2
     :::
-    :::if{source="Mudkip" condition="((speed=(20+ / 4+ / 0+) && spatk=~(25+ / 9+ / 0+)) || (speed=~(20+ / 4+ / 0+) && spatk=~(x / 25+ / 17+))) && atk=(x / x / 19+)"}
+    :::if{source="Mudkip" condition="((speed=(20+ / 4+ / 0+) || spatk=~(25+ / 9+ / 0+)) || (speed=~(20+ / 4+ / 0+) || spatk=~(x / 25+ / 17+))) && atk=(x / x / 19+)"}
       - Rock Tomb
       - Water Gun x2 or Tackle x2
     :::
@@ -219,7 +219,7 @@ Head to the gym.
 
 **You can skip this menu if you're at full health and have already taught Echoed Voice.**
 - Equip the Silk Scarf.
-:::if{source="Mudkip" condition="spatk=(24- / 8- / x) && atk=(x / 19+ / 2+)"}
+:::if{source="Mudkip" condition="spatk=(24- / 8- / x) || atk=(x / 19+ / 2+)"}
 - Teach Echoed Voice over Tackle (slot 1).
 :::
 - Heal to full.
