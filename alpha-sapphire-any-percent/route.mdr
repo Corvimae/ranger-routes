@@ -172,35 +172,13 @@ Talk to the sailor before Rusturf Tunnel.
 Immediately after entering Rusturf Tunnel:
   - Repel
   - Potion
-  :::if{source="Mudkip" condition="spatk=~(24- / 8- / x) && atk=~(x / 19+ / 2+)"}
   - Teach Echoed Voice over Tackle (slot 1).
-  :::
   - Teach Rock Tomb over Mud Slap (slot 4).
 
 :::::::trainer[Team Aqua Grunt]
   :::::pokemon[Poochyena]{info="Faster before Rock Tomb hit at 15+ Speed (20+ / 4+ / 0+)" infoColor=blue}
-    :::if{source="Mudkip" condition="speed=(20+ / 4+ / 0+) && spatk=(25+ / 9+ / 0+)"}
-      - Water Gun x3 :info[98.7% at 18/19 Sp. Attack]{color=red}
-    :::
-    :::if{source="Mudkip" condition="speed=~(20+ / 4+ / 0+) && spatk=(x / 25+ / 17+)"}
-      - Rock Tomb
-      - Water Gun x2
-    :::
-    :::if{source="Mudkip" condition="((speed=(20+ / 4+ / 0+) || spatk=~(25+ / 9+ / 0+)) || (speed=~(20+ / 4+ / 0+) || spatk=~(x / 25+ / 17+))) && atk=(# / 0-1 / x)"}
-      - Rock Tomb x3 :info[69.4% at 18/19 Sp. Attack]{color=red}
-    :::
-    :::if{source="Mudkip" condition="((speed=(20+ / 4+ / 0+) || spatk=~(25+ / 9+ / 0+)) || (speed=~(20+ / 4+ / 0+) || spatk=~(x / 25+ / 17+))) && atk=(x / 2-18 / 0-1)"}
-      - Rock Tomb x2
-      - Water Gun (x2)
-    :::
-    :::if{source="Mudkip" condition="((speed=(20+ / 4+ / 0+) || spatk=~(25+ / 9+ / 0+)) || (speed=~(20+ / 4+ / 0+) || spatk=~(x / 25+ / 17+))) && atk=(x / 19+ / 2-18)"}
-      - Rock Tomb
-      - Tackle x2
-    :::
-    :::if{source="Mudkip" condition="((speed=(20+ / 4+ / 0+) || spatk=~(25+ / 9+ / 0+)) || (speed=~(20+ / 4+ / 0+) || spatk=~(x / 25+ / 17+))) && atk=(x / x / 19+)"}
-      - Rock Tomb
-      - Water Gun x2 or Tackle x2
-    :::
+    - Rock Tomb
+    - Water Gun x2
   :::::
 :::::::
 
@@ -219,9 +197,6 @@ Head to the gym.
 
 **You can skip this menu if you're at full health and have already taught Echoed Voice.**
 - Equip the Silk Scarf.
-:::if{source="Mudkip" condition="spatk=(24- / 8- / x) || atk=(x / 19+ / 2+)"}
-- Teach Echoed Voice over Tackle (slot 1).
-:::
 - Heal to full.
 
 :::::trainer[Battle Girl Laura]
