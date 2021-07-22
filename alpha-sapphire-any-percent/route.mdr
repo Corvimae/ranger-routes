@@ -1496,7 +1496,7 @@ Heal to full.
     - Calm Mind x2
     - _If Light Screen is up:_
       - Leppa Berry Surf
-      - Calm Mind until Light Screen is about to fade :info[Light Screen lasts 5 minutes.]{color=gray}
+      - Calm Mind until Light Screen is about to fade :info[Light Screen lasts 5 turns.]{color=gray}
     - Surf
   :::::
   :::::pokemon[Walrein]
