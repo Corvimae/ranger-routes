@@ -42,11 +42,12 @@
   46 ->   5,    2,    0,    1,    2,    3 # Luvdisc (1 Spd), Whiscash (2 HP), Sealeo (2 HP), Seaking (2 Atk), Milotic (2 Sp.Def), Froslass (2 Spd)
   47 ->   7,    5,    1,    1,    4,    3 # Throh (2 HP), Mawile (1 Atk, 1 Def), Sawk (2 Atk), Altaria (2 Sp.Def)
   48 ->   8,    10,   1,    5,    4,    3 # Roselia (2 Sp.Atk), Magneton (2 Sp.Atk), Delcatty (1 HP), Gallade (3 Atk), Mightyena (2 Atk)
-  49 ->   8,    10,   1,    5,    4,    3
-  50 ->   8,    10,   1,    5,    4,    3
-  51 ->   8,    10,   1,    5,    4,    3
-  52 ->   8,    10,   1,    5,    4,    3
-  53 ->   8,    10,   1,    5,    4,    3
+  49 ->   8,    18,   2,    6,    5,    3 # Shiftry (3 Atk), Cacturne (1 Atk, 1 Sp. Atk), Sharpedo (2 Atk), Absol (2 Atk), Dusclops (1 Def, 1 Sp. Def)
+  50 ->  10,    23,   4,    6,    7,    3 # Dusknoir (1 Def, 2 Sp. Def), Sableye (1 Atk, 1 Def), Banette (2 Atk), Banette (2 Atk), Glalie (2 HP)
+  51 ->  15,    23,   4,    6,    7,    7 # Walrein (3 HP), Froslass (2 Spd), Froslass (2 Spd), Glalie (2 HP)
+  52 ->  15,    28,   4,    6,    9,   11 # Alataria (2 Sp. Def), Flygon (1 Atk, 2 Spd), Salamence (3 Atk), Flygon (1 Atk, 2 Spd)
+  53 ->  15,    29,   9,    7,   12,   11 # Kingdra (1 Atk, 1 Sp. Atk, 1 Sp. Def), Skarmory (2 Def), Cradily (2 Sp. Def), Aggron (3 Def)
+  54 ->  15,    29,   9,    7,   12,   11 # Claydol (2 Sp. Def), Armaldo (2 Sp. Def)
 :::
 
 **Set your console date and time so it's the morning of 15th February 2001.**
@@ -1573,6 +1574,7 @@ Heal if below 75%.
   :::::pokemon[Aggron]
     - Ice Beam
     - Surf
+    ::damage[Aggron's Stone Edge]{source="Kyogre" offensive=false movePower=100 stab=true level=52 opponentLevel=57 opponentStat=125 effectiveness=1}
   :::::
   :::::pokemon[Claydol]
     - Surf
