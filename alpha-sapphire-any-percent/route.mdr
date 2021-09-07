@@ -1595,7 +1595,7 @@ Heal if below 75%.
 
     ::damage[+3 Surf vs Mega Metagross without Rain with Mystic Water]{source="Kyogre" special=true movePower=90 stab=true level=53 evs=6 opponentStat=144 healthThreshold=172 otherPowerModifier=1.2 combatStages=3 theme=error}
 
-    ::damage[Metagross' Bullet Punch]{source="Kyogre" offensive=false movePower=40 stab=true level=53 evs=9 opponentLevel=59 opponentStat=185 effectiveness=0.5}
+    ::damage[Metagross' Bullet Punch]{source="Kyogre" offensive=false movePower=40 stab=true level=53 evs=9 opponentLevel=59 opponentStat=185 effectiveness=0.5 otherModifier=1.3}
   :::::
 :::::::
 
