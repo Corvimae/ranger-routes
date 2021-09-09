@@ -54,7 +54,7 @@
   :::if{source="Mudkip" condition="spatk=(x / x / 17+) && atk=(# / 9- / x)"}
     - Water Gun x2 :info[88.7% range]{color=red}
   :::
-  :::if{source="Mudkip" condition="atk=(x / 10+ / #)"}  
+  :::if{source="Mudkip" condition="spatk=~(x / x / 17+) && atk=~(# / 9- / x)"}  
     - Tackle x2 :info[90.2% range at 14 or 15 Atk (# / 10+ / 0-26)]{color=red}
   ::: 
  ::::
@@ -73,6 +73,10 @@
 :::::::
 
 :info[**Free heal**]{color=pink}
+
+Get hidden Balm Mushroom, Ether, and TM49 Echoed Voice.
+
+Go to Rustboro gym and skip all but last trainer.
 
 :::::trainer[Schoolkid Georgia]
   :::pokemon[Geodude]
@@ -239,9 +243,14 @@ After exiting the gym, head north to Granite Cave.
 :::
 - Super Repel.
 
-:::if{source="Mudkip" condition="speed=(x/12+/#)"}
+:::if{source="Mudkip" condition="speed=(x/12+/x)"}
  ::variable{name="ppskip" type="boolean" title="-Can Skip PP UP" defaultValue=0}
 :::
+
+Get Soft Sand
+
+Grab/Skip PP UP
+
 
 :::::trainer[Team Magma Grunt]
   :::pokemon[Numel]{info="Faster at 18+ Speed (19+ / 6+ / 0+)" infoColor=blue}
@@ -250,7 +259,7 @@ After exiting the gym, head north to Granite Cave.
       **OHKO 1/16**
     :::
     :::if{source="Mudkip" condition="atk=(27+ / 7-26 / 0-13)" theme=error}
-      **ROHKO 12/16**
+      **OHKO 12/16**
     :::
     :::if{source="Mudkip" condition="atk=(x / 27+ / 14+)" theme=error}
       **100% range.**
@@ -378,10 +387,10 @@ Get Leppa Berries from one bush before entering Mauville. Drop Repel and get the
 
 After exiting the mart:
 - Equip the Soft Sand.
-- Teach Bulldoze over Rock Tomb/Tackle (slot 1).
-- Turn off the Experience Share.
-- Register the Mach Bike.
-- Ride Bike(not from menu).
+- Turn off the Experience Share
+- Register the Mach Bike
+- Teach Bulldoze over Rock Tomb/Tackle (slot 1)
+- Ride Bike(not from menu)
 
 Head north to the gym.
 
@@ -424,7 +433,7 @@ Puzzle (room 2): Top-right blue switch, red switch, top-right blue switch.
 :::::trainer[Leader Wattson]
   :::pokemon[Magnemite]
     - Water Gun
-  :::if{source="Mudkip" condition="speed=(20-/2+/0+)"}
+  :::if{source="Mudkip" condition="speed=(20+/2+/0+)"}
     - X Speed
   :::  
   - Bulldoze
@@ -440,13 +449,11 @@ Exit the gym and head north. At the rocks:
 - Use a Super Repel (keep applied until they run out).
 - Teach Rock Smash over Echoved Voice (slot 4).
 
-![Route 113 movement](route-113-movement-1.gif)
 
 :info[**Free heal**]{color=pink}
 
 Head through the cave. After exiting, grab the Persim Berries from the middle bush above the trainer.
 
-![Route 113 movement pt. 2](route-113-movement-2.gif)
 
 :::::::trainer[Ace Trainer Wilton]
   :::::pokemon[Electrike]{info="Faster at 36 Speed (x / x / 31)" infoColor=blue}
@@ -476,7 +483,7 @@ Head through the cave. After exiting, grab the Persim Berries from the middle bu
   :::::
 :::::::
 
-![Route 113 movement pt. 3](route-113-movement-3.gif)
+:info[Bulldoze count matters, Don't waste them]{color=yellow}
 
 :info[**Free heal**]{color=pink}
 
@@ -502,8 +509,10 @@ If significantly damaged Heal to full.
 :::trainer[Team Magma Double]
   :::pokemon[Mightyena]
     Bulldoze, Rock Smash x1-3
+  :::
   :::pokemon[Koffing]
     Self-Destruct
+  :::
   :::pokemon[Numel]
    -  Water Gun (x2)
 :::
@@ -732,8 +741,6 @@ Heal to full.
 - Heal to full.
 - Teach Surf over Bulldoze (Slot 1)
 
-![Pre-Latias movement](pre-latias-movement.gif)
-
 :::::trainer[Team Magma Double]
   - Surf (x2)
 :::::
@@ -771,30 +778,28 @@ Heal to full.
 
 
 :::::trainer[Brendan 3]
-  :::pokemon[Slugma]
+  ::::pokemon[Slugma]
     - Surf
-  :::
-  :::pokemon[Grovyle]{info="Need 2 X-SpAtks for winona Faster at 68+ Speed (17+ / 0+ / 0+)" infoColor=blue}
-  :::if{source="Latios" condition="spatk=(x/24+/#)"}
+  ::::
+  ::::pokemon[Grovyle]{info="Need 2 X-SpAtks for winona Faster at 68+ Speed (17+ / 0+ / 0+)" infoColor=blue}
+   :::if{source="Latios" condition="spatk=(x/24+/#)"}
     - X-Sp. Atk
     - Luster Purge (+ Dragon Breath)
-  :::
-  :::if{source="Latios" condition="spatk=~(x/24+/#)"}
-   
-    - Dragon Breath
-    - If still green HP: Luster Purge
-    - Otherwise: Dragon Breath again
-  :::
-
-   ::damage[Grovyle's Pursuit]{source="Latios" offensive=false movePower=40 level=30 evs=0 opponentLevel=33 opponentStat=47 effectiveness=2}
-
-  :::pokemon[Wailmer]
+    ::damage[Grovyle's Pursuit]{source="Latios" offensive=false movePower=40 level=30 evs=0 opponentLevel=33 opponentStat=47 effectiveness=2} 
+   :::
+   :::if{source="Latios" condition="spatk=~(x/24+/#)"}
+     - Dragon Breath
+     - If still green HP: Luster Purge
+     - Otherwise: Dragon Breath again
+    ::damage[Grovyle's Pursuit]{source="Latios" offensive=false movePower=40 level=30 evs=0 opponentLevel=33 opponentStat=47 effectiveness=2}
+   :::
+  ::::
+  ::::pokemon[Wailmer]
     - If +1: Luster Purge
-
     - Dragon Breath
     - If still green HP: Luster Purge
     - Otherwise: Dragon Breath again
-  :::
+  ::::
 :::::
 
 Say Yes to Steven
@@ -1007,33 +1012,31 @@ Open your item menu:
 - Heal if needed
 
 :::::trainer[Magma Leader Maxie]
-  :::pokemon[Mightyena]
-   ::damage[Take Down]{source="Latios" offensive=false movePower=90 stab=false level=37 evs=0 opponentLevel=41 opponentStat=78}
+ ::::pokemon[Mightyena]  
   :::if{source="Latios" condition="speed=(x/27+/4+)"}
     - Guard Spec
     - X Sp. Attack x2
     - Surf (Dragon Breath)
      - Can Dragon Breath (x2) if only one Surf left
+   ::damage[Take Down]{source="Latios" offensive=false movePower=90 stab=false level=37 evs=0 opponentLevel=41 opponentStat=78}   
   :::  
-
   :::if{source="Latios" condition="speed=~(x/27+/4+)"}
     - Guard Spec
     - X Speed
     - X Sp. Attack x2
     - Surf (Dragon Breath)
      - Can Dragon Breath (x2) if only one Surf left
-
-
-
-  :::pokemon[Weezing]
+   ::damage[Take Down]{source="Latios" offensive=false movePower=90 stab=false level=37 evs=0 opponentLevel=41 opponentStat=78}  
+ ::::
+ ::::pokemon[Weezing]
     -  Luster Purge
-  :::
-  :::pokemon[Crobat]
+ ::::
+ ::::pokemon[Crobat]
     - Luster Purge
-  :::
-  :::pokemon[Camerupt]
+ ::::
+ ::::pokemon[Camerupt]
     - Surf
-  :::
+ ::::
 :::::
 
 Catch Groudon with the Master Ball.
@@ -1122,29 +1125,37 @@ Catch Groudon with the Master Ball.
   - Equip Persim Berry if needed
   - Heal to full
 
-:::::trainer[Wally]{info="Heal as needed"}
-  :::pokemon[Altaria]
+
+:::::::trainer[Wally]{info="Heal as needed"}
+  :::::pokemon[Altaria]
     - Swords Dance
     - Smack Down
     - Earthquake (x2) (Smack Down)
 
     ::damage[Dragon Pulse]{source="Groudon" special=true movePower=85 stab=true level=46 opponentLevel=46 evs=0 opponentStat=69 offensive=false effectiveness=1 theme=error}
-  :::
-  :::pokemon[Roselia]
+  :::::
+  :::::pokemon[Roselia]
+    - Earthquake
+  :::::
+  :::::pokemon[Magneton]
+    :::if{source="Groudon" condition="speed=(5-/x/x)"}
+    - X-Speed
     - Smack Down
-    - Earthquake (Overheat if < 3 Earthquakes)
-  :::
-  :::pokemon[Magneton]
+    - Earthquake (Overhaet if less than 3 Earthquakes) 
+    :::
+    :::if{source="Groudon" condition="speed=~(5-/x/x)"}
+    - Smack Down
+    - Earthquake (Overhaet if less than 3 Earthquakes) 
+    :::
+     ::damage[Flash Cannon]{source="Groudon" special=true movePower=80 stab=true level=47 opponentLevel=46 evs=0 opponentStat=115 offensive=false effectiveness=1 theme=error}
+  :::::
+  :::::pokemon[Delcatty]
     - Earthquake
-   ::damage[Flash Cannon]{source="Groudon" special=true movePower=80 stab=true level=47 opponentLevel=46 evs=0 opponentStat=115 offensive=false effectiveness=1 theme=error}
-  :::
-  :::pokemon[Delcatty]
+  :::::
+  :::::pokemon[Mega Gallade]
     - Earthquake
-  :::
-  :::pokemon[Mega Gallade]
-    - Earthquake
-  :::
-:::::
+  :::::
+:::::::
 
 -Deposit Marshtomp and PC heal Groudon. 
   - If you're low on Full Restores, consider buying a few.
@@ -1221,6 +1232,13 @@ Catch Groudon with the Master Ball.
   :::::
 :::::::
 
+- Bag
+  - Heal to full
+  - Use Leppa on EQ (Slot 3) DONT MASH A  (or elixir)
+  - Equip Red Orb if dont have it on
+  - Teach Strength over Overheat (Slot 4)
+
+
 :::::::trainer[Glacia]
   :::::pokemon[Glalie]
     :::if{source="Groudon" condition="speed=(#/30-/10-)"}
@@ -1273,6 +1291,16 @@ Catch Groudon with the Master Ball.
     :::if{source="Groudon" condition="speed=(17+/#/23-) && atk=~(#/11-/x)"}
     - 2 Cotton Guards used = X-Speed + Swords Dance again!
     - Swords Dance x2 (x3)
+    - Smack Down (+Earthquake)
+    :::
+    :::if{source="Groudon" condition="speed=(x/x/24+) && atk=(#/11-/x)"}
+    - Swords Dance x3
+    - Smack Down (+Earthquake)
+    :::
+    :::if{source="Groudon" condition="speed=(x/x/24+) && atk=~(#/11-/x)"}
+    - Swords Dance x2
+    - 2 Cotton Guards used
+      - Swords Dance again
     - Smack Down (+Earthquake)
     :::
   :::::
