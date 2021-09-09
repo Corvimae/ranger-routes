@@ -312,7 +312,7 @@ Say **No** to Grunt
 
 :::::trainer[Team Flare Grunt]
  ::::pokemon[Houndour]
-    - Swords Dance
+    - Swords Dance (x2)
     - Aeiral Ace
  ::::
  ::::pokemon[Zubat]
@@ -742,6 +742,12 @@ Heal if low HP!
      - Wing Attack
     :::
   :::::
+  :::::pokemon[Machoke]
+     - Wing Attack
+  :::::
+  :::::pokemon[Hawlucha]
+     - Wing Attack
+  :::::
 :::::::
 
 Go back to Tower of Mastery
@@ -916,7 +922,7 @@ Heal status
 ::damage[Jumpluff’s Acrobatics does L33]{source="Hawlucha" special=false offensive=false movePower=55 level=33 opponentLevel=30 stab=true opponentStat=44}
 :::
 
-:::::::trainer[]
+:::::::trainer[Leader Ramos]
   :::::pokemon[Jumpluff]
     :::if{source="Hawlucha" condition="speed=~(18-/x/x) && startingLevel=19"}
       - Swords Dance 
@@ -2074,7 +2080,7 @@ Go to the
 :info[Heal if 37 HP or less]{color=yellow}
 
 :::::trainer[Veteran Gilles]
- ::::pokemon[]{info="Steel Wing can do 27 (28)" infoColor=blue}
+ ::::pokemon[Skarmory]{info="Steel Wing can do 27 (28)" infoColor=blue}
     - Shadow Claw 
     - Close Combat
  ::::
@@ -2140,7 +2146,7 @@ Top left chamber
  ::::
  ::::pokemon[Scizor]
     - Heal if 40/(41) +0 Def, 60/(61) -1 Def
-    - Cclose Combat
+    - Close Combat
  ::::
 :::::
 
@@ -2190,7 +2196,7 @@ Bottom Right chamber. Say Yes to Siebold.
  ::::
 :::::
 
-:info[Heal if took any damage]{color=yello}
+:info[Heal if took any damage]{color=yellow}
 
 :::::trainer[Champion Diantha (fast version, safer version below)]
  ::::pokemon[Hawlucha]
