@@ -1303,6 +1303,7 @@ Catch Groudon with the Master Ball.
       - Swords Dance again
     - Smack Down (+Earthquake)
     :::
+     ::damage[Dragon Pulse does]{source="Groudon" special=true offensive=false movePower=85 level=51 opponentLevel=53 stab=true opponentStat=126}
   :::::
   :::::pokemon[Kingdra]
     - Earthquake
@@ -1310,6 +1311,7 @@ Catch Groudon with the Master Ball.
   :::::pokemon[Flygon]{info="Boomburst does 71 max" infoColor=blue}
     - (X Speed if haven't)
     - Strength
+     ::damage[Boomburst does]{source="Groudon" special=true offensive=false movePower=140 level=51 opponentLevel=53 stab=false opponentStat=94}
   :::::
   :::::pokemon[Flygon]
     - Strength
@@ -1332,6 +1334,22 @@ Catch Groudon with the Master Ball.
     - Smack Down
     - Full Restore
     - Earthquake
+    :::if{source="Groudon" condition="health=(x/19-/x)"}
+    :::card{theme=info}
+      - Toxic Does 10*N Turns
+      - 10 Damage turn 1
+      - 20 Damage turn 2
+      - 30 Damage turn 3
+    :::
+    :::if{source="Groudon" condition="health=~(x/19-/x)"}
+    :::card{theme=info}
+      - Toxic Does 11*N Turns
+      - 11 Damage turn 1
+      - 22 Damage turn 2
+      - 33 Damage turn 3
+    :::
+     ::damage[Steel Wing Does]{source="Groudon" special=false offensive=false movePower=70 level=52 opponentLevel=57 stab=true opponentStat=105}
+     ::damage[Aerial Ace Does]{source="Groudon" special=false offensive=false movePower=60 level=52 opponentLevel=57 stab=true opponentStat=105}
   :::::
   :::::pokemon[Cradily]
     - Earthquake
