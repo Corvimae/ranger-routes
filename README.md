@@ -12,7 +12,7 @@ All routefiles published here are searchable in Ranger.
 
 ## How do I create a routefile?
 
-See the [Ranger docs](https://docs.ranger.maybreak.com).
+See the [Ranger docs](https://docs.ranger.maybreak.com/#/routefiles).
 
 ## How can I publish my routefile?
 
