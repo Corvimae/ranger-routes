@@ -12,7 +12,7 @@ All routefiles published here are searchable in Ranger.
 
 ## How do I create a routefile?
 
-See the [Ranger readme](https://github.com/Corvimae/pokemon-ranger#writing-routefiles)
+See the [Ranger docs](https://docs.ranger.maybreak.com).
 
 ## How can I publish my routefile?
 
