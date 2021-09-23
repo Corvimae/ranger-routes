@@ -22,6 +22,8 @@ Set the date to September 15, 2001.
 
 Pick Mudkip.
 
+Make sure Mudkip is deposited before starting.
+
 **If you hit any optionals before Roxanne, Drifloon will sometimes disobey on Nosepass.**
 
 :::::trainer[Aqua Grunt]
@@ -63,7 +65,7 @@ Pick Mudkip.
   :info[_Level 11_]{color="gray"}
 :::::
 
-- Move Mudkip to slot 1.
+- Move Drifloon to slot 1.
 
 - Pick up the Repel before the bug catcher.
 
@@ -79,6 +81,7 @@ Fight the bug catcher on purpose.
   :::
   :::pokemon[Silcoon]
     - Gust
+
     Do not teach Focus Energy.
   :::
   :info[_Level 13_]{color="gray"}
@@ -89,8 +92,6 @@ Fight the bug catcher on purpose.
 - Use the Repel.
 - Heal Drifloon to full.
 - Use the Ether on Gust.
-
-**Save before the Aqua Grunt.**
 
 :::::trainer[Aqua Grunt]
   :::pokemon[Poochyena]
@@ -125,13 +126,13 @@ Fight the bug catcher on purpose.
   :::pokemon[Machop]{info="Cannot hurt you." infoColor="blue"}
     - Gust x2
   :::
-  :info[_Level 16_]{color="gray"}
 :::::
 
 :::::trainer[Leader Brawly]
   :::pokemon[Machop]{info="Cannot hurt you." infoColor="blue"}
     - Astonish
     - Gust
+
     Teach Payback over Constrict (slot 1).
   :::
   :info[_Level 16_]{color="gray"}
@@ -142,6 +143,7 @@ Fight the bug catcher on purpose.
 :::::
 
 - Grab the PP Up in the north-west of Route 109 (Slateport beach).
+- Heal to full.
 
 ### Slateport Shopping
 > #### Sell
@@ -151,9 +153,9 @@ Fight the bug catcher on purpose.
 > - PP Up
 > #### Buy (Top)
 > - 1 X Speed 
-> - 2 X Defense (v)
+> - 2 X Defense (vv)
 > - 2 X Sp. Defense (>>^)
-> - 14 X Sp. Attack (^) 
+> - 15 X Sp. Attack (^) 
 > #### Buy (Bottom)
 > - 5 Paralyze Heals (>)
 > - 8 Super Potions (^^^^)
@@ -215,6 +217,7 @@ Fight the bug catcher on purpose.
   :::
   :::pokemon[Grovyle]
     - Gust
+
     Teach Ominous Wind over Astonish (slot 3) (maybe?)
   :::
   :info[_Level 20_]{color="gray"}
@@ -231,15 +234,16 @@ Fight the bug catcher on purpose.
 :info[**Free heal**]{color=pink}
 
 - Grab the hidden Revive before the first spinner.
-- Grab the Leppa Berries from one tree outside Mauville.
+- Grab the Leppa Berries from two trees outside Mauville.
 - Drop Repel once it runs out.
+
+- Run up the south-east stairs and get the Nugget.
 - Get the Mach Bike from the cycle shop.
 
 ### Mauville Shopping
 > #### Buy (Top)
 > - Charge Beam (vvvv)
 
-- Heal to full.
 - Equip a Cheri Berry.
 - Register the bike.
 - Use the bike.
@@ -250,7 +254,7 @@ Fight the bug catcher on purpose.
   :::
 :::::
 
-Bike up the stairs in the north-west and buy the Metronome from the guy in the suit. ::debug[maybe? Need $320 before Wally]
+Bike up the stairs in the north-west and buy the Metronome from the guy in the suit.
 
 :::::trainer[Guitarist Kirk]
   :::pokemon[Magnemite]
@@ -276,7 +280,7 @@ Bike up the stairs in the north-west and buy the Metronome from the guy in the s
 
 :::::trainer[Guitarist Shawn]
   :::pokemon[Voltorb]
-    - Ominous Wind
+    - Ominous Wind x2
   :::
   :::pokemon[Voltorb]
     - Ominous Wind x2
@@ -307,7 +311,6 @@ Bike up the stairs in the north-west and buy the Metronome from the guy in the s
   :::
   :::pokemon[Voltorb]
    - Ominous Wind x2
-   - (Charge Beam)
   :::
   :info[_Level 23_]{color="gray"}
   :::pokemon[Magneton]
@@ -350,6 +353,7 @@ At the rocks:
   :::pokemon[Electrike]
     - Ominous Wind
     - Gust
+
     Do not teach Stockpile.
   :::
   :info[_Level 25_]{color="gray"}
@@ -373,7 +377,7 @@ At the rocks:
 
 **Save before the Aqua double.**
 
-:::::trainer[Team Aqua Double]{info="Heal as needed If Drifloon dies, revive it with Mudkip."}
+:::::trainer[Team Aqua Double]{info="Heal as needed. If Drifloon dies, revive it with Mudkip."}
   - X Sp. Attack
   - Ominous Wind on Grimer
   - Charge Beam on Grimer
@@ -391,13 +395,12 @@ Say no to Brendan.
 > - Rare Bone
 > #### Buy (Bottom)
 > - 14 Hyper Potions (>^^)
-> - 9 Full Heals (>)
+> - 8 Full Heals (>)
 > - 23 Max Repels (>^)
 
 At the grass:
 - Use a Max Repel (keep refreshing until the end of the game).
 - Heal to full.
-- Use a Leppa Berry on Ominous Wind if you didn't do so before.
 
 Fight the Ace Trainer by the sign on purpose.
 
@@ -410,6 +413,7 @@ Fight the Ace Trainer by the sign on purpose.
   :::
   :::pokemon[Roselia]
     - Gust x2
+    
     Teach Hex over Ominous Wind (slot 3).
   :::
   :info[_Level 27_]{color="gray"}
@@ -433,17 +437,19 @@ Fight the roaming girl on purpose.
     - Gust x2
   :::
   :::pokemon[Grimer]
-    - Gust x2-3 ::debug[definitely 3 w/out Metronome]
+    - Gust x2-3
   :::
   :info[_Level 28_]{color="gray"}
 :::::
 
 :::::Trainer[Aqua Admin Shelley]
   :::pokemon[Grimer]
-    - Gust x3
+    - Gust
+    - Hex
   :::
   :::pokemon[Carvanha]
     - Charge Beam
+  
   :::
 :::::
 
@@ -455,6 +461,7 @@ Fight the roaming girl on purpose.
 :::::trainer[Aqua Leader Archie]{info="Heal as needed. Good luck. Don't get crit!"}
   :::pokemon[Mightyena]
     - X Defense
+    - X Sp. Attack
     - Gust x3 (Don't hit yourself, ideally :>)
 
     ::damage[Mightyena's Assurance at +1 Defense]{source="Drifloon" evolution=1 offensive=false movePower=60 combatStages=1 level=28 evs=7 opponentLevel=25 opponentStat=50 effectiveness=2 stab=true}
@@ -471,7 +478,7 @@ Fight the roaming girl on purpose.
   :::
 :::::
 
-- Heal to full.
+- Get the free heal.
 
 Flannery gym puzzle:
 - Right pad
@@ -562,8 +569,8 @@ Take the left door.
 
 Do not nickname Latias. Do not acknoledge Latias.
 
-- Pick up the Elixir.::debug[maybe]
-- Pick up the PP Max. ::debug[maybe]
+- Pick up the Elixir.
+- Pick up the PP Max.
 
 Fight the top Aqua grunt on the first floor of the Weather Institute.
 
@@ -714,6 +721,7 @@ Get the Skitty heal :info[in a flash!]{color=gray}.
   :::pokemon[Swellow]
     - X Sp. Attack x2
     - Gust
+    
     Teach Shadow Ball over Hex (slot 3).
     ::damage[Swellow's Aerial Ace]{source="Drifloon" evolution=1 offensive=false movePower=60 stab=true level=39 evs=13 opponentLevel=37 opponentStat=73}
   :::
@@ -749,11 +757,10 @@ Run down to the 3rd floor.
 > - 3 Guard Spec (v) 
 > - 3 X Accuracy (vv)
 > - 11 X Sp. Attack (v)
+> - 1 X Sp. Defense (v)
 
 Run downstairs to the first floor and head to the Team Aqua hideout.
 
-- Heal to full.
-- Use a Leppa Berry on Charge Beam.
 - Equip the Metronome.
 
 :::::trainer[Team Aqua Grunt]
@@ -762,7 +769,6 @@ Run downstairs to the first floor and head to the Team Aqua hideout.
   :::
 :::::
 
-- Heal to full (including poison).
 
 Before the next grunt fight, go down to the puzzle:
   - Left
@@ -783,7 +789,7 @@ Exiting the puzzle:
   :::
 :::::
 
-- Heal to full.
+- Heal to full (including poison).
 
 **Save the game before the hoard grunt battle.**
 
@@ -837,7 +843,10 @@ Exiting the puzzle:
 
 - If Latias is still alive, deposit it in the PC and PC heal Drifloon. **Do not heal Mudkip.**
 - Otherwise, heal Drifblim to full.
+
 - Teach Dive to Mudkip over Growl (slot 2).
+- Teach Thunder over Charge Beam.
+- Use the PP Max on Thunder.
 
 :::::trainer[Team Aqua Grunt]
   :::pokemon[Mightyena]
@@ -850,8 +859,6 @@ Exiting the puzzle:
 :::::
 
 - Heal to full (including poison).
-- Teach Thunder over Charge Beam.
-- Use the PP Max on Thunder.
 
 **Save after the first Archie/Maxie cutscene but before biking forward.**
 
@@ -913,6 +920,7 @@ Use the Master Ball on Kyogre. Do not nickname it.
   :::pokemon[Whiscash]
     - (Heal if needed)
     - Shadow Ball x2
+    
     Do not teach Amnesia.
 
     ::damage[Whiscash's Waterfall]{source="Drifloon" evolution=1 offensive=false movePower=80 level=45 evs=17 opponentLevel=44 opponentStat=73 stab=true}
@@ -965,14 +973,21 @@ Use the Master Ball on Kyogre. Do not nickname it.
 - Heal to full.
 - Equip the Metronome.
 
+**Save before walking towards Wally.**
+
 :::::trainer[Pokemon Trainer Wally]
   :::pokemon[Altaria]
+    - X Sp. Defense
     - X Sp. Attack
-    - Shadow Ball x2
+    - Shadow Ball
+    - (Heal if you can't survive Magneton's Discharge)
+    - Shadow Ball
   :::
   :::pokemon[Magneton]
     - Gust
     - Shadow Ball
+
+    ::damage[Magneton's Discharge at +1 Sp. Defense]{source="Drifloon" evolution=1 offensive=false movePower=80 level=48 evs=17 opponentLevel=46 opponentStat=116 stab=true effectiveness=2 combatStages=1}
   :::
   :::pokemon[Delcatty]
     - Gust
@@ -988,7 +1003,7 @@ Use the Master Ball on Kyogre. Do not nickname it.
   :info[_Level 49_]{color="gray"}
 :::::
 
-- Deposit Mudkip, withdraw Kyogre, and PC heal Drifblim.
+- Deposit Mudkip and PC heal Drifblim.
 
 ### Pokemon League Shopping
 > #### Buy 
@@ -1006,7 +1021,7 @@ Use the Master Ball on Kyogre. Do not nickname it.
     - (Heal Confusion)
     - **(HEAL AGAIN IF IN SUCKER PUNCH RANGE)**
     - Fly :info[4/12 range to OHKO at +1]{color=red}
-    - (Fly) :info[If you didn't one-shot, he'll Full Heal, so you're fine even if you're in Sucker Punch range.]
+    - (Fly) :info[If you didn't one-shot, he'll Full Restore, so you're fine even if you're in Sucker Punch range.]
     ::damage[Mightyena's Crunch/Sucker Punch at +0 Defense]{source="Drifloon" evolution=1 offensive=false movePower=80 level=49 evs=18 opponentLevel=50 opponentStat=89 effectiveness=2 stab=true}
 
     ::damage[Mightyena's Crunch/Sucker Punch at -1 Defense]{source="Drifloon" evolution=1 offensive=false movePower=80 level=49 evs=18 opponentLevel=50 opponentStat=89 effectiveness=2 stab=true combatStages=-1}
@@ -1031,8 +1046,7 @@ Use the Master Ball on Kyogre. Do not nickname it.
 
 - Heal to full.
 
-
-:::::trainer[Elite Four Phoebe]
+:::::trainer[Elite Four Phoebe]{info="If you get Curse'd, heal as needed before Dusknoir."}
   :::pokemon[Dusclops]
     - X Sp Attack
     - (Heal Confusion)
@@ -1041,6 +1055,7 @@ Use the Master Ball on Kyogre. Do not nickname it.
   :info[_Level 51_]{color="gray"}
   :::pokemon[Sableye]
     - Shadow Ball
+  :::
   :::pokemon[Banette]
     - Shadow Ball
   :::
@@ -1062,9 +1077,7 @@ Use the Master Ball on Kyogre. Do not nickname it.
 :::::trainer[Elite Four Glacia]{info="This fight is hard if you get defense dropped twice early on, so just don't do that I guess."}
   :::pokemon[Glalie]{info="Hail deals 14 damage. Ice Shard is a priority move."}
     - X Defense
-    - X Sp. Attack
-    - X Sp. Attack
-    - X Sp. Attack :info[If you get crit early, swap this with the next heal.]{color=gray}
+    - X Sp. Attack x3 :info[If you get crit early, swap the last one with the next heal.]{color=gray}
     - Heal to full
     - _If Glalie used Light Screen turn 2 and you're not in Ice Shard range:_
       - X Accuracy
@@ -1151,7 +1164,7 @@ Use the Master Ball on Kyogre. Do not nickname it.
   :::pokemon[Claydol]
     - Shadow Ball
   :::
-    :info[_Level 56_]{color="gray"}
+  :info[_Level 56_]{color="gray"}
   :::pokemon[Armaldo]
     - (Heal to full if in Bullet Punch range).
     - Shadow Ball
