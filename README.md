@@ -16,4 +16,5 @@ See the [Ranger docs](https://docs.ranger.maybreak.com/#/routefiles).
 
 ## How can I publish my routefile?
 
-Follow the instructions [here](https://docs.ranger.maybreak.com/#/publishing).
+Follow the instructions [here](https://docs.ranger.maybreak.com/#/publishing). It may take up to 30 minutes for your route
+to appear in Ranger.
