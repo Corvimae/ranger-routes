@@ -1,0 +1,8 @@
+{
+  "title": "Pokemon X/Y Any%", // The name of your route.
+  "author": "Fortunate", // The name of the author.
+  "authorLink": "twitter.com/fortunate_____", // A link to the author's social media (optional).
+  "game": "XY", // The name of the game this route is for. Please be accurate.
+  "generation": 6, // The generation of the game this route is for.
+  "version": "1.0.0", // The version of the route. Please use semantic versioning: https://semver.org/
+}
