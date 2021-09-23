@@ -152,7 +152,7 @@ Fight the bug catcher on purpose.
 > - All Poke Balls
 > - PP Up
 > #### Buy (Top)
-> - 1 X Speed 
+> - 2 X Speed 
 > - 2 X Defense (vv)
 > - 2 X Sp. Defense (>>^)
 > - 15 X Sp. Attack (^) 
@@ -237,24 +237,21 @@ Fight the bug catcher on purpose.
 - Grab the Leppa Berries from two trees outside Mauville.
 - Drop Repel once it runs out.
 
-- Run up the south-east stairs and get the Nugget.
 - Get the Mach Bike from the cycle shop.
-
-### Mauville Shopping
-> #### Buy (Top)
-> - Charge Beam (vvvv)
-
 - Equip a Cheri Berry.
 - Register the bike.
 - Use the bike.
+
+- Bike up the south-east stairs and get the Nugget (run left at the top of the stairs).
+- Head to the north-west of the upper floor and talk to the musician to buy the Metronome.
+
+Head to the gym.
 
 :::::trainer[Pokemon Trainer Wally]
   :::pokemon[Ralts]
     - Ominous Wind
   :::
 :::::
-
-Bike up the stairs in the north-west and buy the Metronome from the guy in the suit.
 
 :::::trainer[Guitarist Kirk]
   :::pokemon[Magnemite]
@@ -321,6 +318,14 @@ Bike up the stairs in the north-west and buy the Metronome from the guy in the s
   :::
   :info[_Level 24_]{color="gray"}
 :::::
+
+Before leaving Mauville, bike down to the shop.
+
+### Mauville Shopping
+> #### Sell (Top)
+> - Nugget
+> #### Buy (Top)
+> - Charge Beam (vvvv)
 
 At the rocks:
 - Teach Charge Beam over Payback (slot 1).
@@ -512,6 +517,7 @@ Take the left door.
 
 :::::trainer[Ace Trainer Randall]
   :::pokemon[Delcatty]{info="Heal Sleep as needed."}
+   - X Speed
    - Gust x3.
   :::
   :info[_Level 31_]{color="gray"}
