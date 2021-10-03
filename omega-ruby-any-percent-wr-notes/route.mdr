@@ -129,8 +129,8 @@ Immediately after entering Rusturf Tunnel:
  :::if{source="Mudkip" condition=!$rtskip}
   - Repel
   - Potion to full
-  - Teach Rock Tomb over Mud Slap (slot 1).
-  - Teach Echoed Voice over Tackle (slot 4).
+  - Teach Rock Tomb over Tackle (slot 1).
+  - Teach Echoed Voice over Mud Slap (slot 4).
  :::
 
 :::::::trainer[Team Magma Grunt]
