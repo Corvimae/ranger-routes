@@ -276,9 +276,11 @@ Grab/Skip PP UP
 :::::trainer[Team Magma Grunt]
   :::pokemon[Zubat]{info="Faster at 19+ Speed (x /13+ / 6+)" infoColor=blue}
     :::if{source="Mudkip" condition=$rtskip}
-      - Tackle x2
+      - Tackle x2 
+    ::: 
     :::if{source="Mudkip" condition=!$rtskip}
       - Rock Tomb (+Water Gun)
+    :::  
     :::if{source="Mudkip" condition="!$rtskip && atk=(26+ / 6-12 / 0-5)" theme=error}
       **Rock Tomb Range 11/16**
     :::
