@@ -160,7 +160,7 @@ Fight the two School Kids.
 
 :::::trainer[School Kid Christine]
   :::pokemon[Abra]
-    - Water Gun x2
+    - Pound + Pound / Water Gun*
   :::
 :::::
 
@@ -168,11 +168,11 @@ Fight the two School Kids.
 
 :::::trainer[School Kid Harrison]
   :::pokemon[Abra]
-    - Water Gun x2
+    - Pound + Pound / Water Gun*
   :::
 :::::
 
-- Heal to full.
+- Potion Piplup
 - Teach Work Up to Piplup.
 
 Talk to the three Poketch Clowns and get the Poketch from the Poketch inventor.
@@ -213,6 +213,10 @@ Head to the gym and run around all the trainers.
   :::
   :::pokemon[Onix]{info="Onix outspeeds." infoColor=blue}
     - Water Gun x2 (Don't heal between Water Guns.)
+
+    ::damage[Onix's Rock Throw at +0 Defense]{source="Piplup" offensive=false movePower=50 level=11 evs=0 combatStages=2 opponentLevel=12 opponentStat=16 special=false stab=true}
+
+    ::damage[Onix's Rock Throw at +0 Defense]{source="Piplup" offensive=false movePower=50 level=11 evs=0 combatStages=0 opponentLevel=12 opponentStat=16 special=false stab=true}
   :::
   :::pokemon[Craniados]{info="Craniados outspeeds." infoColor=blue}
     - Water Gun (x2)
@@ -220,6 +224,8 @@ Head to the gym and run around all the trainers.
     ::damage[Craniados' Headbutt at +2 Defense]{source="Piplup" offensive=false movePower=70 level=12 evs=0 combatStages=2 opponentLevel=14 opponentStat=40 special=false stab=false}
 
     ::damage[Craniados' Headbutt at +1 Defense]{source="Piplup" offensive=false movePower=70 level=12 evs=0 combatStages=1 opponentLevel=14 opponentStat=40 special=false stab=false}
+
+    ::damage[Craniados' Headbutt at +0 Defense]{source="Piplup" offensive=false movePower=70 level=12 evs=0 combatStages=0 opponentLevel=14 opponentStat=40 special=false stab=false}
   :::
 :::::
 
@@ -228,11 +234,12 @@ Head to the gym and run around all the trainers.
 :todo[Need to sell something]{color=gray}
 
 **Oreburgh Shopping:**
-  - 3 Net Balls (vv)
+$13,072 without selling
+  - 4 Net Balls (vv)
   - 4 Super Potions (vv)
   - 2 Antidotes (vv)
-  - 2 Escape Ropes (vvvvv)
-  - 22 Repels (v)
+  - 2 Escape Ropes (Rv)
+  - MAX Repels (v)
 
 Head east back to Oreburgh Mine.
 
@@ -253,8 +260,8 @@ Head north, dodging the spinner and the roamer. Hug the trees to avoid the doubl
 
 Enter the house to the north of the path and talk to the girl next to the Clefairy to get Pluck.
 
-- Teach Rock Tomb over Pound (slot 1).
-- Teach Pluck over Growl (slot 2).
+- Teach Pluck over Pound (slot 1).
+- Teach Rock Tomb over Growl (slot 2).
 - Box everything except Piplup.
 
 Head to the east and talk to the girl on the path to Valley Windworks.
@@ -272,7 +279,7 @@ Grab the Cheri Berries from the flower shop in Floroma, then head to the north-w
 
 :::::trainer[Team Galactic Grunt]
   :::pokemon[Zubat]
-    - Rock Tomb
+    - Rock Tomb + (Pluck)
   :::
 :::::
 
@@ -287,13 +294,15 @@ Head east to Valley Windworks and fight the grunt outside.
 
 :::::trainer[Commander Mars]{info="Heal as needed."}
   :::pokemon[Zubat (Setup)]
+    - Work Up x2
     - Rock Tomb
     
     ::damage[Zubat's U-Turn]{source="Piplup" offensive=false movePower=70 level=14 evs=0 opponentLevel=14 opponentStat=17 special=false}
   :::
   :::pokemon[Purugly]
     - Heal to full (assuming Fake Out)
-    - Work Up x2
+    - Work Up until +2 SpA
+    - Pluck
     - _If you get Growl'd:_
       - Work Up
       - Water Gun x2
@@ -332,8 +341,7 @@ Head to the north-east and fight the left trainer by talking to him diagonally.
 
 :::::trainer[Lass Briana]
   :::pokemon[Pachirisu]
-    - Work Up x2
-    - Water Gun x2/3
+    - Water Gun x4-5
   :::
 :::::
 
@@ -341,11 +349,11 @@ Fight the Abra trainers individually.
 
 :::::trainer[Psychic Lindsey]
   :::pokemon[Abra]
-    - _If you're risking the range:_
+    - _If -Speed or you're risking the range:_
       - Pluck
     - _Otherwise:_
       - Rock Tomb
-      - (Pluck)
+      - (Pluck/Finish off with other poke)
     -
     ::damage[+0 Pluck]{source="Piplup" evolution=1 offensive=true movePower=60 level=17 evs=0 opponentLevel=15 opponentStat=9 special=false healthThreshold=32}
   :::
@@ -399,6 +407,7 @@ Head to the north-west fight the first trainer.
 :::::
 
 - Head to the south-west and fight the second trainer.
+- When Prinplup hits Lv19, teach Bubble Beam over Rock Tomb
 
 :::::trainer[Armoa Lady Jenna]
   :::pokemon[Budew]
@@ -442,13 +451,32 @@ Head to the bottom-most path, head east then north to the last trainer.
   :::
 :::::
 
+Head to the building directly to the right of the Galactic Eterna building.
+
+**Eterna Shopping:**
+- 8 Heal Powder
+- 9 Energy Root
+- 1 Revival Herb
+
 Get Thief from the the path to the north-east of the Team Galactic building.
+- Heal team to full
+- Teach Rock Smash over False Swipe (slot 2).
+- Teach Thief to Scyther over slot 4
+- Teach Grass Knot to Prinplup over Water Gun
+
+:::card
+  Your moveset should be:
+  - Wing Attack
+  - Rock Smash
+  - (Anything)
+  - Thief
+:::
 
 :info[Can get Insect Plate at Old Chateau after getting bike?]
 
 :::::trainer[Team Galactic Double]
-  - Wing Attack Zubat / Pluck Wurmple
-  - Wing Attack Glameow / Pluck Cascoon
+  - Wing Attack Zubat / Bubble Beam Wurmple
+  - Wing Attack Glameow / Bubble Beam Cascoon
 :::::
 
 Head upstairs twice.
@@ -471,50 +499,39 @@ Head upstairs twice.
   :::
 :::::
 
-- Heal to full if you can't survive Flamethrower.
-
 :::::trainer[Commander Jupiter]
   :::pokemon[Zubat]
-    - X Attack
     - Wing Attack
   :::
   :::pokemon[Skuntank]{info="Has Aftermath."}
-    - Wing Attack x2
+    - Wing Attack until Flamethrower'd
+    - Swap to Prinplup
+    - If Sitrus Berry didn't activate yet: Pluck
+    - Bubble Beam spam
     
-    ::damage[Skuntank's Flamethrower]{source="Scyther" offensive=false movePower=90 level=20 evs=0 opponentLevel=20 opponentStat=36 special=true effectiveness=2}
+    ::damage[Skuntank's Flamethrower to Scyther]{source="Scyther" offensive=false movePower=90 level=20 evs=0 opponentLevel=20 opponentStat=36 special=true effectiveness=2}
+
+    ::damage[Skuntank's Snarl to Prinplup]{source="Piplup" offensive=false movePower=55 level=20 evs=0 opponentLevel=20 opponentStat=36 special=true effectiveness=2 stab=true}
   :::
 :::::
 
 If Scyther is fainted, take the center.
 
-Head to the building directly to the right of the Galactic Eterna building.
-
-**Eterna Shopping:**
-- 11 Heal Powder
-- Max Energy Root
-
 Get the bike from the Cycle shop. Head south to Cycling Road and avoid all the trainers.
 
 :info[_Start down the left side, cut to the far right after the first trainer, cut back to the far left after the third trainer. At the bottom of the lane, cut to the far right, head right past the trainer, then cut to the middle._]{color=gray}
 
-After the Vs. Seeker cutscene with Lucas:
-  - Box Prinplup.
-  - Heal Scyther to full.
-  - Teach Rock Smash over False Swipe (slot 2).
-  - Teach Thief over Double Team (slot 4).
-  - Use a Repel (keep refreshing).
+Head through the gap in the rocks, then go right. Watch out for the roamers. Head past the hiker spinner into the cave. 
+
+After entered Mt. Coronet
+  - Heal Scyther if needed
+  - Use a Repel (keep refreshing until Hearthome, drop when you get there).
   - Register the Bike.
   - Use the Bike.
 
-:::card
-  Your moveset should be:
-  - Wing Attack
-  - Rock Smash
-  - (Anything)
-  - Thief
-:::
+Grab the Ether in the Rock right above the Cyrus cutscene trigger.
 
-Head through the gap in the rocks, then go right. Watch out for the roamers. Head past the hiker spinner into the cave. Head through the cave then avoid the bridge hiker spinners and head to Hearthome.
+Head through the cave then avoid the bridge hiker spinners and head to Hearthome.
 
 Head to the contest hall and talk to Fantina. Enter the contest hall, watch the cutscene, then head to the far south-east of Hearthome.
 
@@ -528,14 +545,20 @@ Head to the contest hall and talk to Fantina. Enter the contest hall, watch the 
   :::::pokemon[Buizel]
     - Wing Attack
   :::::
-  :::::pokemon[Turtwig]
+  :::::pokemon[Grotle]
     - Wing Attack
   :::::
 :::::::
 
+After leaving town:
+- Deposit Prinplup
+- Repel
+
 Before reaching Solaceon Town, enter the Lost Tower. Talk to the left person on the top floor, then Escape Rope out and continue heading north.
 
 Avoid the first trainer by going through the grass. You can ignore the doubles.
+
+Enter the Cafe, purchase 10 Moo Moo Milks at the counter.
 
 At the milk house, head east.
 
@@ -554,7 +577,7 @@ Fight the top Ace Trainer first.
 
 :::::trainer[Ace Trainer Maya]
   :::pokemon[Glameow]
-    - Heal to full 
+    - Heal to full/Wing Attack
     - Wing Attack
   :::
   :::pokemon[Kadabra]
@@ -562,14 +585,14 @@ Fight the top Ace Trainer first.
   :::
 :::::
 
-**Withdraw Piplup from the box into slot 1.**
+**Withdraw Piplup from the box into slot 1. Heal Prinplup if needed**
 
 :::::trainer[Ace Trainer Dennis]
   :::pokemon[Monferno]
-    - Water Gun x2
+    - Bubble Beam
   :::
   :::pokemon[Gyarados]
-    - Rock Tomb until Prinplup dies.
+    - Grass Knot until dead
     - Wing Attack x2
 
     Do not teach Slash.
@@ -586,7 +609,14 @@ Head to the Veilstone Department Store. Pick up the hidden revive on the left si
 - _Buy:_
   - 11 Max Repels
 
-Take the escalator to the second floor.
+Take the escalator to the third floor.
+
+**Third floor, top vendor:**
+- Sword Dance (^^^)
+
+**Third floor, bottom vendor:**
+- Thunderbolt (R)
+- Flamethrower (^)
 
 **Second floor, top vendor:**
 - 8 X Speed (v)
