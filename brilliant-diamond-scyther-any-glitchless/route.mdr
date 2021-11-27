@@ -599,7 +599,7 @@ Take the escalator to the third floor.
 **Second floor, top vendor:**
 - 18 X Speed
 - 4 X Attack (v)
-- 9 X Defense (v)
+- 11 X Defense (v)
 - 2 X Accuracy (vv)
 - 5 X Sp. Defense (R)
 - 21 X Sp. Attack (^)
@@ -1161,6 +1161,7 @@ Take the left-most teleporter and head up the stairs.
 :::::trainer[Team Galactic Boss Cyrus]
   :::pokemon[Murkrow]
     - Swords Dance 
+    - (Consider X Defense if turn 1 Wing Attack)
     - X Speed
     - Wing Attack
     :damage[Murkrow's Wing Attack]{source="Scyther" offensive=false movePower=60 combatStages=0 level=41 evs=32 opponentLevel=40 opponentStat=73 effectiveness=2 stab=true}
