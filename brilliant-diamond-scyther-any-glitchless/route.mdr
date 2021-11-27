@@ -1,15 +1,15 @@
 :::tracker{species="Piplup" baseStats="[[53, 51, 53, 61, 56, 40], [64, 66, 68, 81, 76, 50]]" type="Water" generation=8}
   5:
-    6  -> 0,  0,  0,  0,  0,  3
-    7  -> 1,  0,  0,  0,  0,  4
-    8  -> 2,  1,  0,  0,  0,  4
-    9  -> 2,  1,  0,  2,  0,  4 
-    10 -> 2,  2,  0,  2,  0,  5
-    11 -> 2,  2,  1,  2,  0,  5
-    12 -> 2,  2,  2,  2,  0,  5
-    13 -> 2,  3,  2,  2,  0,  5
-    14 -> 4,  3,  2,  2,  0,  6
-    15 -> 4,  3,  2,  2,  0,  9
+    6  -> 0,  0,  0,  0,  0,  1
+    7  -> 1,  0,  0,  0,  0,  1
+    8  -> 2,  1,  0,  0,  0,  2
+    9  -> 2,  1,  0,  2,  0,  2 
+    10 -> 2,  2,  0,  2,  0,  3
+    11 -> 2,  2,  1,  2,  0,  3
+    12 -> 2,  2,  2,  2,  0,  3
+    13 -> 2,  3,  2,  2,  0,  3
+    14 -> 4,  3,  2,  2,  0,  3
+    15 -> 4,  3,  2,  2,  0,  4
 :::
 :::tracker{species="Scyther" baseStats="[[70, 110, 80, 55, 80, 105]]" type="Bug/Flying" generation=8}
   16:
@@ -438,9 +438,10 @@ Heal if poisoned.
 Head to the building directly to the right of the Galactic Eterna building.
 
 **Eterna Shopping:**
-- 9 Heal Powder
+- 10 Heal Powder
+- 5 Energy Powders (v)
 - 5 Energy Root (vv)
-- 2 Revival Herb (v)
+- 1 Revival Herb (v)
 
 Get Thief from the the path to the north-east of the Team Galactic building.
 - Heal team to full.
@@ -492,7 +493,7 @@ Heal Scyther to full.
   :::
 :::::
 
-Get the bike from the Cycle shop. Head south to Cycling Road and avoid all the trainers.
+Get the bike from the Cycle shop. Head south to Cycling Road and avoid all the trainers. After the VS Seeker cutscene with Lucas, get the hidden revive to the right. ![](https://media.discordapp.net/attachments/735229809420009516/914237966472339506/unknown.png?width=819&height=447)
 
 :info[_Start down the left side, cut to the far right after the first trainer, cut back to the far left after the third trainer. At the bottom of the lane, cut to the far right, head right past the trainer, then cut to the middle._]{color=gray}
 
@@ -539,7 +540,6 @@ After leaving town:
 Before reaching Solaceon Town, enter the Lost Tower. Talk to the left person on the top floor, then Escape Rope out and continue heading north.
 
 You can ignore the doubles. Avoid the spinner by going through the grass.
-Enter the Cafe, purchase 10 Moo Moo Milks at the counter.
 At the milk house, head east.
 
 :::::::trainer[Ruin Maniac Calvin]
@@ -606,7 +606,11 @@ Take the escalator to the third floor.
 
 **First floor, left vendor:**
 - _Buy:_
-  - MAX Super Repels (at least 3)
+  - 3-5 Super Repels (at least 3)
+
+  **First floor, right vendor:**
+- _Buy:_
+  - MAX Hyper Potions
 
 Leave the department store and get the metronome from the Giraffarig trainer.
 
@@ -869,6 +873,7 @@ After exiting the gym:
 - Teach Surf to Prinplup over Rock Tomb (slot 2).
 - Teach Stealth Rock to Prinplup over Charm (slot 4).
 - Equip the Metronome on Scyther.
+- Equip Choice Specs to Prinplup.
 - Super Repel (do not refresh).
 - Fly to Jubilife City and head west.
 
@@ -1035,7 +1040,7 @@ Buy:
 Menu before the grass:
 - Heal to full.
 - Super Repel (Refresh until back in Veilstone)
-- Equip a Cheri Berry on Scyther :info[(always works if you outspeed Raichu (x / 12+ / 0+), sometimes works otherwise)]{color=gray}
+- Equip a Cheri Berry on Scyther :info[(almost always makes you safe for the next fight)]{color=gray}
 
 Head east to Mount Coronet. Head north once you enter the cave and follow the path to Route 216. 
 - Grab both Rare Candies (first is left of rock smash rocks near entrance (break them), second is in rock in fog room)
@@ -1140,7 +1145,10 @@ Heal if in red HP.
 :::::
 
 Use the teleporter in the middle room, then head up the stairs.
-- Grab the Full Restore in the machine thing to the right, then fight the double battle.
+
+Talk to the bed from the side for a free heal. Then up the stairs.
+
+Grab the Full Restore in the machine thing to the right, then fight the double battle.
 
 :::::trainer[Team Galactic Double]
   - Wing Attack / Bubble Beam
