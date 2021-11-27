@@ -1,15 +1,15 @@
 :::tracker{species="Piplup" baseStats="[[53, 51, 53, 61, 56, 40], [64, 66, 68, 81, 76, 50]]" type="Water" generation=8}
   5:
-    6  -> 0,  0,  0,  0,  0,  3
-    7  -> 1,  0,  0,  0,  0,  4
-    8  -> 2,  1,  0,  0,  0,  4
-    9  -> 2,  1,  0,  2,  0,  4 
-    10 -> 2,  2,  0,  2,  0,  5
-    11 -> 2,  2,  1,  2,  0,  5
-    12 -> 2,  2,  2,  2,  0,  5
-    13 -> 2,  3,  2,  2,  0,  5
-    14 -> 4,  3,  2,  2,  0,  6
-    15 -> 4,  3,  2,  2,  0,  9
+    6  -> 0,  0,  0,  0,  0,  1
+    7  -> 1,  0,  0,  0,  0,  1
+    8  -> 2,  1,  0,  0,  0,  2
+    9  -> 2,  1,  0,  2,  0,  2 
+    10 -> 2,  2,  0,  2,  0,  3
+    11 -> 2,  2,  1,  2,  0,  3
+    12 -> 2,  2,  2,  2,  0,  3
+    13 -> 2,  3,  2,  2,  0,  3
+    14 -> 4,  3,  2,  2,  0,  3
+    15 -> 4,  3,  2,  2,  0,  4
 :::
 :::tracker{species="Scyther" baseStats="[[70, 110, 80, 55, 80, 105]]" type="Bug/Flying" generation=8}
   16:
@@ -92,13 +92,13 @@ These notes play extremely safe and overheal in a lot of places while buying ton
 
 If the route does not say to learn a move explicitly, do not learn it.
 
-Splits here: https://splits.io/8mjt
+**[Splits Here.](https://splits.io/8mjt)**
 
 **[Here is Etchy's example 3:34:26 run of this route.](https://youtu.be/JBWDPPfYL18) Please watch and follow along with the notes before attempting runs, it will save you a lot of time and trouble.**
 
 **I strongly recommend playing overly safe until you get to the Scyther catch. A good Scyther catch can bring back a bad start, and getting through the run is more important than getting a perfect run while you're learning. Save often.**
 
-**Set your clock to approximately 2:30 AM. You want it to be between 4-10 when you get to Celestic Town.**
+**Set your clock to approximately 2:45 AM. You want it to be between 4-10 when you get to Celestic Town. Joggers cannot see you when its not morning so its advantageous to set it to before 4AM.**
 
 Name the character 1.
 
@@ -164,6 +164,8 @@ Head to the Trainer School and talk to Barry. Leave the trainer school.
 
 Talk to the three Poketch Clowns and get the Poketch from the Poketch inventor.
 
+If HP is low, recommend Potioning turn 1 of battle instead of outside of battle to potentially get back into Torrent quickly.
+
 :::::trainer[Pokemon Trainer Barry]
   :::pokemon[Starly]{baseStats="[40, 55, 30, 30, 30, 60]" ivs="[5, 5, 5, 5, 5, 5]" nature="Bashful" type="Normal/Flying" level=7 nature="Jolly"}
     - Water Gun x2-3
@@ -215,7 +217,7 @@ Head to the gym and run around all the trainers.
 **Oreburgh Shopping:**
   - 4 Net Balls (vv)
   - 3 Super Potions (vv)
-  - 2 Escape Ropes (Rv)
+  - 2 Escape Ropes (Rvv)
   - MAX Repels (v)
 
 Head west back to Oreburgh Mine.
@@ -269,7 +271,10 @@ Grab the Cheri Berries from the right side of the flower shop in Floaroma.
 Head east to Valley Windworks and fight the grunt outside.
 
 :::::trainer[Team Galactic Grunt]
-  :::pokemon[Glameow]
+  :::pokemon[Glameow]{baseStats="[49, 55, 42, 42, 37, 85] nature="Bashful" type="Normal" level=11}
+    :::if{source="Piplup" condition="spa=(0+ / 24- / x)"}
+    - Rock Tomb
+    :::
     - Water Gun x2-3
   :::
 :::::
@@ -293,8 +298,8 @@ Heal if yellow HP.
 
 At the grass:
 - Repel (refresh until Eterna City)
-- Heal to full-ish.
 - Equip the Cheri Berry.
+- Heal to full-ish.
 
 Recommend saving here before the hiker!
 
@@ -319,9 +324,11 @@ Head to the north-east and fight the left trainer by talking to him diagonally.
 :::::
 
 :::::trainer[Lass Briana]
-  :::pokemon[Pachirisu]
-    - (Charm if -Def nature)
+  :::pokemon[Pachirisu]{baseStats="[60, 45, 70, 45, 90, 95]" nature="Bashful" type="Electric" level=14}
+    - (Consider Charm if -Def nature)
     - Water Gun x4-5
+    :damage[+0 Spark]{source="Piplup" evolution=1 offensive=false movePower=65 level=14 evs=0 type="Electric"}
+    :damage[-2 Spark]{source="Piplup" evolution=1 opponentCombatStages=-2 offensive=false movePower=65 level=14 evs=0 type="Electric"}
   :::
 :::::
 
@@ -371,6 +378,13 @@ If Scyther is your level or lower, this is a 35% catch at full HP. Otherwise, it
   - Charm
   - Pluck / Rock Tomb (Rock Tomb has a chance to kill, Pluck to chip HP is safer)
   - Spam Net Balls (47% catch at 75% HP, 58% catch at 50% HP).
+
+  ::damage[Lv16 Average Technician Scyther Wing Attack at -2]{source="Piplup" evolution=1 offensive=false movePower=90 level=18 evs=0 opponentLevel=16 opponentStat=40 special=false stab=true opponentCombatStages=-2}
+  ::damage[Lv16 Average Swarm Scyther Wing Attack at -2]{source="Piplup" evolution=1 offensive=false movePower=60 level=18 evs=0 opponentLevel=16 opponentStat=40 special=false stab=true opponentCombatStages=-2}
+  ::damage[Lv17 Average Technician Scyther Wing Attack at -2]{source="Piplup" evolution=1 offensive=false movePower=90 level=18 evs=0 opponentLevel=17 opponentStat=42 special=false stab=true opponentCombatStages=-2}
+  ::damage[Lv17 Average Swarm Scyther Wing Attack at -2]{source="Piplup" evolution=1 offensive=false movePower=60 level=18 evs=0 opponentLevel=17 opponentStat=42 special=false stab=true opponentCombatStages=-2}
+  ::damage[Lv18 Average Technician Scyther Wing Attack at -2]{source="Piplup" evolution=1 offensive=false movePower=90 level=18 evs=0 opponentLevel=18 opponentStat=44 special=false stab=true opponentCombatStages=-2}
+  ::damage[Lv18 Average Swarm Scyther Wing Attack at -2]{source="Piplup" evolution=1 offensive=false movePower=60 level=18 evs=0 opponentLevel=18 opponentStat=44 special=false stab=true opponentCombatStages=-2}
 :::
 
 - **Check Scyther to make sure it has Technician as it's ability. -Attack is scary and not fully routed. -Speed is not ideal but should be fine.**
@@ -438,9 +452,10 @@ Heal if poisoned.
 Head to the building directly to the right of the Galactic Eterna building.
 
 **Eterna Shopping:**
-- 9 Heal Powder
+- 10 Heal Powder
+- 5 Energy Powders (v)
 - 5 Energy Root (vv)
-- 2 Revival Herb (v)
+- 1 Revival Herb (v)
 
 Get Thief from the the path to the north-east of the Team Galactic building.
 - Heal team to full.
@@ -480,19 +495,19 @@ Heal Scyther to full.
     - (Heal Confusion)
     - Wing Attack
   :::
-  :::pokemon[Skuntank]{info="Has Aftermath."}
+  :::pokemon[Skuntank]{info="Has Aftermath, 25% damage when you kill." baseStats="[103, 93, 67, 71, 61, 84]" evs="[68, 0, 68, 0, 68, 0]" ivs="[15, 0, 15, 0, 15, 0]" nature="Modest" type="Dark/Poison" level=20}
     - _If -Atk or Scyther is not Lv20+:_
       - Wing Attack
     - _Else:_
       - Thief
     - Wing Attack
     :info[Finish with Prinplup (Bubble Beam) if needed]{color=gray}
-    ::damage[Skuntank's Flamethrower to Scyther]{source="Scyther" offensive=false movePower=90 level=20 evs=0 opponentLevel=20 opponentStat=36 special=true effectiveness=2}
-    ::damage[Skuntank's Snarl to Prinplup]{source="Piplup" offensive=false movePower=55 level=20 evs=0 opponentLevel=20 opponentStat=36 special=true effectiveness=2 stab=true}
+    ::damage[Skuntank's Flamethrower to Scyther]{source="Scyther" offensive=false movePower=90 level=20 evs=0 special=true type="Fire"}
+    ::damage[Skuntank's Snarl to Prinplup]{source="Piplup" evolution=1 offensive=false movePower=55 level=20 evs=0 special=true type="Dark" stab=true}
   :::
 :::::
 
-Get the bike from the Cycle shop. Head south to Cycling Road and avoid all the trainers.
+Get the bike from the Cycle shop. Head south to Cycling Road and avoid all the trainers. After the VS Seeker cutscene with Lucas, get the hidden revive to the right. ![](https://media.discordapp.net/attachments/735229809420009516/914237966472339506/unknown.png?width=819&height=447)
 
 :info[_Start down the left side, cut to the far right after the first trainer, cut back to the far left after the third trainer. At the bottom of the lane, cut to the far right, head right past the trainer, then cut to the middle._]{color=gray}
 
@@ -503,6 +518,8 @@ After entered Mt. Coronet
   - Use a Repel (keep refreshing until Hearthome, drop when you get there).
   - Register the Bike.
   - Use the Bike.
+
+Note that there is a chance you get random encounters here if Scyther is underleveled. Consider killing an encounter if you do get one and it bumps you to the next level.
 
 Grab the Ether in the Rock right above the Cyrus cutscene trigger.
 
@@ -539,8 +556,7 @@ After leaving town:
 Before reaching Solaceon Town, enter the Lost Tower. Talk to the left person on the top floor, then Escape Rope out and continue heading north.
 
 You can ignore the doubles. Avoid the spinner by going through the grass.
-Enter the Cafe, purchase 10 Moo Moo Milks at the counter.
-At the milk house, head east.
+At the milk house, head east. Note that its safer to do the next fight with Prinplup, but the exp route doesn't work as nicely if you don't use Scyther.
 
 :::::::trainer[Ruin Maniac Calvin]
   :::::pokemon[Bronzor]
@@ -559,7 +575,7 @@ Fight the top Ace Trainer first.
 
 :::::trainer[Ace Trainer Maya]
   :::pokemon[Glameow]
-    - Heal Scyther or Prinplup to full/Wing Attack [Fake Out]
+    - Heal Scyther to full/Wing Attack [Fake Out]
     - Wing Attack
   :::
   :::pokemon[Kadabra]
@@ -589,6 +605,7 @@ Take the escalator to the third floor.
 - _Sell:_
   - All TMs **EXCEPT 2 STEALTH ROCKS**. :info[**(DON'T SELL ALL OF THEM)**]{color=red}
   - Zinc
+  - (Optional) All remaining Poke Balls / Net Balls, only do if you need more healing items
 - _Buy_:_
   - Sword Dance (^^^)
 
@@ -599,14 +616,18 @@ Take the escalator to the third floor.
 **Second floor, top vendor:**
 - 18 X Speed
 - 4 X Attack (v)
-- 9 X Defense (v)
+- 11 X Defense (v)
 - 2 X Accuracy (vv)
 - 5 X Sp. Defense (R)
 - 21 X Sp. Attack (^)
 
 **First floor, left vendor:**
 - _Buy:_
-  - MAX Super Repels (at least 3)
+  - 3-5 Super Repels (at least 3)
+
+  **First floor, right vendor:**
+- _Buy:_
+  - MAX Hyper Potions
 
 Leave the department store and get the metronome from the Giraffarig trainer.
 
@@ -869,6 +890,7 @@ After exiting the gym:
 - Teach Surf to Prinplup over Rock Tomb (slot 2).
 - Teach Stealth Rock to Prinplup over Charm (slot 4).
 - Equip the Metronome on Scyther.
+- Equip Choice Specs to Prinplup.
 - Super Repel (do not refresh).
 - Fly to Jubilife City and head west.
 
@@ -958,7 +980,7 @@ Onix's can outspeed, heal between fights as needed. (TODO: Add thresholds)
     - (Heal confusion)
     - Surf
     :info[+6 Surf Guaranteed at Lv31 0 IV neutral SpA]{color=gray}
-    :damage[Bronzor's Flash Cannon]{source="Piplup" offensive=false movePower=80 combatStages=0 level=31 evs=44 opponentLevel=36 opponentStat=32 stab=true effectiveness=0.5}
+    :damage[Bronzor's Flash Cannon]{source="Piplup" evolution=1 offensive=false movePower=80 combatStages=0 level=31 evs=44 opponentLevel=36 opponentStat=32 stab=true effectiveness=0.5}
   :::
   :::pokemon[Steelix]
     - Surf
@@ -1035,7 +1057,7 @@ Buy:
 Menu before the grass:
 - Heal to full.
 - Super Repel (Refresh until back in Veilstone)
-- Equip a Cheri Berry on Scyther :info[(always works if you outspeed Raichu (x / 12+ / 0+), sometimes works otherwise)]{color=gray}
+- Equip a Cheri Berry on Scyther :info[(almost always makes you safe for the next fight)]{color=gray}
 
 Head east to Mount Coronet. Head north once you enter the cave and follow the path to Route 216. 
 - Grab both Rare Candies (first is left of rock smash rocks near entrance (break them), second is in rock in fog room)
@@ -1140,7 +1162,10 @@ Heal if in red HP.
 :::::
 
 Use the teleporter in the middle room, then head up the stairs.
-- Grab the Full Restore in the machine thing to the right, then fight the double battle.
+
+Talk to the bed from the side for a free heal. Then up the stairs.
+
+Grab the Full Restore in the machine thing to the right, then fight the double battle.
 
 :::::trainer[Team Galactic Double]
   - Wing Attack / Bubble Beam
@@ -1153,6 +1178,7 @@ Take the left-most teleporter and head up the stairs.
 :::::trainer[Team Galactic Boss Cyrus]
   :::pokemon[Murkrow]
     - Swords Dance 
+    - (Consider X Defense if turn 1 Wing Attack)
     - X Speed
     - Wing Attack
     :damage[Murkrow's Wing Attack]{source="Scyther" offensive=false movePower=60 combatStages=0 level=41 evs=32 opponentLevel=40 opponentStat=73 effectiveness=2 stab=true}
@@ -1534,7 +1560,6 @@ Grab the Dragon Pulse TM down the waterfall before the trainer.
   :::
   :::pokemon[Empoleon]{baseStats="[84, 86, 88, 111, 101, 60]" ivs="[0, 0, 0, 0, 0, 0]" evs="[0, 0, 0, 0, 0, 0]" nature="Sassy" type="Water/Steel" level=48}
     - Thunderbolt
-
     :damage[Empoleon's Aqua Jet at +0 Defense]{source="Dialga" offensive=false movePower=40 level=54 special=false type="Water"}
   :::
 :::::
@@ -1552,9 +1577,10 @@ Grab the Dragon Pulse TM down the waterfall before the trainer.
 :::::
 
 **Elite 4 Shopping:**
-  - 0-2 Revives (RR)
-  - Max Full Restores (^)
+- 0-2 Revives (RR)
+- Max Full Restores (^)
 
+Before triggering the Barry fight:
 - Teach Stealth Rock to Dialga over Thunderbolt (slot 4).
 - Heal Dialga to full.
 - Revive Empoleon (regular not revival herb).
@@ -1630,7 +1656,7 @@ Grab the Dragon Pulse TM down the waterfall before the trainer.
     - Dragon Pulse
     :damage[Quagsire's Earthquake at +2 Defense]{source="Dialga" offensive=false movePower=100 level=56 combatStages=2 special=false type="Ground"}
   :::::
-  :::::pokemon[Golem]{info="Golem outspeeds at (30- / 7- / x)" infoColor=blue baseStats="[80, 120, 130, 55, 65, 45]" ivs="[21, 31, 21, 0, 21, 31]" evs="[12, 60, 12, 0, 12, 204]" nature="Jolly" type="Rock/Ground" level=56}
+  :::::pokemon[Golem]{info="Golem outspeeds at (30- / 7- / x) unless you used an X Speed" infoColor=blue baseStats="[80, 120, 130, 55, 65, 45]" ivs="[21, 31, 21, 0, 21, 31]" evs="[12, 60, 12, 0, 12, 204]" nature="Jolly" type="Rock/Ground" level=56}
     - Dragon Pulse
   :::::
   :::::pokemon[Sudowoodo]
@@ -1653,7 +1679,6 @@ Grab the Dragon Pulse TM down the waterfall before the trainer.
     - _If put to sleep and couldn't Stealth Rock:_
       - Use X Items as described below, Full Restore then try again
       - Could also try X Defend then tank Infernape hit (Flamethrower + Dragon Pulse on it)
-    :::
     - X Speed
     - X Sp. Attack
     :::if{source="Dialga" condition="spatk=(0+ / 4- / x)"}
