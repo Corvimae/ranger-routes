@@ -1680,10 +1680,9 @@ Before triggering the Barry fight:
     - Stealth Rock
     - _If put to sleep and couldn't Stealth Rock:_
       - Use X Items as described below, Full Restore then try again
-      - Could also try X Defend then tank Infernape hit (Flamethrower + Dragon Pulse on it)
     - X Speed
     - X Sp. Attack
-    :::if{source="Dialga" condition="spatk=(0+ / 16- / x)"}
+    :::if{source="Dialga" condition="spatk=(0+ / 4- / x)"}
     - _If not risking the range:_
       - X Sp. Attack
     :::
@@ -1694,13 +1693,13 @@ Before triggering the Barry fight:
   :::::pokemon[Lopunny]{info="Has Mirror Coat" baseStats="[65, 76, 84, 54, 96, 105]" ivs="[31, 31, 31, 0, 31, 31]" evs="[252, 0, 0, 0, 0, 0]" nature="Jolly" type="Normal" level=57}
     - Dragon Pulse
 
-    :damage[+2 Dragon Pulse]{source="Dialga" offensive=true movePower=85 level=57 evs=14 combatStages=2 special=true type="Dragon" healthThreshold=auto otherPowerModifier=1.2}
+    :damage[+2 Dragon Pulse]{source="Dialga" offensive=true movePower=85 level=57 evs=14 combatStages=2 special=true type="Dragon" healthThreshold=170 otherPowerModifier=1.2}
   :::::
   :::::pokemon[Steelix]{baseStats="[75, 85, 200, 55, 65, 30]" ivs="[31, 31, 31, 0, 31, 31]" evs="[12, 252, 0, 12, 12, 0]" nature="Adamant" type="Steel/Ground" level=57}
     - Flamethrower
   :::::
   :::::pokemon[Drifblim]
-    - Dragon Pulse :info[Dragon Pulse always kills with Stealth Rock. Thunderbolt otherwise.]{infoColor=blue}
+    - Dragon Pulse :info[Dragon Pulse always kills with Stealth Rock]{infoColor=blue}
   :::::
   :::::pokemon[Infernape]{baseStats="[76, 104, 71, 104, 71, 108]" ivs="[31, 31, 31, 0, 31, 31]" evs="[12, 60, 0, 0, 0, 204]" nature="Jolly" type="Fire/Fighting" level=62}
     - (Heal ONLY if in Mach Punch range, very scary because he might Close Combat anyways)
