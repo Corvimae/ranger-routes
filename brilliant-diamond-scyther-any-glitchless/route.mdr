@@ -168,7 +168,7 @@ If HP is low, recommend Potioning turn 1 of battle instead of outside of battle 
 
 :::::trainer[Pokemon Trainer Barry]
   :::pokemon[Starly]{baseStats="[40, 55, 30, 30, 30, 60]" ivs="[5, 5, 5, 5, 5, 5]" nature="Bashful" type="Normal/Flying" level=7 nature="Jolly"}
-    - Water Gun x2-3
+    - Water Gun spam
     :damage[Starly's Tackle/Quick Attack]{source="Piplup" offensive=false movePower=40 level=7 special=false type="Normal"}
   :::pokmeon[Turtwig]
     - _If Starly never used Growl and not safely in Torrent:_
@@ -270,14 +270,14 @@ Grab the Cheri Berries from the right side of the flower shop in Floaroma.
 
 Head east to Valley Windworks and fight the grunt outside.
 
-:::::trainer[Team Galactic Grunt]
-  :::pokemon[Glameow]{baseStats="[49, 55, 42, 42, 37, 85] nature="Bashful" type="Normal" level=11}
+:::::::trainer[Team Galactic Grunt]
+  :::::pokemon[Glameow]{baseStats="[49, 55, 42, 42, 37, 85]" nature="Bashful" type="Normal" level=11}
     :::if{source="Piplup" condition="spa=(0+ / 24- / x)"}
     - Rock Tomb
     :::
     - Water Gun x2-3
-  :::
-:::::
+  :::::
+:::::::
 
 Heal if yellow HP.
 
