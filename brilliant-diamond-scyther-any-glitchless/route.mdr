@@ -519,8 +519,6 @@ After entered Mt. Coronet
   - Register the Bike.
   - Use the Bike.
 
-Note that there is a chance you get random encounters here if Scyther is underleveled. Consider killing an encounter if you do get one and it bumps you to the next level.
-
 Grab the Ether in the Rock right above the Cyrus cutscene trigger.
 
 Head through the cave then avoid the bridge hiker spinners and head to Hearthome.
@@ -580,10 +578,11 @@ Fight the top Ace Trainer first.
   :::
   :::pokemon[Kadabra]
     - Wing Attack
+    - (Thief if Reflect)
   :::
 :::::
 
-**Withdraw Prinplup from the box into slot 1. Heal Prinplup if needed**
+**Withdraw Prinplup from the box into slot 1. Heal Prinplup/Scyther if needed**
 
 :::::trainer[Ace Trainer Dennis]
   :::pokemon[Monferno]
@@ -615,7 +614,7 @@ Take the escalator to the third floor.
 
 **Second floor, top vendor:**
 - 18 X Speed
-- 4 X Attack (v)
+- 4 X Attack (v)  (use these situationally when frozen trying to setup, save 2 for Cyrus 2)
 - 11 X Defense (v)
 - 2 X Accuracy (vv)
 - 5 X Sp. Defense (R)
@@ -629,7 +628,7 @@ Take the escalator to the third floor.
 - _Buy:_
   - MAX Hyper Potions
 
-Leave the department store and get the metronome from the Giraffarig trainer.
+Leave the department store and get the metronome from the Girafarig trainer.
 
 - Heal Scyther to full
 - Ether Wing Attack (mash A).
@@ -665,13 +664,15 @@ Head to the gym. Watch example video for puzzle solution.
   :::
 :::::
 
-Head back to the north-west of Veilstone and talk to Lucas.
+Head back to the north-west of Veilstone and talk to Lucas. 
+
+Heal if yellow HP.
 
 :::::trainer[Team Galactic Double]
   - Wing Attack Beautifly
+  - Wing Attack Stunky
   - Wing Attack Dustox
   - Wing Attack Croagunk
-  - Wing Attack Stunky
 :::::
 
 Get Fly from the warehouse on the hill, then leave Veilstone through the south gate.
@@ -688,7 +689,7 @@ Get Fly from the warehouse on the hill, then leave Veilstone through the south g
   :::
 :::::
 
-At the fences:
+After the fight:
   - Super Repel (refresh once).
   - Move Scyther to slot 1.
 
@@ -771,14 +772,15 @@ Menu and press R to retire then leave.
 
 Talk to the Team Galactic grunt outside of the Great Marsh.
 
-- Heal to full if in Quick Attack + Aqua Jet range
+- Heal to full if in Pluck + Aqua Jet range (likely)
 - Either Super Repel (do not refresh) or be prepared to yolo the 5 grass tiles outside of town
 
 Talk to the Team Galactic grunt at the east gate.
 
 :::::trainer[Pokemon Trainer Barry]
-  :::pokemon[Starly]
+  :::pokemon[Starly]{info="Has Quick Claw"}
     - Wing Attack
+    :damage[Starly's Pluck]{source="Scyther" offensive=false movePower=60 level=29 evs=6 opponentLevel=26 opponentStat=36 stab=true effectiveness=2}
     :damage[Starly's Quick Attack]{source="Scyther" offensive=false movePower=40 level=29 evs=6 opponentLevel=26 opponentStat=36 stab=true}
   :::
   :::pokemon[Ponyta]
@@ -809,7 +811,7 @@ Head north and talk to Cynthia.
 
 Head north and **walk in the grass behind the double battle**. Medicine those Psyducks up. Head north to the fog route. Head west through the grass.
 
-Use Defog from the Poketch
+Use Defog from the Poketch. (Hold R to make it appear/disappear, HM app is #20)
 
 :::::trainer[Ace Trainer Alyssa]
   :::pokemon[Ponyta]
@@ -864,16 +866,17 @@ Enter the:
 - Right door
 
 :::::trainer[Gym Leader Fantina]
-  :::pokemon[Drifblim]{info="my beloved. (Heal as needed. Has aftermath)"}
+  :::pokemon[Drifblim]{info="my beloved. (Heal as needed (heal burn immediately). Has aftermath)" baseStats="[150, 80, 44, 90, 54, 80]" evs="[52, 0, 4, 68, 4, 52]" ivs="[19, 0, 5, 19, 5, 19]" nature="Timid" level=32}
     - X Speed
     - Swords Dance
     - _If Drifblim used Strength Sap:_
-      - Swords Dance (x2 if happaned again)
+      - Swords Dance (x2 if happened again)
     - _If Drifblim used Fly:_
       - X Defense (only need to do this once)
     - (Swords Dance if you're still not at +2)
     - Thief
     :info[Do not teach Agility.]{color=gray}
+    :damage[Fly +2]{source="Scyther" offensive=false movePower=90 level=31 type="Flying" combatStages=2}
   :::
   :::pokemon[Gengar]
     - Wing Attack
@@ -942,19 +945,19 @@ Take the fourth elevator.
 
 At the fork, go up, then take the lift near the trainer.
 
-Onix's can outspeed, heal between fights as needed. (TODO: Add thresholds)
+Onix's can outspeed, heal between fights as needed.
 
 :::::trainer[Worker Gerardo]
-  :::pokemon[Onix]
+  :::pokemon[Onix]{baseStats="[35, 45, 160, 30, 45, 70]" nature="Relaxed" level=29}
     - Bubble Beam
   :::
-  :::pokemon[Onix]
+  :::pokemon[Onix]{baseStats="[35, 45, 160, 30, 45, 70]" nature="Relaxed" level=29}
     - Bubble Beam
   :::
 :::::
 
 :::::trainer[Black Belt David]
-  :::pokemon[Onix]
+  :::pokemon[Onix]{baseStats="[35, 45, 160, 30, 45, 70]" nature="Relaxed" level=30}
     - Bubble Beam
   :::
   :::pokemon[Steelix]
