@@ -1680,7 +1680,7 @@ Before triggering the Barry fight:
     - Stealth Rock
     - _If put to sleep and couldn't Stealth Rock:_
       - Use X Items as described below, Full Restore then try again
-    - X Speed
+    - X Speed (x2 if -Speed)
     - X Sp. Attack
     :::if{source="Dialga" condition="spatk=(0+ / 4- / x)"}
     - _If not risking the range:_
@@ -1747,7 +1747,7 @@ Before triggering the Barry fight:
 :::::trainer[Champion Cynthia]
   :::pokemon[Spiritomb]{baseStats="[50, 92, 108, 92, 108, 35]" ivs="[31, 31, 31, 31, 31, 31]" evs="[252, 6, 0, 252, 0, 0]" type="Ghost/Dark" level=61 nature="Quiet"}
     - X Sp. Defense :info[Tricks Cynthia into spamming Sucker Punch. May need to use 2 if horrible Sp. Def and good Def.]{color=gray}
-    - X Speed
+    - X Speed (x2 if -Speed)
     - X Sp. Attack x3
     - Dragon Pulse
     :damage[Spiritomb's Shadow Ball/Dark Pulse at +2 Sp. Defense]{source="Dialga" offensive=false movePower=80 level=57 special=true combatStages=2 evs=14 type="Dark"}
