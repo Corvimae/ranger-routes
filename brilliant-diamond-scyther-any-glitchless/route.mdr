@@ -594,7 +594,7 @@ Fight the top Ace Trainer first.
     - Grass Knot until dead
     - Wing Attack spam
     :info[Do not teach Slash]{color=gray}
-    :damage[Gyarados' Ice Fang]{source="Scyther" offensive=false movePower=65 combatStages=2 level=23 evs=6 opponentLevel=23 opponentStat=62 effectiveness=2}
+    :damage[Gyarados' Ice Fang]{source="Scyther" offensive=false movePower=65 level=23 evs=6 opponentLevel=23 opponentStat=62 effectiveness=2}
   :::
 :::::
 
