@@ -123,7 +123,7 @@ Select Piplup (right-most ball).
   - Pound spam
 :::
 
-Check stats, currently this is routed for anything thats not, -Special Attack, or -Speed nature. -Attack is slow but runnable. It's probably fine for really high -natures but haven't checked. Anything less than 18 IV -Speed is basically unrunnable.
+Check stats, currently this is routed for anything thats not -Special Attack, or -Speed nature. -Attack is slow but runnable. It's probably fine for really high -natures but haven't checked. Anything less than 18 IV -Speed is basically unrunnable.
 
 Run north, then east to Sandgem Town.
 
@@ -276,6 +276,7 @@ Head east to Valley Windworks and fight the grunt outside.
     - Rock Tomb
     :::
     - Water Gun x2-3
+    ::damage[Glameow's Fake Out/Scratch]{source="Piplup" offensive=false movePower=40 level=13 evs=0 special=false type="Normal"}
   :::::
 :::::::
 
@@ -318,8 +319,9 @@ Head to the north-east and fight the left trainer by talking to him diagonally.
   :::pokemon[Beautifly]
     - Rock Tomb
   :::
-  :::pokemon[Silcoon]
-    - Pluck (x2)
+  :::pokemon[Silcoon]{baseStats="[50, 35, 55, 25, 25, 15]" nature="Naive" type="Bug" level=11}
+    - Pluck + (Water Gun) / Water Gun x2
+    :damage[Lv16 Piplup Pluck]{source="Piplup" offensive=true movePower=60 level=16 evs=0 type="Flying" healthThreshold=auto}
   :::
 :::::
 
@@ -366,11 +368,11 @@ Head east to Eterna City and enter the house to the right of the center. Talk to
 
 Head north-west and cut thruogh the Spacious Cave to get to the Grassland Cave to its west. 
 
-If you're level 17, consider fighting a Budew/Geodude to reach level 18.
+If you're level 17, strongly recommend fighting a Wurmple/Geodude/Budew to reach level 18.
 
 **Save the game.**
 
-Enter and exit the Grassland Cave until you see Scyther. **If you see Absol, leave the room immediately.** You can save when you see Scyther if you're worried about running out of Net Balls; the stats for a Pokemon are determined when it spawns, so they persist through saves.
+Enter and exit the Grassland Cave until you see Scyther. Scanning the entire room seems to have the best results, Scyther may be hiding on the far left/right side. **If you see Absol, leave the room immediately.** You can save when you see Scyther if you're worried about running out of Net Balls; the stats for a Pokemon are determined when it spawns, so they persist through saves.
 
 If Scyther is your level or lower, this is a 35% catch at full HP. Otherwise, it's a 5% catch. This is a good video game. If it's higher than your level, run away or kill for EXP if its safe.
 
@@ -385,9 +387,13 @@ If Scyther is your level or lower, this is a 35% catch at full HP. Otherwise, it
   ::damage[Lv17 Average Swarm Scyther Wing Attack at -2]{source="Piplup" evolution=1 offensive=false movePower=60 level=18 evs=0 opponentLevel=17 opponentStat=42 special=false stab=true opponentCombatStages=-2}
   ::damage[Lv18 Average Technician Scyther Wing Attack at -2]{source="Piplup" evolution=1 offensive=false movePower=90 level=18 evs=0 opponentLevel=18 opponentStat=44 special=false stab=true opponentCombatStages=-2}
   ::damage[Lv18 Average Swarm Scyther Wing Attack at -2]{source="Piplup" evolution=1 offensive=false movePower=60 level=18 evs=0 opponentLevel=18 opponentStat=44 special=false stab=true opponentCombatStages=-2}
+  ::damage[Lv19 Average Technician Scyther Wing Attack at -2]{source="Piplup" evolution=1 offensive=false movePower=90 level=18 evs=0 opponentLevel=19 opponentStat=44 special=false stab=true opponentCombatStages=-2}
+  ::damage[Lv19 Average Swarm Scyther Wing Attack at -2]{source="Piplup" evolution=1 offensive=false movePower=60 level=18 evs=0 opponentLevel=19 opponentStat=44 special=false stab=true opponentCombatStages=-2}
+  ::damage[Lv20 Average Technician Scyther Wing Attack at -2]{source="Piplup" evolution=1 offensive=false movePower=90 level=18 evs=0 opponentLevel=20 opponentStat=44 special=false stab=true opponentCombatStages=-2}
+  ::damage[Lv20 Average Swarm Scyther Wing Attack at -2]{source="Piplup" evolution=1 offensive=false movePower=60 level=18 evs=0 opponentLevel=20 opponentStat=44 special=false stab=true opponentCombatStages=-2}
 :::
 
-- **Check Scyther to make sure it has Technician as it's ability. -Attack is scary and not fully routed. -Speed is not ideal but should be fine.**
+- **Check Scyther to make sure it has Technician as it's ability. -Attack is scary and not routed. -Speed is not ideal but should be fine.**
 - Move Wing Attack to the first move slot.
 - Move Scyther to slot 1.
 
@@ -452,14 +458,15 @@ Heal if poisoned.
 Head to the building directly to the right of the Galactic Eterna building.
 
 **Eterna Shopping:**
-- 10 Heal Powder
+- 8 Heal Powder
 - 5 Energy Powders (v)
-- 5 Energy Root (vv)
+- 6 Energy Root (v)
 - 1 Revival Herb (v)
 
 Get Thief from the the path to the north-east of the Team Galactic building.
 - Heal team to full.
 - Teach Thief to Scyther over slot 4.
+- Teach Rock Smash to Scyther over slot 3.
 - Teach Grass Knot to Prinplup over Water Gun (slot 3).
 
 :::::trainer[Team Galactic Double]
@@ -496,22 +503,23 @@ Heal Scyther to full.
     - Wing Attack
   :::
   :::pokemon[Skuntank]{info="Has Aftermath, 25% damage when you kill." baseStats="[103, 93, 67, 71, 61, 84]" evs="[68, 0, 68, 0, 68, 0]" ivs="[15, 0, 15, 0, 15, 0]" nature="Modest" type="Dark/Poison" level=20}
-    - _If -Atk or Scyther is not Lv20+:_
+    - _If -Atk or going for range:_
       - Wing Attack
     - _Else:_
       - Thief
-    - Wing Attack
-    :info[Finish with Prinplup (Bubble Beam) if needed]{color=gray}
+    - Wing Attack :info[Finish with Prinplup (Bubble Beam) if needed]{color=gray}
+    :damage[Lv21 Wing Attack]{source="Scyther" offensive=true movePower=90 level=21 evs=0 type="Flying" healthThreshold=auto combatStages=2}
+    :damage[Lv22 Wing Attack]{source="Scyther" offensive=true movePower=90 level=22 evs=0 type="Flying" healthThreshold=auto combatStages=2}
     ::damage[Skuntank's Flamethrower to Scyther]{source="Scyther" offensive=false movePower=90 level=20 evs=0 special=true type="Fire"}
     ::damage[Skuntank's Snarl to Prinplup]{source="Piplup" evolution=1 offensive=false movePower=55 level=20 evs=0 special=true type="Dark" stab=true}
   :::
 :::::
 
-Get the bike from the Cycle shop. Head south to Cycling Road and avoid all the trainers. After the VS Seeker cutscene with Lucas, get the hidden revive to the right. ![](https://media.discordapp.net/attachments/735229809420009516/914237966472339506/unknown.png?width=819&height=447)
-
-If Scyther died on Jupiter, consider grabbing the hidden Rare candy by the hiker spinner and using it right before Maylene to guarantee Lv25 for Lucario.
+Get the bike from the Cycle shop. Head south to Cycling Road and avoid all the trainers.
 
 :info[_Start down the left side, cut to the far right after the first trainer, cut back to the far left after the third trainer. At the bottom of the lane, cut to the far right, head right past the trainer, then cut to the middle._]{color=gray}
+
+After the VS Seeker cutscene with Lucas, get the hidden revive to the right. ![](https://media.discordapp.net/attachments/735229809420009516/914237966472339506/unknown.png?width=819&height=447)
 
 Head through the gap in the rocks, then go right. Watch out for the roamers. Head past the hiker spinner into the cave. 
 
@@ -556,14 +564,14 @@ After leaving town:
 Before reaching Solaceon Town, enter the Lost Tower. Talk to the left person on the top floor, then Escape Rope out and continue heading north.
 
 You can ignore the doubles. Avoid the spinner by going through the grass.
-At the milk house, head east. Note that its safer to do the next fight with Prinplup, but the exp route doesn't work as nicely if you don't use Scyther.
+At the milk house, head east.
 
 :::::::trainer[Ruin Maniac Calvin]
   :::::pokemon[Bronzor]
     - Thief x2
   :::::
   :::::pokemon[Shieldon]
-    - Thief spam
+    - Rock Smash x2
   :::::
 :::::::
 
@@ -579,8 +587,7 @@ Fight the top Ace Trainer first.
     - Wing Attack
   :::
   :::pokemon[Kadabra]
-    - Wing Attack
-    - (Thief if Reflect)
+    - Thief
   :::
 :::::
 
@@ -611,20 +618,19 @@ Take the escalator to the third floor.
   - Sword Dance (^^^)
 
 **Third floor, bottom vendor:**
-- Thunderbolt (R)
-- Flamethrower (^)
+- Flamethrower (R^)
 
 **Second floor, top vendor:**
 - 18 X Speed
-- 5 X Attack (v)  (use these situationally when frozen trying to setup, save 2 for Cyrus 2 and 1 for the Dialga section)
+- 8 X Attack (v)  (use these situationally when frozen trying to setup, need 4 by the time you get to Cyrus 2)
 - 10 X Defense (v)
-- 2 X Accuracy (vv)
+- 2 X Accuracy (vvv)
 - 5 X Sp. Defense (R)
-- 20 X Sp. Attack (^)
+- 21 X Sp. Attack (^)
 
 **First floor, left vendor:**
 - _Buy:_
-  - 3-5 Super Repels (at least 3)
+  - 4-5 Super Repels (at least 3, recommend 4)
 
   **First floor, right vendor:**
 - _Buy:_
@@ -634,7 +640,6 @@ Leave the department store and get the metronome from the Girafarig trainer.
 
 - Heal Scyther to full
 - Ether Wing Attack (mash A).
-- (Use Rare Candy if you grabbed it)
 - Equip the Metronome on Scyther.
 - Teach Swords Dance to Scyther in slot 2.
 
@@ -648,7 +653,10 @@ Head to the gym. Watch example video for puzzle solution.
 
 :::::trainer[Gym Trainer Maylene]
   :::pokemon[Meditite]
-    - Swords Dance (x2 if range is horrible)
+    - Swords Dance
+    - _If you didn't get Flash or take any damage_:
+      - Wing Attack
+    - Swords Dance
     - _If Flash'd:_
       - X Accuracy (x2 if need to, 1 X Accuracy undoes 2 Flashs)
     - _If Metal Claw kills you:_
@@ -659,9 +667,10 @@ Head to the gym. Watch example video for puzzle solution.
   :::pokemon[Machoke]
     - Wing Attack
   :::
-  :::pokemon[Lucario]{info="If Scyther never died you should always be 25 for Lucario and you killed Gyarados" baseStats="[70, 110, 70, 115, 70, 90]" ivs="[0, 15, 15, 0, 0, 15]" evs="[0, 68, 68, 0, 0, 68]" nature="Adamant" type="Steel/Fighting" level=30}
+  :::pokemon[Lucario]{info="If Scyther never died you should always be 25 for Lucario if you killed Gyarados" baseStats="[70, 110, 70, 115, 70, 90]" ivs="[0, 15, 15, 0, 0, 15]" evs="[0, 68, 68, 0, 0, 68]" nature="Adamant" type="Steel/Fighting" level=30}
     - Wing Attack (x2)
     :damage[Lucario's Metal Claw]{source="Scyther" offensive=false movePower=50 level=25 special=false type="Steel"}
+    :damage[Lucario's Metal Claw after Bulk Up]{source="Scyther" offensive=false movePower=50 level=25 special=false type="Steel" opponentCombatStages=1}
     :damage[Lv24 +2 Wing Attack w/ 2 Metronome Boosts]{source="Scyther" offensive=true movePower=90 combatStages=2 stab=true level=24 evs=7 type="Flying" healthThreshold=82 otherPowerModifier=1.4}
     :damage[Lv25 +2 Wing Attack w/ 2 Metronome Boosts]{source="Scyther" offensive=true movePower=90 combatStages=2 stab=true level=25 evs=7 type="Flying" healthThreshold=82 otherPowerModifier=1.4}
   :::
@@ -684,10 +693,10 @@ Get Fly from the warehouse on the hill, then leave Veilstone through the south g
   :::pokemon[Gastly]
     - Thief
   :::
-  :::pokemon[Misdreavus]
+  :::pokemon[Kadabra]
     - Thief
   :::
-  :::pokemon[Kadabra]
+  :::pokemon[Misdreavus]
     - Thief
   :::
 :::::
@@ -769,9 +778,9 @@ Press the green button, then head down and press the orange button.
   :::
 :::::
 
-Go into Great Marsh, get Defog from man to the right of the entrance.
-
-Menu and press R to retire then leave.
+_If you want to see in the fog at the cost of time_:
+  - Go into Great Marsh, get Defog from man to the right of the entrance.
+  - Menu and press R to retire then leave.
 
 Talk to the Team Galactic grunt outside of the Great Marsh.
 
@@ -814,7 +823,7 @@ Head north and talk to Cynthia.
 
 Head north and **walk in the grass behind the double battle**. Medicine those Psyducks up. Head north to the fog route. Head west through the grass.
 
-Use Defog from the Poketch. (Hold R to make it appear/disappear, HM app is #20)
+Use Defog from the Poketch if you got it. Otherwise, pray for spinner passes. (Hold R to make it appear/disappear, HM app is #20)
 
 :::::trainer[Ace Trainer Alyssa]
   :::pokemon[Ponyta]
@@ -877,7 +886,13 @@ Enter the:
     - _If Drifblim used Fly:_
       - X Defense (only need to do this once)
     - (Swords Dance if you're still not at +2)
+    :::if{source="Scyther" condition="atk=(x / 23+ / 0+)"}
+    - Wing Attack
+    :::
+    :::if{source="Scyther" condition="atk=(0+ / 0-22 / 0+)"}
     - Thief
+    :::
+    -
     :info[Do not teach Agility.]{color=gray}
     :damage[Fly +2]{source="Scyther" offensive=false movePower=90 level=31 type="Flying" combatStages=2}
   :::
@@ -892,13 +907,14 @@ Enter the:
 
 After exiting the gym:
 - Heal to full.
-- Teach Defog to Scyther over slot 3.
 - Teach Surf to Prinplup over Rock Tomb (slot 2).
 - Teach Stealth Rock to Prinplup over Charm (slot 4).
 - Equip the Metronome on Scyther.
 - Equip Choice Specs to Prinplup.
 - Super Repel (do not refresh).
 - Fly to Jubilife City and head west.
+
+Go fully west to the water, surf to the land with Fishermen, then surf again to fully avoid the spinner.
 
 At Canalave, cross the bridge.
 
@@ -931,8 +947,8 @@ At Canalave, cross the bridge.
 **Swap Prinplup to slot 1 and enter the Canalave gym.**
 
 :::::trainer[Black Belt Ricky]
-  :::pokemon[Steelix]
-    - Grass Knot x2 / Bubble Beam x2 if bad Special Attack
+  :::pokemon[Steelix]{baseStats="[75, 85, 200, 55 ,65, 30]" nature="Relaxed" level=33}
+    - Grass Knot x2
   :::
 :::::
 
@@ -969,11 +985,12 @@ Onix's can outspeed, heal between fights as needed.
   :::
 :::::
 
-- Heal Prinplup if below 50%.
+- Heal Prinplup to full.
 
 :::::trainer[Ace Trainer Breanna]
   :::pokemon[Azumarill]
     - Grass Knot x2-3
+    - (Finish with Scyther if needed)
   :::
 :::::
 
@@ -1005,11 +1022,12 @@ Enter the library and head to the third floor. After the cutscene, exit the libr
 - Either Super Repel or be prepared to yolo 5 grass tiles.
 - Fly to Pastoria
 
-Head west back to the resort area. Grab the hotel heal on your way through, and head up to Lake Valor.
+Head east back to the hotel area. Grab the hotel heal on your way through, and head up to Lake Valor.
 
 :::::trainer[Commander Saturn]
   :::pokemon[Kadabra]
-    - Wing Attack
+    - Thief
+    - (Wing Attack)
     :info[Do not teach Air Slash.]{color=gray}
   :::
   :::pokemon[Bronzor]
@@ -1021,6 +1039,8 @@ Head west back to the resort area. Grab the hotel heal on your way through, and 
     - Wing Attack
   :::
 :::::
+
+Heal if below 50% HP.
 
 Exit the cave and fly to Twinleaf Town, then head north-west to Lake Verity.
 
@@ -1057,9 +1077,9 @@ Fly to Celestic Town.
 Enter the house in the north-west of Celestic.
 
 Buy:
-- 11 Hyper Potions (R^^^)
-- MAX Super Repels (RR)
+- 21 Hyper Potions (R^^^)
 - Full Heals/Revives if needed
+- MAX Super Repels (RR)
 
 Menu before the grass:
 - Heal to full.
@@ -1067,7 +1087,8 @@ Menu before the grass:
 - Equip a Cheri Berry on Scyther :info[(almost always makes you safe for the next fight)]{color=gray}
 
 Head east to Mount Coronet. Head north once you enter the cave and follow the path to Route 216. 
-- Grab both Rare Candies (first is left of rock smash rocks near entrance (break them), second is in rock in fog room)
+- Grab the Rare Candy behind the Rock Smash rocks 
+- Grab the Rare Candy in the rock in fog room
 
 :::::trainer[Ace Trainer Dalton]
   :::pokemon[Raichu]{info="Scyther outspeeds at (x / 12+ / 0+)" infoColor=blue}
@@ -1087,6 +1108,7 @@ Head east to Mount Coronet. Head north once you enter the cave and follow the pa
 Head north-by-northeast and grab Rock Climb from the pokeball behind the house, then head north.
 
 - Equip the Metronome if you equipped a Cheri Berry.
+- Heal if needed
 
 :::::trainer[Ace Trainer Olivia]
   :::pokemon[Roselia]
@@ -1119,12 +1141,12 @@ When you see the two grunts, head east. Head to the Snowpoint Gym.
   :::pokemon[Abomasnow]
     - Wing Attack
   :::
-  :info[Let Prinplup Evolve]{color=gray}
-  
-  :info[Teach Aqua Jet over Grass Knot]{color=gray}
+  :info[Let Prinplup Evolve, do not teach Aqua Jet]{color=gray}
 :::::
 
-Head south from the gym, then west to Lake Acuity. After the cutscene, fly to Veilstone City.
+Head south from the gym, then west to Lake Acuity. After the cutscene:
+- Heal if <50% HP.
+- fly to Veilstone City.
  
 Do not refresh your Repel when it runs out.
 
@@ -1158,8 +1180,6 @@ Grab the Galactic Key in the pokeball behind the boxes.
 Exit the warehouse and head to the Galactic HQ. 
 Enter the middle door and head up the stairs.
 
-Heal if in red HP.
-
 :::::trainer[Team Galactic Grunt]
   :::pokemon[Golbat]
     - Wing Attack x2
@@ -1177,8 +1197,8 @@ Grab the Full Restore in the machine thing to the right, then fight the double b
 
 :::::trainer[Team Galactic Double]
   - Wing Attack / Bubble Beam
-  - Wing Attack / Bubble Beam
-  - Heal Scyther to full or Defog / Bubblebeam
+  - Wing Attack / Bubble Beam :info[Order varies here, try to avoid Wing Attacking Stunky]{color=gray}
+  - Heal Scyther to full / Bubble Beam
 :::::
 
 Take the left-most teleporter and head up the stairs.
@@ -1201,11 +1221,11 @@ Take the left-most teleporter and head up the stairs.
 
 Take the teleporter in the north-east of the room.
 
-- Heal if under 25% HP.
+- Heal if under 50% HP.
 
 :::::trainer[Commander Saturn]
   :::pokemon[Kadabra]
-    - Wing Attack
+    - Thief
   :::
   :::pokemon[Bronzor]
     - Thief
@@ -1225,7 +1245,7 @@ Leave the Galactic HQ and fly to Oreburgh. Head north, and once inside Mt. Coron
 
 Head through the one tile path after biking up the slope and head to Mt. Coronet. Surf across the water, then Rock Climb and head up the stairs.
 
-Grab the Ether from the rock between the two spinner grunts.
+(Recommended backup, but not required): Grab the Ether from the rock between the two spinner grunts.
 
 Grab the Rare Candy in the last outdoor section on the rock in the grass.
 
@@ -1274,26 +1294,22 @@ Grab the Rare Candy in the last outdoor section on the rock in the grass.
 :::::trainer[Team Galactic Double]
   - Wing Attack Dustox / Bubble Beam Stunky
   - Wing Attack Glameow / Bubble Beam Croagunk
+  :info[Do not teach Whirlpool]{color=gray}
 :::::
 
-Move Empoleon to slot 1.
+- Heal Empoleon to full.
+- Swap Empoleon to slot 1.
 
 :::::trainer[Commander Jupiter & Mars]
-  - Swap to Scyther
-  - Swords Dance x2 / X Attack x2 if confused
   - X Speed
-  - _If Reflect is up and does not expire at the end of this turn:_
-    - Defog
-  - Heal to full if needed
-  - Thief/Wing Attack left side, then right
-    - Thief Bronzors, Wing Attack everything else
-    - Skuntank has Aftermath and Flamethrower
-    - Can be a lot of variance with this fight due to Barry
-    - +2 WA is a range to kill Purugly, guaranteed with Metronome boost and neutral Attack
+  - X Sp. Attack x2-3 (3 if need to stall Light Screen)
+  - Surf Spam
+    - Be aware of Light Screen
+    - Can use an X Sp. Def to stall as well
     - Always IMMEDIATELY kill Golbat's when they come out (they have Haze which eliminates stat changes)
     - Heal confusion as needed
-  -
-  :info[Do not teach Whirlpool]{color=gray}
+    - If Purugly uses Dig, X Defense
+    - +4 no screen one shots everything, +6 with screen one shots everything consistently besides skuntank (guaranteed at (x / 25+ / 2+))
 :::::
 
 :info[**Free Heal**]{color=pink}
@@ -1321,6 +1337,8 @@ Move Empoleon to slot 1.
   :::
   :::pokemon[Weavile]
     - Wing Attack
+    :info[Will outspeed if Tailwind was used by Crobat]{infoColor=blue}
+    :damage[Weavile's Aerial Ace at +2]{source="Scyther" offensive=false special=false movePower=60 level=45 opponentLevel=48 opponentStat=120 effectiveness=2 stab=false combatStages=2}
   :::
 :::::
 
@@ -1328,9 +1346,11 @@ Catch Dialga with the Master Ball.
 
 Enter the cave again.
 
+- Equip the Metronome to Dialga from Scyther.
+- Equip the Choice Specs to Scyther from Empoleon
+- Box Empoleon
 - Move Dialga to slot 1
-- Equip the Choice Specs to Dialga.
-- Teach Flamethrower over Ancient Power (slot 1).
+- Teach Flamethrower over Ancient Power (slot 1) (plug stats into IV Calculator now).
 - Rare Candy Dialga x2 -> Lv49, teach Dragon Claw over Slash
 - Escape Rope
 - Fly to either Pastoria (do not hotel heal) or Veilstone City then head to Sunyshore.
@@ -1353,8 +1373,7 @@ After entering Sunyshore, head to the lighthouse. Talk to Volkner, then head to 
 
 :::::trainer[School Kid Tiera]
   :::pokemon[Pachirisu]{baseStats="[60, 45, 70, 45, 90, 45]" ivs="[0, 0, 0, 0, 0, 0]" evs="[0, 0, 0, 0, 0, 0]" nature="Jolly" type="Electric" level=44}
-    - Roar of Time / Flamethrower
-    :damage[Flamethrower]{source="Dialga" offensive=true movePower=90 level=49 type="Fire" special=true healthThreshold=auto choiceItem=true}
+    - Roar of Time
   :::
 :::::
 
@@ -1368,45 +1387,42 @@ After entering Sunyshore, head to the lighthouse. Talk to Volkner, then head to 
 
 :::::trainer[Guitarist Jerry]
   :::pokemon[Luxio]{baseStats="[60, 85, 49, 60, 49, 60]" ivs="[0, 0, 0, 0, 0, 0]" evs="[0, 0, 0, 0, 0, 0]" nature="Jolly" type="Electric" level=44}
-    - Flamethrower
+    - Flamethrower / Roar of Time
+    :damage[Flamethrower]{source="Dialga" offensive=true movePower=90 level=49 type="Fire" special=true healthThreshold=auto choiceItem=false}
   :::
 :::::
 
 :::::trainer[Ace Trainer Destiny]
   :::pokemon[Kadabra]{info="Kadabra outspeeds." infoColor=blue baseStats="[40, 35, 30, 120, 70, 105]" ivs="[0, 0, 0, 0, 0, 0]" evs="[0, 0, 0, 0, 0, 0]" nature="Timid" type="Psychic" level=44}
-    :::if{source="Dialga" condition="spa=(x / 23+ / 0+)"}
-    - Flamethrower
-    :::
-    :::if{source="Dialga" condition="spa=(0+ / 0-22 / x)"}
-    - Flash Cannon
-    :::
+    - Dragon Claw
   :::
   :::pokemon[Raichu]{info="Has Quick Attack" baseStats="[60, 90, 55, 90, 80, 110]" ivs="[0, 0, 0, 0, 0, 0]" evs="[0, 0, 0, 0, 0, 0]" nature="Jolly" type="Electric" level=44}
-    :::if{source="Dialga" condition="spa=(x / 23+ / 0+)"}
-    - Flamethrower
-    :::
-    :::if{source="Dialga" condition="spa=(0+ / 0-22 / x)"}
-    - Flash Cannon
-    :::
+    - Roar of Time
     :damage[Raichu's Quick Attack at +0 Defense]{source="Dialga" offensive=false movePower=40 level=49 type="Normal" special=false}
+    :damage[Dragon Claw]{source="Dialga" offensive=true movePower=80 level=49 type="Dragon" special=false healthThreshold=auto choiceItem=false otherPowerModifier=1.2}
   :::
 :::::
 
 :::::trainer[Guitarist Preston]
   :::pokemon[Luxio]{baseStats="[60, 85, 49, 60, 56, 60]" ivs="[0, 0, 0, 0, 0, 0]" evs="[0, 0, 0, 0, 0, 0]" nature="Jolly" type="Electric" level=42}
-    - Flamethrower
+    - Flamethrower (x2)
+    :damage[Flamethrower]{source="Dialga" offensive=true movePower=90 level=49 type="Fire" special=true healthThreshold=auto choiceItem=false}
   :::
   
   :::pokemon[Bibarel]{baseStats="[79, 85, 60, 55, 60, 71]" ivs="[0, 0, 0, 0, 0, 0]" evs="[0, 0, 0, 0, 0, 0]" nature="Jolly" type="Normal/Water" level=42}
-    - Flamethrower (x2)
-    :damage[+0 Flamethrower]{source="Dialga" offensive=true movePower=90 level=50 type="Fire" special=true healthThreshold=auto choiceItem=true effectiveness=0.5}
-    :damage[Bibarel's Bulldoze]{source="Dialga" offensive=false movePower=60 level=50 effectiveness=2 type="Ground"}
+    - Roar of Time
   :::
 :::::
 
 :::::::trainer[Ace Trainer Zachery]
   :::::pokemon[Steelix]{baseStats="[75, 85, 200, 55, 65, 30]" ivs="[0, 0, 0, 0, 0, 0]" evs="[0, 0, 0, 0, 0, 0]" nature="Relaxed" type="Steel/Ground" level=44}
+    :::if{source="Dialga" condition="spa=(x / 0+ / 0+)"}
     - Flash Cannon x2
+    :::
+    :::if{source="Dialga" condition="spa=(0+ / x / x)"}
+    - Flamethrower
+    - Flash Cannon
+    :::
   :::::
   :::::pokemon[Medicham]{baseStats="[60, 60, 75, 60, 75, 80]" ivs="[0, 0, 0, 0, 0, 0]" evs="[0, 0, 0, 0, 0, 0]" nature="Jolly" type="Fighting/Psychic" level=44}
     - Flash Cannon
@@ -1417,34 +1433,29 @@ Heal to full.
 
 :::::trainer[Gym Leader Volkner]{info="Heal as needed."}
   :::pokemon[Setup]
-    - X Sp. Attack x1-2
+    - X Attack
     - X Speed recommended
   :::
   :::pokemon[Raichu]{baseStats="[60, 90, 55, 90, 80, 110]" ivs="[11, 0, 11, 28, 11, 28]" evs="[12, 0, 12, 160, 12, 160]" nature="Timid" type="Electric" level=46}
-    - Flash Cannon (x2)
-    :damage[+2 Flash Cannon]{source="Dialga" offensive=true movePower=80 special=true level=50 combatStages=2 type="Steel" healthThreshold=auto choiceItem=true}
+    - Dragon Claw
   :::
   :::pokemon[Ambipom]{baseStats="[75, 100, 66, 60, 66, 115]" ivs="[11, 20, 11, 20, 11, 28]" evs="[12, 0, 12, 160, 12, 160]" nature="Naive" type="Normal" level=47}
-    - (X Special to +4 or X Speed because of Fake Out)
-    - Flash Cannon
+    - (X Speed or heal Paralysis because of Fake Out)
+    - Dragon Claw
   :::
   :::pokemon[Octillery]{baseStats="[75, 105, 75, 105, 75, 45]" ivs="[11, 0, 11, 28, 11, 28]" evs="[12, 0, 12, 160, 12, 160]" nature="Modest" type="Water" level=47}
-    - Flash Cannon (x2) 
-    :damage[+2 Flash Cannon]{source="Dialga" offensive=true movePower=80 special=true level=50 combatStages=2 type="Steel" healthThreshold=auto choiceItem=true}
+    - Dragon Claw
   :::
   :::pokemon[Luxray]{baseStats="[80, 120, 79, 95, 79, 70]" ivs="[15, 28, 15, 0, 0, 30]" evs="[28, 160, 28, 0, 0, 200]" nature="Jolly" type="Electric" level=49}
-    - Flash Cannon
-    :damage[+2 Flash Cannon]{source="Dialga" offensive=true movePower=80 special=true level=50 combatStages=2 type="Steel" healthThreshold=auto choiceItem=true}
+    - Dragon Claw
+    :damage[+1 Dragon Claw]{source="Dialga" offensive=true movePower=80 special=false level=50 combatStages=1 evs=4 type="Dragon" choiceItem=false healthThreshold=auto otherPowerModifier=1.6}
   :::
 :::::
 
 Get Waterfall from Jasmine.
 
-- Teach Thunderbolt over Roar of Time (slot 4).
 - Super repel (refresh until you get to the Pokemon League).
 - Heal to full.
-- Ether Flash Cannon.
-- Equip the Metronome on Dialga.
 
 Head north to Victory Road.
 
@@ -1462,13 +1473,14 @@ Head north to Victory Road.
 
 :::::trainer[Ace Trainer Mariah]
   :::pokemon[Golduck]{baseStats="[80, 120, 79, 95, 79, 70]" ivs="[0, 0, 0, 0, 0, 0]" evs="[0, 0, 0, 0, 0, 0]" nature="Calm" type="Water" level=46}
-    - Thunderbolt (x2)
-    :damage[+0 Thunderbolt]{source="Dialga" offensive=true movePower=90 special=true level=51 evs=4 type="Electric" healthThreshold=auto}
+    - Dragon Claw x2
   :::
   :::pokemon[Blissey]
     - Dragon Claw
   :::
 :::::
+
+Grab the Max Elixir hidden in the rock behind the trainer you just fought.
 
 :::::trainer[Ace Trainer Omar]
   :::pokemon[Rapidash]
@@ -1482,37 +1494,38 @@ Head north to Victory Road.
   :::
 :::::
 
-- Heal if in range of Moonblast and not +special attack
-- Equip Choice Specs
+:::if{source="Dialga" condition="spa=(x / x / 21+)"}
+  - Equip Choice Specs from Scyther to Dialga.
+:::
 
 :::::trainer[Ace Trainer Sydney]
   :::pokemon[Clefable]{baseStats="[95, 70, 73, 95, 90, 60]" ivs="[0, 0, 0, 0, 0, 0]" evs="[0, 0, 0, 0, 0, 0]" nature="Calm" type="Fairy" level=46}
-    :::if{source="Dialga" condition="spa=(x / x / 21+)"}
     - Flash Cannon
-    :::
-    :::if{source="Dialga" condition="spa=(0+ / 0+ / 0-20)"}
-    - X Sp. Attack
-    - Flash Cannon
-    :::
-    :damage[Clefairy's Moonblast at +0 Sp. Defense]{source="Dialga" offensive=false movePower=95 level=52 special=true type="Fairy"}
+    :damage[Clefable's Moonblast at +0 Sp. Defense]{source="Dialga" offensive=false movePower=95 level=52 special=true type="Fairy"}
   :::
   :::pokemon[Torterra]{baseStats="[95, 109, 105, 75, 85, 56]" ivs="[0, 0, 0, 0, 0, 0]" evs="[0, 0, 0, 0, 0, 0]" nature="Impish" type="Grass/Ground" level=48}
-    - Flash Cannon
-    :damage[+0 Flash Cannon]{source="Dialga" offensive=true movePower=80 special=true level=52 evs=4 type="Steel" choiceItem=true healthThreshold=auto} 
+    - _If you equipped Choice Specs before the fight_:
+      - Flash Cannon
+    - Roar of Time / Flamethrower x2
+    :damage[+0 Roar of Time]{source="Dialga" offensive=true movePower=150 special=true level=52 evs=4 type="Dragon" choiceItem=false healthThreshold=auto}
   :::
 :::::
 
 - Heal if red HP
+- Max Elixir Dialga
+:::if{source="Dialga" condition="spa=(0+ / 0+ / 0-20)"}
+  - Equip Choice Specs from Scyther to Dialga.
+:::
+
+Grab the hidden Rare Candy in the wall if your Dialga is -Special Attack nature.
 
 :::::trainer[Veteran Clayton]
   :::pokemon[Staraptor]{info="You outspeed. Has Quick Attack." infoColor=blue baseStats="[85, 120, 70, 50, 60, 100]" ivs="[0, 0, 0, 0, 0, 0]" evs="[0, 0, 0, 0, 0, 0]" nature="Relaxed" type="Normal/Flying" level=47}
-    - (X Sp. Attack if scared of Hippowdon range, random AI though)
     - Flash Cannon
     :damage[Staraptor's Take Down at +0 Defense]{source="Dialga" offensive=false movePower=90 level=52 special=false type="Normal"}
   :::
   :::pokemon[Hippowdon]{baseStats="[108, 112, 118, 68, 72, 47]" ivs="[0, 0, 0, 0, 0, 0]" evs="[0, 0, 0, 0, 0, 0]" nature="Relaxed" type="Ground" level=47}
-    - Flash Cannon
-
+    - Flash Cannon (x2)
     :damage[+0 Flash Cannon]{source="Dialga" offensive=true movePower=80 special=true level=52 type="Steel" choiceItem=true healthThreshold=auto evs=4}
   :::
 :::::
@@ -1521,7 +1534,7 @@ Head north to Victory Road.
 
 :::::::trainer[Black Belt Miles]
   :::::pokemon[Machamp]{info="You outspeed at -1." infoColor=blue baseStats="[90, 130, 80, 65, 85, 55]" ivs="[0, 0, 0, 0, 0, 0]" evs="[0, 0, 0, 0, 0, 0]" nature="Relaxed" type="Fighting" level=49}
-    Flash Cannon (x2)
+    Flash Cannon (x2) / Roar of Time
 
     :damage[+0 Flash Cannon]{source="Dialga" offensive=true movePower=80 special=true level=53 type="Steel" evs=4 choiceItem=true healthThreshold=auto}
 
@@ -1530,15 +1543,19 @@ Head north to Victory Road.
 :::::::
 
 - Heal if in red HP.
+:::if{source="Dialga" condition="spa=(0+ / 0+ / 0-3)"}
+  - Swap Metronome to Dialga from Scyther.
+:::
 
 :::::trainer[Psychic Valencia]
   :::pokemon[Chingling]
     - Flash Cannon
   :::
-  :::pokemon[Chimecho]{baseStats="[75, 50, 80, 95, 90, 65]" ivs="[0, 0, 0, 0, 0, 0]" evs="[0, 0, 0, 0, 0, 0]" nature="Calm" type="Dragon/Ground" level=48}
-    - Flash Cannon (x2)
-
-    :damage[+0 Flash Cannon]{source="Dialga" offensive=true movePower=80 special=true level=53 type="Steel" choiceItem=true healthThreshold=auto}
+  :::pokemon[Chimecho]{baseStats="[75, 50, 80, 95, 90, 65]" ivs="[0, 0, 0, 0, 0, 0]" evs="[0, 0, 0, 0, 0, 0]" nature="Calm" type="Psychic" level=48}
+    - _If Choice Specs are still on_:
+      - Flash Cannon
+    - Roar of Time / Dragon Claw x2
+    :damage[+0 Flash Cannon w/ no Choice Specs]{source="Dialga" offensive=true movePower=80 special=true level=53 type="Steel" choiceItem=true healthThreshold=auto}
   :::
 :::::
 
@@ -1547,11 +1564,14 @@ Grab the Dragon Pulse TM down the waterfall before the trainer.
 :::::trainer[Dragon Tamer Andre]
   :::pokemon[Gabite]{baseStats="[68, 90, 65, 50, 55, 82]" ivs="[0, 0, 0, 0, 0, 0]" evs="[0, 0, 0, 0, 0, 0]" nature="Relaxed" type="Dragon/Ground" level=49}
     - Flash Cannon / Dragon Claw
+    :damage[+0 Flash Cannon w/ no Choice Specs]{source="Dialga" offensive=true movePower=80 special=true level=53 type="Steel" choiceItem=false healthThreshold=auto}
   :::
 :::::
 
+:::if{source="Dialga" condition="spa=(x / x / 4+)"}
+  - Swap Metronome to Dialga from Scyther.
+:::
 - Heal to full.
-- Give Metronome to Dialga.
 - Teach Dragon Pulse over Dragon Claw (slot 2).
 
 :::::trainer[Veteran Edgar]
@@ -1565,20 +1585,21 @@ Grab the Dragon Pulse TM down the waterfall before the trainer.
     :damage[Golem's Earthquake at +0 Defense]{source="Dialga" offensive=false movePower=100 level=53 evs=4 special=false type="Ground"}
   :::
   :::pokemon[Empoleon]{baseStats="[84, 86, 88, 111, 101, 60]" ivs="[0, 0, 0, 0, 0, 0]" evs="[0, 0, 0, 0, 0, 0]" nature="Sassy" type="Water/Steel" level=48}
-    - Thunderbolt
+    - Flamethrower
     :damage[Empoleon's Aqua Jet at +0 Defense]{source="Dialga" offensive=false movePower=40 level=53 special=false type="Water" evs=4}
   :::
 :::::
 
 :::::trainer[Dragon Tamer Clinton]
-  :::pokemon[Gible]
+  :::pokemon[Gible]{baseStats="[58, 70, 45, 40, 45, 42]" ivs="[0, 0, 0, 0, 0, 0]" evs="[0, 0, 0, 0, 0, 0]" nature="Hardy" type="Ground/Dragon" level=40}
     - Flash Cannon / Dragon Pulse
   :::
   :::pokemon[Gible]
-    - Flash Cannon / Dragon Pulse
+    - Flash Cannon / Roar of Time :info[You need 7 Dragon Pulses for Barry]{color=blue}
   :::
-  :::pokemon[Gyarados]
-    - Thunderbolt
+  :::pokemon[Gyarados]{baseStats="[95, 125, 79, 60, 100, 81]" ivs="[0, 0, 0, 0, 0, 0]" evs="[0, 0, 0, 0, 0, 0]" nature="Sassy" type="Water/Flying" level=49}
+    - Roar of Time + (Flash Cannon/Dragon Pulse) / Dragon Pulse x2
+    :damage[Roar of Time w/ No Metronome Boost]{source="Dialga" offensive=true movePower=150 level=54 evs=14 special=true type="Dragon" healthThreshold=auto}
   :::
 :::::
 
@@ -1587,16 +1608,14 @@ Grab the Dragon Pulse TM down the waterfall before the trainer.
 - Max Full Restores (^)
 
 Before triggering the Barry fight:
-- Teach Stealth Rock to Dialga over Thunderbolt (slot 4).
+- Teach Stealth Rock to Dialga over Roar of Time (slot 4).
 - Heal Dialga to full.
-- Revive Empoleon (regular not revival herb).
 - Give Dialga Choice Specs and Scyther Metronome.
-- Move Empoleon to slot 1.
 
 :::::trainer[Pokemon Trainer Barry]
   :::pokemon[Staraptor]{info="Close Combat can only be used 3 times btw :)" baseStats="[85, 120, 70, 50, 60, 100]" ivs="[5, 5, 5, 5, 5, 5]" evs="[56, 148, 36, 0, 36, 148]" nature="Jolly" type="Normal/Flying" level=49}
-    - Aqua Jet, die and swap to Dialga
     - X Defense
+    - Dragon Pulse
     - X Speed
     - X Sp. Attack x2
     - Dragon Pulse
@@ -1622,7 +1641,6 @@ Before triggering the Barry fight:
   :::
 :::::
 
-- Box Empoleon.
 - Move Scyther to slot 1.
 - Take the Pokemon Center heal. (pretty sure this is fastest option)
 
@@ -1633,7 +1651,7 @@ Before triggering the Barry fight:
     - (Full Restore Poison)
     - Wing Attack
   :::
-  :::pokemon[Heracross]
+  :::pokemon[Heracross]{baseStats="[80, 125, 75, 40, 95, 85]" ivs="[21, 31, 21, 0, 21, 31]" evs="[12, 60, 12, 0, 12, 204]" nature="Jolly" type="Bug/Poison" level=53}
     - Wing Attack
   :::
   :::pokemon[Vespiquen]
@@ -1676,14 +1694,16 @@ Before triggering the Barry fight:
 :::::::
 
 - Heal Dialga to full.
-- Heal Scyther to full.
 
 :::::::trainer[Elite Four Flint]
   :::::pokemon[Rapidash]{info="Rapidash outspeeds if it uses Flame Charge twice, or if it uses it once and your speed is (2- / 0 / 0)" infoColor=blue baseStats="[65, 100, 70, 80, 80, 105]" ivs="[25, 31, 25, 0, 25, 31]" evs="[12, 60, 12, 0, 12, 204]" nature="Jolly" type="Fire" level=58}
     - Stealth Rock
     - _If put to sleep and couldn't Stealth Rock:_
       - Use X Items as described below, Full Restore then try again
-    - X Speed (x2 if -Speed)
+    - X Speed
+    :::if{source="Dialga" condition="speed=(0-10 / x / x)"}
+    - X Speed again
+    :::
     - X Sp. Attack
     :::if{source="Dialga" condition="spatk=(0+ / 4- / x)"}
     - _If not risking the range:_
@@ -1699,13 +1719,13 @@ Before triggering the Barry fight:
     :damage[+2 Dragon Pulse]{source="Dialga" offensive=true movePower=85 level=57 evs=14 combatStages=2 special=true type="Dragon" healthThreshold=170 otherPowerModifier=1.2}
   :::::
   :::::pokemon[Steelix]{baseStats="[75, 85, 200, 55, 65, 30]" ivs="[31, 31, 31, 0, 31, 31]" evs="[12, 252, 0, 12, 12, 0]" nature="Adamant" type="Steel/Ground" level=57}
+    - (Heal ONLY if in Infernape Mach Punch range)
     - Flamethrower
   :::::
   :::::pokemon[Drifblim]
     - Dragon Pulse :info[Dragon Pulse always kills with Stealth Rock]{infoColor=blue}
   :::::
   :::::pokemon[Infernape]{baseStats="[76, 104, 71, 104, 71, 108]" ivs="[31, 31, 31, 0, 31, 31]" evs="[12, 60, 0, 0, 0, 204]" nature="Jolly" type="Fire/Fighting" level=62}
-    - (Heal ONLY if in Mach Punch range, very scary because he might Close Combat anyways)
     - Dragon Pulse
 
     :damage[Infernape's Mach Punch at +0 Defense]{source="Dialga" offensive=false movePower=40 level=57 special=false type="Fighting"}
@@ -1714,32 +1734,30 @@ Before triggering the Barry fight:
   :::::
 :::::::
 
-- Move Scyther to slot 1.
-- Equip the Metronome on Scyther.
-- Equip the Choice Specs on Dialga.
+- Heal Dialga to full.
+- Rare Candy if you picked it up earlier (guarantees Medicham range).
 
 :::::trainer[Elite Four Lucian]
-  :::pokemon[Mr. Mime]{info="Heal as needed." baseStats="[40, 45, 65, 100, 120, 90]" ivs="[31, 0, 31, 31, 31, 31]" evs="[252, 0, 12, 12, 12, 12]" nature="Bold" type="Psychic/Fairy" level=59}
-    - X Sp. Defense x2
+  :::pokemon[Mr. Mime]{info="Light Screen lasts 8 turns" baseStats="[40, 45, 65, 100, 120, 90]" ivs="[31, 0, 31, 31, 31, 31]" evs="[252, 0, 12, 12, 12, 12]" nature="Bold" type="Psychic/Fairy" level=59}
+    - X Sp. Defense
     - X Speed
-    - Swords Dance x2
-    - _If Reflect was used:_
-      - Defog
-    - Wing Attack
-    :damage[Mr. Mime's Psychic at +4]{source="Scyther" offensive=false movePower=90 level=54 evs=23 combatStages=4 special=true type="Psychic"}
-    :damage[Mr. Mime's Psychic at +2]{source="Scyther" offensive=false movePower=90 level=54 evs=23 combatStages=2 special=true type="Psychic"}
+    - X Sp. Attack x3
+    - Flash Cannon
+    :damage[Mr. Mime's Dazzling Gleam]{source="Dialga" offensive=false movePower=80 level=57 evs=12 special=true type="Psychic"}
   :::
-  :::pokemon[Girafarig]
-    - Wing Attack
+  :::pokemon[Medicham]{baseStats="[60, 60, 75, 60, 75, 80]" ivs="[31, 31, 31, 0, 31, 0]" evs="[0, 252, 0, 0, 0, 0]" type="Psychic/Fighting" level=60 nature="Brave"}
+    - Flash Cannon
+    :damage[Lv57 +6 Flash Cannon]{source="Dialga" offensive=true movePower=80 level=57 evs=14 combatStages=6 special=true type="Steel" healthThreshold=auto screen=true otherPowerModifier=1.2}
   :::
-  :::pokemon[Medicham]
-    - Wing Attack
+  :::pokemon[Girafarig]{baseStats="[70, 80, 65, 90, 65, 85]" ivs="[31, 0, 31, 31, 31, 0]" evs="[252, 0, 12, 12, 12, 0]" type="Normal/Psychic" level=59 nature="Calm"}
+    - Flash Cannon
   :::
-  :::pokemon[Alakazam]{baseStats="[55, 50, 45, 135, 95, 120]" ivs="[31, 0, 31, 31, 31, 31]" evs="[0, 0, 0, 0, 0, 252]" type="Psychic" level=60}
-    - Wing Attack
+  :::pokemon[Alakazam]{baseStats="[55, 50, 45, 135, 95, 120]" ivs="[31, 0, 31, 31, 31, 31]" evs="[0, 0, 0, 0, 0, 252]" type="Psychic" nature="Timid" level=60}
+    - Flash Cannon
   :::
-  :::pokemon[Bronzong]
-    - Thief
+  :::pokemon[Bronzong]{baseStats="[67, 89, 116, 79, 116, 33]" ivs="[31, 31, 31, 0, 31, 0]" evs="[12, 252, 0, 0, 0, 0]" type="Psychic/Steel" level=63 nature="Brave"}
+    - Flamethrower
+    :damage[+6 Flamethrower with Screen still up]{source="Dialga" offensive=true movePower=90 level=58 evs=14 combatStages=6 special=true type="Fire" healthThreshold=auto screen=true otherPowerModifier=1}
   :::
 :::::
 
@@ -1750,24 +1768,28 @@ Before triggering the Barry fight:
 :::::trainer[Champion Cynthia]
   :::pokemon[Spiritomb]{baseStats="[50, 92, 108, 92, 108, 35]" ivs="[31, 31, 31, 31, 31, 31]" evs="[252, 6, 0, 252, 0, 0]" type="Ghost/Dark" level=61 nature="Quiet"}
     - X Sp. Defense :info[Tricks Cynthia into spamming Sucker Punch. May need to use 2 if horrible Sp. Def and good Def.]{color=gray}
-    - X Speed (x2 if -Speed)
-    - X Sp. Attack x3
+    - X Speed
+    :::if{source="Dialga" condition="speed=(0-7 / x / x)"}
+    - X Speed again
+    :::
+    - X Sp. Attack x2
     - Dragon Pulse
     :damage[Spiritomb's Shadow Ball/Dark Pulse at +2 Sp. Defense]{source="Dialga" offensive=false movePower=80 level=57 special=true combatStages=2 evs=14 type="Dark"}
+    :damage[+4 Dragon Pulse]{source="Dialga" offensive=true movePower=85 level=58 evs=20 combatStages=4 special=true type="Dragon" healthThreshold=auto otherPowerModifier=1}
   :::
-  :::pokemon[Gastrodon]
+  :::pokemon[Gastrodon]{baseStats="[111, 83, 68, 92, 82, 39]" ivs="[31, 31, 31, 31, 31, 0]" evs="[252, 0, 252, 0, 6, 0]" type="Water/Ground" level=60 nature="Relaxed"}
     - Dragon Pulse
   :::
   :::pokemon[Lucario]
     - Dragon Pulse
   :::
-  :::pokemon[Milotic]
+  :::pokemon[Milotic]{baseStats="[95, 60, 79, 100, 125, 81]" ivs="[31, 0, 31, 31, 31, 31]" evs="[252, 0, 252, 6, 0, 0]" type="Water" level=63 nature="Bold"}
     - Dragon Pulse
   :::
   :::pokemon[Roserade]
     - Dragon Pulse
   :::
-  :::pokemon[Garchomp]
+  :::pokemon[Garchomp]{baseStats="[108, 130, 95, 80, 85, 102]" ivs="[31, 31, 31, 0, 31, 31]" evs="[52, 252, 0, 0, 0, 204]" type="Ghost/Dark" level=66 nature="Jolly"}
     - Dragon Pulse
   :::
 :::::
