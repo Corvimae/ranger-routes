@@ -393,7 +393,7 @@ If Scyther is your level or lower, this is a 35% catch at full HP. Otherwise, it
   ::damage[Lv20 Average Swarm Scyther Wing Attack at -2]{source="Piplup" evolution=1 offensive=false movePower=60 level=18 evs=0 opponentLevel=20 opponentStat=44 special=false stab=true opponentCombatStages=-2}
 :::
 
-- **Check Scyther to make sure it has Technician as it's ability. -Attack is scary and not  routed. -Speed is not ideal but should be fine.**
+- **Check Scyther to make sure it has Technician as it's ability. -Attack is scary and not routed. -Speed is not ideal but should be fine.**
 - Move Wing Attack to the first move slot.
 - Move Scyther to slot 1.
 
@@ -1221,7 +1221,7 @@ Take the left-most teleporter and head up the stairs.
 
 Take the teleporter in the north-east of the room.
 
-- Heal if under 25% HP.
+- Heal if under 50% HP.
 
 :::::trainer[Commander Saturn]
   :::pokemon[Kadabra]
