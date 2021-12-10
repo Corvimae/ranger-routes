@@ -1565,7 +1565,7 @@ Grab the Max Elixir hidden in the rock behind the trainer you just fought.
 	:::if{source="Jirachi" condition="spe=(x/17+/0+)"}
 	- Psychic x1-2
 	:::
-	:damage[Gastrodon's Earthquake vs +2 Defense Jirachi]{source="Jirachi" offensive=false movePower=100 combatStages=2 level=57 evs=auto special=false type="Ground" theme=error}
+	:damage[Gastrodon's Earthquake vs +2 Defense Jirachi]{source="Jirachi" offensive=false movePower=100 combatStages=2 level=57 evs=68 special=false type="Ground" theme=error}
   :::::
   :::::pokemon[Roserade]
     - Psychic
