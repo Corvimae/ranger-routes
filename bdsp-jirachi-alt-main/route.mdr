@@ -1,0 +1,1584 @@
+:::tracker{species="Piplup" baseStats="[[53, 51, 53, 61, 56, 40], [64, 66, 68, 81, 76, 50]]" type="Water" generation=8}
+  5:
+    6  -> 0,  0,  0,  0,  0,  3
+    7  -> 1,  0,  0,  0,  0,  4
+    8  -> 2,  1,  0,  0,  0,  4
+    9  -> 2,  1,  0,  2,  0,  4 
+    10 -> 2,  2,  0,  2,  0,  5
+    11 -> 2,  2,  1,  2,  0,  5
+    12 -> 2,  2,  2,  2,  0,  5
+    13 -> 2,  3,  2,  2,  0,  5
+    14 -> 4,  3,  2,  2,  0,  6
+    15 -> 4,  3,  2,  2,  0,  9
+:::
+:::tracker{species="Jirachi" baseStats="[[100, 100, 100, 100, 100, 100]]" type="Steel/Psychic" generation=8}
+5:
+
+	6 -> 1, 0, 0, 0, 0, 0
+	7 -> 1, 0, 2, 0, 0, 0
+	8 -> 1, 0, 2, 0, 0, 2
+	9 -> 1, 0, 2, 0, 0, 3
+	10 -> 1, 0, 2, 0, 0, 5
+	11 -> 1, 0, 2, 0, 0, 5
+	12 -> 2, 0, 4, 3, 0, 5
+	13 -> 2, 0, 4, 3, 0, 6
+	14 -> 2, 0, 4, 5, 0, 6
+	15 -> 2, 0, 4, 9, 0, 6
+	16 -> 2, 1, 4, 13, 0, 6
+	17 -> 2, 2, 4, 17, 0, 6
+	18 -> 2, 2, 4, 17, 0, 6
+	19 -> 4, 2, 8, 19, 0, 10
+	20 -> 6, 2, 8, 19, 0, 13
+	21 -> 6, 3, 11, 20, 0, 14
+	22 -> 6, 5, 11, 20, 0, 15
+	23 -> 6, 5, 11, 22, 0, 15
+	24 -> 6, 8, 11, 23, 0, 17
+	25 -> 6, 8, 11, 26, 0, 18
+	26 -> 6, 9, 11, 29, 4, 18
+	27 -> 11, 11, 11, 29, 4, 22
+	28 -> 13, 11, 11, 29, 4, 25
+	28 -> 13, 12, 12, 39, 4, 28
+	29 -> 13, 13, 13, 39, 4, 29
+	30 -> 16, 16, 13, 42, 4, 29
+	31 -> 18, 16, 13, 46, 5, 29
+	32 -> 18, 16, 13, 46, 5, 29
+	33 -> 18, 16, 13, 46, 5, 29
+	34 -> 18, 19, 16, 46, 5, 33
+	35 -> 18, 19, 24, 46, 5, 33
+	36 -> 21, 19, 29, 46, 5, 33
+	37 -> 21, 21, 32, 48, 5, 38
+	38 -> 21, 21, 35, 48, 5, 46
+	39 -> 21, 24, 36, 50, 5, 49
+	40 -> 21, 25, 37, 55, 8, 51
+	41 -> 21, 27, 39, 57, 8, 58
+	42 -> 21, 29, 43, 57, 11, 64
+	43 -> 21, 30, 45, 57, 11, 72
+	44 -> 23, 34, 45, 57, 11, 75
+	45 -> 25, 39, 45, 57, 11, 78
+	46 -> 25, 43, 47, 59, 13, 81
+	47 -> 25, 47, 47, 60, 13, 88
+	48 -> 28, 47, 47, 63, 16, 88
+	49 -> 31, 51, 47, 63, 16, 90
+	50 -> 31, 59, 50, 63, 16, 90
+	51 -> 31, 61, 53, 68, 19, 90
+	52 -> 31, 70, 53, 68, 19, 94
+	53 -> 33, 72, 54, 68, 19, 94
+	54 -> 35, 74, 57, 71, 23, 94
+	55 -> 37, 74, 64, 71, 23, 96
+	56 -> 39, 75, 66, 72, 25, 99
+	57 -> 39, 75, 68, 77, 27, 101
+	58 -> 41, 79, 68, 81, 29, 101
+
+:::
+
+## Jirachi Alt Main v1.0.0
+Routed by GreenLightn1ng#2156
+
+:info[_This route is unpolished, if you have any queries, complaints, or criticism, feel free to message me on Discord._]
+
+:::card{theme=warning}
+This route requires a Pokemon Sword or Shield save file on the same account you attempt this run. It does not need to be a completed save file. If you are running on your primary switch, you do not need to purchase multiple copies of SwSh or BDSP, so long as you have purchased both games once on any of your accounts. If you are running on a secondary switch, you must use the account that has purchased the games.
+:::
+
+:::card{theme=success}
+This route works for both Brilliant Diamond __and__ Shining Pearl, as the Box Legendary isn't used.
+:::
+
+Optimal mashing is to switch between pressing A, ZL, and ZR. You must continue mashing throughout the textbox, unlike previous games.
+
+If you know where all the items are, you can turn off images by clicking the options button at the top of these notes.
+
+Spreadsheets: https://docs.google.com/spreadsheets/d/1yqYfH6mqYiilWyd46zwIu-EnaBGX_iEiPKuPoH29Pw4/edit?usp=sharing
+
+*The Piplup Any% Route up until Floraroma is the same as May & Etchy's Piplup + Scyther Route*
+
+I still need to add some more images, damage ranges, defensive ranges, and maybe level up locations.
+
+**Set your clock to approximately 2:30 AM. You want it to be between 4-10 when you get to Celestic Town.**
+
+Name the character 1.
+
+Select Barry/Clint as the rival's name.
+
+Options:
+  - Text Speed: Fast
+  - Battle Effects: Off (vv)
+  - Battle Style: Set (v)
+  - Send to Boxes: Automatic (v)
+  - Give Nicknames: Don't Give (v)
+  - Autosave: Off (vv)
+  - Background Music: 0 (vv)
+
+Head to Barry's House (top left). Enter Barry's house and go upstairs, then leave.
+
+Leave the town from the north, then head west to the lake.
+
+Select Piplup (right-most ball).
+
+:::trainer[Starly]
+  - Pound spam
+:::
+
+All Piplups _should_ work.
+
+Run north, then east to Sandgem Town.
+
+Do not nickname Piplup (say No). Say Yes to Rowan's second prompt. Run back to your house.
+
+Talk to your mom.
+
+Run back to Sandgem. On the way, talk to the Pokemart clerk at the top of the second grass patch to get 10 potions.
+
+Head north to Route 202 and learn how to catch Bidoof.
+
+:::::trainer[Youngster Tristan]
+  :::pokemon[Starly]
+    - Pound spam
+    ::damage[Starly's Quick Attack]{source="Piplup" offensive=false movePower=40 level=5 evs=0 opponentLevel=5 opponentStat=10 special=false stab=true}
+  :::
+:::::
+
+Heal to full (unless high torrent?)
+
+:::::trainer[Lass Natalie]
+  :::pokemon[Bidoof]
+    - Water Gun x2
+	::damage[Bidoof's Tackle]{source="Piplup" offensive=false movePower=40 level=6 evs=0 opponentLevel=3 opponentStat=7 special=false stab=true}
+  :::
+  :::pokemon[Bidoof]
+    - Water Gun x2
+	::damage[Bidoof's Tackle]{source="Piplup" offensive=false movePower=40 level=6 evs=0 opponentLevel=3 opponentStat=7 special=false stab=true}
+  :::
+:::::
+
+:::::trainer[Youngster Logan]
+  :::pokemon[Shinx]
+    - Water Gun x2-3
+    ::damage[Shinx's Thunder Shock]{source="Piplup" offensive=false movePower=40 level=7 evs=0 opponentLevel=5 opponentStat=8 special=true stab=true effectiveness=2}
+  :::
+:::::
+
+Head to the Trainer School and talk to Barry. Leave the trainer school.
+
+Talk to the three Poketch Clowns and get the Poketch from the Poketch inventor.
+
+:::::trainer[Pokemon Trainer Barry]
+  :::pokemon[Starly]{baseStats="[40, 55, 30, 30, 30, 60]" ivs="[5, 5, 5, 5, 5, 5]" nature="Bashful" type="Normal/Flying" level=7 nature="Jolly"}
+    - Water Gun x2-3
+    :damage[Starly's Tackle/Quick Attack]{source="Piplup" offensive=false movePower=40 level=7 special=false type="Normal"}
+  :::pokmeon[Piplup]
+    - _If Starly never used Growl and not safely in Torrent:_
+      - Pound until Turtwig uses Withdraw.
+    - Spam Water Gun.
+    ::damage[Turtwig's Tackle]{source="Piplup" offensive=false movePower=40 level=8 evs=0 opponentLevel=9 opponentStat=18 special=false stab=false}
+  :::
+:::::
+
+Head East to Oreburgh Gate. Watch out for the trainer at the top of the stairs (hug the top-most stairs tile).
+
+Run behind both of the trainers in Oreburgh Gate.
+
+Heal at Pokemon Center.
+
+Head south to Oreburgh Mine.
+
+Grab the X Defense from the right side of the first room in Oreburgh Mine (run down the first set of stairs, head right, then head up).
+
+![X Defense Location](xdefense.png)
+
+Head to the left and down in the second room of Oreburgh Mine and talk to Roark. Head left and grab the Escape Rope.
+
+- Use the Escape Rope.
+ 
+Head to the gym and run around all the trainers.
+
+:::::trainer[Gym Leader Roark]
+  :::pokemon[Geodude]
+	- X Defense + Water Gun
+  :::
+  :::pokemon[Onix]{info="Onix outspeeds." infoColor=blue}
+	- Water Gun x2
+    ::damage[Onix's Rock Throw at +2 Defense]{source="Piplup" offensive=false movePower=50 level=10 evs=0 combatStages=2 opponentLevel=12 opponentStat=16 special=false stab=true}
+  :::
+  :::pokemon[Cranidos]{info="Cranidos outspeeds." infoColor=blue}
+    - Water Gun x2-3
+    ::damage[Cranidos' Headbutt at +2 Defense]{source="Piplup" offensive=false movePower=70 level=11 evs=0 combatStages=2 opponentLevel=14 opponentStat=40 special=false stab=false}
+    ::damage[Cranidos' Headbutt at +1 Defense]{source="Piplup" offensive=false movePower=70 level=11 evs=0 combatStages=1 opponentLevel=14 opponentStat=40 special=false stab=false}
+  :::
+:::::
+
+- Head north to the mart.
+
+**Oreburgh Shopping:**
+  - 5 Super Potions (R)
+  - 2 Escape Ropes (R^)
+  - MAX Repels (v)
+
+Head west back to Oreburgh Mine.
+
+- Repel (keep refreshing until Floaroma Town).
+- Heal if low.
+
+At the crossing in Jubilife, head north to Rowan.
+
+:::::trainer[Team Galactic Double]
+  - Water Gun Zubat x2
+:::::
+
+Head north to Ravaged Path.
+
+Head north, dodging the spinner and the roamer. Hug the trees to avoid the double battle.
+
+:::card{theme=success}
+Head to the south west and pickup Jirachi from the old man.
+:::
+
+Head to the east and talk to the girl on the path to Valley Windworks.
+
+Grab the Cheri Berries (right tree) next to the flower shop.
+
+Swap Jirachi to Slot 1
+
+Head to the north-west and enter the meadow.
+
+:::::trainer[Team Galactic Grunt]
+  :::pokemon[Wurmple]{baseStats="[45, 45, 35, 20, 30, 20]" nature="Bashful" type="Bug" level=9}
+    - Confusion x3
+  :::
+  :::pokemon[Silcoon]{baseStats="[50, 35, 55, 25, 25, 15]" nature="Bashful" type="Bug" level=9}
+    - Confusion x2-3
+  :::
+:::::
+
+:::::trainer[Team Galactic Grunt]
+  :::pokemon[Zubat]
+    - Confusion x2-3
+  :::
+:::::
+
+Head east to Valley Windworks and fight the grunt outside.
+
+:::::trainer[Team Galactic Grunt]
+  :::pokemon[Glameow]
+    - Confusion x3-5
+  :::
+:::::
+
+Heal to full.
+
+:::::trainer[Commander Mars]
+  :::pokemon[Zubat]
+    - Confusion x2-3
+  :::
+  :::pokemon[Purugly]
+	- Switch to Piplup
+    - Charm until -6 then switch in Jirachi
+	- Confusion spam, _Wish'ing whenever you're 2-3 hits from death_
+    ::damage[-2 Fake Out / Scratch vs Jirachi]{source="Jirachi" offensive=false special=false opponentCombatStages=-2 movePower=40 opponentStat=31 effectiveness=0.5 stab=true opponentLevel=16 theme=error}
+    ::damage[-2 Thief vs Jirachi]{source="Jirachi" offensive=false special=false opponentCombatStages=-2 movePower=60 opponentStat=31 effectiveness=2 stab=false opponentLevel=16 theme=error}
+	::damage[-4 Thief vs Jirachi]{source="Jirachi" offensive=false special=false opponentCombatStages=-4 movePower=60 opponentStat=31 effectiveness=2 stab=false opponentLevel=16 theme=error}
+	::damage[-6 Thief vs Jirachi]{source="Jirachi" offensive=false special=false opponentCombatStages=-6 movePower=60 opponentStat=31 effectiveness=2 stab=false opponentLevel=16 theme=error}
+  :::
+:::::
+
+At the grass:
+- Repel (refresh until Eterna City)
+- Heal to full-ish.
+- Equip the Cheri Berry.
+- Change Options back to Set.
+
+Head north to Eterna Forest, avoiding all the trainers.
+
+Head to the north-east and fight the left trainer by talking to him diagonally.
+
+:::::trainer[Bug Catcher Jack]
+  :::pokemon[Wurmple]
+    - Confusion x1-2
+	::damage[Confusion]{source="Jirachi" level=11 offensive=true special=true combatStages=0 movePower=50 healthThreshold=27 opponentStat=9 effectiveness=1 stab=true opponentLevel=auto}
+
+  :::
+  :::pokemon[Beautifly]
+    - Confusion x2-3
+  :::
+  :::pokemon[Silcoon]
+    - Confusion x1-2
+	::damage[Confusion]{source="Jirachi" level=12 offensive=true special=true combatStages=0 movePower=50 healthThreshold=32 opponentStat=9 effectiveness=1 stab=true opponentLevel=auto}
+  :::
+:::::
+
+:::::trainer[Lass Briana]
+  :::pokemon[Pachirisu]
+    - Confusion x4-5
+  :::
+:::::
+
+:::::trainer[Psychic Lindsey & Psychic Elijah]
+  :::pokemon[Abras]
+    Swift x3-4
+  :::
+:::::
+
+Avoid the rest of the trainers and leave Eterna Forest.
+
+Head east to Eterna City and enter the house to the right of the center. Talk to the old man to get the Explorer Kit.
+
+Head south-west and cut through the Spacious Cave southwards, then south-east towards another Spacious Cave, then south-east again to get to the Rocky Cave. 
+
+Upon entering, head east towards the item ball on the ground, and pick up TM 04 Calm Mind.
+
+![Calm Mind Location (Credit: Hypar)](https://media.discordapp.net/attachments/910925764017393704/913438583640182884/calmmindtm.PNG?width=1171&height=507)
+
+Press Y and leave the Underground. Teach Calm Mind over Helping Hand, equip a Cheri Berry, and then head for the Eterna Gym.
+Head to the north-west fight the first trainer.
+
+:::::trainer[Lass Caroline]
+  :::pokemon[Cherubi]
+    - Calm Mind x2 + Confusion (x2)
+  :::
+  :::pokemon[Roselia]
+    - Confusion
+  :::
+:::::
+
+- Head to the south-west and fight the second trainer.
+
+:::::trainer[Armoa Lady Jenna]
+  :::pokemon[Budew]
+    - Calm Mind + Confusion
+  :::
+  :::pokemon[Budew]
+    - Confusion
+  :::
+  :::pokemon[Budew]
+    - Confusion
+  :::
+:::::
+
+Head back to the middle, fight the trainer in the second-to-bottom most path.
+
+:::::::trainer[Aroma Lady Angela]
+  :::::pokemon[Turtwig]
+    :::if{source="Jirachi" condition="spa=(27+/0+/16-)"}
+	- Calm Mind + Confusion x2
+	:::
+    :::if{source="Jirachi" condition="spa=(x/x/17+)"}
+    - Confusion x2 (+ Swift)
+	:::
+  :::::
+:::::::
+
+Head to the bottom-most path, head east then north to the last trainer.
+
+:::::trainer[Beauty Lindsay]
+  :::pokemon[Roselia]
+    - Confusion x2
+  :::
+:::::
+
+Heal to full, equip a Cheri Berry, and then talk to Gardenia.
+
+:::::::trainer[Gym Leader Gardenia]
+  :::::pokemon[Cherubi]
+   :::if{source="Jirachi" condition="spa=(x/x/24+)"}
+	- Calm Mind + Swift + Calm Mind + Swift
+   :::
+   :::if{source="Jirachi" condition="spa=(31-/31-/23-)"}
+	- Calm Mind + Swift + Calm Mind x2 + Swift
+   :::
+  :::::
+  :::::pokemon[Turtwig]
+    - Swift x2
+  :::::
+  :::::pokemon[Roserade]{info="Always slower" infoColor=red}
+    - Confusion x2
+  :::::
+:::::::
+
+Head to the building directly to the right of the Galactic Eterna building.
+
+**Eterna Shopping:**
+- 9 Heal Powder
+- 5 Energy Root (vv)
+- 2 Revival Herb (v)
+
+:::::trainer[Team Galactic Double]
+  - Confusion Zubat / Water Gun Wurmple
+  - Confusion Glameow / Bubble Beam Cascoon
+:::::
+
+Teach Bubble Beam over Pound (Slot 1) (Mash A)
+
+Head upstairs twice.
+
+:::::::Trainer[Team Galactic Grunt]
+  :::::pokemon[Wurmple]
+    - Swift
+  :::::
+  :::::pokemon[Silcoon]
+    - Swift
+  :::::
+  :::::pokemon[Zubat]
+  :::if{source="Jirachi"  condition="spa=(x/24+/2+)"}
+	- Swift
+  :::
+  :::if{source="Jirachi"  condition="spa=(31-/23-/1-)"}
+	- Confusion
+  :::
+  :::::
+:::::::
+
+:::::trainer[Scientist Travon]
+  :::pokemon[Kadabra]
+    - Calm Mind + Swift x2
+  :::
+:::::
+
+Heal Jirachi to full.
+
+:::::trainer[Jupiter]
+  :::pokemon[Zubat]
+	- Calm Mind x3 + Confusion
+  :::
+  :::pokemon[Skuntank]{info="Faster at 39+ (4+/0+/0+)" infoColor="blue"}
+	- Swift x3-4  
+
+  ::damage[Flamethrower]{source="Jirachi" level=19 offensive=false special=true combatStages=3 movePower=90 opponentStat=36 effectiveness=2 stab=false opponentLevel=20}
+  :::
+:::::
+
+Get the bike from the Cycle shop. Head south to Cycling Road and avoid all the trainers.
+
+:info[_Start down the left side, cut to the far right after the first trainer, cut back to the far left after the third trainer. At the bottom of the lane, cut to the far right, head right past the trainer, then cut to the middle._]{color=gray}
+
+Head through the gap in the rocks, then go right. Watch out for the roamers. Head past the hiker spinner into the cave. 
+
+After entering Mt. Coronet
+  - Deposit Prinplup
+  - Heal Jirachi to full
+  - Use a Repel (keep refreshing until Hearthome, drop when you get there).
+  - Register the Bike.
+  - Use the Bike.
+
+Grab the Ether in the Rock right above the Cyrus cutscene trigger.
+
+![Ether location](cyrusether.png)
+
+Head through the cave then avoid the bridge hiker spinners and head to Hearthome.
+
+Head to the contest hall and talk to Fantina. 
+
+Enter the contest hall, watch the cutscene, then head to the far south-east of Hearthome.
+
+:::::::trainer[Pokemon Trainer Barry]
+  :::::pokemon[Starly]
+    - Calm Mind x2 + Swift
+  :::::
+   :::::pokemon[Buizel]
+    - Confusion
+  :::::
+  :::::pokemon[Ponyta]{baseStats="[50, 85, 55, 65, 65, 90]" ivs="[7, 7, 7, 7, 7, 7]" evs="[0, 28,4, 0, 4, 12]" nature="Jolly" type="Fire" level=20}
+    - Swift x2
+  :::::
+   :::::pokemon[Grotle]
+    - Confusion x2-3
+  :::::
+:::::::
+
+After leaving town:
+- Repel (refresh until Veilstone)
+- Pick the Leppa Berries
+
+Before reaching Solaceon Town, enter the Lost Tower. Talk to the left person on the top floor, then Escape Rope out and continue heading north.
+
+You can ignore the doubles. Avoid the spinner by going through the grass.
+Enter the Cafe, purchase 10 Moo Moo Milks at the counter.
+At the milk house, head east.
+
+Grab Prinplup from the PC, put into Slot 2.
+
+:::::trainer[Ruin Maniac Calvin]
+  :::pokemon[Bronzor]
+    - Swap to Prinplup
+	- Bubble Beam x2-3
+  :::
+  :::pokemon[Shieldon]
+    - Swap to Jirachi
+	- _Confusion if it didn't use Take Down_
+	- Switch to Prinplup
+	- Bubble Beam
+  :::
+:::::
+
+Pick up the Ether in the pokeball by the jogger.
+
+![Ether Location](joggerether.png)
+
+Cut the bush and pickup Shock Wave.
+
+![Shock Wave Location](shockwavetm.png)
+
+Heal Jirachi and Prinplup to full, teach Shock Wave to Jirachi over Wish (Slot 2)
+
+Grab the Zinc in the northeast grass patch. 
+![](https://media.discordapp.net/attachments/735229809420009516/913635471240876052/unknown.png?width=806&height=448)
+
+Fight this as a double battle
+
+:::::trainer[Ace Trainer Maya & Dennis]
+  :::pokemon[Turn 1]
+    - Confusion Glameow	/ Bubble Beam Monferno
+  :::
+  :::pokemon[Turn 2 & 3]
+    - Shock Wave Gyarados x2 / Bubble Beam Glameow x2 
+  :::
+  :::pokemon[Turn 4+]
+    - Shock Wave Kadabra / Bubble Beam Kadabra 
+  :::
+:::::
+
+Head to the Veilstone Department Store. Pick up the hidden revive on the left side of the store before entering.
+
+Take the escalator to the third floor.
+
+**Third floor, bottom vendor:**
+- _Sell:_
+  - All TMs except 1 Stealth Rock
+  - Zinc
+  - Pokeballs
+- _Buy:_
+  - Thunderbolt (R)
+  - Psychic (vvvv)
+ 
+
+**Second floor, top vendor:**
+-  11 X Speed
+-  11 X Defense (vv)
+-  1 X Accuracy (vv)
+-  3 X Sp. Defense (R)
+-  31 X Sp. Attack (^)
+
+**First floor, left vendor:**
+- _Buy:_
+  - MAX Super Repels (at least 3)
+
+Leave the department store and get the metronome from the Girafarig trainer.
+
+- Heal Jirachi to full
+- Teach Psychic over Confusion (Slot 1)
+- Teach Thunderbolt over Shock Wave (Slot 2)
+- Equip the Metronome on Jirachi.
+- Rare Candy to Lv 23
+- Deposit Prinplup
+
+Head to the gym. There is only 1 mandatory gym trainer.
+
+:::::trainer[Black Belt Rafael]
+  :::pokemon[Meditite]
+    - Psychic x1-2
+	:damage[Psychic]{source="Jirachi" special=true combatStages=0 evs=32 offensive=true healthThreshold=54 movePower=90 level=23 stab=true opponentLevel=28 opponentStat=35}
+  :::
+:::::
+
+:::::trainer[Gym Trainer Maylene]
+  :::pokemon[Meditite]
+    - X Defense + X Speed + X SpAttack (+ X Accuracy if Flash'd) + Psychic x1-2
+	:damage[Meditite Drain Punch vs +2 Def]{source="Jirachi" combatStages=2 offensive=false movePower=75 level=23 stab=true opponentLevel=27 opponentStat=68 theme=error}
+	:damage[+2 Psychic through Light Screen]{source="Jirachi" combatStages=2 offensive=true movePower=90 healthThreshold=59 level=23 stab=true opponentLevel=27 opponentStat=30 screen=true}
+  :::
+  :::pokemon[Machoke]
+    - Psychic
+  :::
+  :::pokemon[Lucario]
+    - Psychic (x2 if Light Screen)
+	:damage[Lucario Drain Punch vs +2 Def]{source="Jirachi" combatStages=2 offensive=false movePower=75 level=23 stab=true opponentLevel=30 opponentStat=88 theme=error}
+  :::
+:::::
+
+Head back to the north-west of Veilstone and talk to Lucas.
+
+:::::trainer[Team Galactic Double]
+  - Psychic x1-2 _Dustox_
+  - Psychic _Croagunk_
+  - Thunderbolt _Beautifly_
+  - Thunderbolt x2 _Stunky_
+:::::
+
+Get Fly from the warehouse on the hill, then leave Veilstone through the south gate.
+
+:::::trainer[Psychic Abigail]
+  :::pokemon[Gastly]
+    - Thunderbolt
+  :::
+  :::pokemon[Misdreavus]
+    - Thunderbolt x2-3
+  :::
+  :::pokemon[Kadabra]
+    - Thunderbolt x1-2
+  :::
+:::::
+
+At the fences:
+  - Super Repel (refresh once).
+
+- Get the Max Ether.
+- Get the PP Up.
+- Get the free heal in the hotel.
+- Get the Calcium.
+- Get the Rawst Berries from the berry patch right before the entrace to Pastoria
+- Head to the gym after reaching Pastoria.
+- Drop repel when it runs out.  
+
+- Press the yellow button, then the green button near Wake.
+
+:::::trainer[Sailor Damian]
+  :::pokemon[Wingull]
+    - Thunderbolt
+  :::
+  :::pokemon[Wingull]
+    - Thunderbolt
+  :::
+:::::
+
+Press the blue button.
+
+:::::trainer[Tuber Jacky]
+  :::pokemon[Buizel]
+    - Thunderbolt
+  :::
+:::::
+
+:::::trainer[Tuber Caitlyn]
+  :::pokemon[Azurill]
+    - Psychic
+  :::
+  :::pokemon[Marill]
+    - Thunderbolt
+  :::
+:::::
+
+Press the green button, then head down and press the orange button.
+
+:::::trainer[Sailor Samson]
+  :::pokemon[Shellos]
+    - Thunderbolt
+  :::
+  :::pokemon[Wingull]
+    - Thunderbolt
+  :::
+  :::pokemon[Shellos]
+    - Thunderbolt
+  :::
+:::::
+
+:::::trainer[Gym Leader Wake]{info="Heal as needed. Beware of Brine."}
+  :::pokemon[Gyarados]{baseStats="[95, 125, 79, 60, 100, 81]" ivs="[16, 16, 0, 0, 0, 16]" evs="[40, 56, 0, 0, 0, 40]" nature="Jolly" type="Water/Flying" level=27}
+    - X SpAttack + Thunderbolt
+    :damage[Gyarados' Crunch]{source="Jirachi" offensive=false movePower=80 combatStages=0 level=26 evs=11 stab=false theme=error}
+  :::
+  :::pokemon[Quagsire]
+    - (Swift +) Psychic
+	:damage[Quagsire's Mud Shot]{source="Jirachi" offensive=false movePower=55 combatStages=0 special=true level=27 opponentLevel=27 opponentStat=49 evs=11 type="Ground" theme=error}
+   	:damage[+2 Psychic Ranges vs Quagsire]{source="Jirachi" combatStages=2 special=true healthThreshold=91 offensive=true movePower=90 level=27 stab=true opponentLevel=27 opponentStat=44}
+  :::
+  :::pokemon[Floatzel]{baseStats="[85, 105, 55, 85, 50, 115]" ivs="[0, 15, 15, 0, 0, 15]" evs="[0, 68, 68, 0, 0, 68]" nature="Adamant" type="Water" level=30}
+    - Psychic
+    :damage[Floatzel's Bite at +0 Def]{source="Jirachi" offensive=false movePower=60 combatStages=0 level=27 evs=11 type="Dark" theme=error}
+    :damage[Floatzel's Bite at -1 Def]{source="Jirachi" offensive=false movePower=60 combatStages=-1 level=27 evs=11 type="Dark" theme=error}
+ 
+  :::
+:::::
+
+Get Bog Candy and Ether
+
+Talk to the Team Galactic grunt outside of the Great Marsh.
+
+- Heal to full if in Quick Attack + Aqua Jet range
+- Either Super Repel (do not refresh) or be prepared to yolo the 5 grass tiles outside of town
+
+Talk to the Team Galactic grunt at the east gate.
+
+:::::trainer[Pokemon Trainer Barry]
+  :::pokemon[Starly]
+    - X SpAttack + Thunderbolt
+    :damage[Starly's Quick Attack]{source="Jirachi" offensive=false movePower=40 level=29 evs=6 opponentLevel=26 effectiveness=0.5 opponentStat=36 stab=true theme=error}
+  :::
+  :::pokemon[Buizel]{baseStats="[55, 65, 35, 60, 30, 85]" ivs="[6, 6, 6, 6, 6, 6]" evs="[0, 0, 0, 0, 0, 0]" nature="Jolly" level=26}
+    - Thunderbolt
+    :damage[Buizel's Aqua Jet]{source="Jirachi" offensive=false movePower=40 level=29 evs=6 opponentLevel=26 opponentStat=43 stab=true theme=error}
+  :::
+  :::pokemon[Ponyta]{baseStats="[50, 85, 55, 65, 65, 90]" ivs="[7, 7, 7, 7, 7, 7]" evs="[4, 44, 12, 0, 12, 12]" nature="Jolly" level=27}
+    - Thunderbolt x1-2
+  :::
+  :::pokemon[Grotle]
+    - (Swift +) Psychic
+  :::
+:::::
+
+Head through the gate, across the grass, and south to the beach. Talk to the grunt again.
+
+Head north through the hotel and get the free heal. Head north-east and talk to the grunt again.
+
+:::::trainer[Team Galactic Grunt]
+  :::pokemon[Glameow]
+    - Psychic
+  :::
+:::::
+
+Head north and talk to Cynthia. 
+- Super Repel (do not refresh)
+- Calcium Jirachi
+- PP Up Thunderbolt
+- Fly to Solaceon Town.
+
+Head north and **walk in the grass behind the double battle**. Medicine those Psyducks up. Head north to the fog route. Head west through the grass.
+
+:::::trainer[Ace Trainer Alyssa]
+  :::pokemon[Ponyta]
+    - X SpAttack + Psychic
+  :::
+  :::pokemon[Grotle]
+    - Psychic
+  :::
+:::::
+
+Get Shadow Ball from across the bike bridges, care not to go too far left in between the bridges, then break the rocks.
+
+:::::trainer[Black Belt Adam]
+  :::pokemon[Machoke]
+    - Psychic
+  :::
+:::::
+
+:::::trainer[Bird Keeper Brianna]
+  :::pokemon[Hoothoot]
+    - X SpAttack + Thunderbolt
+  :::
+  :::pokemon[Noctowl]
+    - Thunderbolt x1-2
+  :::
+:::::
+
+Enter the house in the north-west of Celestic and get the Choice Specs.
+
+Buy Super Potions if you're really low on healing supplies. Some Super Repels if you ran out as well.
+
+Fight the grunt in front of the cave.
+
+:::::trainer[Team Galactic Grunt]
+  :::pokemon[Beautifly]
+    - Thunderbolt
+  :::
+  :::pokemon[Croagunk]
+    - Psychic
+  :::
+:::::
+
+Enter the cave and talk to the mural. Exit the cave.
+- Heal to full.
+- Ether Psychic (Mash A)
+- Equip a Rawst Berry
+- Teach Shadow Ball over Swift (Slot 3)
+- Fly to Hearthome. 
+
+Enter the gym.
+
+Enter the:
+- Right door
+- Middle door
+- Left door
+- Right door
+
+:::::::trainer[Gym Leader Fantina]
+  :::::pokemon[Drifblim]
+	- X SpDefense + X SpAttack x2 + X Speed + Psychic
+	:damage[Healthy Hex vs +2 SpDef]{source="Jirachi" offensive=false special=true movePower=65 combatStages=2 level=30 evs=68 effectiveness=2 opponentLevel=32 opponentStat=74 stab=true theme=error}  
+  :::::
+  :::::pokemon[Gengar]
+    - Psychic
+  :::::
+  :::::pokemon[Mismagius]
+    - Shadow Ball x1-2
+	:damage[+4 Shadow Ball Ranges vs Mismagius]{source="Jirachi" special=true offensive=true movePower=80 combatStages=4 level=30 evs=44 opponentLevel=36 opponentStat=82 stab=false effectiveness=2 healthThreshold=100}
+  :::::
+:::::::
+
+After exiting the gym:
+- Super Repel (do not refresh).
+- Fly to Jubilife City and head west.  
+
+
+- Surf to the top right corner and grab the Rare Candy.
+- Heal to full.
+- Equip Choice Specs.
+- Rare Candy to Lv 33 (x2)
+
+At Canalave, cross the bridge.
+
+:::::trainer[Pokemon Trainer Barry]
+  :::pokemon[Staravia]{baseStats="[55, 75, 50, 40, 40, 80]" ivs="[5, 5, 5, 5, 5, 5]" evs="[40, 72, 16, 0, 16, 56]" nature="Jolly" level=32}
+    - Psychic
+  :::
+  :::pokemon[Buizel]{baseStats="[55, 65, 35, 60, 30, 85]" ivs="[6, 6, 6, 6, 6, 6]" evs="[16, 48, 24, 0, 24, 56]" nature="Jolly" level=33}
+    - Psychic
+  :::
+  :::pokemon[Heracross]{baseStats="[80, 125, 75, 40, 95, 85]" ivs="[9, 9, 9, 9, 9, 9]" evs="[16, 64, 24, 0, 24, 32]" nature="Jolly" level=32}
+    - Psychic
+  :::
+  :::pokemon[Ponyta]{baseStats="[50, 85, 55, 65, 65, 90]" ivs="[7, 7, 7, 7, 7, 7]" evs="[40, 64, 16, 0, 16, 64]" nature="Jolly" level=34}
+    - Psychic x1-2
+  ::: 
+  :::pokemon[Grotle]
+    - Psychic x2-3
+  :::
+:::::
+
+:::::trainer[Black Belt Ricky]
+  :::pokemon[Steelix]
+    - Shadow Ball x2
+  :::
+:::::
+
+Take the fourth elevator.
+
+:::::trainer[Ace Trainer Cesar]
+  :::pokemon[Skorupi]
+    - Shadow Ball x1-2
+  :::
+  :::pokemon[Steelix]
+    - Shadow Ball x2
+  :::
+:::::
+
+At the fork, go up, then take the lift near the trainer.
+
+:::::trainer[Worker Gerardo]
+  :::pokemon[Onix]
+    - Shadow Ball
+  :::
+  :::pokemon[Onix]
+    - Shadow Ball
+  :::
+:::::
+
+:::::trainer[Black Belt David]
+  :::pokemon[Onix]
+    - Shadow Ball
+  :::
+  :::pokemon[Steelix]
+    - Shadow Ball x2
+  :::
+:::::
+
+:::::trainer[Ace Trainer Breanna]
+  :::pokemon[Azumarill]
+    - Thunderbolt x1-2
+  :::
+:::::
+
+- Heal to full
+- Ether Shadow Ball
+
+:::::trainer[Gym Leader Byron]
+  :::pokemon[Bronzor]
+    - X SpAttack + X Defense + (Heal confusion +) Shadow Ball
+  :::  
+  :::pokemon[Steelix]
+    - Shadow Ball x2 
+  :::
+  :::pokemon[Bastiodon]
+    - Shadow Ball x2-3
+  :::
+:::::
+
+Enter the library and head to the third floor. After the cutscene, exit the library.
+
+- Either Super Repel or be prepared to yolo 5 grass tiles.
+- Add Prinplup to your party, equip Metronome on them.
+- Fly to Pastoria.
+
+Head west back to the resort area. Grab the hotel heal on your way through, and head up to Lake Valor.
+
+:::::trainer[Commander Saturn]
+  :::pokemon[Kadabra]
+    - Shadow Ball
+  :::
+  :::pokemon[Bronzor]
+    - Shadow Ball x2
+  :::
+  :::pokemon[Toxicroak]
+    - Shadow Ball x3
+  :::
+:::::
+
+Exit the cave, fly to Twinleaf Town, then head north-west to Lake Verity.
+
+:::::trainer[Team Galactic Double]
+  - Thunderbolt / Bubble Beam
+  - Thunderbolt / Bubble Beam
+  - Thunderbolt / Bubble Beam
+:::::
+
+Surf around the second double battle (avoid grass completely).
+- Heal to full-ish
+
+:::::trainer[Commander Mars]
+  :::pokemon[Golbat]{baseStats="[75, 80, 70, 65, 75, 90]" ivs="[6, 6, 6, 6, 6, 6]" evs="[68, 0, 68, 0, 68, 0]" nature="Jolly" level=37}
+    - X SpAttack + Thunderbolt
+  :::
+  :::pokemon[Purugly]{info="You never outspeed" infoColor=blue}
+    - Thunderbolt x1-2
+  :::
+  :::pokemon[Bronzor]
+    - Thunderbolt x1-2
+  :::
+:::::
+
+Fly to Celestic Town.
+
+Enter the house in the north-west of Celestic.
+
+Buy:
+- 11 Hyper Potions (R^^^)
+- MAX Super Repels (RR)
+- Full Heals/Revives if needed
+
+Menu before the grass:
+- Heal to full.
+- Teach Flash Cannon over Calm Mind (Slot 4).
+- Super Repel (Refresh until back in Veilstone).
+
+Head east to Mount Coronet. Head north once you enter the cave and follow the path to Route 216. 
+
+:::::trainer[Ace Trainer Dalton]
+  :::pokemon[Raichu]{baseStats="[60, 90, 55, 90, 80, 110]" nature="Timid" level=34}
+    - Psychic x1-2
+    :damage[Raichu's 60BP Electro Ball]{source="Jirachi" offensive=false movePower=60 level=37 evs=5 opponentLevel=34 opponentStat=66 effectiveness=1 stab=true special=true theme=error}
+  :::
+  :::pokemon[Hippopotas]
+    - Psychic
+  :::
+  :::pokemon[Pelipper]
+    - Psychic
+  :::
+:::::
+
+Head north-by-northeast and grab Rock Climb from the pokeball behind the house, then head north.
+
+:::::trainer[Ace Trainer Olivia]
+  :::pokemon[Roselia]
+    - Psychic
+  :::
+  :::pokemon[Seaking]
+    - Psychic x1-2
+  :::
+:::::
+
+When you see the two grunts, head east. Head to the Snowpoint Gym.
+- Heal to full.
+
+![Puzzle Solution (Credit: Corvimae)](https://media.discordapp.net/attachments/735229809420009516/914430703243001886/candice-all.png?width=406&height=447)
+
+:::::trainer[Gym Leader Candice]
+  :::pokemon[Snover]{info="Heal as needed."}
+    - X SpAttack + X Speed + Flash Cannon
+  :::
+  :::pokemon[Medicham]
+    - Flash Cannon
+  :::
+  :::pokemon[Sneasel]
+    - Flash Cannon
+  :::
+  :::pokemon[Abomasnow]
+    - Flash Cannon
+  :::
+:::::
+
+Head south from the gym, then west to Lake Acuity. After the cutscene, fly to Veilstone City.
+ 
+Do not refresh your Repel when it runs out.
+
+Talk to the grunt in front of the Galactic HQ, then pick up the Storage Key. Head to the warehouse.
+
+:::::trainer[Team Galactic Grunt]
+  :::pokemon[Dustox]
+    - Shadow Ball x2
+  :::
+  :::pokemon[Bronzor]
+    - Shadow Ball
+  :::
+:::::
+
+Take the left teleporter. After heading up the stairs, take the teleporter to the left.
+
+:::::trainer[Scientist Fredrick]
+  :::pokemon[Kadabra]
+    - Shadow Ball
+  :::
+  :::pokemon[Kadabra]
+    - Shadow Ball
+  :::
+:::::
+
+Grab the Galactic Key in the pokeball behind the boxes.
+
+Exit the warehouse and head to the Galactic HQ. 
+Enter the middle door and head up the stairs.
+
+Heal if in red HP. Dodge the spinner and fight the Right Grunt.
+:::::trainer[Team Galactic Grunt]
+  :::pokemon[Golbat]
+    - Thunderbolt
+  :::
+  :::pokemon[Silcoon]
+    - Thunderbolt
+  :::
+:::::
+
+Use the teleporter in the middle room, take the bed heal, then head up the stairs.
+- Grab the Full Restore in the machine thing to the right
+
+:::::trainer[Team Galactic Grunt]
+  - Thunderbolt / Bubble Beam
+  - Thunderbolt / Bubble Beam
+  - Thunderbolt / Bubble Beam
+  - Thunderbolt
+:::::
+
+Take the left-most teleporter, and head up the stairs.
+
+:::::trainer[Team Galactic Boss Cyrus]
+  :::pokemon[Murkrow]{baseStats="[1, 1, 1, 1, 1, 91]" nature="Jolly" level=40}
+    - X SpAttack + Flash Cannon
+  :::
+  :::pokemon[Golbat]{baseStats="[1, 1, 1, 1, 1, 90]" nature="Jolly" level=40}
+    - Flash Cannon
+  :::
+  :::pokemon[Sneasel]{baseStats="[1, 1, 1, 1, 1, 115]" nature="Jolly" level=43}
+    - Flash Cannon
+  :::
+:::::
+
+Take the teleporter in the north-east of the room.
+
+- Heal if under 25% HP.
+
+:::::trainer[Commander Saturn]
+  :::pokemon[Kadabra]
+    - X SpAttack + Shadow Ball
+  :::
+  :::pokemon[Bronzor]
+    - Shadow Ball
+  :::
+  :::pokemon[Toxicroak]
+    - Shadow Ball x1-2
+  :::
+:::::
+
+Leave the Galactic HQ and fly to Oreburgh. Head north, and once inside Mt. Coronet:
+- Heal to full.
+- Super Repel (keep refreshed).
+
+Head through the one tile path after biking up the slope and head to Mt. Coronet. Surf across the water, then Rock Climb and head up the stairs.
+
+Grab the Ether from the rock between the two spinner grunts.
+
+Go right and around to grab the Rare Candy in the last outdoor section on the rock in the grass
+
+:::::trainer[Team Galactic Grunt]
+  :::pokemon[Bronzor]
+    - Thunderbolt x2
+  :::
+  :::pokemon[Glameow]
+    - Thunderbolt
+  :::
+:::::
+
+:::::trainer[Team Galactic Grunt]
+  :::pokemon[Bronzor]
+    - Shadow Ball
+  :::
+  :::pokemon[Golbat]
+    - Shadow Ball x2
+  :::
+:::::
+
+:::::trainer[Team Galactic Grunt]
+  :::pokemon[Golbat]
+	- Thunderbolt
+  :::
+  :::pokemon[Glameow]
+    - Thunderbolt
+  :::
+  :::pokemon[Bronzor]
+    - Thunderbolt x2
+  :::
+:::::
+
+:::::trainer[Team Galactic Double]
+  - Psychic Dustox / Bubble Beam Stunky
+  - Psychic Croagunk / Bubble Beam Stunky
+  - Psychic Glameow / Bubble Beam Glameow
+:::::
+
+- Heal to full
+- Ether Thunderbolt
+
+:::::trainer[Commander Jupiter & Mars]{info="If you get Light Screen'd, X Def + X SpDef"}
+   :::pokemon[Right Bronzor]
+	- X Speed + X SpAttack + Thunderbolt x1-2 (x2-3 if Light Screen)
+   :::
+   :::pokemon[Purugly]
+    - Thunderbolt (x2-3 if Light Screen)
+   :::
+   :::pokemon[Right Golbat - Kill ASAP]
+	- Thunderbolt (x1-2 if Light Screen)
+   :::
+   :::pokemon[Left Bronzor] 
+	- Thunderbolt x1-2 (x2-3 if Light Screen)
+   :::
+   :::pokemon[Skuntank]
+    - Thunderbolt x2 (x3-4 if Light Screen)
+   :::
+   :::pokemon[Left Golbat - Kill ASAP]
+    - Thunderbolt (x1-2 if Light Screen)
+   :::
+:::::
+
+Teach Aqua Jet over Bubble Beam.
+
+:info[**Free Heal**]{color=pink}
+
+:::::trainer[Team Galactic Boss Cyrus]
+  :::pokemon[Honchkrow]
+    - _If Thunderbolt range is bad, hard switch to Empoleon + Aqua Jet (Honchkrow CANNOT kill you)_
+	- Thunderbolt
+	:damage[+0 Choice Specs Thunderbolt vs Honchkrow]{source="Jirachi" special=true healthThreshold=159 offensive=true movePower=90 combatStages=0 effectiveness=2 level=43 evs=67 opponentLevel=45 nature=Jolly opponentStat=66 choiceItem=true}
+    :damage[Crit Night Slash vs Jirachi]{source="Jirachi" offensive=false movePower=70 stab=true otherModifier=1.5 combatStages=0 effectiveness=2 level=43 evs=45 opponentLevel=45 nature=Jolly opponentStat=117 theme=warning}
+  :::
+  :::pokemon[Gyarados]{info="Heal as needed"}
+    - X Defense + X SpAttack + X Speed + Thunderbolt
+  :::
+  :::pokemon[Weavile]
+    - Thunderbolt x2
+  :::
+  :::pokemon[Crobat]{info="You outspeed, but Crobat has Quick Claw." infoColor="blue"}
+    - Thunderbolt
+	:damage[U-Turn vs +2 Def Jirachi]{source="Jirachi" offensive=false movePower=70 stab=false combatStages=2 effectiveness=2 level=43 evs=45 opponentLevel=46 nature=Jolly opponentStat=87 theme=error}
+  :::
+:::::
+
+Catch Dialga/Palkia with the Master Ball.
+
+Enter the cave again.
+
+- Deposit Dialga/Palkia.
+- Escape Rope.
+- Fly to Pastoria City.
+- Drop repel after the grass.
+- Head east to Sunyshore.
+- Take the free heal if you took significant damage.
+
+:::::trainer[Sailor Luther]
+  :::pokemon[Feebas]{baseStats="[20, 15, 20, 10, 55, 80]" ivs="[0, 0, 0, 0, 0, 0]" evs="[0, 0, 0, 0, 0, 0]" nature="Sassy" type="Water" level=37}
+    - Psychic
+  :::
+  :::pokemon[Gastrodon]{baseStats="[111, 83, 68, 92, 82, 39]" ivs="[0, 0, 0, 0, 0, 0]" evs="[0, 0, 0, 0, 0, 0]" nature="Sassy" type="Water/Ground" level=43}
+    - Psychic x2
+   :damage[Gastrodon's Earth Power]{source="Jirachi" offensive=False special=true movePower=90 effectiveness=2 level=44 evs=11 nature=Sassy stab=true}
+  :::
+  :::pokemon[Machoke]{baseStats="[80, 100, 70, 50, 60, 45]" ivs="[0, 0, 0, 0, 0, 0]" evs="[0, 0, 0, 0, 0, 0]" nature="Sassy" type="Fighting" level=40}
+    - Psychic
+  :::
+:::::
+
+After entering Sunyshore, head to the lighthouse. Talk to Volkner, then head to the gym.
+
+:::::::trainer[School Kid Tiera]
+  :::::pokemon[Pachirisu]{baseStats="[60, 45, 70, 45, 90, 45]" ivs="[0, 0, 0, 0, 0, 0]" evs="[0, 0, 0, 0, 0, 0]" nature="Jolly" type="Electric" level=44}
+	- Psychic x1-2
+  :::::
+:::::::
+
+- Heal paralysis
+
+:::::trainer[School Kid Forrest]
+  :::pokemon[Mr. Mime]{info="You outspeed at (23+ / 0+ / 0+)" infoColor=blue baseStats="[40, 45, 65, 100, 120, 90]" ivs="[0, 0, 0, 0, 0, 0]" evs="[0, 0, 0, 0, 0, 0]" nature="Timid" type="Psychic/Fairy" level=44}
+    - Flash Cannon x1-2
+  :::
+:::::
+
+:::::trainer[Guitarist Jerry]
+  :::pokemon[Luxio]{baseStats="[60, 85, 49, 60, 49, 60]" ivs="[0, 0, 0, 0, 0, 0]" evs="[0, 0, 0, 0, 0, 0]" nature="Jolly" type="Electric" level=44}
+    - Psychic
+  :::
+:::::
+
+:::::trainer[Ace Trainer Destiny]
+  :::pokemon[Kadabra]{baseStats="[40, 35, 30, 120, 70, 105]" ivs="[0, 0, 0, 0, 0, 0]" evs="[0, 0, 0, 0, 0, 0]" nature="Timid" type="Psychic" level=44}
+    - Shadow Ball
+  :::
+  :::pokemon[Raichu]{baseStats="[60, 90, 55, 90, 80, 110]" ivs="[0, 0, 0, 0, 0, 0]" evs="[0, 0, 0, 0, 0, 0]" nature="Jolly" type="Electric" level=44}
+    - Shadow Ball x2
+  :damage[Raichu's Quick Attack at +0 Defense]{source="Jirachi" offensive=false movePower=40 level=45 effectiveness=0.5 special=false theme=error}
+  :::
+:::::
+
+:::::trainer[Guitarist Preston]
+  :::pokemon[Luxio]{baseStats="[60, 85, 49, 60, 56, 60]" ivs="[0, 0, 0, 0, 0, 0]" evs="[0, 0, 0, 0, 0, 0]" nature="Jolly" type="Electric" level=42}
+    - Psychic
+  :::
+  :::pokemon[Bibarel]{baseStats="[79, 85, 60, 55, 60, 71]" ivs="[0, 0, 0, 0, 0, 0]" evs="[0, 0, 0, 0, 0, 0]" nature="Jolly" type="Normal/Water" level=42}
+    - Psychic
+  :::
+:::::
+
+:::::trainer[Ace Trainer Zachery]
+  :::pokemon[Steelix]{baseStats="[75, 85, 200, 55, 65, 30]" ivs="[0, 0, 0, 0, 0, 0]" evs="[0, 0, 0, 0, 0, 0]" nature="Relaxed" type="Steel/Ground" level=44}
+    - Shadow Ball x2
+  :::
+  :::pokemon[Medicham]{baseStats="[60, 60, 75, 60, 75, 80]" ivs="[0, 0, 0, 0, 0, 0]" evs="[0, 0, 0, 0, 0, 0]" nature="Jolly" type="Fighting/Psychic" level=44}
+    - Shadow Ball
+  :::
+:::::
+
+- Heal to full
+- Ether Psychic (Mash A)
+
+:::::trainer[Gym Leader Volkner]{info="Heal as needed."}
+  :::pokemon[Setup]
+	- X Defense + X Speed + X SpAttack
+  :::
+  :::pokemon[Raichu]{baseStats="[60, 90, 55, 90, 80, 110]" ivs="[11, 0, 11, 28, 11, 28]" evs="[12, 0, 12, 160, 12, 160]" nature="Timid" type="Electric" level=46}
+	:damage[Volt Switch vs +2 Def]{source="Jirachi" offensive=False movePower=70 level=45 evs=46 type="Electric" theme=error}
+  :::
+  :::pokemon[Ambipom]{baseStats="[75, 100, 66, 60, 66, 115]" ivs="[11, 20, 11, 20, 11, 28]" evs="[12, 0, 12, 160, 12, 160]" nature="Naive" type="Normal" level=47}
+    - Psychic
+  :::
+  :::pokemon[Raichu]{baseStats="[60, 90, 55, 90, 80, 110]" ivs="[11, 0, 11, 28, 11, 28]" evs="[12, 0, 12, 160, 12, 160]" nature="Timid" type="Electric" level=46}
+	- Psychic
+  :::
+  :::pokemon[Octillery]{baseStats="[75, 105, 75, 105, 75, 45]" ivs="[11, 0, 11, 28, 11, 28]" evs="[12, 0, 12, 160, 12, 160]" nature="Modest" type="Water" level=47}
+    - Psychic
+  :::
+  :::pokemon[Luxray]{baseStats="[80, 120, 79, 95, 79, 70]" ivs="[15, 28, 15, 0, 0, 30]" evs="[28, 160, 28, 0, 0, 200]" nature="Jolly" type="Electric" level=49}
+    - Psychic
+  :::  
+:::::
+
+Get Waterfall from Jasmine.
+
+- Super repel (refresh until you get to the Pokemon League).
+- Heal to full.
+
+Head north to Victory Road.
+
+:::::trainer[Swimmer Oscar]
+  :::pokemon[Mantyke]
+    - Thunderbolt
+  :::
+  :::pokemon[Remoraid]
+    - Thunderbolt
+  :::
+  :::pokemon[Mantine]
+    - Thunderbolt
+  :::
+:::::
+
+:::::trainer[Ace Trainer Mariah]
+  :::pokemon[Golduck]{baseStats="[80, 120, 79, 95, 79, 70]" ivs="[0, 0, 0, 0, 0, 0]" evs="[0, 0, 0, 0, 0, 0]" nature="Calm" type="Water" level=46}
+    - Thunderbolt x1-2
+    :damage[+0 Thunderbolt]{source="Jirachi" offensive=true movePower=90 special=true level=47 type="Electric" healthThreshold=auto choiceItem=true}
+  :::
+  :::pokemon[Blissey]
+    - Switch to Empoleon
+	- Aqua Jet x2-3
+  :::
+:::::
+
+_Lv 48 Dialga & Palkia's Dragon Claw (learned at Lv 48) always OHKOs Blissey, Slash never does (without crit)_
+
+Grab the Max Elixir hidden in the rock behind the trainer you just fought.
+
+:::::::trainer[Ace Trainer Omar]
+  :::::pokemon[Rapidash]
+  :::if{source="Jirachi" condition="spa=(x/x/25+)"}
+  - Psychic
+  :::
+  :::if{source="Jirachi" condition="spa=(31-/31-/24-)"}
+  - X SpAttack + Psychic
+  :::
+  :::::
+  :::::pokemon[Carnivine]
+    - Psychic
+  :::::
+  :::::pokemon[Rampardos]
+    - Psychic
+  :::::
+:::::::
+
+:::::trainer[Ace Trainer Sydney]
+  :::pokemon[Clefable]{baseStats="[95, 70, 73, 95, 90, 60]" ivs="[0, 0, 0, 0, 0, 0]" evs="[0, 0, 0, 0, 0, 0]" nature="Calm" type="Fairy" level=46}
+    - X SpAttack + Flash Cannon
+  :::    
+  :::pokemon[Torterra]{baseStats="[95, 109, 105, 75, 85, 56]" ivs="[0, 0, 0, 0, 0, 0]" evs="[0, 0, 0, 0, 0, 0]" nature="Impish" type="Grass/Ground" level=48}
+    - Flash Cannon
+  :::
+:::::
+
+:::::trainer[Veteran Clayton]
+  :::pokemon[Staraptor]{info="You outspeed. Has Quick Attack." infoColor=blue baseStats="[85, 120, 70, 50, 60, 100]" ivs="[0, 0, 0, 0, 0, 0]" evs="[0, 0, 0, 0, 0, 0]" nature="Relaxed" type="Normal/Flying" level=47}
+    - X SpAttack + Flash Cannon
+    :damage[Staraptor's Take Down at +0 Defense]{source="Jirachi" offensive=false movePower=90 level=49 special=false type="Normal" theme=error}
+	:damage[Staraptor's Quick Attack at +0 Defense]{source="Jirachi" offensive=false movePower=40 level=49 special=false type="Normal" theme=error}
+  :::
+  :::pokemon[Hippowdon]{baseStats="[108, 112, 118, 68, 72, 47]" ivs="[0, 0, 0, 0, 0, 0]" evs="[0, 0, 0, 0, 0, 0]" nature="Relaxed" type="Ground" level=47}
+    - Flash Cannon
+  :::
+:::::
+
+:::::trainer[Black Belt Miles]
+  :::pokemon[Machamp]{baseStats="[90, 130, 80, 65, 85, 55]" ivs="[0, 0, 0, 0, 0, 0]" evs="[0, 0, 0, 0, 0, 0]" nature="Relaxed" type="Fighting" level=49}
+    Psychic
+  :::
+:::::
+
+- Heal if in red HP.
+
+:::::trainer[Psychic Valencia]
+  :::pokemon[Chingling]
+    - Shadow Ball
+  :::
+  :::pokemon[Chimecho]{baseStats="[75, 50, 80, 95, 90, 65]" ivs="[0, 0, 0, 0, 0, 0]" evs="[0, 0, 0, 0, 0, 0]" nature="Calm" type="Psychic" level=48}
+    - Shadow Ball x1-2
+    :damage[+0 Shadow Ball vs Chimecho]{source="Jirachi" offensive=true movePower=80 special=true level=50 type="Ghost" choiceItem=true healthThreshold=auto choiceItem=true}
+  :::
+:::::
+
+:::::trainer[Dragon Tamer Andre]
+  :::pokemon[Gabite]{baseStats="[68, 90, 65, 50, 55, 82]" ivs="[0, 0, 0, 0, 0, 0]" evs="[0, 0, 0, 0, 0, 0]" nature="Relaxed" type="Dragon/Ground" level=49}
+    - Flash Cannon
+  :::
+:::::
+
+- Heal to full
+- Swap Metronome onto Jirachi
+
+:::::trainer[Veteran Edgar]
+  :::pokemon[Tentacruel]{baseStats="[80, 70, 65, 80, 120, 100]" ivs="[0, 0, 0, 0, 0, 0]" evs="[0, 0, 0, 0, 0, 0]" nature="Sassy" type="Water/Poison" level=45}
+    - Psychic + Shadow Ball
+  :::
+  :::pokemon[Golem]{baseStats="[80, 120, 130, 55, 65, 45]" ivs="[0, 0, 0, 0, 0, 0]" evs="[0, 0, 0, 0, 0, 0]" nature="Relaxed" type="Rock/Ground" level=45}
+    - Shadow Ball + Flash Cannon
+    :damage[Golem's Earthquake vs +0 Defense Jirachi]{source="Jirachi" offensive=false movePower=100 level=50 special=false type="Ground" theme=error}
+  :::
+  :::pokemon[Empoleon]{baseStats="[84, 86, 88, 111, 101, 60]" ivs="[0, 0, 0, 0, 0, 0]" evs="[0, 0, 0, 0, 0, 0]" nature="Sassy" type="Water/Steel" level=48}
+    - Heal to full + Thunderbolt x2
+    :damage[Empoleon's Aqua Jet vs +0 Defense Jirachi]{source="Jirachi" offensive=false movePower=40 level=50 special=false type="Water" theme=error}
+    :damage[Empoleon's Brine vs >50% HP Jirachi]{source="Jirachi" special=true offensive=false movePower=65 level=50 special=false type="Water" theme=error}
+  :::
+:::::
+
+:::::trainer[Dragon Tamer Clinton]
+  :::pokemon[Gible]
+    - Flash Cannon
+  :::
+  :::pokemon[Gyarados]
+    - Thunderbolt x1-2
+  :::
+  :::pokemon[Gible]
+    - Flash Cannon
+  :::
+:::::
+
+**Elite 4 Shopping:**
+  - 0-3 Revives (RR). _You need at least 3 for the Elite Four_
+  - Max Full Restores (^)  
+
+- Using the Restore Menu,
+	- Heal Jirachi to full.
+	- Max Ether Psychic.
+	- Revive Empoleon.
+	- Teach Stealth Rock to Empoleon over Growl (Slot 2)
+- Swap Choice Specs onto Jirachi.
+- Move Empoleon to slot 1.
+
+:::::trainer[Pokemon Trainer Barry]{info="Heal as needed" infoColor="green"}
+  :::pokemon[Staraptor]{info="You outspeed at +0 with (x / x / 11+)" infoColor="blue" info="Heal as needed" infoColor="green" baseStats="[85, 120, 70, 50, 60, 100]" ivs="[5, 5, 5, 5, 5, 5]" evs="[56, 148, 36, 0, 36, 148]" nature="Jolly" type="Normal/Flying" level=49}
+    - Aqua Jet, die and swap to Jirachi
+    - X SpAttack x2 + (X Speed +) Psychic
+    :damage[Staraptor's Close Combat vs Jirachi]{source="Jirachi" offensive=false movePower=120 level=51 evs=53 special=false type="Fighting" theme=error}
+  :::
+  :::pokemon[Torterra]{baseStats="[95, 109, 105, 75, 85, 56]" ivs="[11, 11, 11, 11, 11, 11]" evs="[164, 92, 52, 52, 124, 0]" nature="Careful" type="Grass/Ground" level=55}
+    - _If you can't set up to +4 SpAttack, X Defense + X SpAttack (+ X Speed)_
+	- Psychic x1-2
+	:damage[Jirachi's +4 Choice Specs Psychic vs Torterra]{source="Jirachi" offensive=true movePower=90 level=51 evs=71 special=true type="Psychic" combatStages=4 choiceItem=true healthThreshold=198}
+	:damage[Torterra's Earthquake vs +0 Defense Jirachi]{source="Jirachi" offensive=false movePower=100 level=51 evs=59 special=false type="Ground" theme=error}
+    :damage[Torterra's Earthquake vs +2 Defense Jirachi]{source="Jirachi" offensive=false movePower=100 level=51 evs=59 special=false type="Ground" combatStages=2 theme=error}
+  :::
+  :::pokemon[Snorlax]{baseStats="[160, 110, 65, 65, 110, 30]" ivs="[9, 9, 9, 9, 9, 9]" evs="[96, 120, 96, 0, 88, 0]" nature="Adamant" type="Normal" level=52}
+    - Psychic x1-2
+	:damage[Jirachi's +4 Choice Specs Psychic vs Snorlax]{source="Jirachi" offensive=true movePower=90 level=51 evs=71 special=true type="Psychic" combatStages=4 choiceItem=true healthThreshold=245}
+	:damage[Snorlax's High Horsepower vs +0 Defense Jirachi]{source="Jirachi" offensive=false movePower=95 evs=54 level=51 special=false type="Ground" theme=error}
+    :damage[Snorlax's High Horsepower vs +2 Defense Jirachi]{source="Jirachi" offensive=false movePower=95 evs=54 level=51 combatStages=2 special=false type="Ground" theme=error}
+  :::
+  :::pokemon[Floatzel]{info="You never outspeed at +0, Has Quick Claw" infoColor="red" baseStats="[85, 105, 55, 85, 50, 115]" ivs="[6, 6, 6, 6, 6, 6]" evs="[44, 104, 40, 0, 40, 160]" nature="Jolly" type="Water" level=49}
+    - (X Speed if haven't and need to +) Psychic
+    :damage[Floatzel's Brine <50% vs Jirachi]{source="Jirachi" offensive=false movePower=130 combatStages=0 level=51 special=true type="Water" theme=error}
+    :damage[Floatzel's Crunch vs +0 Defense Jirachi]{source="Jirachi" offensive=false movePower=80 level=52 evs=53 special=false type="Dark" theme=error}
+    :damage[Floatzel's Crunch vs +2 Defense Jirachi]{source="Jirachi" offensive=false movePower=80 level=52 evs=53 combatStages=2 special=false type="Dark" theme=error}
+  :::
+  :::pokemon[Heracross]{info="You outspeed at +0 with (x / 19+ / 0+)" infoColor="blue" baseStats="[80, 125, 75, 40, 95, 85]" ivs="[9,9,9,9,9,9]" evs="[44, 104, 44, 0, 44, 156]" nature="Jolly" type="Bug" level=51}
+    - Psychic
+	:damage[Heracross's Thief vs +0 Defense Jirachi]{source="Jirachi" offensive=false movePower=60 level=52 evs=54 type="Dark" theme=error}
+    :damage[Heracross's Thief vs +2 Defense Jirachi]{source="Jirachi" offensive=false movePower=60 level=52 evs=54 combatStages=2 type="Dark" theme=error}
+  :::
+  :::pokemon[Rapidash]{info="You outspeed at +0 with (x / x / 28+)" infoColor="blue" baseStats="[65, 100, 70, 80, 80, 105]" ivs="[7,7,7,7,7,7]" evs="[48, 116, 48, 0, 48, 172]" nature="Jolly" type="Fire" level=49}
+    - Psychic
+	:damage[Rapidash's Flame Wheel vs +0 Defense Jirachi]{source="Jirachi" offensive=false movePower=60 level=51 evs=54 type="Fire" theme=error}
+    :damage[Rapidash's Flame Wheel vs +2 Defense Jirachi]{source="Jirachi" offensive=false movePower=60 level=51 evs=53 type="Fire" combatStages=2 theme=error}
+  :::
+  :::pokemon[Staraptor if U-Turn'd]{info="You outspeed at +0 with (x / 29+ / 6+)" infoColor="blue" baseStats="[85, 120, 70, 50, 60, 100]" ivs="[5, 5, 5, 5, 5, 5]" evs="[56, 148, 36, 0, 36, 148]" nature="Jolly" type="Normal/Flying" level=49}
+    - Psychic
+    :damage[Staraptor's Close Combat vs +0 Defense Jirachi]{source="Jirachi" offensive=false movePower=120 level=52 evs=54 special=false type="Fighting" theme=error}
+    :damage[Staraptor's Close Combat vs +2 Defense Jirachi]{source="Jirachi" offensive=false movePower=120 level=52 evs=54 combatStages=2 special=false type="Fighting" theme=error}
+  :::
+:::::
+
+- Jirachi should effectively be in Slot 1.
+- Swap Metronome onto Jirachi.
+- Max Elixir + Full Restore Jirachi.
+- Rare Candy to Lv 53 (x1/Use them all).
+
+:::::trainer[Elite Four Aaron]
+  :::pokemon[Dustox]{baseStats="[60, 50, 70, 50, 90, 65]" ivs="[31, 0, 21, 21, 21, 31]" evs="[252, 0, 12, 12, 12, 12]" nature="Bold" type="Bug/Poison" level=53}
+    - X SpAttack x2 + X Speed + Psychic
+  :::
+  :::pokemon[Heracross]{baseStats="[1, 1, 1, 1, 1, 85]" ivs="[31, 31, 31, 0, 31, 31]" evs="[12, 60, 0, 0, 0, 204]" nature="Jolly" level=54}
+    - Psychic
+  :::
+  :::pokemon[Beautifly]{baseStats="[60, 70, 50, 100, 50, 65]" ivs="[21, 0, 21, 21, 21, 21]" evs="[12, 0, 12, 60, 12, 204]" nature="Modest" type="Bug/Flying" level=53}
+    - Thunderbolt
+  :::
+  :::pokemon[Vespiquen]
+    - Thunderbolt (x2 if Light Screen is still up)
+  :::
+  :::pokemon[Drapion]{baseStats="[70, 90, 110, 60, 75, 95]" ivs="[31, 31, 31, 0, 31, 31]" evs="[12, 60, 0, 0, 0, 204]" nature="Jolly" type="Poison/Dark" level=57}
+    - Flash Cannon x1-2 (x2)
+	:damage[Jirachi's +4 Metronome-0 Flash Cannon vs Drapion]{source="Jirachi" offensive=true movePower=80 level=53 evs=74 special=true type="Steel" healthThreshold=190 combatStages=4}
+  	:damage[Drapion's Night Slash vs Jirachi]{source="Jirachi" offensive=false movePower=70 level=53 evs=55 special=false type="Dark" theme=error}
+    :damage[Drapion's Crit Night Slash vs Jirachi]{source="Jirachi" offensive=false movePower=70 level=53 evs=55 special=false type="Dark" otherModifier=2 theme=warning}
+  :::
+:::::
+
+- Swap Choice Specs onto Jirachi.
+- Revive Empoleon and heal them to full, they should already be in Slot 1.
+- Heal Jirachi to full.
+
+:::::::trainer[Elite Four Bertha]
+  :::::pokemon[Quagsire]{info="Heal as needed" infoColor="green" baseStats="[95, 85, 85, 65, 65, 35]" ivs="[23, 31, 31, 0, 13, 31]" evs="[12, 0, 252, 12, 12, 12]" nature="Jolly" type="Water/Ground" level=55}
+    - Stealth Rock + Charm (die) --> Swap in Jirachi
+	- X SpAttack + Psychic
+  :damage[Quagsire's +0 Earthquake vs Jirachi]{source="Jirachi" offensive=false movePower=100 level=54 evs=57 special=false type="Ground" theme=error}
+  :damage[Quagsire's -2 Earthquake vs Jirachi]{source="Jirachi" offensive=false movePower=100 level=54 evs=57 opponentCombatStages=-2 special=false type="Ground" theme=error}
+  :::::
+  :::::pokemon[Golem]{baseStats="[80, 120, 130, 55, 65, 45]" ivs="[21, 31, 21, 0, 21, 31]" evs="[12, 60, 12, 0, 12, 204]" nature="Jolly" type="Rock/Ground" level=56}
+    - Psychic
+  :::::
+  :::::pokemon[Sudowoodo]{baseStats="[70, 100, 115, 30, 65, 30]" ivs="[21, 31, 31, 0, 11, 31]" evs="[0, 252, 12, 0, 12, 12]" nature="Adamant" type="Rock" level=56}
+    - Psychic
+	:damage[Sudowoodo's Sucker Punch vs Jirachi]{source="Jirachi" offensive=false movePower=70 level=54 evs=57 type="Dark" theme=error}
+  :::::
+  :::::pokemon[Whiscash]
+    - Psychic
+  :::::
+  :::::pokemon[Hippowdon]{baseStats="[108, 112, 118, 68, 72, 47]" ivs="[31, 31, 31, 0, 31, 31]" evs="[12, 252, 0, 0, 0, 0]" nature="Adamant" type="Ground" level=59}
+    - Psychic x1-2
+	:damage[Jirachi's +2 Choice Specs Psychic vs Hippowdon]{source="Jirachi" offensive=true movePower=90 level=54 evs=74 special=true type="Psychic" combatStages=2 choiceItem=true healthThreshold=203}
+  :::::
+:::::::
+
+- Revive Empoleon and heal them to full.
+- Heal Jirachi to full, Leppa Psychic (Mash A).
+
+:::::::trainer[Elite Four Flint]
+  :::::pokemon[Rapidash]{baseStats="[65, 100, 70, 80, 80, 105]" ivs="[25, 31, 25, 0, 25, 31]" evs="[12, 60, 12, 0, 12, 204]" nature="Jolly" type="Fire" level=58}
+    - Stealth Rock + Charm x2 --> Switch to Jirachi
+	- X SpAttack x2 + X Speed + Psychic
+    :damage[Rapidash's Flame Charge vs +4 Defense Jirachi]{source="Jirachi" offensive=false combatStages=4 movePower=50 level=54 evs=64 special=false type="Fire" theme=error}
+  :::::
+  :::::pokemon[Steelix]{baseStats="[75, 85, 200, 55, 65, 30]" ivs="[31, 31, 31, 0, 31, 31]" evs="[12, 252, 0, 12, 12, 0]" nature="Adamant" type="Steel/Ground" level=57}
+    - Psychic x1-2
+	:damage[Jirachi's +4 Choice Specs Psychic vs Steelix]{source="Jirachi" offensive=true movePower=90 level=55 evs=74 special=true type="Psychic" combatStages=4 choiceItem=true healthThreshold=171}
+    :damage[Steelix's Crunch vs Jirachi]{source="Jirachi" offensive=false movePower=80 level=55 evs=64 special=false type="Fire" theme=error}
+  :::::
+  :::::pokemon[Lopunny]{baseStats="[65, 76, 84, 54, 96, 105]" ivs="[31, 31, 31, 0, 31, 31]" evs="[252, 0, 0, 0, 0, 0]" nature="Jolly" type="Normal" level=57}
+    - Psychic
+  :::::  
+  :::::pokemon[Drifblim]
+    - Psychic
+  :::::
+  :::::pokemon[Infernape]{baseStats="[76, 104, 71, 104, 71, 108]" ivs="[31, 31, 31, 0, 31, 31]" evs="[12, 60, 0, 0, 0, 204]" nature="Jolly" type="Fire/Fighting" level=62}
+    - Psychic
+  :::::
+:::::::
+
+- Swap Jirachi to Slot 1.
+- Heal Jirachi to full.
+
+:::::trainer[Elite Four Lucian]{info="Heal as needed." infoColor="green"}
+  :::pokemon[Mr. Mime]{info="You outspeed at (6+ / 0+ / 0+)" infoColor="blue" baseStats="[40, 45, 65, 100, 120, 90]" ivs="[31, 0, 31, 31, 31, 31]" evs="[252, 0, 12, 12, 12, 12]" nature="Bold" type="Psychic/Fairy" level=59}
+    - X Defense x2 + X SpAttack x3 + Flash Cannon x1-2
+  :::
+  :::pokemon[Medicham]
+    - Flash Cannon
+  :::
+  :::pokemon[Girafarig]
+    - Flash Cannon (x1-2)
+  :::
+  :::pokemon[Alakazam]{baseStats="[55, 50, 45, 135, 95, 120]" ivs="[31, 0, 31, 31, 31, 31]" evs="[0, 0, 0, 0, 0, 252]" type="Psychic" level=60}
+    - Flash Cannon (x1-2)
+  :::
+  :::pokemon[Bronzong]{baseStats="[67, 89, 116, 79, 116, 33]" ivs="[31, 31, 31, 0, 31, 0]" evs="[12, 252, 0, 0, 0, 0]" type="Steel/Psychic" nature="Brave" level=63}
+    - Flash Cannon x2 (x3-4)
+	:damage[Bronzong's Payback/Earthquake vs +4 Defense Jirachi]{source="Jirachi" offensive=false movePower=80 combatStages=4 level=56 evs=auto special=false type="Ground" theme=error}
+  :::
+:::::
+
+- Heal to full.
+- Leppa Jirachi Psychic.
+- Swap Metronome onto Jirachi.
+
+:::::::trainer[Champion Cynthia]
+  :::::pokemon[Spiritomb]{baseStats="[50, 92, 108, 92, 108, 35]" ivs="[31, 31, 31, 31, 31, 31]" evs="[252, 6, 0, 252, 0, 0]" type="Ghost/Dark" level=61 nature="Quiet"}
+    - X Sp. Defense :info[Tricks Cynthia into spamming Sucker Punch. May need to use 2 if horrible Sp. Def and good Def.]{color=gray}
+    - X Speed
+    - X Sp. Attack x3
+	- X Defense
+    - Flash Cannon x1-2
+    :damage[Spiritomb's Shadow Ball/Dark Pulse vs +2 Sp. Defense Jirachi]{source="Jirachi" offensive=false movePower=80 level=56 special=true combatStages=2 evs=23 type="Dark" theme=error}
+    :damage[Spiritomb's Sucker Punch vs +2 Defense Jirachi]{source="Jirachi" offensive=false combatStages=2 movePower=70 level=56 evs=66 type="Dark" theme=error}
+  :::::
+  :::::pokemon[Gastrodon]{baseStats="[111, 83, 68, 92, 82, 39]" ivs="[31, 31, 31, 31, 31, 0]" evs="[252, 0, 252, 0, 6, 0]" type="Water/Ground" level=60 nature="Relaxed"}
+    :::if{source="Jirachi" condition="spe=(0+/16-/x)"}
+	- X Speed + Psychic x1-2
+	:::
+	:::if{source="Jirachi" condition="spe=(x/17+/0+)"}
+	- Psychic x1-2
+	:::
+	:damage[Gastrodon's Earthquake vs +2 Defense Jirachi]{source="Jirachi" offensive=false movePower=100 combatStages=2 level=57 evs=68 special=false type="Ground" theme=error}
+  :::::
+  :::::pokemon[Roserade]
+    - Psychic
+  :::::
+  :::::pokemon[Lucario]
+    - Psychic
+  :::::
+  :::::pokemon[Milotic]
+    - Psychic
+  :::::
+  :::pokemon[Garchomp]
+    - Psychic
+  :::::
+:::::::
+
+Timing ends on the first black frame of the fadeout after you are inducted to the Hall of Fame.
