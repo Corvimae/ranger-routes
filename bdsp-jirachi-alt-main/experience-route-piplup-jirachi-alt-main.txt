@@ -1,0 +1,716 @@
+C:\Program Files\nodejs\node.exe .\GenericBDSP.js
+[KILL]: Got 12 Exp for killing Starly (Lv. 2) @(None) (Ability: (other)) (Nature: (None)) (Moves: (No Move)/(No Move)/(No Move)/(No Move)) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"spd":1}
+Piplup (Lv. 5) (Ability: Torrent) (Nature: Nature) (Moves: Bubble Beam/Aqua Jet/Pound/Water Gun) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/1
+Current Exp: 147 (27.27%)
+[KILL]: Got 50 Exp for killing Starly (Lv. 5) @(None) (Ability: Keen Eye) (Nature: Jolly) (Moves: Tackle/Growl/Quick Attack/(No Move)) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"spd":1}
+[LEVELUP] Now level 6
+6	0	0	0	0	0	2
+Piplup (Lv. 6) (Ability: Torrent) (Nature: Nature) (Moves: Bubble Beam/Aqua Jet/Pound/Water Gun) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/2
+Current Exp: 197 (31.58%)
+[KILL]: Got 20 Exp for killing Bidoof (Lv. 3) @(None) (Ability: Unaware) (Nature: Jolly) (Moves: Tackle/Growl/(No Move)/(No Move)) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"hp":1}
+Piplup (Lv. 6) (Ability: Torrent) (Nature: Nature) (Moves: Bubble Beam/Aqua Jet/Pound/Water Gun) IVs: 0/0/0/0/0/0 EVs: 1/0/0/0/0/2
+Current Exp: 217 (66.67%)
+[KILL]: Got 20 Exp for killing Bidoof (Lv. 3) @(None) (Ability: Unaware) (Nature: Jolly) (Moves: Tackle/Growl/(No Move)/(No Move)) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"hp":1}
+[LEVELUP] Now level 7
+7	2	0	0	0	0	2
+Piplup (Lv. 7) (Ability: Torrent) (Nature: Nature) (Moves: Bubble Beam/Aqua Jet/Pound/Water Gun) IVs: 0/0/0/0/0/0 EVs: 2/0/0/0/0/2
+Current Exp: 237 (1.28%)
+[KILL]: Got 42 Exp for killing Shinx (Lv. 5) @(None) (Ability: Intimidate) (Nature: Jolly) (Moves: Tackle/Leer/Thundershock/(No Move)) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"atk":1}
+Piplup (Lv. 7) (Ability: Torrent) (Nature: Nature) (Moves: Bubble Beam/Aqua Jet/Pound/Water Gun) IVs: 0/0/0/0/0/0 EVs: 2/1/0/0/0/2
+Current Exp: 279 (55.13%)
+[KILL]: Got 69 Exp for killing Starly (Lv. 7) @(None) (Ability: Keen Eye) (Nature: Jolly) (Moves: Tackle/Growl/Quick Attack/(No Move)) IVs: 5/5/5/5/5/5 EVs: 0/0/0/0/0/0
+EV yield: {"spd":1}
+[LEVELUP] Now level 8
+8	2	1	0	0	0	3
+Piplup (Lv. 8) (Ability: Torrent) (Nature: Nature) (Moves: Bubble Beam/Aqua Jet/Pound/Water Gun) IVs: 0/0/0/0/0/0 EVs: 2/1/0/0/0/3
+Current Exp: 348 (32.38%)
+[KILL]: Got 126 Exp for killing Turtwig (Lv. 9) @(None) (Ability: Overgrow) (Nature: Careful) (Moves: Tackle/Withdraw/(No Move)/(No Move)) IVs: 11/11/11/11/11/11 EVs: 0/0/0/0/0/0
+EV yield: {"atk":1}
+[LEVELUP] Now level 9
+9	2	2	0	0	0	3
+Piplup (Lv. 9) (Ability: Torrent) (Nature: Nature) (Moves: Bubble Beam/Aqua Jet/Pound/Water Gun) IVs: 0/0/0/0/0/0 EVs: 2/2/0/0/0/3
+Current Exp: 474 (39.01%)
+[KILL]: Got 182 Exp for killing Geodude (Lv. 12) @(None) (Ability: Rock Head) (Nature: Impish) (Moves: Stealth Rock/Defense Curl/Rollout/(No Move)) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"def":1}
+[LEVELUP] Now level 10
+10	2	2	1	0	0	3
+Piplup (Lv. 10) (Ability: Torrent) (Nature: Nature) (Moves: Bubble Beam/Aqua Jet/Pound/Water Gun) IVs: 0/0/0/0/0/0 EVs: 2/2/1/0/0/3
+Current Exp: 656 (52.75%)
+[KILL]: Got 215 Exp for killing Onix (Lv. 12) @(None) (Ability: Sturdy) (Nature: Adamant) (Moves: Stealth Rock/Rock Throw/Bind/(No Move)) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"def":1}
+[LEVELUP] Now level 11
+11	2	2	2	0	0	3
+Piplup (Lv. 11) (Ability: Torrent) (Nature: Nature) (Moves: Bubble Beam/Aqua Jet/Pound/Water Gun) IVs: 0/0/0/0/0/0 EVs: 2/2/2/0/0/3
+Current Exp: 871 (55.84%)
+[KILL]: Got 241 Exp for killing Cranidos (Lv. 14) @(None) (Ability: Mold Breaker) (Nature: Jolly) (Moves: Headbutt/Bulldoze/Leer/(No Move)) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"atk":1}
+[LEVELUP] Now level 12
+12	2	3	2	0	0	3
+Piplup (Lv. 12) (Ability: Torrent) (Nature: Nature) (Moves: Bubble Beam/Aqua Jet/Pound/Water Gun) IVs: 0/0/0/0/0/0 EVs: 2/3/2/0/0/3
+Current Exp: 1112 (48.26%)
+[KILL]: Got 69 Exp for killing Zubat (Lv. 9) @(None) (Ability: Inner Focus) (Nature: Hardy) (Moves: Absorb/Supersonic/Astonish/(No Move)) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"spd":1}
+Piplup (Lv. 12) (Ability: Torrent) (Nature: Nature) (Moves: Bubble Beam/Aqua Jet/Pound/Water Gun) IVs: 0/0/0/0/0/0 EVs: 2/3/2/0/0/4
+Current Exp: 1181 (72.22%)
+[KILL]: Got 78 Exp for killing Wurmple (Lv. 9) @(None) (Ability: Shield Dust) (Nature: Docile) (Moves: Tackle/String Shot/Poison Sting/(No Move)) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"hp":1}
+Piplup (Lv. 12) (Ability: Torrent) (Nature: Nature) (Moves: Bubble Beam/Aqua Jet/Pound/Water Gun) IVs: 0/0/0/0/0/0 EVs: 3/3/2/0/0/4
+Current Exp: 1259 (99.31%)
+[KILL]: Got 39 Exp for killing Wurmple (Lv. 9) @(None) (Ability: Shield Dust) (Nature: Serious) (Moves: Tackle/String Shot/Poison Sting/(No Move)) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"hp":1}
+[LEVELUP] Now level 13
+13	4	3	2	0	0	4
+Piplup (Lv. 13) (Ability: Torrent) (Nature: Nature) (Moves: Bubble Beam/Aqua Jet/Pound/Water Gun) IVs: 0/0/0/0/0/0 EVs: 4/3/2/0/0/4
+Current Exp: 1298 (10.54%)
+[KILL]: Got 46 Exp for killing Silcoon (Lv. 9) @(None) (Ability: Shed Skin) (Nature: Bashful) (Moves: Harden/(No Move)/(No Move)/(No Move)) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"def":2}
+Piplup (Lv. 13) (Ability: Torrent) (Nature: Nature) (Moves: Bubble Beam/Aqua Jet/Pound/Water Gun) IVs: 0/0/0/0/0/0 EVs: 4/3/4/0/0/4
+Current Exp: 1344 (23.65%)
+[KILL]: Got 46 Exp for killing Zubat (Lv. 11) @(None) (Ability: Inner Focus) (Nature: Quirky) (Moves: Absorb/Supersonic/Astonish/Mean Look) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"spd":1}
+Piplup (Lv. 13) (Ability: Torrent) (Nature: Nature) (Moves: Bubble Beam/Aqua Jet/Pound/Water Gun) IVs: 0/0/0/0/0/0 EVs: 4/3/4/0/0/5
+Current Exp: 1390 (36.75%)
+[KILL]: Got 59 Exp for killing Glameow (Lv. 11) @(None) (Ability: Limber) (Nature: Bashful) (Moves: Fake Out/Scratch/Growl/(No Move)) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"spd":1}
+Piplup (Lv. 13) (Ability: Torrent) (Nature: Nature) (Moves: Bubble Beam/Aqua Jet/Pound/Water Gun) IVs: 0/0/0/0/0/0 EVs: 4/3/4/0/0/6
+Current Exp: 1449 (53.56%)
+[KILL]: Got 212 Exp for killing Pachirisu (Lv. 14) @(None) (Ability: Pickup) (Nature: Quirky) (Moves: Baby-Doll Eyes/Quick Attack/Charm/Spark) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"spd":1}
+[LEVELUP] Now level 14
+14	4	3	4	0	0	7
+Piplup (Lv. 14) (Ability: Torrent) (Nature: Nature) (Moves: Bubble Beam/Aqua Jet/Pound/Water Gun) IVs: 0/0/0/0/0/0 EVs: 4/3/4/0/0/7
+Current Exp: 1661 (11.58%)
+[KILL]: Got 100 Exp for killing Abra (Lv. 15) @(None) (Ability: Synchronize) (Nature: Calm) (Moves: Energy Ball/(No Move)/(No Move)/(No Move)) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"spAtk":1}
+Piplup (Lv. 14) (Ability: Torrent) (Nature: Nature) (Moves: Bubble Beam/Aqua Jet/Pound/Water Gun) IVs: 0/0/0/0/0/0 EVs: 4/3/4/1/0/7
+Current Exp: 1761 (35.22%)
+[KILL]: Got 100 Exp for killing Abra (Lv. 15) @(None) (Ability: Synchronize) (Nature: Sassy) (Moves: Energy Ball/(No Move)/(No Move)/(No Move)) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"spAtk":1}
+Piplup (Lv. 14) (Ability: Torrent) (Nature: Nature) (Moves: Bubble Beam/Aqua Jet/Pound/Water Gun) IVs: 0/0/0/0/0/0 EVs: 4/3/4/2/0/7
+Current Exp: 1861 (58.87%)
+[EVOLUTION]
+Prinplup (Lv. 14) (Ability: Torrent) (Nature: Nature) (Moves: Bubble Beam/Aqua Jet/Pound/Water Gun) IVs: 0/0/0/0/0/0 EVs: 4/3/4/2/0/7
+Current Exp: 1861 (58.87%)
+[KILL]: Got 88 Exp for killing Cherubi (Lv. 15) @(None) (Ability: Chlorophyll) (Nature: Impish) (Moves: Sunny Day/Morning Sun/Growth/Leafage) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"spAtk":1}
+Prinplup (Lv. 14) (Ability: Torrent) (Nature: Nature) (Moves: Bubble Beam/Aqua Jet/Pound/Water Gun) IVs: 0/0/0/0/0/0 EVs: 4/3/4/3/0/7
+Current Exp: 1949 (79.67%)
+[KILL]: Got 224 Exp for killing Roselia (Lv. 15) @(None) (Ability: Leaf Guard) (Nature: Timid) (Moves: Stun Spore/Mega Drain/Leech Seed/(No Move)) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"spAtk":2}
+[LEVELUP] Now level 15
+15	4	3	4	5	0	7
+Prinplup (Lv. 15) (Ability: Torrent) (Nature: Nature) (Moves: Bubble Beam/Aqua Jet/Pound/Water Gun) IVs: 0/0/0/0/0/0 EVs: 4/3/4/5/0/7
+Current Exp: 2173 (27.60%)
+[KILL]: Got 74 Exp for killing Budew (Lv. 14) @(None) (Ability: Poison Point) (Nature: Bold) (Moves: Absorb/Stun Spore/Rest/Sleep Talk) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"spAtk":1}
+Prinplup (Lv. 15) (Ability: Torrent) (Nature: Nature) (Moves: Bubble Beam/Aqua Jet/Pound/Water Gun) IVs: 0/0/0/0/0/0 EVs: 4/3/4/6/0/7
+Current Exp: 2247 (42.40%)
+[KILL]: Got 63 Exp for killing Budew (Lv. 13) @(None) (Ability: Poison Point) (Nature: Bold) (Moves: Absorb/Stun Spore/Rest/Sleep Talk) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"spAtk":1}
+Prinplup (Lv. 15) (Ability: Torrent) (Nature: Nature) (Moves: Bubble Beam/Aqua Jet/Pound/Water Gun) IVs: 0/0/0/0/0/0 EVs: 4/3/4/7/0/7
+Current Exp: 2310 (55.00%)
+[KILL]: Got 85 Exp for killing Budew (Lv. 15) @(None) (Ability: Poison Point) (Nature: Bold) (Moves: Absorb/Stun Spore/Rest/Sleep Talk) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"spAtk":1}
+Prinplup (Lv. 15) (Ability: Torrent) (Nature: Nature) (Moves: Bubble Beam/Aqua Jet/Pound/Water Gun) IVs: 0/0/0/0/0/0 EVs: 4/3/4/8/0/7
+Current Exp: 2395 (72.00%)
+[KILL]: Got 122 Exp for killing Turtwig (Lv. 17) @(None) (Ability: Overgrow) (Nature: Adamant) (Moves: Tackle/Iron Tail/Bullet Seed/(No Move)) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"atk":1}
+Prinplup (Lv. 15) (Ability: Torrent) (Nature: Nature) (Moves: Bubble Beam/Aqua Jet/Pound/Water Gun) IVs: 0/0/0/0/0/0 EVs: 4/4/4/8/0/7
+Current Exp: 2517 (96.40%)
+[KILL]: Got 268 Exp for killing Roselia (Lv. 17) @(None) (Ability: Poison Point) (Nature: Timid) (Moves: Toxic/Leech Seed/Mega Drain/(No Move)) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"spAtk":2}
+[LEVELUP] Now level 16
+16	4	4	4	10	0	7
+Prinplup (Lv. 16) (Ability: Torrent) (Nature: Nature) (Moves: Bubble Beam/Aqua Jet/Pound/Water Gun) IVs: 0/0/0/0/0/0 EVs: 4/4/4/10/0/7
+Current Exp: 2785 (42.74%)
+[KILL]: Got 123 Exp for killing Cherubi (Lv. 19) @(None) (Ability: Chlorophyll) (Nature: Timid) (Moves: Grass Knot/Growth/Dazzling Gleam/Safeguard) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"spAtk":1}
+Prinplup (Lv. 16) (Ability: Torrent) (Nature: Nature) (Moves: Bubble Beam/Aqua Jet/Pound/Water Gun) IVs: 0/0/0/0/0/0 EVs: 4/4/4/11/0/7
+Current Exp: 2908 (63.76%)
+[KILL]: Got 143 Exp for killing Turtwig (Lv. 19) @Miracle Seed (Ability: Shell Armor) (Nature: Relaxed) (Moves: Grass Knot/Razor Leaf/Reflect/Work Up) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"atk":1}
+Prinplup (Lv. 16) (Ability: Torrent) (Nature: Nature) (Moves: Bubble Beam/Aqua Jet/Pound/Water Gun) IVs: 0/0/0/0/0/0 EVs: 4/5/4/11/0/7
+Current Exp: 3051 (88.21%)
+[KILL]: Got 762 Exp for killing Roserade (Lv. 22) @Sitrus Berry (Ability: Technician) (Nature: Timid) (Moves: Grass Knot/Petal Blizzard/Poison Sting/Stun Spore) IVs: 0/15/0/15/0/15 EVs: 0/36/0/36/0/36
+EV yield: {"spAtk":3}
+[LEVELUP] Now level 17
+17	4	5	4	14	0	7
+[LEVELUP] Now level 18
+18	4	5	4	14	0	7
+Prinplup (Lv. 18) (Ability: Torrent) (Nature: Nature) (Moves: Bubble Beam/Aqua Jet/Pound/Water Gun) IVs: 0/0/0/0/0/0 EVs: 4/5/4/14/0/7
+Current Exp: 3813 (1.93%)
+[KILL]: Got 105 Exp for killing Wurmple (Lv. 13) @(None) (Ability: Shield Dust) (Nature: Quirky) (Moves: Tackle/String Shot/Poison Sting/(No Move)) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"hp":1}
+Prinplup (Lv. 18) (Ability: Torrent) (Nature: Nature) (Moves: Bubble Beam/Aqua Jet/Pound/Water Gun) IVs: 0/0/0/0/0/0 EVs: 5/5/4/14/0/7
+Current Exp: 3918 (15.44%)
+[KILL]: Got 136 Exp for killing Cascoon (Lv. 13) @(None) (Ability: Shed Skin) (Nature: Hardy) (Moves: Tackle/String Shot/Poison Sting/Harden) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"def":2}
+Prinplup (Lv. 18) (Ability: Torrent) (Nature: Nature) (Moves: Bubble Beam/Aqua Jet/Pound/Water Gun) IVs: 0/0/0/0/0/0 EVs: 5/5/6/14/0/7
+Current Exp: 4054 (32.95%)
+[KILL]: Got 107 Exp for killing Zubat (Lv. 14) @(None) (Ability: Inner Focus) (Nature: Bashful) (Moves: Absorb/Supersonic/Astonish/Mean Look) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"spd":1}
+Prinplup (Lv. 18) (Ability: Torrent) (Nature: Nature) (Moves: Bubble Beam/Aqua Jet/Pound/Water Gun) IVs: 0/0/0/0/0/0 EVs: 5/5/6/14/0/8
+Current Exp: 4161 (46.72%)
+[KILL]: Got 135 Exp for killing Glameow (Lv. 14) @(None) (Ability: Own Tempo) (Nature: Quirky) (Moves: Fake Out/Scratch/Growl/Hypnosis) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"spd":1}
+Prinplup (Lv. 18) (Ability: Torrent) (Nature: Nature) (Moves: Bubble Beam/Aqua Jet/Pound/Water Gun) IVs: 0/0/0/0/0/0 EVs: 5/5/6/14/0/9
+Current Exp: 4296 (64.09%)
+[KILL]: Got 45 Exp for killing Wurmple (Lv. 12) @(None) (Ability: Shield Dust) (Nature: Docile) (Moves: Tackle/String Shot/Poison Sting/(No Move)) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"hp":1}
+Prinplup (Lv. 18) (Ability: Torrent) (Nature: Nature) (Moves: Bubble Beam/Aqua Jet/Pound/Water Gun) IVs: 0/0/0/0/0/0 EVs: 6/5/6/14/0/9
+Current Exp: 4341 (69.88%)
+[KILL]: Got 58 Exp for killing Silcoon (Lv. 12) @(None) (Ability: Shed Skin) (Nature: Serious) (Moves: Tackle/String Shot/Poison Sting/Harden) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"def":2}
+Prinplup (Lv. 18) (Ability: Torrent) (Nature: Nature) (Moves: Bubble Beam/Aqua Jet/Pound/Water Gun) IVs: 0/0/0/0/0/0 EVs: 6/5/8/14/0/9
+Current Exp: 4399 (77.35%)
+[KILL]: Got 39 Exp for killing Zubat (Lv. 12) @(None) (Ability: Inner Focus) (Nature: Bashful) (Moves: Absorb/Supersonic/Astonish/Mean Look) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"spd":1}
+Prinplup (Lv. 18) (Ability: Torrent) (Nature: Nature) (Moves: Bubble Beam/Aqua Jet/Pound/Water Gun) IVs: 0/0/0/0/0/0 EVs: 6/5/8/14/0/10
+Current Exp: 4438 (82.37%)
+[KILL]: Got 176 Exp for killing Kadabra (Lv. 15) @(None) (Ability: Synchronize) (Nature: Sassy) (Moves: Kinesis/Disable/Psybeam/Reflect) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"spAtk":2}
+[LEVELUP] Now level 19
+19	6	5	8	16	0	10
+Prinplup (Lv. 19) (Ability: Torrent) (Nature: Nature) (Moves: Bubble Beam/Aqua Jet/Pound/Water Gun) IVs: 0/0/0/0/0/0 EVs: 6/5/8/16/0/10
+Current Exp: 4614 (4.41%)
+[KILL]: Got 84 Exp for killing Zubat (Lv. 18) @(None) (Ability: Inner Focus) (Nature: Modest) (Moves: Absorb/Supersonic/Mean Look/Poison Fang) IVs: 15/0/15/0/15/0 EVs: 68/0/68/0/68/0
+EV yield: {"spd":1}
+Prinplup (Lv. 19) (Ability: Torrent) (Nature: Nature) (Moves: Bubble Beam/Aqua Jet/Pound/Water Gun) IVs: 0/0/0/0/0/0 EVs: 6/5/8/16/0/11
+Current Exp: 4698 (13.90%)
+[KILL]: Got 354 Exp for killing Skuntank (Lv. 20) @Sitrus Berry (Ability: Aftermath) (Nature: Modest) (Moves: Flamethrower/Poison Gas/Acid Spray/Snarl) IVs: 15/0/15/0/15/0 EVs: 68/0/68/0/68/0
+EV yield: {"hp":2}
+Prinplup (Lv. 19) (Ability: Torrent) (Nature: Nature) (Moves: Bubble Beam/Aqua Jet/Pound/Water Gun) IVs: 0/0/0/0/0/0 EVs: 8/5/8/16/0/11
+Current Exp: 5052 (53.90%)
+[KILL]: Got 278 Exp for killing Bronzor (Lv. 21) @(None) (Ability: Levitate) (Nature: Hardy) (Moves: Confusion/Confuse Ray/Payback/Gyro Ball) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"def":1}
+Prinplup (Lv. 19) (Ability: Torrent) (Nature: Nature) (Moves: Bubble Beam/Aqua Jet/Pound/Water Gun) IVs: 0/0/0/0/0/0 EVs: 8/5/9/16/0/11
+Current Exp: 5330 (85.31%)
+[KILL]: Got 388 Exp for killing Shieldon (Lv. 23) @(None) (Ability: Sturdy) (Nature: Relaxed) (Moves: Taunt/Metal Sound/Take Down/Iron Defense) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"def":1}
+[LEVELUP] Now level 20
+20	8	5	10	16	0	11
+Prinplup (Lv. 20) (Ability: Torrent) (Nature: Nature) (Moves: Bubble Beam/Aqua Jet/Pound/Water Gun) IVs: 0/0/0/0/0/0 EVs: 8/5/10/16/0/11
+Current Exp: 5718 (25.85%)
+[KILL]: Got 750 Exp for killing Monferno (Lv. 23) @(None) (Ability: Blaze) (Nature: Jolly) (Moves: Leer/Taunt/Fury Swipes/Flame Wheel) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"spAtk":1,"spd":1}
+[LEVELUP] Now level 21
+21	8	5	10	17	0	12
+Prinplup (Lv. 21) (Ability: Torrent) (Nature: Nature) (Moves: Bubble Beam/Aqua Jet/Pound/Water Gun) IVs: 0/0/0/0/0/0 EVs: 8/5/10/17/0/12
+Current Exp: 6468 (0.89%)
+[KILL]: Got 952 Exp for killing Gyarados (Lv. 23) @(None) (Ability: Intimidate) (Nature: Hasty) (Moves: Bite/Leer/Ice Fang/Waterfall) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"atk":2}
+Prinplup (Lv. 21) (Ability: Torrent) (Nature: Nature) (Moves: Bubble Beam/Aqua Jet/Pound/Water Gun) IVs: 0/0/0/0/0/0 EVs: 8/7/10/17/0/12
+Current Exp: 7420 (85.97%)
+[KILL]: Got 313 Exp for killing Glameow (Lv. 23) @(None) (Ability: Own Tempo) (Nature: Jolly) (Moves: Fake Out/Growl/Aerial Ace/Fury Swipes) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"spd":1}
+[LEVELUP] Now level 22
+22	8	7	10	17	0	13
+Prinplup (Lv. 22) (Ability: Torrent) (Nature: Nature) (Moves: Bubble Beam/Aqua Jet/Pound/Water Gun) IVs: 0/0/0/0/0/0 EVs: 8/7/10/17/0/13
+Current Exp: 7733 (12.50%)
+[KILL]: Got 674 Exp for killing Kadabra (Lv. 23) @(None) (Ability: Synchronize) (Nature: Timid) (Moves: Kinesis/Psybeam/Reflect/Ally Switch) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"spAtk":2}
+Prinplup (Lv. 22) (Ability: Torrent) (Nature: Nature) (Moves: Bubble Beam/Aqua Jet/Pound/Water Gun) IVs: 0/0/0/0/0/0 EVs: 8/7/10/19/0/13
+Current Exp: 8407 (66.51%)
+[KILL]: Got 764 Exp for killing Kadabra (Lv. 35) @Damp Rock (Ability: Inner Focus) (Nature: Timid) (Moves: Kinesis/Reflect/Psychic/Rain Dance) IVs: 15/0/15/0/15/0 EVs: 68/0/68/0/68/0
+EV yield: {"spAtk":2}
+[LEVELUP] Now level 23
+23	8	7	10	21	0	13
+Prinplup (Lv. 23) (Ability: Torrent) (Nature: Nature) (Moves: Bubble Beam/Aqua Jet/Pound/Water Gun) IVs: 0/0/0/0/0/0 EVs: 8/7/10/21/0/13
+Current Exp: 9171 (25.02%)
+[KILL]: Got 316 Exp for killing Bronzor (Lv. 35) @(None) (Ability: Levitate) (Nature: Relaxed) (Moves: Confuse Ray/Payback/Gyro Ball/Extrasensory) IVs: 15/0/15/0/15/0 EVs: 68/0/68/0/68/0
+EV yield: {"def":1}
+Prinplup (Lv. 23) (Ability: Torrent) (Nature: Nature) (Moves: Bubble Beam/Aqua Jet/Pound/Water Gun) IVs: 0/0/0/0/0/0 EVs: 8/7/11/21/0/13
+Current Exp: 9487 (47.87%)
+[KILL]: Got 1004 Exp for killing Toxicroak (Lv. 37) @(None) (Ability: Dry Skin) (Nature: Jolly) (Moves: Mud-Slap/Revenge/Toxic/Thief) IVs: 15/0/15/0/15/0 EVs: 68/0/68/0/68/0
+EV yield: {"atk":2}
+[LEVELUP] Now level 24
+24	8	9	11	21	0	13
+Prinplup (Lv. 24) (Ability: Torrent) (Nature: Nature) (Moves: Bubble Beam/Aqua Jet/Pound/Water Gun) IVs: 0/0/0/0/0/0 EVs: 8/9/11/21/0/13
+Current Exp: 10491 (18.53%)
+[KILL]: Got 561 Exp for killing Glameow (Lv. 33) @(None) (Ability: Limber) (Nature: Hardy) (Moves: Growl/Aerial Ace/Fury Swipes/Retaliate) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"spd":1}
+Prinplup (Lv. 24) (Ability: Torrent) (Nature: Nature) (Moves: Bubble Beam/Aqua Jet/Pound/Water Gun) IVs: 0/0/0/0/0/0 EVs: 8/9/11/21/0/14
+Current Exp: 11052 (55.27%)
+[KILL]: Got 562 Exp for killing Stunky (Lv. 32) @(None) (Ability: Aftermath) (Nature: Docile) (Moves: Poison Gas/Bite/Venoshock/Sucker Punch) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"spd":1}
+Prinplup (Lv. 24) (Ability: Torrent) (Nature: Nature) (Moves: Bubble Beam/Aqua Jet/Pound/Water Gun) IVs: 0/0/0/0/0/0 EVs: 8/9/11/21/0/15
+Current Exp: 11614 (92.08%)
+[KILL]: Got 528 Exp for killing Glameow (Lv. 32) @(None) (Ability: Limber) (Nature: Serious) (Moves: Growl/Aerial Ace/Fury Swipes/Retaliate) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"spd":1}
+[LEVELUP] Now level 25
+25	8	9	11	21	0	16
+Prinplup (Lv. 25) (Ability: Torrent) (Nature: Nature) (Moves: Bubble Beam/Aqua Jet/Pound/Water Gun) IVs: 0/0/0/0/0/0 EVs: 8/9/11/21/0/16
+Current Exp: 12142 (24.28%)
+[KILL]: Got 865 Exp for killing Golbat (Lv. 37) @(None) (Ability: Inner Focus) (Nature: Jolly) (Moves: Astonish/Poison Fang/Bite/U-turn) IVs: 15/0/15/0/15/0 EVs: 68/0/68/0/68/0
+EV yield: {"spd":2}
+Prinplup (Lv. 25) (Ability: Torrent) (Nature: Nature) (Moves: Bubble Beam/Aqua Jet/Pound/Water Gun) IVs: 0/0/0/0/0/0 EVs: 8/9/11/21/0/18
+Current Exp: 13007 (75.89%)
+[KILL]: Got 327 Exp for killing Bronzor (Lv. 37) @(None) (Ability: Levitate) (Nature: Sassy) (Moves: Confuse Ray/Payback/Gyro Ball/Iron Defense) IVs: 15/0/15/0/15/0 EVs: 68/0/68/0/68/0
+EV yield: {"def":1}
+Prinplup (Lv. 25) (Ability: Torrent) (Nature: Nature) (Moves: Bubble Beam/Aqua Jet/Pound/Water Gun) IVs: 0/0/0/0/0/0 EVs: 8/9/12/21/0/18
+Current Exp: 13334 (95.41%)
+[KILL]: Got 950 Exp for killing Purugly (Lv. 39) @Sitrus Berry (Ability: Thick Fat) (Nature: Jolly) (Moves: Growl/Aerial Ace/Slash/U-turn) IVs: 15/0/15/0/15/0 EVs: 68/0/68/0/68/0
+EV yield: {"spd":2}
+[LEVELUP] Now level 26
+26	8	9	12	21	0	20
+Prinplup (Lv. 26) (Ability: Torrent) (Nature: Nature) (Moves: Bubble Beam/Aqua Jet/Pound/Water Gun) IVs: 0/0/0/0/0/0 EVs: 8/9/12/21/0/20
+Current Exp: 14284 (47.63%)
+[KILL]: Got 972 Exp for killing Raichu (Lv. 34) @(None) (Ability: Static) (Nature: Timid) (Moves: Nuzzle/Electro Ball/Agility/Light Screen) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"spd":3}
+[LEVELUP] Now level 27
+27	8	9	12	21	0	23
+Prinplup (Lv. 27) (Ability: Torrent) (Nature: Nature) (Moves: Bubble Beam/Aqua Jet/Pound/Water Gun) IVs: 0/0/0/0/0/0 EVs: 8/9/12/21/0/23
+Current Exp: 15256 (0.60%)
+[KILL]: Got 741 Exp for killing Pelipper (Lv. 36) @(None) (Ability: Keen Eye) (Nature: Timid) (Moves: Air Slash/Tailwind/Water Pulse/Stockpile) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"def":2}
+Prinplup (Lv. 27) (Ability: Torrent) (Nature: Nature) (Moves: Bubble Beam/Aqua Jet/Pound/Water Gun) IVs: 0/0/0/0/0/0 EVs: 8/9/14/21/0/23
+Current Exp: 15997 (37.69%)
+[KILL]: Got 352 Exp for killing Hippopotas (Lv. 38) @(None) (Ability: Sand Stream) (Nature: Relaxed) (Moves: Yawn/Sand Tomb/Crunch/Rest) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"def":1}
+Prinplup (Lv. 27) (Ability: Torrent) (Nature: Nature) (Moves: Bubble Beam/Aqua Jet/Pound/Water Gun) IVs: 0/0/0/0/0/0 EVs: 8/9/15/21/0/23
+Current Exp: 16349 (55.31%)
+[KILL]: Got 712 Exp for killing Roselia (Lv. 37) @(None) (Ability: Poison Point) (Nature: Calm) (Moves: Poison Sting/Leech Seed/Giga Drain/Synthesis) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"spAtk":2}
+Prinplup (Lv. 27) (Ability: Torrent) (Nature: Nature) (Moves: Bubble Beam/Aqua Jet/Pound/Water Gun) IVs: 0/0/0/0/0/0 EVs: 8/9/15/23/0/23
+Current Exp: 17061 (90.94%)
+[KILL]: Got 802 Exp for killing Seaking (Lv. 37) @(None) (Ability: Water Veil) (Nature: Jolly) (Moves: Peck/Supersonic/Flail/Waterfall) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"atk":2}
+[LEVELUP] Now level 28
+28	8	11	15	23	0	23
+Prinplup (Lv. 28) (Ability: Torrent) (Nature: Nature) (Moves: Bubble Beam/Aqua Jet/Pound/Water Gun) IVs: 0/0/0/0/0/0 EVs: 8/11/15/23/0/23
+Current Exp: 17863 (28.63%)
+[KILL]: Got 346 Exp for killing Snover (Lv. 38) @Icy Rock (Ability: Snow Warning) (Nature: Relaxed) (Moves: Mist/Razor Leaf/Water Pulse/Avalanche) IVs: 19/25/0/25/0/0 EVs: 60/124/0/124/0/0
+EV yield: {"atk":1}
+Prinplup (Lv. 28) (Ability: Torrent) (Nature: Nature) (Moves: Bubble Beam/Aqua Jet/Pound/Water Gun) IVs: 0/0/0/0/0/0 EVs: 8/12/15/23/0/23
+Current Exp: 18209 (44.58%)
+[KILL]: Got 445 Exp for killing Sneasel (Lv. 38) @Chople Berry (Ability: Pickpocket) (Nature: Jolly) (Moves: Metal Claw/Hone Claws/Dig/Avalanche) IVs: 10/25/10/0/0/25 EVs: 64/124/0/0/0/124
+EV yield: {"spd":1}
+Prinplup (Lv. 28) (Ability: Torrent) (Nature: Nature) (Moves: Bubble Beam/Aqua Jet/Pound/Water Gun) IVs: 0/0/0/0/0/0 EVs: 8/12/15/23/0/24
+Current Exp: 18654 (65.10%)
+[KILL]: Got 824 Exp for killing Medicham (Lv. 40) @Expert Belt (Ability: Pure Power) (Nature: Jolly) (Moves: Ice Punch/Bulk Up/Brick Break/Rock Slide) IVs: 10/25/0/0/0/25 EVs: 64/124/0/0/0/124
+EV yield: {"spd":2}
+[LEVELUP] Now level 29
+29	8	12	15	23	0	26
+Prinplup (Lv. 29) (Ability: Torrent) (Nature: Nature) (Moves: Bubble Beam/Aqua Jet/Pound/Water Gun) IVs: 0/0/0/0/0/0 EVs: 8/12/15/23/0/26
+Current Exp: 19478 (2.85%)
+[KILL]: Got 1054 Exp for killing Abomasnow (Lv. 42) @Sitrus Berry (Ability: Snow Warning) (Nature: Quiet) (Moves: Aurora Veil/Giga Drain/Earthquake/Blizzard) IVs: 13/25/10/27/10/0 EVs: 124/60/0/164/0/0
+EV yield: {"atk":1,"spAtk":1}
+Prinplup (Lv. 29) (Ability: Torrent) (Nature: Nature) (Moves: Bubble Beam/Aqua Jet/Pound/Water Gun) IVs: 0/0/0/0/0/0 EVs: 8/13/15/24/0/26
+Current Exp: 20532 (47.72%)
+[KILL]: Got 821 Exp for killing Dustox (Lv. 35) @(None) (Ability: Shield Dust) (Nature: Quirky) (Moves: Venoshock/Leech Life/Toxic/Bug Buzz) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"spDef":3}
+Prinplup (Lv. 29) (Ability: Torrent) (Nature: Nature) (Moves: Bubble Beam/Aqua Jet/Pound/Water Gun) IVs: 0/0/0/0/0/0 EVs: 8/13/15/24/3/26
+Current Exp: 21353 (82.67%)
+[KILL]: Got 256 Exp for killing Bronzor (Lv. 35) @(None) (Ability: Heatproof) (Nature: Hardy) (Moves: Confuse Ray/Payback/Extrasensory/Heavy Slam) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"def":1}
+Prinplup (Lv. 29) (Ability: Torrent) (Nature: Nature) (Moves: Bubble Beam/Aqua Jet/Pound/Water Gun) IVs: 0/0/0/0/0/0 EVs: 8/13/16/24/3/26
+Current Exp: 21609 (93.57%)
+[KILL]: Got 596 Exp for killing Kadabra (Lv. 35) @(None) (Ability: Inner Focus) (Nature: Sassy) (Moves: Kinesis/Reflect/Psyshock/Psychic) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"spAtk":2}
+[LEVELUP] Now level 30
+30	8	13	16	26	3	26
+Prinplup (Lv. 30) (Ability: Torrent) (Nature: Nature) (Moves: Bubble Beam/Aqua Jet/Pound/Water Gun) IVs: 0/0/0/0/0/0 EVs: 8/13/16/26/3/26
+Current Exp: 22205 (17.56%)
+[KILL]: Got 576 Exp for killing Kadabra (Lv. 35) @(None) (Ability: Synchronize) (Nature: Sassy) (Moves: Reflect/Recover/Psyshock/Psychic) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"spAtk":2}
+Prinplup (Lv. 30) (Ability: Torrent) (Nature: Nature) (Moves: Bubble Beam/Aqua Jet/Pound/Water Gun) IVs: 0/0/0/0/0/0 EVs: 8/13/16/28/3/26
+Current Exp: 22781 (40.29%)
+[KILL]: Got 692 Exp for killing Golbat (Lv. 36) @(None) (Ability: Inner Focus) (Nature: Serious) (Moves: Poison Fang/Quick Guard/Air Cutter/Bite) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"spd":2}
+Prinplup (Lv. 30) (Ability: Torrent) (Nature: Nature) (Moves: Bubble Beam/Aqua Jet/Pound/Water Gun) IVs: 0/0/0/0/0/0 EVs: 8/13/16/28/3/28
+Current Exp: 23473 (67.60%)
+[KILL]: Got 279 Exp for killing Silcoon (Lv. 34) @(None) (Ability: Shed Skin) (Nature: Bashful) (Moves: Tackle/Poison Sting/Harden/(No Move)) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"def":2}
+Prinplup (Lv. 30) (Ability: Torrent) (Nature: Nature) (Moves: Bubble Beam/Aqua Jet/Pound/Water Gun) IVs: 0/0/0/0/0/0 EVs: 8/13/18/28/3/28
+Current Exp: 23752 (78.61%)
+[KILL]: Got 575 Exp for killing Stunky (Lv. 36) @(None) (Ability: Aftermath) (Nature: Quirky) (Moves: Venoshock/Toxic/Memento/Night Slash) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"spd":1}
+[LEVELUP] Now level 31
+31	8	13	18	28	3	29
+Prinplup (Lv. 31) (Ability: Torrent) (Nature: Nature) (Moves: Bubble Beam/Aqua Jet/Pound/Water Gun) IVs: 0/0/0/0/0/0 EVs: 8/13/18/28/3/29
+Current Exp: 24327 (1.21%)
+[KILL]: Got 506 Exp for killing Croagunk (Lv. 36) @(None) (Ability: Anticipation) (Nature: Hardy) (Moves: Mud-Slap/Revenge/Sucker Punch/Toxic) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"atk":1}
+Prinplup (Lv. 31) (Ability: Torrent) (Nature: Nature) (Moves: Bubble Beam/Aqua Jet/Pound/Water Gun) IVs: 0/0/0/0/0/0 EVs: 8/14/18/28/3/29
+Current Exp: 24833 (19.77%)
+[KILL]: Got 478 Exp for killing Croagunk (Lv. 35) @(None) (Ability: Anticipation) (Nature: Quirky) (Moves: Taunt/Revenge/Sucker Punch/Poison Jab) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"atk":1}
+Prinplup (Lv. 31) (Ability: Torrent) (Nature: Nature) (Moves: Bubble Beam/Aqua Jet/Pound/Water Gun) IVs: 0/0/0/0/0/0 EVs: 8/15/18/28/3/29
+Current Exp: 25311 (37.29%)
+[KILL]: Got 526 Exp for killing Stunky (Lv. 35) @(None) (Ability: Aftermath) (Nature: Hardy) (Moves: Poison Gas/Smokescreen/Acid Spray/Bite) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"spd":1}
+Prinplup (Lv. 31) (Ability: Torrent) (Nature: Nature) (Moves: Bubble Beam/Aqua Jet/Pound/Water Gun) IVs: 0/0/0/0/0/0 EVs: 8/15/18/28/3/30
+Current Exp: 25837 (56.58%)
+[KILL]: Got 494 Exp for killing Glameow (Lv. 35) @(None) (Ability: Own Tempo) (Nature: Docile) (Moves: Growl/Hypnosis/Aerial Ace/Retaliate) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"spd":1}
+Prinplup (Lv. 31) (Ability: Torrent) (Nature: Nature) (Moves: Bubble Beam/Aqua Jet/Pound/Water Gun) IVs: 0/0/0/0/0/0 EVs: 8/15/18/28/3/31
+Current Exp: 26331 (74.70%)
+[KILL]: Got 422 Exp for killing Murkrow (Lv. 40) @(None) (Ability: Insomnia) (Nature: Jolly) (Moves: Wing Attack/Night Shade/Assurance/Taunt) IVs: 15/0/15/0/15/0 EVs: 68/0/68/0/68/0
+EV yield: {"spd":1}
+Prinplup (Lv. 31) (Ability: Torrent) (Nature: Nature) (Moves: Bubble Beam/Aqua Jet/Pound/Water Gun) IVs: 0/0/0/0/0/0 EVs: 8/15/18/28/3/32
+Current Exp: 26753 (90.17%)
+[KILL]: Got 828 Exp for killing Golbat (Lv. 40) @(None) (Ability: Inner Focus) (Nature: Jolly) (Moves: Screech/Poison Fang/Air Cutter/Bite) IVs: 15/0/15/0/15/0 EVs: 68/0/68/0/68/0
+EV yield: {"spd":2}
+[LEVELUP] Now level 32
+32	8	15	18	28	3	34
+Prinplup (Lv. 32) (Ability: Torrent) (Nature: Nature) (Moves: Bubble Beam/Aqua Jet/Pound/Water Gun) IVs: 0/0/0/0/0/0 EVs: 8/15/18/28/3/34
+Current Exp: 27581 (19.13%)
+[KILL]: Got 501 Exp for killing Sneasel (Lv. 43) @Sitrus Berry (Ability: Keen Eye) (Nature: Jolly) (Moves: Metal Claw/Icy Wind/Hone Claws/Beat Up) IVs: 15/0/15/0/15/0 EVs: 68/0/68/0/68/0
+EV yield: {"spd":1}
+Prinplup (Lv. 32) (Ability: Torrent) (Nature: Nature) (Moves: Bubble Beam/Aqua Jet/Pound/Water Gun) IVs: 0/0/0/0/0/0 EVs: 8/15/18/28/3/35
+Current Exp: 28082 (36.24%)
+[KILL]: Got 638 Exp for killing Kadabra (Lv. 38) @Damp Rock (Ability: Inner Focus) (Nature: Timid) (Moves: Kinesis/Reflect/Psychic/Rain Dance) IVs: 15/0/15/0/15/0 EVs: 68/0/68/0/68/0
+EV yield: {"spAtk":2}
+Prinplup (Lv. 32) (Ability: Torrent) (Nature: Nature) (Moves: Bubble Beam/Aqua Jet/Pound/Water Gun) IVs: 0/0/0/0/0/0 EVs: 8/15/18/30/3/35
+Current Exp: 28720 (58.03%)
+[KILL]: Got 274 Exp for killing Bronzor (Lv. 38) @(None) (Ability: Levitate) (Nature: Relaxed) (Moves: Confuse Ray/Payback/Gyro Ball/Extrasensory) IVs: 15/0/15/0/15/0 EVs: 68/0/68/0/68/0
+EV yield: {"def":1}
+Prinplup (Lv. 32) (Ability: Torrent) (Nature: Nature) (Moves: Bubble Beam/Aqua Jet/Pound/Water Gun) IVs: 0/0/0/0/0/0 EVs: 8/15/19/30/3/35
+Current Exp: 28994 (67.38%)
+[KILL]: Got 869 Exp for killing Toxicroak (Lv. 40) @(None) (Ability: Dry Skin) (Nature: Jolly) (Moves: Mud-Slap/Toxic/Thief/Brick Break) IVs: 15/0/15/0/15/0 EVs: 68/0/68/0/68/0
+EV yield: {"atk":2}
+Prinplup (Lv. 32) (Ability: Torrent) (Nature: Nature) (Moves: Bubble Beam/Aqua Jet/Pound/Water Gun) IVs: 0/0/0/0/0/0 EVs: 8/17/19/30/3/35
+Current Exp: 29863 (97.06%)
+[KILL]: Got 547 Exp for killing Bronzor (Lv. 38) @(None) (Ability: Levitate) (Nature: Hardy) (Moves: Hypnosis/Safeguard/Extrasensory/Heavy Slam) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"def":1}
+[LEVELUP] Now level 33
+33	8	17	20	30	3	35
+Prinplup (Lv. 33) (Ability: Torrent) (Nature: Nature) (Moves: Bubble Beam/Aqua Jet/Pound/Water Gun) IVs: 0/0/0/0/0/0 EVs: 8/17/20/30/3/35
+Current Exp: 30410 (14.70%)
+[KILL]: Got 490 Exp for killing Glameow (Lv. 36) @(None) (Ability: Own Tempo) (Nature: Docile) (Moves: Aerial Ace/Charm/Taunt/Slash) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"spd":1}
+Prinplup (Lv. 33) (Ability: Torrent) (Nature: Nature) (Moves: Bubble Beam/Aqua Jet/Pound/Water Gun) IVs: 0/0/0/0/0/0 EVs: 8/17/20/30/3/36
+Current Exp: 30900 (30.33%)
+[KILL]: Got 502 Exp for killing Bronzor (Lv. 37) @(None) (Ability: Heatproof) (Nature: Serious) (Moves: Confuse Ray/Payback/Extrasensory/Iron Defense) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"def":1}
+Prinplup (Lv. 33) (Ability: Torrent) (Nature: Nature) (Moves: Bubble Beam/Aqua Jet/Pound/Water Gun) IVs: 0/0/0/0/0/0 EVs: 8/17/21/30/3/36
+Current Exp: 31402 (46.35%)
+[KILL]: Got 1329 Exp for killing Golbat (Lv. 37) @(None) (Ability: Inner Focus) (Nature: Bashful) (Moves: Screech/Astonish/Poison Fang/Bite) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"spd":2}
+Prinplup (Lv. 33) (Ability: Torrent) (Nature: Nature) (Moves: Bubble Beam/Aqua Jet/Pound/Water Gun) IVs: 0/0/0/0/0/0 EVs: 8/17/21/30/3/38
+Current Exp: 32731 (88.74%)
+[KILL]: Got 1329 Exp for killing Golbat (Lv. 37) @(None) (Ability: Inner Focus) (Nature: Serious) (Moves: Screech/Astonish/Poison Fang/Bite) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"spd":2}
+[LEVELUP] Now level 34
+34	8	17	21	30	3	40
+Prinplup (Lv. 34) (Ability: Torrent) (Nature: Nature) (Moves: Bubble Beam/Aqua Jet/Pound/Water Gun) IVs: 0/0/0/0/0/0 EVs: 8/17/21/30/3/40
+Current Exp: 34060 (29.13%)
+[KILL]: Got 502 Exp for killing Glameow (Lv. 37) @(None) (Ability: Own Tempo) (Nature: Bashful) (Moves: Fake Out/Hypnosis/Aerial Ace/Retaliate) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"spd":1}
+Prinplup (Lv. 34) (Ability: Torrent) (Nature: Nature) (Moves: Bubble Beam/Aqua Jet/Pound/Water Gun) IVs: 0/0/0/0/0/0 EVs: 8/17/21/30/3/41
+Current Exp: 34562 (44.11%)
+[KILL]: Got 487 Exp for killing Bronzor (Lv. 37) @(None) (Ability: Levitate) (Nature: Quirky) (Moves: Confuse Ray/Extrasensory/Heavy Slam/Iron Defense) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"def":1}
+Prinplup (Lv. 34) (Ability: Torrent) (Nature: Nature) (Moves: Bubble Beam/Aqua Jet/Pound/Water Gun) IVs: 0/0/0/0/0/0 EVs: 8/17/22/30/3/41
+Current Exp: 35049 (58.64%)
+[KILL]: Got 826 Exp for killing Dustox (Lv. 38) @(None) (Ability: Shield Dust) (Nature: Quirky) (Moves: Light Screen/Toxic/Bug Buzz/Protect) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"spDef":3}
+Prinplup (Lv. 34) (Ability: Torrent) (Nature: Nature) (Moves: Bubble Beam/Aqua Jet/Pound/Water Gun) IVs: 0/0/0/0/0/0 EVs: 8/17/22/30/6/41
+Current Exp: 35875 (83.29%)
+[KILL]: Got 257 Exp for killing Croagunk (Lv. 38) @(None) (Ability: Anticipation) (Nature: Hardy) (Moves: Revenge/Venoshock/Sucker Punch/Toxic) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"atk":1}
+Prinplup (Lv. 34) (Ability: Torrent) (Nature: Nature) (Moves: Bubble Beam/Aqua Jet/Pound/Water Gun) IVs: 0/0/0/0/0/0 EVs: 8/18/22/30/6/41
+Current Exp: 36132 (90.96%)
+[KILL]: Got 282 Exp for killing Stunky (Lv. 38) @(None) (Ability: Aftermath) (Nature: Hardy) (Moves: Venoshock/Toxic/Memento/Night Slash) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"spd":1}
+Prinplup (Lv. 34) (Ability: Torrent) (Nature: Nature) (Moves: Bubble Beam/Aqua Jet/Pound/Water Gun) IVs: 0/0/0/0/0/0 EVs: 8/18/22/30/6/42
+Current Exp: 36414 (99.37%)
+[KILL]: Got 265 Exp for killing Glameow (Lv. 38) @(None) (Ability: Own Tempo) (Nature: Docile) (Moves: Aerial Ace/Charm/Taunt/Retaliate) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"spd":1}
+[LEVELUP] Now level 35
+35	8	18	22	30	6	43
+Prinplup (Lv. 35) (Ability: Torrent) (Nature: Nature) (Moves: Bubble Beam/Aqua Jet/Pound/Water Gun) IVs: 0/0/0/0/0/0 EVs: 8/18/22/30/6/43
+Current Exp: 36679 (6.83%)
+[KILL]: Got 292 Exp for killing Bronzor (Lv. 41) @(None) (Ability: Levitate) (Nature: Sassy) (Moves: Confuse Ray/Payback/Gyro Ball/Reflect) IVs: 15/0/15/0/15/0 EVs: 68/0/68/0/68/0
+EV yield: {"def":1}
+Prinplup (Lv. 35) (Ability: Torrent) (Nature: Nature) (Moves: Bubble Beam/Aqua Jet/Pound/Water Gun) IVs: 0/0/0/0/0/0 EVs: 8/18/23/30/6/43
+Current Exp: 36971 (15.01%)
+[KILL]: Got 810 Exp for killing Golbat (Lv. 42) @(None) (Ability: Inner Focus) (Nature: Jolly) (Moves: Poison Fang/Bite/Haze/U-turn) IVs: 15/0/15/0/15/0 EVs: 68/0/68/0/68/0
+EV yield: {"spd":2}
+Prinplup (Lv. 35) (Ability: Torrent) (Nature: Nature) (Moves: Bubble Beam/Aqua Jet/Pound/Water Gun) IVs: 0/0/0/0/0/0 EVs: 8/18/23/30/6/45
+Current Exp: 37781 (37.68%)
+[KILL]: Got 926 Exp for killing Purugly (Lv. 45) @Sitrus Berry (Ability: Thick Fat) (Nature: Jolly) (Moves: Aerial Ace/Body Slam/Dig/U-turn) IVs: 15/0/15/0/15/0 EVs: 68/0/68/0/68/0
+EV yield: {"spd":2}
+Prinplup (Lv. 35) (Ability: Torrent) (Nature: Nature) (Moves: Bubble Beam/Aqua Jet/Pound/Water Gun) IVs: 0/0/0/0/0/0 EVs: 8/18/23/30/6/47
+Current Exp: 38707 (63.61%)
+[KILL]: Got 292 Exp for killing Bronzor (Lv. 41) @(None) (Ability: Levitate) (Nature: Relaxed) (Moves: Confuse Ray/Payback/Extrasensory/Light Screen) IVs: 15/0/15/0/15/0 EVs: 68/0/68/0/68/0
+EV yield: {"def":1}
+Prinplup (Lv. 35) (Ability: Torrent) (Nature: Nature) (Moves: Bubble Beam/Aqua Jet/Pound/Water Gun) IVs: 0/0/0/0/0/0 EVs: 8/18/24/30/6/47
+Current Exp: 38999 (71.78%)
+[KILL]: Got 771 Exp for killing Golbat (Lv. 41) @(None) (Ability: Inner Focus) (Nature: Modest) (Moves: Air Cutter/Haze/Giga Drain/Sludge Bomb) IVs: 15/0/15/0/15/0 EVs: 68/0/68/0/68/0
+EV yield: {"spd":2}
+Prinplup (Lv. 35) (Ability: Torrent) (Nature: Nature) (Moves: Bubble Beam/Aqua Jet/Pound/Water Gun) IVs: 0/0/0/0/0/0 EVs: 8/18/24/30/6/49
+Current Exp: 39770 (93.37%)
+[KILL]: Got 1027 Exp for killing Skuntank (Lv. 46) @Sitrus Berry (Ability: Aftermath) (Nature: Modest) (Moves: Flamethrower/Poison Gas/Belch/Snarl) IVs: 15/0/15/0/15/0 EVs: 68/0/68/0/68/0
+EV yield: {"hp":2}
+[LEVELUP] Now level 36
+36	10	18	24	30	6	49
+Prinplup (Lv. 36) (Ability: Torrent) (Nature: Nature) (Moves: Bubble Beam/Aqua Jet/Pound/Water Gun) IVs: 0/0/0/0/0/0 EVs: 10/18/24/30/6/49
+Current Exp: 40797 (20.78%)
+[LEVEL BONUS]
+[KILL]: Got 1210 Exp for killing Honchkrow (Lv. 45) @Scope Lens (Ability: Super Luck) (Nature: Jolly) (Moves: Air Cutter/Night Slash/Steel Wing/Defog) IVs: 15/0/15/0/15/0 EVs: 68/0/68/0/68/0
+EV yield: {"atk":2}
+Prinplup (Lv. 36) (Ability: Torrent) (Nature: Nature) (Moves: Bubble Beam/Aqua Jet/Pound/Water Gun) IVs: 0/0/0/0/0/0 EVs: 10/20/24/30/6/49
+Current Exp: 42007 (52.62%)
+[EVOLUTION]
+Empoleon (Lv. 36) (Ability: Torrent) (Nature: Nature) (Moves: Bubble Beam/Aqua Jet/Pound/Water Gun) IVs: 0/0/0/0/0/0 EVs: 10/20/24/30/6/49
+Current Exp: 42007 (52.62%)
+[KILL]: Got 1595 Exp for killing Crobat (Lv. 46) @Quick Claw (Ability: Infiltrator) (Nature: Jolly) (Moves: Cross Poison/Tailwind/Air Cutter/U-turn) IVs: 15/0/15/0/15/0 EVs: 68/0/68/0/68/0
+EV yield: {"spd":3}
+Empoleon (Lv. 36) (Ability: Torrent) (Nature: Nature) (Moves: Bubble Beam/Aqua Jet/Pound/Water Gun) IVs: 0/0/0/0/0/0 EVs: 10/20/24/30/6/52
+Current Exp: 43602 (94.58%)
+[KILL]: Got 1077 Exp for killing Gyarados (Lv. 45) @Wacan Berry (Ability: Intimidate) (Nature: Jolly) (Moves: Ice Fang/Waterfall/Crunch/Earthquake) IVs: 15/0/15/0/15/0 EVs: 68/0/68/0/68/0
+EV yield: {"atk":2}
+[LEVELUP] Now level 37
+37	10	22	24	30	6	52
+Empoleon (Lv. 37) (Ability: Torrent) (Nature: Nature) (Moves: Bubble Beam/Aqua Jet/Pound/Water Gun) IVs: 0/0/0/0/0/0 EVs: 10/22/24/30/6/52
+Current Exp: 44679 (21.57%)
+[KILL]: Got 1130 Exp for killing Weavile (Lv. 48) @Chople Berry (Ability: Pickpocket) (Nature: Jolly) (Moves: Metal Claw/Fling/Dig/Aerial Ace) IVs: 15/0/15/0/15/0 EVs: 68/0/68/0/68/0
+EV yield: {"atk":1,"spd":1}
+Empoleon (Lv. 37) (Ability: Torrent) (Nature: Nature) (Moves: Bubble Beam/Aqua Jet/Pound/Water Gun) IVs: 0/0/0/0/0/0 EVs: 10/23/24/30/6/53
+Current Exp: 45809 (49.55%)
+[KILL]: Got 149 Exp for killing Feebas (Lv. 37) @(None) (Ability: Oblivious) (Nature: Sassy) (Moves: Splash/Tackle/Flail/(None)) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"spd":1}
+Empoleon (Lv. 37) (Ability: Torrent) (Nature: Nature) (Moves: Bubble Beam/Aqua Jet/Pound/Water Gun) IVs: 0/0/0/0/0/0 EVs: 10/23/24/30/6/54
+Current Exp: 45958 (53.24%)
+[KILL]: Got 619 Exp for killing Machoke (Lv. 40) @(None) (Ability: No Guard) (Nature: Relaxed) (Moves: Leer/Low Sweep/Knock Off/Dual Chop) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"atk":2}
+Empoleon (Lv. 37) (Ability: Torrent) (Nature: Nature) (Moves: Bubble Beam/Aqua Jet/Pound/Water Gun) IVs: 0/0/0/0/0/0 EVs: 10/25/24/30/6/54
+Current Exp: 46577 (68.57%)
+[KILL]: Got 838 Exp for killing Gastrodon (Lv. 43) @(None) (Ability: Storm Drain) (Nature: Sassy) (Moves: Recover/Water Pulse/Ancient Power/Earth Power) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"hp":2}
+Empoleon (Lv. 37) (Ability: Torrent) (Nature: Nature) (Moves: Bubble Beam/Aqua Jet/Pound/Water Gun) IVs: 0/0/0/0/0/0 EVs: 12/25/24/30/6/54
+Current Exp: 47415 (89.33%)
+[KILL]: Got 752 Exp for killing Pachirisu (Lv. 44) @(None) (Ability: Pickup) (Nature: Jolly) (Moves: Charm/Spark/Nuzzle/Dig) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"spd":1}
+[LEVELUP] Now level 38
+38	12	25	24	30	6	55
+Empoleon (Lv. 38) (Ability: Torrent) (Nature: Nature) (Moves: Bubble Beam/Aqua Jet/Pound/Water Gun) IVs: 0/0/0/0/0/0 EVs: 12/25/24/30/6/55
+Current Exp: 48167 (7.50%)
+[KILL]: Got 830 Exp for killing Mr. Mime (Lv. 44) @(None) (Ability: Filter) (Nature: Timid) (Moves: Reflect/Dazzling Gleam/Thunderbolt/Energy Ball) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"spDef":2}
+Empoleon (Lv. 38) (Ability: Torrent) (Nature: Nature) (Moves: Bubble Beam/Aqua Jet/Pound/Water Gun) IVs: 0/0/0/0/0/0 EVs: 12/25/24/30/8/55
+Current Exp: 48997 (26.89%)
+[KILL]: Got 722 Exp for killing Kadabra (Lv. 44) @(None) (Ability: Inner Focus) (Nature: Timid) (Moves: Reflect/Psychic/Shock Wave/Energy Ball) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"spAtk":2}
+Empoleon (Lv. 38) (Ability: Torrent) (Nature: Nature) (Moves: Bubble Beam/Aqua Jet/Pound/Water Gun) IVs: 0/0/0/0/0/0 EVs: 12/25/24/32/8/55
+Current Exp: 49719 (43.75%)
+[KILL]: Got 1124 Exp for killing Raichu (Lv. 44) @(None) (Ability: Static) (Nature: Jolly) (Moves: Thunder Punch/Thunderbolt/Light Screen/Quick Attack) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"spd":3}
+Empoleon (Lv. 38) (Ability: Torrent) (Nature: Nature) (Moves: Bubble Beam/Aqua Jet/Pound/Water Gun) IVs: 0/0/0/0/0/0 EVs: 12/25/24/32/8/58
+Current Exp: 50843 (70.01%)
+[KILL]: Got 595 Exp for killing Luxio (Lv. 42) @(None) (Ability: Intimidate) (Nature: Jolly) (Moves: Bite/Volt Switch/Thunder Wave/Iron Tail) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"atk":2}
+Empoleon (Lv. 38) (Ability: Torrent) (Nature: Nature) (Moves: Bubble Beam/Aqua Jet/Pound/Water Gun) IVs: 0/0/0/0/0/0 EVs: 12/27/24/32/8/58
+Current Exp: 51438 (83.91%)
+[KILL]: Got 674 Exp for killing Bibarel (Lv. 42) @(None) (Ability: Simple) (Nature: Jolly) (Moves: Yawn/Thunderbolt/Bulldoze/Waterfall) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"atk":2}
+Empoleon (Lv. 38) (Ability: Torrent) (Nature: Nature) (Moves: Bubble Beam/Aqua Jet/Pound/Water Gun) IVs: 0/0/0/0/0/0 EVs: 12/29/24/32/8/58
+Current Exp: 52112 (99.65%)
+[KILL]: Got 922 Exp for killing Steelix (Lv. 44) @(None) (Ability: Sturdy) (Nature: Relaxed) (Moves: Thunder Fang/Screech/Iron Tail/Bulldoze) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"def":2}
+[LEVELUP] Now level 39
+39	12	29	26	32	8	58
+Empoleon (Lv. 39) (Ability: Torrent) (Nature: Nature) (Moves: Bubble Beam/Aqua Jet/Pound/Water Gun) IVs: 0/0/0/0/0/0 EVs: 12/29/26/32/8/58
+Current Exp: 53034 (20.01%)
+[KILL]: Got 722 Exp for killing Medicham (Lv. 44) @(None) (Ability: Pure Power) (Nature: Jolly) (Moves: Zen Headbutt/Thunder Punch/Reversal/Rock Tomb) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"spd":2}
+Empoleon (Lv. 39) (Ability: Torrent) (Nature: Nature) (Moves: Bubble Beam/Aqua Jet/Pound/Water Gun) IVs: 0/0/0/0/0/0 EVs: 12/29/26/32/8/60
+Current Exp: 53756 (35.94%)
+[KILL]: Got 1197 Exp for killing Raichu (Lv. 46) @Shuca Berry (Ability: Static) (Nature: Timid) (Moves: Nuzzle/Volt Switch/Surf/Charge Beam) IVs: 11/0/11/28/11/28 EVs: 12/0/12/160/12/160
+EV yield: {"spd":3}
+Empoleon (Lv. 39) (Ability: Torrent) (Nature: Nature) (Moves: Bubble Beam/Aqua Jet/Pound/Water Gun) IVs: 0/0/0/0/0/0 EVs: 12/29/26/32/8/63
+Current Exp: 54953 (62.34%)
+[KILL]: Got 970 Exp for killing Ambipom (Lv. 47) @Chople Berry (Ability: Technician) (Nature: Naive) (Moves: Fake Out/Thunderbolt/Double Hit/Last Resort) IVs: 11/20/11/20/11/28 EVs: 12/80/12/80/12/160
+EV yield: {"spd":2}
+Empoleon (Lv. 39) (Ability: Torrent) (Nature: Nature) (Moves: Bubble Beam/Aqua Jet/Pound/Water Gun) IVs: 0/0/0/0/0/0 EVs: 12/29/26/32/8/65
+Current Exp: 55923 (83.74%)
+[KILL]: Got 964 Exp for killing Octillery (Lv. 47) @Expert Belt (Ability: Sniper) (Nature: Modest) (Moves: Octazooka/Focus Energy/Aurora Beam/Charge Beam) IVs: 11/0/11/28/11/28 EVs: 12/0/12/160/12/160
+EV yield: {"atk":1,"spAtk":1}
+[LEVELUP] Now level 40
+40	12	30	26	33	8	65
+Empoleon (Lv. 40) (Ability: Torrent) (Nature: Nature) (Moves: Bubble Beam/Aqua Jet/Pound/Water Gun) IVs: 0/0/0/0/0/0 EVs: 12/30/26/33/8/65
+Current Exp: 56887 (4.74%)
+[KILL]: Got 1595 Exp for killing Luxray (Lv. 49) @Sitrus Berry (Ability: Intimidate) (Nature: Jolly) (Moves: Thunder Fang/Ice Fang/Crunch/Iron Tail) IVs: 15/28/15/0/0/30 EVs: 28/160/28/0/0/200
+EV yield: {"atk":3}
+Empoleon (Lv. 40) (Ability: Torrent) (Nature: Nature) (Moves: Bubble Beam/Aqua Jet/Pound/Water Gun) IVs: 0/0/0/0/0/0 EVs: 12/33/26/33/8/65
+Current Exp: 58482 (38.04%)
+[KILL]: Got 248 Exp for killing Mantyke (Lv. 38) @(None) (Ability: Water Absorb) (Nature: Sassy) (Moves: Supersonic/Bubble Beam/Air Slash/Aqua Ring) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"spDef":1}
+Empoleon (Lv. 40) (Ability: Torrent) (Nature: Nature) (Moves: Bubble Beam/Aqua Jet/Pound/Water Gun) IVs: 0/0/0/0/0/0 EVs: 12/33/26/33/9/65
+Current Exp: 58730 (43.22%)
+[KILL]: Got 241 Exp for killing Remoraid (Lv. 40) @(None) (Ability: Hustle) (Nature: Hardy) (Moves: Lock-On/Bullet Seed/Ice Beam/Hydro Pump) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"spAtk":1}
+Empoleon (Lv. 40) (Ability: Torrent) (Nature: Nature) (Moves: Bubble Beam/Aqua Jet/Pound/Water Gun) IVs: 0/0/0/0/0/0 EVs: 12/33/26/34/9/65
+Current Exp: 58971 (48.25%)
+[KILL]: Got 754 Exp for killing Mantine (Lv. 42) @(None) (Ability: Water Absorb) (Nature: Sassy) (Moves: Bullet Seed/Bubble Beam/Aqua Ring/Bounce) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"spDef":2}
+Empoleon (Lv. 40) (Ability: Torrent) (Nature: Nature) (Moves: Bubble Beam/Aqua Jet/Pound/Water Gun) IVs: 0/0/0/0/0/0 EVs: 12/33/26/34/11/65
+Current Exp: 59725 (63.99%)
+[KILL]: Got 1419 Exp for killing Staraptor (Lv. 48) @(None) (Ability: Intimidate) (Nature: Impish) (Moves: Close Combat/Quick Attack/Endeavor/Aerial Ace) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"atk":3}
+Empoleon (Lv. 40) (Ability: Torrent) (Nature: Nature) (Moves: Bubble Beam/Aqua Jet/Pound/Water Gun) IVs: 0/0/0/0/0/0 EVs: 12/36/26/34/11/65
+Current Exp: 61144 (93.61%)
+[KILL]: Got 937 Exp for killing Golduck (Lv. 46) @(None) (Ability: Cloud Nine) (Nature: Calm) (Moves: Zen Headbutt/Aqua Jet/Tail Whip/Aqua Tail) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"spAtk":2}
+[LEVELUP] Now level 41
+41	12	36	26	36	11	65
+Empoleon (Lv. 41) (Ability: Torrent) (Nature: Nature) (Moves: Bubble Beam/Aqua Jet/Pound/Water Gun) IVs: 0/0/0/0/0/0 EVs: 12/36/26/36/11/65
+Current Exp: 62081 (12.48%)
+[KILL]: Got 7232 Exp for killing Blissey (Lv. 48) @(None) (Ability: Serene Grace) (Nature: Calm) (Moves: Disarming Voice/Double-Edge/Soft-Boiled/Last Resort) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"hp":3}
+[LEVELUP] Now level 42
+42	15	36	26	36	11	65
+Empoleon (Lv. 42) (Ability: Torrent) (Nature: Nature) (Moves: Bubble Beam/Aqua Jet/Pound/Water Gun) IVs: 0/0/0/0/0/0 EVs: 15/36/26/36/11/65
+Current Exp: 69313 (52.70%)
+[KILL]: Got 850 Exp for killing Rapidash (Lv. 45) @(None) (Ability: Run Away) (Nature: Sassy) (Moves: Smart Strike/Poison Jab/Tail Whip/Flame Wheel) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"spd":2}
+Empoleon (Lv. 42) (Ability: Torrent) (Nature: Nature) (Moves: Bubble Beam/Aqua Jet/Pound/Water Gun) IVs: 0/0/0/0/0/0 EVs: 15/36/26/36/11/67
+Current Exp: 70163 (68.66%)
+[KILL]: Got 772 Exp for killing Carnivine (Lv. 45) @(None) (Ability: Levitate) (Nature: Hardy) (Moves: Bind/Growth/Leaf Tornado/Crunch) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"atk":2}
+Empoleon (Lv. 42) (Ability: Torrent) (Nature: Nature) (Moves: Bubble Beam/Aqua Jet/Pound/Water Gun) IVs: 0/0/0/0/0/0 EVs: 15/38/26/36/11/67
+Current Exp: 70935 (83.15%)
+[KILL]: Got 961 Exp for killing Rampardos (Lv. 48) @(None) (Ability: Mold Breaker) (Nature: Relaxed) (Moves: Headbutt/Zen Headbutt/Assurance/Swords Dance) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"atk":2}
+[LEVELUP] Now level 43
+43	15	40	26	36	11	67
+Empoleon (Lv. 43) (Ability: Torrent) (Nature: Nature) (Moves: Bubble Beam/Aqua Jet/Pound/Water Gun) IVs: 0/0/0/0/0/0 EVs: 15/40/26/36/11/67
+Current Exp: 71896 (1.12%)
+[KILL]: Got 1200 Exp for killing Clefable (Lv. 46) @(None) (Ability: Cute Charm) (Nature: Calm) (Moves: Moonlight/Meteor Mash/Cosmic Power/Moonblast) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"hp":3}
+Empoleon (Lv. 43) (Ability: Torrent) (Nature: Nature) (Moves: Bubble Beam/Aqua Jet/Pound/Water Gun) IVs: 0/0/0/0/0/0 EVs: 18/40/26/36/11/67
+Current Exp: 73096 (22.53%)
+[KILL]: Got 1425 Exp for killing Torterra (Lv. 48) @(None) (Ability: Overgrow) (Nature: Impish) (Moves: Earthquake/Wood Hammer/Crunch/Synthesis) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"atk":2,"def":1}
+Empoleon (Lv. 43) (Ability: Torrent) (Nature: Nature) (Moves: Bubble Beam/Aqua Jet/Pound/Water Gun) IVs: 0/0/0/0/0/0 EVs: 18/42/27/36/11/67
+Current Exp: 74521 (47.94%)
+[KILL]: Got 1260 Exp for killing Staraptor (Lv. 47) @(None) (Ability: Intimidate) (Nature: Relaxed) (Moves: Quick Attack/Endeavor/Aerial Ace/Take Down) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"atk":3}
+Empoleon (Lv. 43) (Ability: Torrent) (Nature: Nature) (Moves: Bubble Beam/Aqua Jet/Pound/Water Gun) IVs: 0/0/0/0/0/0 EVs: 18/45/27/36/11/67
+Current Exp: 75781 (70.41%)
+[KILL]: Got 954 Exp for killing Hippowdon (Lv. 47) @(None) (Ability: Sand Stream) (Nature: Relaxed) (Moves: Earthquake/Crunch/Ice Fang/Yawn) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"def":2}
+Empoleon (Lv. 43) (Ability: Torrent) (Nature: Nature) (Moves: Bubble Beam/Aqua Jet/Pound/Water Gun) IVs: 0/0/0/0/0/0 EVs: 18/45/29/36/11/67
+Current Exp: 76735 (87.43%)
+[KILL]: Got 1430 Exp for killing Machamp (Lv. 49) @(None) (Ability: No Guard) (Nature: Relaxed) (Moves: Low Sweep/Knock Off/Dual Chop/Bulk Up) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"atk":3}
+[LEVELUP] Now level 44
+44	18	48	29	36	11	67
+Empoleon (Lv. 44) (Ability: Torrent) (Nature: Nature) (Moves: Bubble Beam/Aqua Jet/Pound/Water Gun) IVs: 0/0/0/0/0/0 EVs: 18/48/29/36/11/67
+Current Exp: 78165 (12.30%)
+[KILL]: Got 251 Exp for killing Chingling (Lv. 44) @(None) (Ability: Levitate) (Nature: Bashful) (Moves: Wrap/Astonish/Confusion/Yawn) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"spAtk":1}
+Empoleon (Lv. 44) (Ability: Torrent) (Nature: Nature) (Moves: Bubble Beam/Aqua Jet/Pound/Water Gun) IVs: 0/0/0/0/0/0 EVs: 18/48/29/37/11/67
+Current Exp: 78416 (16.56%)
+[KILL]: Got 841 Exp for killing Chimecho (Lv. 48) @(None) (Ability: Levitate) (Nature: Calm) (Moves: Wrap/Yawn/Extrasensory/Heal Pulse) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"spAtk":1,"spDef":1}
+Empoleon (Lv. 44) (Ability: Torrent) (Nature: Nature) (Moves: Bubble Beam/Aqua Jet/Pound/Water Gun) IVs: 0/0/0/0/0/0 EVs: 18/48/29/38/12/67
+Current Exp: 79257 (30.82%)
+[KILL]: Got 794 Exp for killing Gabite (Lv. 49) @(None) (Ability: Sand Veil) (Nature: Relaxed) (Moves: Sand Tomb/Sand Attack/Bite/Dragon Claw) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"atk":2}
+Empoleon (Lv. 44) (Ability: Torrent) (Nature: Nature) (Moves: Bubble Beam/Aqua Jet/Pound/Water Gun) IVs: 0/0/0/0/0/0 EVs: 18/50/29/38/12/67
+Current Exp: 80051 (44.29%)
+[KILL]: Got 831 Exp for killing Tentacruel (Lv. 45) @(None) (Ability: Clear Body) (Nature: Sassy) (Moves: Reflect Type/Bubble Beam/Acid Armor/Poison Jab) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"spDef":2}
+Empoleon (Lv. 44) (Ability: Torrent) (Nature: Nature) (Moves: Bubble Beam/Aqua Jet/Pound/Water Gun) IVs: 0/0/0/0/0/0 EVs: 18/50/29/38/14/67
+Current Exp: 80882 (58.39%)
+[KILL]: Got 1145 Exp for killing Golem (Lv. 45) @(None) (Ability: Sturdy) (Nature: Relaxed) (Moves: Earthquake/Sandstorm/Smack Down/Heavy Slam) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"def":3}
+Empoleon (Lv. 44) (Ability: Torrent) (Nature: Nature) (Moves: Bubble Beam/Aqua Jet/Pound/Water Gun) IVs: 0/0/0/0/0/0 EVs: 18/50/32/38/14/67
+Current Exp: 82027 (77.81%)
+[KILL]: Got 1401 Exp for killing Empoleon (Lv. 48) @(None) (Ability: Torrent) (Nature: Sassy) (Moves: Brine/Aqua Jet/Metal Claw/Swords Dance) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"spAtk":3}
+[LEVELUP] Now level 45
+45	18	50	32	41	14	67
+Empoleon (Lv. 45) (Ability: Torrent) (Nature: Nature) (Moves: Bubble Beam/Aqua Jet/Pound/Water Gun) IVs: 0/0/0/0/0/0 EVs: 18/50/32/41/14/67
+Current Exp: 83428 (1.50%)
+[KILL]: Got 283 Exp for killing Gible (Lv. 46) @(None) (Ability: Sand Veil) (Nature: Hardy) (Moves: Sand Tomb/Sand Attack/Bulldoze/Dragon Claw) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"atk":1}
+Empoleon (Lv. 45) (Ability: Torrent) (Nature: Nature) (Moves: Bubble Beam/Aqua Jet/Pound/Water Gun) IVs: 0/0/0/0/0/0 EVs: 18/51/32/41/14/67
+Current Exp: 83711 (6.08%)
+[KILL]: Got 1018 Exp for killing Gyarados (Lv. 49) @(None) (Ability: Intimidate) (Nature: Sassy) (Moves: Ice Fang/Waterfall/Crunch/Dragon Dance) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"atk":2}
+Empoleon (Lv. 45) (Ability: Torrent) (Nature: Nature) (Moves: Bubble Beam/Aqua Jet/Pound/Water Gun) IVs: 0/0/0/0/0/0 EVs: 18/53/32/41/14/67
+Current Exp: 84729 (22.53%)
+[KILL]: Got 283 Exp for killing Gible (Lv. 46) @(None) (Ability: Sand Veil) (Nature: Hardy) (Moves: Bite/Slash/Dragon Claw/Dig) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"atk":1}
+Empoleon (Lv. 45) (Ability: Torrent) (Nature: Nature) (Moves: Bubble Beam/Aqua Jet/Pound/Water Gun) IVs: 0/0/0/0/0/0 EVs: 18/54/32/41/14/67
+Current Exp: 85012 (27.10%)
+[KILL]: Got 1333 Exp for killing Rapidash (Lv. 58) @Wide Lens (Ability: Flame Body) (Nature: Jolly) (Moves: Flame Charge/Iron Tail/Poison Jab/Hypnosis) IVs: 25/31/25/0/25/31 EVs: 12/60/12/0/12/204
+EV yield: {"spd":2}
+Empoleon (Lv. 45) (Ability: Torrent) (Nature: Nature) (Moves: Bubble Beam/Aqua Jet/Pound/Water Gun) IVs: 0/0/0/0/0/0 EVs: 18/54/32/41/14/69
+Current Exp: 86345 (48.64%)
+[KILL]: Got 1316 Exp for killing Steelix (Lv. 57) @Life Orb (Ability: Sheer Force) (Nature: Adamant) (Moves: Thunder Fang/Fire Fang/Iron Tail/Crunch) IVs: 31/31/31/0/31/31 EVs: 12/252/0/12/12/0
+EV yield: {"def":2}
+Empoleon (Lv. 45) (Ability: Torrent) (Nature: Nature) (Moves: Bubble Beam/Aqua Jet/Pound/Water Gun) IVs: 0/0/0/0/0/0 EVs: 18/54/34/41/14/69
+Current Exp: 87661 (69.91%)
+[KILL]: Got 1325 Exp for killing Drifblim (Lv. 58) @Sitrus Berry (Ability: Unburden) (Nature: Timid) (Moves: Strength Sap/Minimize/Baton Pass/Will-O-Wisp) IVs: 31/0/31/0/31/31 EVs: 12/60/12/0/12/204
+EV yield: {"hp":2}
+Empoleon (Lv. 45) (Ability: Torrent) (Nature: Nature) (Moves: Bubble Beam/Aqua Jet/Pound/Water Gun) IVs: 0/0/0/0/0/0 EVs: 20/54/34/41/14/69
+Current Exp: 88986 (91.32%)
+[KILL]: Got 1235 Exp for killing Lopunny (Lv. 57) @Leftovers (Ability: Cute Charm) (Nature: Jolly) (Moves: Mirror Coat/High Jump Kick/Quick Attack/Fire Punch) IVs: 31/31/31/0/31/31 EVs: 252/0/0/0/0/0
+EV yield: {"spd":2}
+[LEVELUP] Now level 46
+46	20	54	34	41	14	71
+Empoleon (Lv. 46) (Ability: Torrent) (Nature: Nature) (Moves: Bubble Beam/Aqua Jet/Pound/Water Gun) IVs: 0/0/0/0/0/0 EVs: 20/54/34/41/14/71
+Current Exp: 90221 (10.76%)
+[KILL]: Got 2202 Exp for killing Infernape (Lv. 61) @Focus Sash (Ability: Iron Fist) (Nature: Jolly) (Moves: Fire Punch/Thunder Punch/Close Combat/Mach Punch) IVs: 31/31/31/0/31/31 EVs: 12/60/0/0/0/204
+EV yield: {"atk":1,"spAtk":1,"spd":1}
+Empoleon (Lv. 46) (Ability: Torrent) (Nature: Nature) (Moves: Bubble Beam/Aqua Jet/Pound/Water Gun) IVs: 0/0/0/0/0/0 EVs: 20/55/34/42/14/72
+Current Exp: 92423 (44.69%)
+[KILL]: Got 1241 Exp for killing Mr. Mime (Lv. 59) @Light Clay (Ability: Filter) (Nature: Bold) (Moves: Light Screen/Reflect/Psychic/Dazzling Gleam) IVs: 31/0/31/31/31/31 EVs: 252/0/12/12/12/12
+EV yield: {"spDef":2}
+Empoleon (Lv. 46) (Ability: Torrent) (Nature: Nature) (Moves: Bubble Beam/Aqua Jet/Pound/Water Gun) IVs: 0/0/0/0/0/0 EVs: 20/55/34/42/16/72
+Current Exp: 93664 (63.82%)
+[KILL]: Got 1226 Exp for killing Girafarig (Lv. 59) @Mental Herb (Ability: Sap Sipper) (Nature: Calm) (Moves: Light Screen/Psychic/Thunderbolt/Trick Room) IVs: 31/0/31/31/31/0 EVs: 252/0/12/12/12/0
+EV yield: {"spAtk":2}
+Empoleon (Lv. 46) (Ability: Torrent) (Nature: Nature) (Moves: Bubble Beam/Aqua Jet/Pound/Water Gun) IVs: 0/0/0/0/0/0 EVs: 20/55/34/44/16/72
+Current Exp: 94890 (82.71%)
+[KILL]: Got 1149 Exp for killing Medicham (Lv. 60) @Muscle Band (Ability: Pure Power) (Nature: Brave) (Moves: Zen Headbutt/High Jump Kick/Thunder Punch/Ice Punch) IVs: 31/31/31/0/31/0 EVs: 0/252/0/0/0/0
+EV yield: {"spd":2}
+[LEVELUP] Now level 47
+47	20	55	34	44	16	74
+Empoleon (Lv. 47) (Ability: Torrent) (Nature: Nature) (Moves: Bubble Beam/Aqua Jet/Pound/Water Gun) IVs: 0/0/0/0/0/0 EVs: 20/55/34/44/16/74
+Current Exp: 96039 (0.40%)
+[KILL]: Got 1953 Exp for killing Alakazam (Lv. 60) @Life Orb (Ability: Magic Guard) (Nature: Timid) (Moves: Nasty Plot/Psychic/Future Sight/Shock Wave) IVs: 31/0/31/31/31/31 EVs: 0/0/0/0/0/252
+EV yield: {"spAtk":3}
+Empoleon (Lv. 47) (Ability: Torrent) (Nature: Nature) (Moves: Bubble Beam/Aqua Jet/Pound/Water Gun) IVs: 0/0/0/0/0/0 EVs: 20/55/34/47/16/74
+Current Exp: 97992 (29.13%)
+[KILL]: Got 1507 Exp for killing Bronzong (Lv. 63) @Sitrus Berry (Ability: Levitate) (Nature: Brave) (Moves: Gyro Ball/Earthquake/Payback/Trick Room) IVs: 31/31/31/0/31/0 EVs: 12/252/0/0/0/0
+EV yield: {"def":1,"spDef":1}
+Empoleon (Lv. 47) (Ability: Torrent) (Nature: Nature) (Moves: Bubble Beam/Aqua Jet/Pound/Water Gun) IVs: 0/0/0/0/0/0 EVs: 20/55/35/47/17/74
+Current Exp: 99499 (51.29%)
+[KILL]: Got 1373 Exp for killing Spiritomb (Lv. 61) @Sitrus Berry (Ability: Pressure) (Nature: Quiet) (Moves: Shadow Ball/Dark Pulse/Psychic/Sucker Punch) IVs: 31/31/31/31/31/31 EVs: 252/6/0/252/0/0
+EV yield: {"def":1,"spDef":1}
+Empoleon (Lv. 47) (Ability: Torrent) (Nature: Nature) (Moves: Bubble Beam/Aqua Jet/Pound/Water Gun) IVs: 0/0/0/0/0/0 EVs: 20/55/36/47/18/74
+Current Exp: 100872 (71.49%)
+[KILL]: Got 2015 Exp for killing Roserade (Lv. 60) @Expert Belt (Ability: Poison Point) (Nature: Timid) (Moves: Dazzling Gleam/Shadow Ball/Sludge Bomb/Energy Ball) IVs: 31/0/31/0/31/31 EVs: 52/0/0/252/0/204
+EV yield: {"spAtk":3}
+[LEVELUP] Now level 48
+48	20	55	36	50	18	74
+Empoleon (Lv. 48) (Ability: Torrent) (Nature: Nature) (Moves: Bubble Beam/Aqua Jet/Pound/Water Gun) IVs: 0/0/0/0/0/0 EVs: 20/55/36/50/18/74
+Current Exp: 102887 (1.08%)
+[KILL]: Got 1269 Exp for killing Gastrodon (Lv. 60) @Leftovers (Ability: Storm Drain) (Nature: Relaxed) (Moves: Scald/Earthquake/Sludge Bomb/Rock Tomb) IVs: 31/31/31/31/31/0 EVs: 252/0/252/0/6/0
+EV yield: {"hp":2}
+Empoleon (Lv. 48) (Ability: Torrent) (Nature: Nature) (Moves: Bubble Beam/Aqua Jet/Pound/Water Gun) IVs: 0/0/0/0/0/0 EVs: 22/55/36/50/18/74
+Current Exp: 104156 (18.92%)
+[KILL]: Got 1553 Exp for killing Lucario (Lv. 63) @Wise Glasses (Ability: Inner Focus) (Nature: Timid) (Moves: Aura Sphere/Dragon Pulse/Flash Cannon/Nasty Plot) IVs: 31/0/31/31/31/31 EVs: 52/0/0/252/0/204
+EV yield: {"atk":1,"spAtk":1}
+Empoleon (Lv. 48) (Ability: Torrent) (Nature: Nature) (Moves: Bubble Beam/Aqua Jet/Pound/Water Gun) IVs: 0/0/0/0/0/0 EVs: 22/56/36/51/18/74
+Current Exp: 105709 (40.76%)
+[KILL]: Got 1594 Exp for killing Milotic (Lv. 63) @Flame Orb (Ability: Marvel Scale) (Nature: Bold) (Moves: Recover/Mirror Coat/Ice Beam/Scald) IVs: 31/0/31/31/31/31 EVs: 252/0/252/6/0/0
+EV yield: {"spDef":2}
+Empoleon (Lv. 48) (Ability: Torrent) (Nature: Nature) (Moves: Bubble Beam/Aqua Jet/Pound/Water Gun) IVs: 0/0/0/0/0/0 EVs: 22/56/36/51/20/74
+Current Exp: 107303 (63.17%)
+[KILL]: Got 2779 Exp for killing Garchomp (Lv. 66) @Yache Berry (Ability: Rough Skin) (Nature: Jolly) (Moves: Dragon Claw/Earthquake/Swords Dance/Poison Jab) IVs: 31/31/31/0/31/31 EVs: 52/252/0/0/0/204
+EV yield: {"atk":3}
+[LEVELUP] Now level 49
+49	22	59	36	51	20	74
+Empoleon (Lv. 49) (Ability: Torrent) (Nature: Nature) (Moves: Bubble Beam/Aqua Jet/Pound/Water Gun) IVs: 0/0/0/0/0/0 EVs: 22/59/36/51/20/74
+Current Exp: 110082 (2.14%)
