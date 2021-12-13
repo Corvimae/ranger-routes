@@ -1,0 +1,35 @@
+Version 1.0.0
+Release
+
+Version 1.1.0
+	Added stats for almost every opposing pokemon (Rival 1 Turtwig being dumb)
+
+Version 1.2.0
+Who knows
+
+Version 1.2.1
+Version skip cause I made a lot of changes, idk how this works
+	Fixed syntax errors
+	Fixed lists to look better
+	Updated strategies for a lot of big fights
+	Moved Stealth Rock teaching location
+	Moved Max Ether use location
+	Fixed NaN error on Lucian
+	Added note to revive Prinplup so it evolves in time
+	Reverted Mars 1 fight to 0.2.1 version, added note that the fight still sucks
+	Fixed damage ranges
+	Changed a few ordering of sent-out pokemon on a few trainers early-game
+	Added some priority moves to damage ranges
+	Moved/removed Cheri Berry equip location
+	Added note to pickup Paralyze Heal
+	Added backups for Thief/Disable/etc.
+	Swapped out Jupiter Flamethrower ranges for Snarl - seems to only go for that
+	Updated double battles syntax to be consistent with eachother
+	Moved the Zinc picture
+	Fixed Veilstone Shop
+	Added notes to heal to full more often
+	Added note to press a blue button in Wake's gym
+	Made tables look nicer
+	Added notes to prioritize Glameows with Retaliate
+	Routed out Hotel PP Up and Hyper Potion
+	And more stuff I didn't write down on my post-it notes...
