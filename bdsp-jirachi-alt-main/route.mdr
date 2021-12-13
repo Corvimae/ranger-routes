@@ -504,6 +504,7 @@ After entering Mt. Coronet
 
 Grab the Ether in the rock right above the Cyrus cutscene trigger.
 
+
 ![Ether location](cyrusether.png)
 
 Head through the cave then avoid the bridge hiker spinners and head to Hearthome.
@@ -526,11 +527,13 @@ Enter the contest hall, watch the cutscene, then head to the far south-east of H
   :::::pokemon[Grotle]{baseStats="[75, 89, 85, 55, 65, 36]" ivs="[11, 11, 11, 11, 11, 11]" evs="[36,4,12,4,36,0]" nature="Careful" type="Grass" level=21}
     - Confusion x2-3
 	::damage[Grotle's Bite vs Jirachi]{source="Jirachi" offensive=false movePower=60 type="Dark" theme="error"}
+
   :::::
 :::::::
 
 After leaving town:
 - Repel (refresh until Veilstone)
+
 - Pick the Leppa Berries.
 
 Before reaching Solaceon Town, enter the Lost Tower. Talk to the left person on the top floor, then Escape Rope out and continue heading north.
@@ -547,7 +550,8 @@ At the milk house, head east.
 	- Bubble Beam x2-3
   :::
   :::pokemon[Shieldon]{baseStats="[30, 42, 118, 42, 88, 30]" nature="Hardy" type="Steel/Rock" level=23}
-    - Swap to Jirachi
+
+  - Swap to Jirachi
 	- _Confusion if it didn't use Take Down_
 	- Switch to Prinplup
 	- Bubble Beam
@@ -574,6 +578,7 @@ Fight this as a double battle:
   :::pokemon[Turn 1]
     - Confusion Glameow	/ Bubble Beam Monferno
   :::
+
   ::level{source="Jirachi" value=21}
   :::pokemon[Turn 2 & 3]
     - Shock Wave Gyarados x2 / Bubble Beam Glameow x2 
@@ -599,11 +604,12 @@ Take the escalator to the third floor.
  
 
 **Second floor, top vendor:**
--  12 X Speed
--  11 X Defense (vv)
--  1 X Accuracy (vvv)
--  3 X Sp. Defense (R)
--  31 X Sp. Attack (^)
+- _Buy:_
+  -  12 X Speed
+  -  11 X Defense (vv)
+  -  1 X Accuracy (vvv)
+  -  3 X Sp. Defense (R)
+  -  31 X Sp. Attack (^)
 
 **First floor, left vendor:**
 - _Buy:_
@@ -1208,6 +1214,7 @@ Take the teleporter in the north-east of the room.
 
 Leave the Galactic HQ and fly to Oreburgh. Head north, and once inside Mt. Coronet:
 - Heal to full.
+
 - Super Repel (keep refreshed)
 
 Head through the one tile path after biking up the slope and head to Mt. Coronet. Surf across the water, then Rock Climb and head up the stairs.
