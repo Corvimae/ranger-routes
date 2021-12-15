@@ -355,8 +355,9 @@ Equip Cheri Berry.
   :::pokemon[Cherubi]
     :::if{source="Chimchar" condition="atk=(x/ 0-22/ 0-7)"}
     - Power-Up Punch x2
-    :info[If cannot live grass knot from range below, Heal to full]{color=blue}
     - Flame Wheel
+    :::
+    :info[If cannot live grass knot from range below, Heal to full]{color=blue}
     - Otherwise:
       - Power-Up Punch + Flame Wheel
   :::
