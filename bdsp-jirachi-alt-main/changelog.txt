@@ -45,6 +45,7 @@ Version 1.3.0
 	Added some periods.
 	Moved a Rare Candy to try and reduce encounters on Route 215 - means Rafael's Meditite can't get OHKO'd
 	Fixed (?) some ::: appearing on Abigail
+	Moved Calcium earlier
 	Updated syntax on the Wake fight
 	Updated colours on Rival 3 fight
 	Added note about dodging the fog ninja on the way to Shadow Ball
