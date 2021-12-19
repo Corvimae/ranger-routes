@@ -1,4 +1,4 @@
-C:\Program Files\nodejs\node.exe .\Jirachi.js
+C:\Program Files\nodejs\node.exe .\..\BDSPExp\Jirachi.js
 [KILL]: Got 148 Exp for killing Wurmple (Lv. 9) @(None) (Ability: Shield Dust) (Nature: Serious) (Moves: Tackle/String Shot/Poison Sting/(No Move)) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
 EV yield: {"hp":1}
 [LEVELUP] Now level 6
@@ -173,205 +173,205 @@ Current Exp: 10197 (12.50%)
 EV yield: {"atk":1,"def":1}
 Jirachi (Lv. 20) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 6/3/9/19/0/13
 Current Exp: 10823 (52.22%)
-[KILL]: Got 265 Exp for killing Bronzor (Lv. 21) @(None) (Ability: Levitate) (Nature: Hardy) (Moves: Confusion/Confuse Ray/Payback/Gyro Ball) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+[RARE CANDY] Now level 21
+21	6	3	9	19	0	13
+Jirachi (Lv. 21) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 6/3/9/19/0/13
+Current Exp: 11576 (0.00%)
+[KILL]: Got 253 Exp for killing Bronzor (Lv. 21) @(None) (Ability: Levitate) (Nature: Hardy) (Moves: Confusion/Confuse Ray/Payback/Gyro Ball) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
 EV yield: {"def":1}
-Jirachi (Lv. 20) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 6/3/10/19/0/13
-Current Exp: 11088 (69.04%)
-[KILL]: Got 370 Exp for killing Shieldon (Lv. 23) @(None) (Ability: Sturdy) (Nature: Relaxed) (Moves: Taunt/Metal Sound/Take Down/Iron Defense) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+Jirachi (Lv. 21) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 6/3/10/19/0/13
+Current Exp: 11829 (14.59%)
+[KILL]: Got 353 Exp for killing Shieldon (Lv. 23) @(None) (Ability: Sturdy) (Nature: Relaxed) (Moves: Taunt/Metal Sound/Take Down/Iron Defense) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
 EV yield: {"def":1}
-Jirachi (Lv. 20) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 6/3/11/19/0/13
-Current Exp: 11458 (92.51%)
-[KILL]: Got 750 Exp for killing Monferno (Lv. 23) @(None) (Ability: Blaze) (Nature: Jolly) (Moves: Leer/Taunt/Fury Swipes/Flame Wheel) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+Jirachi (Lv. 21) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 6/3/11/19/0/13
+Current Exp: 12182 (34.95%)
+[KILL]: Got 716 Exp for killing Monferno (Lv. 23) @(None) (Ability: Blaze) (Nature: Jolly) (Moves: Leer/Taunt/Fury Swipes/Flame Wheel) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
 EV yield: {"spAtk":1,"spd":1}
-[LEVELUP] Now level 21
-21	6	3	11	20	0	14
 Jirachi (Lv. 21) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 6/3/11/20/0/14
-Current Exp: 12208 (36.45%)
+Current Exp: 12898 (76.24%)
 [KILL]: Got 952 Exp for killing Gyarados (Lv. 23) @(None) (Ability: Intimidate) (Nature: Hasty) (Moves: Bite/Leer/Ice Fang/Waterfall) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
 EV yield: {"atk":2}
-Jirachi (Lv. 21) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 6/5/11/20/0/14
-Current Exp: 13160 (91.35%)
-[KILL]: Got 313 Exp for killing Glameow (Lv. 23) @(None) (Ability: Own Tempo) (Nature: Jolly) (Moves: Fake Out/Growl/Aerial Ace/Fury Swipes) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
-EV yield: {"spd":1}
 [LEVELUP] Now level 22
-22	6	5	11	20	0	15
+22	6	5	11	20	0	14
+Jirachi (Lv. 22) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 6/5/11/20/0/14
+Current Exp: 13850 (28.45%)
+[KILL]: Got 299 Exp for killing Glameow (Lv. 23) @(None) (Ability: Own Tempo) (Nature: Jolly) (Moves: Fake Out/Growl/Aerial Ace/Fury Swipes) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"spd":1}
 Jirachi (Lv. 22) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 6/5/11/20/0/15
-Current Exp: 13473 (8.59%)
+Current Exp: 14149 (44.20%)
 [KILL]: Got 674 Exp for killing Kadabra (Lv. 23) @(None) (Ability: Synchronize) (Nature: Timid) (Moves: Kinesis/Psybeam/Reflect/Ally Switch) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
 EV yield: {"spAtk":2}
 Jirachi (Lv. 22) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 6/5/11/22/0/15
-Current Exp: 14147 (44.10%)
-[RARE CANDY] Now level 23
-23	6	5	11	22	0	15
-Jirachi (Lv. 23) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 6/5/11/22/0/15
-Current Exp: 15208 (0.00%)
-[KILL]: Got 382 Exp for killing Meditite (Lv. 28) @(None) (Ability: Pure Power) (Nature: Jolly) (Moves: Low Kick/Force Palm/Mind Reader/High Jump Kick) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+Current Exp: 14823 (79.72%)
+[KILL]: Got 398 Exp for killing Meditite (Lv. 28) @(None) (Ability: Pure Power) (Nature: Jolly) (Moves: Low Kick/Force Palm/Mind Reader/High Jump Kick) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
 EV yield: {"spd":1}
+[LEVELUP] Now level 23
+23	6	5	11	22	0	16
 Jirachi (Lv. 23) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 6/5/11/22/0/16
-Current Exp: 15590 (18.44%)
+Current Exp: 15221 (0.63%)
 [KILL]: Got 355 Exp for killing Meditite (Lv. 27) @Light Clay (Ability: Pure Power) (Nature: Naive) (Moves: Drain Punch/Light Screen/Flash/Bulk Up) IVs: 15/15/0/0/0/15 EVs: 36/52/0/0/0/36
 EV yield: {"spd":1}
 Jirachi (Lv. 23) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 6/5/11/22/0/17
-Current Exp: 15945 (35.57%)
+Current Exp: 15576 (17.76%)
 [KILL]: Got 901 Exp for killing Machoke (Lv. 27) @Expert Belt (Ability: Guts) (Nature: Adamant) (Moves: Low Sweep/Knock Off/Rock Tomb/Bulldoze) IVs: 15/15/0/0/0/15 EVs: 36/52/0/0/0/36
 EV yield: {"atk":2}
 Jirachi (Lv. 23) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 6/7/11/22/0/17
-Current Exp: 16846 (79.05%)
+Current Exp: 16477 (61.25%)
 [KILL]: Got 1437 Exp for killing Lucario (Lv. 30) @Big Root (Ability: Steadfast) (Nature: Adamant) (Moves: Drain Punch/Screech/Metal Claw/Bulk Up) IVs: 0/15/15/0/0/15 EVs: 0/68/68/0/0/68
 EV yield: {"atk":1,"spAtk":1}
 [LEVELUP] Now level 24
 24	6	8	11	23	0	17
 Jirachi (Lv. 24) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 6/8/11/23/0/17
-Current Exp: 18283 (44.56%)
+Current Exp: 17914 (28.17%)
 [KILL]: Got 1007 Exp for killing Dustox (Lv. 25) @(None) (Ability: Shield Dust) (Nature: Serious) (Moves: Gust/Poison Powder/Venoshock/Leech Life) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
 EV yield: {"spDef":3}
 Jirachi (Lv. 24) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 6/8/11/23/3/17
-Current Exp: 19290 (89.29%)
+Current Exp: 18921 (72.90%)
 [KILL]: Got 313 Exp for killing Croagunk (Lv. 25) @(None) (Ability: Anticipation) (Nature: Bashful) (Moves: Poison Sting/Mud-Slap/Astonish/Venoshock) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
 EV yield: {"atk":1}
-[LEVELUP] Now level 25
-25	6	9	11	23	3	17
-Jirachi (Lv. 25) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 6/9/11/23/3/17
-Current Exp: 19603 (2.95%)
-[KILL]: Got 991 Exp for killing Beautifly (Lv. 25) @(None) (Ability: Swarm) (Nature: Hardy) (Moves: Gust/Air Cutter/Mega Drain/Leech Life) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+Jirachi (Lv. 24) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 6/9/11/23/3/17
+Current Exp: 19234 (86.81%)
+[KILL]: Got 1033 Exp for killing Beautifly (Lv. 25) @(None) (Ability: Swarm) (Nature: Hardy) (Moves: Gust/Air Cutter/Mega Drain/Leech Life) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
 EV yield: {"spAtk":3}
+[LEVELUP] Now level 25
+25	6	9	11	26	3	17
 Jirachi (Lv. 25) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 6/9/11/26/3/17
-Current Exp: 20594 (43.58%)
+Current Exp: 20267 (30.18%)
 [KILL]: Got 331 Exp for killing Stunky (Lv. 25) @(None) (Ability: Stench) (Nature: Docile) (Moves: Poison Gas/Fury Swipes/Focus Energy/Bite) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
 EV yield: {"spd":1}
 Jirachi (Lv. 25) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 6/9/11/26/3/18
-Current Exp: 20925 (57.15%)
+Current Exp: 20598 (43.75%)
 [KILL]: Got 238 Exp for killing Gastly (Lv. 22) @(None) (Ability: Levitate) (Nature: Timid) (Moves: Lick/Confuse Ray/Payback/Curse) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
 EV yield: {"spAtk":1}
 Jirachi (Lv. 25) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 6/9/11/27/3/18
-Current Exp: 21163 (66.91%)
+Current Exp: 20836 (53.51%)
 [KILL]: Got 367 Exp for killing Misdreavus (Lv. 23) @(None) (Ability: Levitate) (Nature: Timid) (Moves: Confusion/Astonish/Confuse Ray/Hex) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
 EV yield: {"spDef":1}
 Jirachi (Lv. 25) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 6/9/11/27/4/18
-Current Exp: 21530 (81.96%)
+Current Exp: 21203 (68.55%)
 [KILL]: Got 644 Exp for killing Kadabra (Lv. 24) @(None) (Ability: Syncrhonize) (Nature: Timid) (Moves: Kinesis/Disable/Psybeam/Psycho Cut) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
 EV yield: {"spAtk":2}
-[LEVELUP] Now level 26
-26	6	9	11	29	4	18
-Jirachi (Lv. 26) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 6/9/11/29/4/18
-Current Exp: 22174 (7.75%)
-[KILL]: Got 344 Exp for killing Buizel (Lv. 26) @(None) (Ability: Water Veil) (Nature: Jolly) (Moves: Tail Whip/Bite/Aqua Jet/Iron Tail) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+Jirachi (Lv. 25) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 6/9/11/29/4/18
+Current Exp: 21847 (94.96%)
+25	6	9	11	39	4	18
+Jirachi (Lv. 25) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 6/9/11/39/4/18
+Current Exp: 21847 (94.96%)
+[KILL]: Got 358 Exp for killing Buizel (Lv. 26) @(None) (Ability: Water Veil) (Nature: Jolly) (Moves: Tail Whip/Bite/Aqua Jet/Iron Tail) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
 EV yield: {"spd":1}
-Jirachi (Lv. 26) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 6/9/11/29/4/19
-Current Exp: 22518 (20.81%)
+[LEVELUP] Now level 26
+26	6	9	11	39	4	19
+Jirachi (Lv. 26) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 6/9/11/39/4/19
+Current Exp: 22205 (8.93%)
 [KILL]: Got 238 Exp for killing Wingull (Lv. 24) @(None) (Ability: Keen Eye) (Nature: Jolly) (Moves: Growl/Water Pulse/Roost/Pluck) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
 EV yield: {"spd":1}
-Jirachi (Lv. 26) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 6/9/11/29/4/20
-Current Exp: 22756 (29.85%)
+Jirachi (Lv. 26) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 6/9/11/39/4/20
+Current Exp: 22443 (17.96%)
 [KILL]: Got 238 Exp for killing Wingull (Lv. 24) @(None) (Ability: Keen Eye) (Nature: Adamant) (Moves: Quick Attack/Water Pulse/Steel Wing/Aerial Ace) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
 EV yield: {"spd":1}
-Jirachi (Lv. 26) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 6/9/11/29/4/21
-Current Exp: 22994 (38.89%)
+Jirachi (Lv. 26) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 6/9/11/39/4/21
+Current Exp: 22681 (27.00%)
 [KILL]: Got 168 Exp for killing Azurill (Lv. 24) @(None) (Ability: Sap Sipper) (Nature: Timid) (Moves: Tail Whip/Charm/Bubble Beam/Light Screen) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
 EV yield: {"hp":1}
-Jirachi (Lv. 26) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 7/9/11/29/4/21
-Current Exp: 23162 (45.27%)
+Jirachi (Lv. 26) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 7/9/11/39/4/21
+Current Exp: 22849 (33.38%)
 [KILL]: Got 388 Exp for killing Marill (Lv. 24) @(None) (Ability: Huge Power) (Nature: Adamant) (Moves: Aqua Tail/Play Rough/Aqua Ring/Brick Break) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
 EV yield: {"hp":2}
-Jirachi (Lv. 26) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 9/9/11/29/4/21
-Current Exp: 23550 (60.01%)
+Jirachi (Lv. 26) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 9/9/11/39/4/21
+Current Exp: 23237 (48.12%)
 [KILL]: Got 287 Exp for killing Shellos (Lv. 24) @(None) (Ability: Storm Drain) (Nature: Timid) (Moves: Mud-Slap/Recover/Water Pulse/Rain Dance) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
 EV yield: {"hp":1}
-Jirachi (Lv. 26) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 10/9/11/29/4/21
-Current Exp: 23837 (70.91%)
+Jirachi (Lv. 26) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 10/9/11/39/4/21
+Current Exp: 23524 (59.02%)
 [KILL]: Got 238 Exp for killing Wingull (Lv. 24) @(None) (Ability: Hydration) (Nature: Adamant) (Moves: Water Pulse/Rain Dance/U-turn/Roost) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
 EV yield: {"spd":1}
-Jirachi (Lv. 26) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 10/9/11/29/4/22
-Current Exp: 24075 (79.95%)
+Jirachi (Lv. 26) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 10/9/11/39/4/22
+Current Exp: 23762 (68.06%)
 [KILL]: Got 287 Exp for killing Shellos (Lv. 24) @(None) (Ability: Storm Drain) (Nature: Modest) (Moves: Mud-Slap/Harden/Recover/Water Pulse) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
 EV yield: {"hp":1}
-Jirachi (Lv. 26) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 11/9/11/29/4/22
-Current Exp: 24362 (90.85%)
+Jirachi (Lv. 26) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 11/9/11/39/4/22
+Current Exp: 24049 (78.96%)
 [KILL]: Got 1061 Exp for killing Gyarados (Lv. 27) @Wide Lens (Ability: Intimidate) (Nature: Jolly) (Moves: Brine/Ice Fang/Crunch/Flail) IVs: 16/16/0/0/0/16 EVs: 40/56/0/0/0/40
 EV yield: {"atk":2}
 [LEVELUP] Now level 27
-27	11	11	11	29	4	22
-Jirachi (Lv. 27) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 11/11/11/29/4/22
-Current Exp: 25423 (28.90%)
+27	11	11	11	39	4	22
+Jirachi (Lv. 27) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 11/11/11/39/4/22
+Current Exp: 25110 (17.87%)
 [KILL]: Got 816 Exp for killing Quagsire (Lv. 27) @Damp Rock (Ability: Damp) (Nature: Quiet) (Moves: Rain Dance/Haze/Mud Shot/Scald) IVs: 0/16/16/5/16/5 EVs: 40/40/4/56/4/0
 EV yield: {"hp":2}
-Jirachi (Lv. 27) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 13/11/11/29/4/22
-Current Exp: 26239 (57.67%)
+Jirachi (Lv. 27) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 13/11/11/39/4/22
+Current Exp: 25926 (46.63%)
 [KILL]: Got 1159 Exp for killing Floatzel (Lv. 30) @Sitrus Berry (Ability: Swift Swim) (Nature: Adamant) (Moves: Brine/Ice Fang/Bite/Aqua Jet) IVs: 0/17/0/17/0/17 EVs: 0/84/0/20/0/84
 EV yield: {"spd":2}
-Jirachi (Lv. 27) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 13/11/11/29/4/24
-Current Exp: 27398 (98.52%)
+Jirachi (Lv. 27) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 13/11/11/39/4/24
+Current Exp: 27085 (87.49%)
 [KILL]: Got 245 Exp for killing Starly (Lv. 26) @Quick Claw (Ability: Keen Eye) (Nature: Jolly) (Moves: Quick Attack/Double Team/Endeavor/Pluck) IVs: 5/5/5/5/5/5 EVs: 28/52/12/0/12/52
 EV yield: {"spd":1}
-[LEVELUP] Now level 28
-28	13	11	11	29	4	25
-Jirachi (Lv. 28) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 13/11/11/29/4/25
-Current Exp: 27643 (6.66%)
-[KILL]: Got 317 Exp for killing Buizel (Lv. 26) @Sea Incense (Ability: Swift Swim) (Nature: Jolly) (Moves: Tail Whip/Bite/Swift/Aqua Jet) IVs: 6/6/6/6/6/6 EVs: 0/44/12/0/12/36
+Jirachi (Lv. 27) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 13/11/11/39/4/25
+Current Exp: 27330 (96.12%)
+[KILL]: Got 330 Exp for killing Buizel (Lv. 26) @Sea Incense (Ability: Swift Swim) (Nature: Jolly) (Moves: Tail Whip/Bite/Swift/Aqua Jet) IVs: 6/6/6/6/6/6 EVs: 0/44/12/0/12/36
 EV yield: {"spd":1}
-Jirachi (Lv. 28) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 13/11/11/29/4/26
-Current Exp: 27960 (17.07%)
+[LEVELUP] Now level 28
+28	13	11	11	39	4	26
+Jirachi (Lv. 28) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 13/11/11/39/4/26
+Current Exp: 27660 (7.22%)
 [KILL]: Got 426 Exp for killing Ponyta (Lv. 27) @Shell Bell (Ability: Flash Fire) (Nature: Jolly) (Moves: Tackle/Tail Whip/Agility/Flame Wheel) IVs: 7/7/7/7/7/7 EVs: 4/44/12/0/12/12
 EV yield: {"spd":1}
-Jirachi (Lv. 28) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 13/11/11/29/4/27
-Current Exp: 28386 (31.06%)
+Jirachi (Lv. 28) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 13/11/11/39/4/27
+Current Exp: 28086 (21.21%)
 [KILL]: Got 979 Exp for killing Grotle (Lv. 31) @Miracle Seed (Ability: Overgrow) (Nature: Careful) (Moves: Razor Leaf/Bite/Mega Drain/Stealth Rock) IVs: 11/11/11/11/11/11 EVs: 52/4/12/4/52/0
 EV yield: {"atk":1,"def":1}
-Jirachi (Lv. 28) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 13/12/12/29/4/27
-Current Exp: 29365 (63.20%)
+Jirachi (Lv. 28) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 13/12/12/39/4/27
+Current Exp: 29065 (53.35%)
 [KILL]: Got 275 Exp for killing Glameow (Lv. 25) @(None) (Ability: Limber) (Nature: Quirky) (Moves: Hypnosis/Aerial Ace/Fury Swipes/Charm) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
 EV yield: {"spd":1}
-Jirachi (Lv. 28) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 13/12/12/29/4/28
-Current Exp: 29640 (72.23%)
-28	13	12	12	39	4	28
 Jirachi (Lv. 28) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 13/12/12/39/4/28
-Current Exp: 29640 (72.23%)
+Current Exp: 29340 (62.38%)
 [KILL]: Got 426 Exp for killing Ponyta (Lv. 27) @(None) (Ability: Run Away) (Nature: Careful) (Moves: Growl/Tail Whip/Ember/Flame Wheel) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
 EV yield: {"spd":1}
 Jirachi (Lv. 28) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 13/12/12/39/4/29
-Current Exp: 30066 (86.21%)
+Current Exp: 29766 (76.36%)
 [KILL]: Got 737 Exp for killing Grotle (Lv. 27) @(None) (Ability: Overgrow) (Nature: Impish) (Moves: Razor Leaf/Curse/Bite/Mega Drain) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
 EV yield: {"atk":1,"def":1}
 [LEVELUP] Now level 29
 29	13	13	13	39	4	29
 Jirachi (Lv. 29) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 13/13/13/39/4/29
-Current Exp: 30803 (9.71%)
+Current Exp: 30503 (0.52%)
 [KILL]: Got 824 Exp for killing Machoke (Lv. 29) @(None) (Ability: No Guard) (Nature: Relaxed) (Moves: Leer/Focus Energy/Low Sweep/Knock Off) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
 EV yield: {"atk":2}
 Jirachi (Lv. 29) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 13/15/13/39/4/29
-Current Exp: 31627 (34.96%)
+Current Exp: 31327 (25.77%)
 [KILL]: Got 260 Exp for killing Hoothoot (Lv. 27) @(None) (Ability: Keen Eye) (Nature: Timid) (Moves: Growl/Reflect/Air Slash/Extrasensory) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
 EV yield: {"hp":1}
 Jirachi (Lv. 29) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 14/15/13/39/4/29
-Current Exp: 31887 (42.92%)
+Current Exp: 31587 (33.73%)
 [KILL]: Got 790 Exp for killing Noctowl (Lv. 27) @(None) (Ability: Keen Eye) (Nature: Jolly) (Moves: Sky Attack/Peck/Echoed Voice/Extrasensory) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
 EV yield: {"hp":2}
 Jirachi (Lv. 29) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 16/15/13/39/4/29
-Current Exp: 32677 (67.13%)
+Current Exp: 32377 (57.94%)
 [KILL]: Got 843 Exp for killing Beautifly (Lv. 25) @(None) (Ability: Swarm) (Nature: Hardy) (Moves: Gust/Stun Spore/Air Cutter/Leech Life) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
 EV yield: {"spAtk":3}
 Jirachi (Lv. 29) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 16/15/13/42/4/29
-Current Exp: 33520 (92.95%)
+Current Exp: 33220 (83.76%)
 [KILL]: Got 301 Exp for killing Croagunk (Lv. 27) @(None) (Ability: Anticipation) (Nature: Docile) (Moves: Mud-Slap/Taunt/Revenge/Sucker Punch) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
 EV yield: {"atk":1}
-[LEVELUP] Now level 30
-30	16	16	13	42	4	29
-Jirachi (Lv. 30) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 16/16/13/42/4/29
-Current Exp: 33821 (2.04%)
-[KILL]: Got 1192 Exp for killing Drifblim (Lv. 32) @Zoom Lens (Ability: Aftermath) (Nature: Timid) (Moves: Strength Sap/Hex/Fly/Will-O-Wisp) IVs: 19/0/5/19/5/19 EVs: 52/0/4/68/4/52
+Jirachi (Lv. 29) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 16/16/13/42/4/29
+Current Exp: 33521 (92.98%)
+[KILL]: Got 1235 Exp for killing Drifblim (Lv. 32) @Zoom Lens (Ability: Aftermath) (Nature: Timid) (Moves: Strength Sap/Hex/Fly/Will-O-Wisp) IVs: 19/0/5/19/5/19 EVs: 52/0/4/68/4/52
 EV yield: {"hp":2}
+[LEVELUP] Now level 30
+30	18	16	13	42	4	29
 Jirachi (Lv. 30) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 18/16/13/42/4/29
-Current Exp: 35013 (36.21%)
+Current Exp: 34756 (28.84%)
 [KILL]: Got 1940 Exp for killing Gengar (Lv. 34) @Colbur Berry (Ability: Cursed Body) (Nature: Timid) (Moves: Shadow Claw/Confuse Ray/Sludge Bomb/Dazzling Gleam) IVs: 19/0/5/19/5/19 EVs: 52/0/4/76/4/68
 EV yield: {"spAtk":3}
 Jirachi (Lv. 30) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 18/16/13/45/4/29
-Current Exp: 36953 (91.83%)
+Current Exp: 36696 (84.46%)
 [KILL]: Got 1506 Exp for killing Mismagius (Lv. 36) @Expert Belt (Ability: Levitate) (Nature: Timid) (Moves: Confuse Ray/Phantom Force/Magical Leaf/Dazzling Gleam) IVs: 19/0/5/19/5/19 EVs: 44/0/4/92/4/68
 EV yield: {"spAtk":1,"spDef":1}
 [LEVELUP] Now level 31
 31	18	16	13	46	5	29
 Jirachi (Lv. 31) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 18/16/13/46/5/29
-Current Exp: 38459 (32.80%)
+Current Exp: 38202 (25.90%)
 [RARE CANDY] Now level 32
 32	18	16	13	46	5	29
 Jirachi (Lv. 32) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 18/16/13/46/5/29
@@ -462,543 +462,555 @@ Current Exp: 59783 (29.28%)
 EV yield: {"atk":2}
 Jirachi (Lv. 36) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 21/21/30/48/5/33
 Current Exp: 61094 (55.52%)
-[KILL]: Got 372 Exp for killing Glameow (Lv. 33) @(None) (Ability: Limber) (Nature: Hardy) (Moves: Growl/Aerial Ace/Fury Swipes/Retaliate) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+[KILL]: Got 404 Exp for killing Silcoon (Lv. 32) @(None) (Ability: Shed Skin) (Nature: Bashful) (Moves: Tackle/Poison Sting/Harden/(No Move)) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"def":2}
+Jirachi (Lv. 36) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 21/21/32/48/5/33
+Current Exp: 61498 (63.61%)
+[KILL]: Got 892 Exp for killing Golbat (Lv. 32) @(None) (Ability: Inner Focus) (Nature: Quirky) (Moves: Screech/Poison Fang/Quick Guard/Air Cutter) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"spd":2}
+Jirachi (Lv. 36) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 21/21/32/48/5/35
+Current Exp: 62390 (81.47%)
+[KILL]: Got 348 Exp for killing Glameow (Lv. 32) @(None) (Ability: Own Tempo) (Nature: Hardy) (Moves: Growl/Aerial Ace/Fury Swipes/Retaliate) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
 EV yield: {"spd":1}
-Jirachi (Lv. 36) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 21/21/30/48/5/34
-Current Exp: 61466 (62.97%)
+Jirachi (Lv. 36) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 21/21/32/48/5/36
+Current Exp: 62738 (88.43%)
 [KILL]: Got 370 Exp for killing Stunky (Lv. 32) @(None) (Ability: Aftermath) (Nature: Docile) (Moves: Poison Gas/Bite/Venoshock/Sucker Punch) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
 EV yield: {"spd":1}
-Jirachi (Lv. 36) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 21/21/30/48/5/35
-Current Exp: 61836 (70.38%)
+Jirachi (Lv. 36) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 21/21/32/48/5/37
+Current Exp: 63108 (95.84%)
 [KILL]: Got 348 Exp for killing Glameow (Lv. 32) @(None) (Ability: Limber) (Nature: Serious) (Moves: Growl/Aerial Ace/Fury Swipes/Retaliate) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
 EV yield: {"spd":1}
-Jirachi (Lv. 36) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 21/21/30/48/5/36
-Current Exp: 62184 (77.34%)
-[KILL]: Got 1212 Exp for killing Golbat (Lv. 37) @(None) (Ability: Inner Focus) (Nature: Jolly) (Moves: Astonish/Poison Fang/Bite/U-turn) IVs: 15/0/15/0/15/0 EVs: 68/0/68/0/68/0
-EV yield: {"spd":2}
 [LEVELUP] Now level 37
-37	21	21	30	48	5	38
-Jirachi (Lv. 37) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 21/21/30/48/5/38
-Current Exp: 63396 (1.52%)
+37	21	21	32	48	5	38
+Jirachi (Lv. 37) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 21/21/32/48/5/38
+Current Exp: 63456 (2.65%)
+[KILL]: Got 1177 Exp for killing Golbat (Lv. 37) @(None) (Ability: Inner Focus) (Nature: Jolly) (Moves: Astonish/Poison Fang/Bite/U-turn) IVs: 15/0/15/0/15/0 EVs: 68/0/68/0/68/0
+EV yield: {"spd":2}
+Jirachi (Lv. 37) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 21/21/32/48/5/40
+Current Exp: 64633 (24.97%)
 [KILL]: Got 445 Exp for killing Bronzor (Lv. 37) @(None) (Ability: Levitate) (Nature: Sassy) (Moves: Confuse Ray/Payback/Gyro Ball/Iron Defense) IVs: 15/0/15/0/15/0 EVs: 68/0/68/0/68/0
 EV yield: {"def":1}
-Jirachi (Lv. 37) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 21/21/31/48/5/38
-Current Exp: 63841 (9.95%)
+Jirachi (Lv. 37) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 21/21/33/48/5/40
+Current Exp: 65078 (33.41%)
 [KILL]: Got 1305 Exp for killing Purugly (Lv. 39) @Sitrus Berry (Ability: Thick Fat) (Nature: Jolly) (Moves: Growl/Aerial Ace/Slash/U-turn) IVs: 15/0/15/0/15/0 EVs: 68/0/68/0/68/0
 EV yield: {"spd":2}
-Jirachi (Lv. 37) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 21/21/31/48/5/40
-Current Exp: 65146 (34.70%)
+Jirachi (Lv. 37) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 21/21/33/48/5/42
+Current Exp: 66383 (58.15%)
 [KILL]: Got 1349 Exp for killing Raichu (Lv. 34) @(None) (Ability: Static) (Nature: Timid) (Moves: Nuzzle/Electro Ball/Agility/Light Screen) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
 EV yield: {"spd":3}
-Jirachi (Lv. 37) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 21/21/31/48/5/43
-Current Exp: 66495 (60.28%)
+Jirachi (Lv. 37) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 21/21/33/48/5/45
+Current Exp: 67732 (83.73%)
 [KILL]: Got 1075 Exp for killing Pelipper (Lv. 36) @(None) (Ability: Keen Eye) (Nature: Timid) (Moves: Air Slash/Tailwind/Water Pulse/Stockpile) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
 EV yield: {"def":2}
-Jirachi (Lv. 37) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 21/21/33/48/5/43
-Current Exp: 67570 (80.66%)
-[KILL]: Got 516 Exp for killing Hippopotas (Lv. 38) @(None) (Ability: Sand Stream) (Nature: Relaxed) (Moves: Yawn/Sand Tomb/Crunch/Rest) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
-EV yield: {"def":1}
-Jirachi (Lv. 37) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 21/21/34/48/5/43
-Current Exp: 68086 (90.44%)
-[KILL]: Got 1037 Exp for killing Roselia (Lv. 37) @(None) (Ability: Poison Point) (Nature: Calm) (Moves: Poison Sting/Leech Seed/Giga Drain/Synthesis) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
-EV yield: {"spAtk":2}
 [LEVELUP] Now level 38
-38	21	21	34	50	5	43
-Jirachi (Lv. 38) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 21/21/34/50/5/43
-Current Exp: 69123 (9.59%)
+38	21	21	35	48	5	45
+Jirachi (Lv. 38) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 21/21/35/48/5/45
+Current Exp: 68807 (3.90%)
+[KILL]: Got 502 Exp for killing Hippopotas (Lv. 38) @(None) (Ability: Sand Stream) (Nature: Relaxed) (Moves: Yawn/Sand Tomb/Crunch/Rest) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"def":1}
+Jirachi (Lv. 38) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 21/21/36/48/5/45
+Current Exp: 69309 (12.94%)
+[KILL]: Got 1006 Exp for killing Roselia (Lv. 37) @(None) (Ability: Poison Point) (Nature: Calm) (Moves: Poison Sting/Leech Seed/Giga Drain/Synthesis) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"spAtk":2}
+Jirachi (Lv. 38) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 21/21/36/50/5/45
+Current Exp: 70315 (31.04%)
 [KILL]: Got 1135 Exp for killing Seaking (Lv. 37) @(None) (Ability: Water Veil) (Nature: Jolly) (Moves: Peck/Supersonic/Flail/Waterfall) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
 EV yield: {"atk":2}
-Jirachi (Lv. 38) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 21/23/34/50/5/43
-Current Exp: 70258 (30.01%)
+Jirachi (Lv. 38) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 21/23/36/50/5/45
+Current Exp: 71450 (51.46%)
 [KILL]: Got 510 Exp for killing Snover (Lv. 38) @Icy Rock (Ability: Snow Warning) (Nature: Relaxed) (Moves: Mist/Razor Leaf/Water Pulse/Avalanche) IVs: 19/25/0/25/0/0 EVs: 60/124/0/124/0/0
 EV yield: {"atk":1}
-Jirachi (Lv. 38) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 21/24/34/50/5/43
-Current Exp: 70768 (39.19%)
+Jirachi (Lv. 38) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 21/24/36/50/5/45
+Current Exp: 71960 (60.63%)
 [KILL]: Got 654 Exp for killing Sneasel (Lv. 38) @Chople Berry (Ability: Pickpocket) (Nature: Jolly) (Moves: Metal Claw/Hone Claws/Dig/Avalanche) IVs: 10/25/10/0/0/25 EVs: 64/124/0/0/0/124
 EV yield: {"spd":1}
-Jirachi (Lv. 38) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 21/24/34/50/5/44
-Current Exp: 71422 (50.95%)
+Jirachi (Lv. 38) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 21/24/36/50/5/46
+Current Exp: 72614 (72.40%)
 [KILL]: Got 1219 Exp for killing Medicham (Lv. 40) @Expert Belt (Ability: Pure Power) (Nature: Jolly) (Moves: Ice Punch/Bulk Up/Brick Break/Rock Slide) IVs: 10/25/0/0/0/25 EVs: 64/124/0/0/0/124
 EV yield: {"spd":2}
-Jirachi (Lv. 38) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 21/24/34/50/5/46
-Current Exp: 72641 (72.89%)
+Jirachi (Lv. 38) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 21/24/36/50/5/48
+Current Exp: 73833 (94.33%)
 [KILL]: Got 1620 Exp for killing Abomasnow (Lv. 42) @Sitrus Berry (Ability: Snow Warning) (Nature: Quiet) (Moves: Aurora Veil/Giga Drain/Earthquake/Blizzard) IVs: 13/25/10/27/10/0 EVs: 124/60/0/164/0/0
 EV yield: {"atk":1,"spAtk":1}
 [LEVELUP] Now level 39
-39	21	25	34	51	5	46
-Jirachi (Lv. 39) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 21/25/34/51/5/46
-Current Exp: 74261 (1.93%)
+39	21	25	36	51	5	48
+Jirachi (Lv. 39) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 21/25/36/51/5/48
+Current Exp: 75453 (22.30%)
 [KILL]: Got 1196 Exp for killing Dustox (Lv. 35) @(None) (Ability: Shield Dust) (Nature: Quirky) (Moves: Venoshock/Leech Life/Toxic/Bug Buzz) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
 EV yield: {"spDef":3}
-Jirachi (Lv. 39) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 21/25/34/51/8/46
-Current Exp: 75457 (22.37%)
+Jirachi (Lv. 39) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 21/25/36/51/8/48
+Current Exp: 76649 (42.74%)
 [KILL]: Got 372 Exp for killing Bronzor (Lv. 35) @(None) (Ability: Heatproof) (Nature: Hardy) (Moves: Confuse Ray/Payback/Extrasensory/Heavy Slam) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
 EV yield: {"def":1}
-Jirachi (Lv. 39) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 21/25/35/51/8/46
-Current Exp: 75829 (28.73%)
+Jirachi (Lv. 39) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 21/25/37/51/8/48
+Current Exp: 77021 (49.09%)
 [KILL]: Got 868 Exp for killing Kadabra (Lv. 35) @(None) (Ability: Inner Focus) (Nature: Sassy) (Moves: Kinesis/Reflect/Psyshock/Psychic) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
 EV yield: {"spAtk":2}
-Jirachi (Lv. 39) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 21/25/35/53/8/46
-Current Exp: 76697 (43.56%)
+Jirachi (Lv. 39) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 21/25/37/53/8/48
+Current Exp: 77889 (63.93%)
 [KILL]: Got 868 Exp for killing Kadabra (Lv. 35) @(None) (Ability: Synchronize) (Nature: Sassy) (Moves: Reflect/Recover/Psyshock/Psychic) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
 EV yield: {"spAtk":2}
-Jirachi (Lv. 39) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 21/25/35/55/8/46
-Current Exp: 77565 (58.39%)
+Jirachi (Lv. 39) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 21/25/37/55/8/48
+Current Exp: 78757 (78.76%)
 [KILL]: Got 1046 Exp for killing Golbat (Lv. 36) @(None) (Ability: Inner Focus) (Nature: Serious) (Moves: Poison Fang/Quick Guard/Air Cutter/Bite) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
 EV yield: {"spd":2}
-Jirachi (Lv. 39) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 21/25/35/55/8/48
-Current Exp: 78611 (76.26%)
+Jirachi (Lv. 39) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 21/25/37/55/8/50
+Current Exp: 79803 (96.63%)
 [KILL]: Got 419 Exp for killing Silcoon (Lv. 34) @(None) (Ability: Shed Skin) (Nature: Bashful) (Moves: Tackle/Poison Sting/Harden/(No Move)) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
 EV yield: {"def":2}
-Jirachi (Lv. 39) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 21/25/37/55/8/48
-Current Exp: 79030 (83.42%)
-[KILL]: Got 435 Exp for killing Stunky (Lv. 36) @(None) (Ability: Aftermath) (Nature: Quirky) (Moves: Venoshock/Toxic/Memento/Night Slash) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
-EV yield: {"spd":1}
-Jirachi (Lv. 39) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 21/25/37/55/8/49
-Current Exp: 79465 (90.86%)
-[KILL]: Got 395 Exp for killing Croagunk (Lv. 36) @(None) (Ability: Anticipation) (Nature: Hardy) (Moves: Mud-Slap/Revenge/Sucker Punch/Toxic) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
-EV yield: {"atk":1}
-Jirachi (Lv. 39) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 21/26/37/55/8/49
-Current Exp: 79860 (97.61%)
-[KILL]: Got 372 Exp for killing Croagunk (Lv. 35) @(None) (Ability: Anticipation) (Nature: Quirky) (Moves: Taunt/Revenge/Sucker Punch/Poison Jab) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
-EV yield: {"atk":1}
 [LEVELUP] Now level 40
-40	21	27	37	55	8	49
-Jirachi (Lv. 40) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 21/27/37/55/8/49
-Current Exp: 80232 (3.77%)
+40	21	25	39	55	8	50
+Jirachi (Lv. 40) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 21/25/39/55/8/50
+Current Exp: 80222 (3.61%)
+[KILL]: Got 422 Exp for killing Stunky (Lv. 36) @(None) (Ability: Aftermath) (Nature: Quirky) (Moves: Venoshock/Toxic/Memento/Night Slash) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"spd":1}
+Jirachi (Lv. 40) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 21/25/39/55/8/51
+Current Exp: 80644 (10.47%)
+[KILL]: Got 384 Exp for killing Croagunk (Lv. 36) @(None) (Ability: Anticipation) (Nature: Hardy) (Moves: Mud-Slap/Revenge/Sucker Punch/Toxic) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"atk":1}
+Jirachi (Lv. 40) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 21/26/39/55/8/51
+Current Exp: 81028 (16.71%)
+[KILL]: Got 361 Exp for killing Croagunk (Lv. 35) @(None) (Ability: Anticipation) (Nature: Quirky) (Moves: Taunt/Revenge/Sucker Punch/Poison Jab) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"atk":1}
+Jirachi (Lv. 40) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 21/27/39/55/8/51
+Current Exp: 81389 (22.58%)
 [KILL]: Got 398 Exp for killing Stunky (Lv. 35) @(None) (Ability: Aftermath) (Nature: Hardy) (Moves: Poison Gas/Smokescreen/Acid Spray/Bite) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
 EV yield: {"spd":1}
-Jirachi (Lv. 40) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 21/27/37/55/8/50
-Current Exp: 80630 (10.24%)
+Jirachi (Lv. 40) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 21/27/39/55/8/52
+Current Exp: 81787 (29.05%)
 [KILL]: Got 373 Exp for killing Glameow (Lv. 35) @(None) (Ability: Own Tempo) (Nature: Docile) (Moves: Growl/Hypnosis/Aerial Ace/Retaliate) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
 EV yield: {"spd":1}
-Jirachi (Lv. 40) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 21/27/37/55/8/51
-Current Exp: 81003 (16.31%)
+Jirachi (Lv. 40) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 21/27/39/55/8/53
+Current Exp: 82160 (35.12%)
 [KILL]: Got 649 Exp for killing Murkrow (Lv. 40) @(None) (Ability: Insomnia) (Nature: Jolly) (Moves: Wing Attack/Night Shade/Assurance/Taunt) IVs: 15/0/15/0/15/0 EVs: 68/0/68/0/68/0
 EV yield: {"spd":1}
-Jirachi (Lv. 40) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 21/27/37/55/8/52
-Current Exp: 81652 (26.86%)
+Jirachi (Lv. 40) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 21/27/39/55/8/54
+Current Exp: 82809 (45.67%)
 [KILL]: Got 1273 Exp for killing Golbat (Lv. 40) @(None) (Ability: Inner Focus) (Nature: Jolly) (Moves: Screech/Poison Fang/Air Cutter/Bite) IVs: 15/0/15/0/15/0 EVs: 68/0/68/0/68/0
 EV yield: {"spd":2}
-Jirachi (Lv. 40) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 21/27/37/55/8/54
-Current Exp: 82925 (47.55%)
+Jirachi (Lv. 40) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 21/27/39/55/8/56
+Current Exp: 84082 (66.36%)
 [KILL]: Got 801 Exp for killing Sneasel (Lv. 43) @Sitrus Berry (Ability: Keen Eye) (Nature: Jolly) (Moves: Metal Claw/Icy Wind/Hone Claws/Beat Up) IVs: 15/0/15/0/15/0 EVs: 68/0/68/0/68/0
 EV yield: {"spd":1}
-Jirachi (Lv. 40) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 21/27/37/55/8/55
-Current Exp: 83726 (60.58%)
+Jirachi (Lv. 40) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 21/27/39/55/8/57
+Current Exp: 84883 (79.39%)
 [KILL]: Got 1005 Exp for killing Kadabra (Lv. 38) @Damp Rock (Ability: Inner Focus) (Nature: Timid) (Moves: Kinesis/Reflect/Psychic/Rain Dance) IVs: 15/0/15/0/15/0 EVs: 68/0/68/0/68/0
 EV yield: {"spAtk":2}
-Jirachi (Lv. 40) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 21/27/37/57/8/55
-Current Exp: 84731 (76.91%)
+Jirachi (Lv. 40) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 21/27/39/57/8/57
+Current Exp: 85888 (95.72%)
 [KILL]: Got 431 Exp for killing Bronzor (Lv. 38) @(None) (Ability: Levitate) (Nature: Relaxed) (Moves: Confuse Ray/Payback/Gyro Ball/Extrasensory) IVs: 15/0/15/0/15/0 EVs: 68/0/68/0/68/0
 EV yield: {"def":1}
-Jirachi (Lv. 40) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 21/27/38/57/8/55
-Current Exp: 85162 (83.92%)
-[KILL]: Got 1377 Exp for killing Toxicroak (Lv. 40) @(None) (Ability: Dry Skin) (Nature: Jolly) (Moves: Mud-Slap/Toxic/Thief/Brick Break) IVs: 15/0/15/0/15/0 EVs: 68/0/68/0/68/0
-EV yield: {"atk":2}
 [LEVELUP] Now level 41
-41	21	29	38	57	8	55
-Jirachi (Lv. 41) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 21/29/38/57/8/55
-Current Exp: 86539 (6.01%)
-[KILL]: Got 419 Exp for killing Bronzor (Lv. 38) @(None) (Ability: Levitate) (Nature: Hardy) (Moves: Hypnosis/Safeguard/Extrasensory/Heavy Slam) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+41	21	27	40	57	8	57
+Jirachi (Lv. 41) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 21/27/40/57/8/57
+Current Exp: 86319 (2.60%)
+[KILL]: Got 1339 Exp for killing Toxicroak (Lv. 40) @(None) (Ability: Dry Skin) (Nature: Jolly) (Moves: Mud-Slap/Toxic/Thief/Brick Break) IVs: 15/0/15/0/15/0 EVs: 68/0/68/0/68/0
+EV yield: {"atk":2}
+Jirachi (Lv. 41) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 21/29/40/57/8/57
+Current Exp: 87658 (23.33%)
+[RARE CANDY] Now level 42
+42	21	29	40	57	8	57
+Jirachi (Lv. 42) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 21/29/40/57/8/57
+Current Exp: 92610 (0.00%)
+[RARE CANDY] Now level 43
+43	21	29	40	57	8	57
+Jirachi (Lv. 43) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 21/29/40/57/8/57
+Current Exp: 99383 (0.00%)
+[KILL]: Got 396 Exp for killing Bronzor (Lv. 38) @(None) (Ability: Levitate) (Nature: Hardy) (Moves: Hypnosis/Safeguard/Extrasensory/Heavy Slam) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
 EV yield: {"def":1}
-Jirachi (Lv. 41) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 21/29/39/57/8/55
-Current Exp: 86958 (12.49%)
-[KILL]: Got 385 Exp for killing Glameow (Lv. 36) @(None) (Ability: Own Tempo) (Nature: Docile) (Moves: Aerial Ace/Charm/Taunt/Slash) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+Jirachi (Lv. 43) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 21/29/41/57/8/57
+Current Exp: 99779 (5.58%)
+[KILL]: Got 364 Exp for killing Glameow (Lv. 36) @(None) (Ability: Own Tempo) (Nature: Docile) (Moves: Aerial Ace/Charm/Taunt/Slash) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
 EV yield: {"spd":1}
-Jirachi (Lv. 41) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 21/29/39/57/8/56
-Current Exp: 87343 (18.45%)
-[KILL]: Got 396 Exp for killing Bronzor (Lv. 37) @(None) (Ability: Heatproof) (Nature: Serious) (Moves: Confuse Ray/Payback/Extrasensory/Iron Defense) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+Jirachi (Lv. 43) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 21/29/41/57/8/58
+Current Exp: 100143 (10.71%)
+[KILL]: Got 374 Exp for killing Bronzor (Lv. 37) @(None) (Ability: Heatproof) (Nature: Serious) (Moves: Confuse Ray/Payback/Extrasensory/Iron Defense) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
 EV yield: {"def":1}
-Jirachi (Lv. 41) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 21/29/40/57/8/56
-Current Exp: 87739 (24.59%)
-[KILL]: Got 1047 Exp for killing Golbat (Lv. 37) @(None) (Ability: Inner Focus) (Nature: Bashful) (Moves: Screech/Astonish/Poison Fang/Bite) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+Jirachi (Lv. 43) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 21/29/42/57/8/58
+Current Exp: 100517 (15.98%)
+[KILL]: Got 990 Exp for killing Golbat (Lv. 37) @(None) (Ability: Inner Focus) (Nature: Bashful) (Moves: Screech/Astonish/Poison Fang/Bite) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
 EV yield: {"spd":2}
-Jirachi (Lv. 41) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 21/29/40/57/8/58
-Current Exp: 88786 (40.80%)
-[KILL]: Got 1047 Exp for killing Golbat (Lv. 37) @(None) (Ability: Inner Focus) (Nature: Serious) (Moves: Screech/Astonish/Poison Fang/Bite) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+Jirachi (Lv. 43) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 21/29/42/57/8/60
+Current Exp: 101507 (29.93%)
+[KILL]: Got 990 Exp for killing Golbat (Lv. 37) @(None) (Ability: Inner Focus) (Nature: Serious) (Moves: Screech/Astonish/Poison Fang/Bite) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
 EV yield: {"spd":2}
-Jirachi (Lv. 41) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 21/29/40/57/8/60
-Current Exp: 89833 (57.01%)
-[KILL]: Got 408 Exp for killing Glameow (Lv. 37) @(None) (Ability: Own Tempo) (Nature: Bashful) (Moves: Fake Out/Hypnosis/Aerial Ace/Retaliate) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+Jirachi (Lv. 43) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 21/29/42/57/8/62
+Current Exp: 102497 (43.88%)
+[KILL]: Got 386 Exp for killing Glameow (Lv. 37) @(None) (Ability: Own Tempo) (Nature: Bashful) (Moves: Fake Out/Hypnosis/Aerial Ace/Retaliate) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
 EV yield: {"spd":1}
-Jirachi (Lv. 41) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 21/29/40/57/8/61
-Current Exp: 90241 (63.32%)
-[KILL]: Got 396 Exp for killing Bronzor (Lv. 37) @(None) (Ability: Levitate) (Nature: Quirky) (Moves: Confuse Ray/Extrasensory/Heavy Slam/Iron Defense) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+Jirachi (Lv. 43) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 21/29/42/57/8/63
+Current Exp: 102883 (49.32%)
+[KILL]: Got 374 Exp for killing Bronzor (Lv. 37) @(None) (Ability: Levitate) (Nature: Quirky) (Moves: Confuse Ray/Extrasensory/Heavy Slam/Iron Defense) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
 EV yield: {"def":1}
-Jirachi (Lv. 41) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 21/29/41/57/8/61
-Current Exp: 90637 (69.45%)
-[KILL]: Got 1346 Exp for killing Dustox (Lv. 38) @(None) (Ability: Shield Dust) (Nature: Quirky) (Moves: Light Screen/Toxic/Bug Buzz/Protect) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+Jirachi (Lv. 43) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 21/29/43/57/8/63
+Current Exp: 103257 (54.59%)
+[KILL]: Got 1273 Exp for killing Dustox (Lv. 38) @(None) (Ability: Shield Dust) (Nature: Quirky) (Moves: Light Screen/Toxic/Bug Buzz/Protect) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
 EV yield: {"spDef":3}
-Jirachi (Lv. 41) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 21/29/41/57/11/61
-Current Exp: 91983 (90.29%)
-[KILL]: Got 419 Exp for killing Croagunk (Lv. 38) @(None) (Ability: Anticipation) (Nature: Hardy) (Moves: Revenge/Venoshock/Sucker Punch/Toxic) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+Jirachi (Lv. 43) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 21/29/43/57/11/63
+Current Exp: 104530 (72.52%)
+[KILL]: Got 396 Exp for killing Croagunk (Lv. 38) @(None) (Ability: Anticipation) (Nature: Hardy) (Moves: Revenge/Venoshock/Sucker Punch/Toxic) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
 EV yield: {"atk":1}
-Jirachi (Lv. 41) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 21/30/41/57/11/61
-Current Exp: 92402 (96.78%)
-[KILL]: Got 460 Exp for killing Stunky (Lv. 38) @(None) (Ability: Aftermath) (Nature: Hardy) (Moves: Venoshock/Toxic/Memento/Night Slash) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+Jirachi (Lv. 43) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 21/30/43/57/11/63
+Current Exp: 104926 (78.10%)
+[KILL]: Got 435 Exp for killing Stunky (Lv. 38) @(None) (Ability: Aftermath) (Nature: Hardy) (Moves: Venoshock/Toxic/Memento/Night Slash) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
 EV yield: {"spd":1}
-[LEVELUP] Now level 42
-42	21	30	41	57	11	62
-Jirachi (Lv. 42) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 21/30/41/57/11/62
-Current Exp: 92862 (3.72%)
-[KILL]: Got 421 Exp for killing Glameow (Lv. 38) @(None) (Ability: Own Tempo) (Nature: Docile) (Moves: Aerial Ace/Charm/Taunt/Retaliate) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+Jirachi (Lv. 43) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 21/30/43/57/11/64
+Current Exp: 105361 (84.23%)
+[KILL]: Got 409 Exp for killing Glameow (Lv. 38) @(None) (Ability: Own Tempo) (Nature: Docile) (Moves: Aerial Ace/Charm/Taunt/Retaliate) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
 EV yield: {"spd":1}
-Jirachi (Lv. 42) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 21/30/41/57/11/63
-Current Exp: 93283 (9.94%)
-[KILL]: Got 479 Exp for killing Bronzor (Lv. 41) @(None) (Ability: Levitate) (Nature: Sassy) (Moves: Confuse Ray/Payback/Gyro Ball/Reflect) IVs: 15/0/15/0/15/0 EVs: 68/0/68/0/68/0
+Jirachi (Lv. 43) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 21/30/43/57/11/65
+Current Exp: 105770 (90.00%)
+[KILL]: Got 467 Exp for killing Bronzor (Lv. 41) @(None) (Ability: Levitate) (Nature: Sassy) (Moves: Confuse Ray/Payback/Gyro Ball/Reflect) IVs: 15/0/15/0/15/0 EVs: 68/0/68/0/68/0
 EV yield: {"def":1}
-Jirachi (Lv. 42) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 21/30/42/57/11/63
-Current Exp: 93762 (17.01%)
-[KILL]: Got 1336 Exp for killing Golbat (Lv. 42) @(None) (Ability: Inner Focus) (Nature: Jolly) (Moves: Poison Fang/Bite/Haze/U-turn) IVs: 15/0/15/0/15/0 EVs: 68/0/68/0/68/0
+Jirachi (Lv. 43) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 21/30/44/57/11/65
+Current Exp: 106237 (96.58%)
+[KILL]: Got 1496 Exp for killing Purugly (Lv. 45) @Sitrus Berry (Ability: Thick Fat) (Nature: Jolly) (Moves: Aerial Ace/Body Slam/Dig/U-turn) IVs: 15/0/15/0/15/0 EVs: 68/0/68/0/68/0
 EV yield: {"spd":2}
-Jirachi (Lv. 42) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 21/30/42/57/11/65
-Current Exp: 95098 (36.73%)
-[KILL]: Got 1535 Exp for killing Purugly (Lv. 45) @Sitrus Berry (Ability: Thick Fat) (Nature: Jolly) (Moves: Aerial Ace/Body Slam/Dig/U-turn) IVs: 15/0/15/0/15/0 EVs: 68/0/68/0/68/0
-EV yield: {"spd":2}
-Jirachi (Lv. 42) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 21/30/42/57/11/67
-Current Exp: 96633 (59.40%)
-[KILL]: Got 479 Exp for killing Bronzor (Lv. 41) @(None) (Ability: Levitate) (Nature: Relaxed) (Moves: Confuse Ray/Payback/Extrasensory/Light Screen) IVs: 15/0/15/0/15/0 EVs: 68/0/68/0/68/0
-EV yield: {"def":1}
-Jirachi (Lv. 42) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 21/30/43/57/11/67
-Current Exp: 97112 (66.47%)
-[KILL]: Got 1269 Exp for killing Golbat (Lv. 41) @(None) (Ability: Inner Focus) (Nature: Modest) (Moves: Air Cutter/Haze/Giga Drain/Sludge Bomb) IVs: 15/0/15/0/15/0 EVs: 68/0/68/0/68/0
-EV yield: {"spd":2}
-Jirachi (Lv. 42) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 21/30/43/57/11/69
-Current Exp: 98381 (85.21%)
-[KILL]: Got 1708 Exp for killing Skuntank (Lv. 46) @Sitrus Berry (Ability: Aftermath) (Nature: Modest) (Moves: Flamethrower/Poison Gas/Belch/Snarl) IVs: 15/0/15/0/15/0 EVs: 68/0/68/0/68/0
-EV yield: {"hp":2}
-[LEVELUP] Now level 43
-43	23	30	43	57	11	69
-Jirachi (Lv. 43) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 23/30/43/57/11/69
-Current Exp: 100089 (9.95%)
-[KILL]: Got 1676 Exp for killing Honchkrow (Lv. 45) @Scope Lens (Ability: Super Luck) (Nature: Jolly) (Moves: Air Cutter/Night Slash/Steel Wing/Defog) IVs: 15/0/15/0/15/0 EVs: 68/0/68/0/68/0
-EV yield: {"atk":2}
-Jirachi (Lv. 43) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 23/32/43/57/11/69
-Current Exp: 101765 (33.56%)
-[KILL]: Got 2657 Exp for killing Crobat (Lv. 46) @Quick Claw (Ability: Infiltrator) (Nature: Jolly) (Moves: Cross Poison/Tailwind/Air Cutter/U-turn) IVs: 15/0/15/0/15/0 EVs: 68/0/68/0/68/0
-EV yield: {"spd":3}
-Jirachi (Lv. 43) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 23/32/43/57/11/72
-Current Exp: 104422 (71.00%)
-[KILL]: Got 1790 Exp for killing Gyarados (Lv. 45) @Wacan Berry (Ability: Intimidate) (Nature: Jolly) (Moves: Ice Fang/Waterfall/Crunch/Earthquake) IVs: 15/0/15/0/15/0 EVs: 68/0/68/0/68/0
-EV yield: {"atk":2}
-Jirachi (Lv. 43) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 23/34/43/57/11/72
-Current Exp: 106212 (96.22%)
-[KILL]: Got 1939 Exp for killing Weavile (Lv. 48) @Chople Berry (Ability: Pickpocket) (Nature: Jolly) (Moves: Metal Claw/Fling/Dig/Aerial Ace) IVs: 15/0/15/0/15/0 EVs: 68/0/68/0/68/0
-EV yield: {"atk":1,"spd":1}
 [LEVELUP] Now level 44
-44	23	35	43	57	11	73
-Jirachi (Lv. 44) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 23/35/43/57/11/73
-Current Exp: 108151 (22.50%)
-[CATCH]: Got 3439 Exp for catching Lv. 47 Dialga
-EV yield: {"spAtk":3}
-Jirachi (Lv. 44) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 23/35/43/60/11/73
-Current Exp: 111590 (68.81%)
-[KILL]: Got 243 Exp for killing Feebas (Lv. 37) @(None) (Ability: Oblivious) (Nature: Sassy) (Moves: Splash/Tackle/Flail/Bug Buzz/(No Move)) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
-EV yield: {"spd":1}
-Jirachi (Lv. 44) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 23/35/43/60/11/74
-Current Exp: 111833 (72.08%)
-[KILL]: Got 1019 Exp for killing Machoke (Lv. 40) @(None) (Ability: No Guard) (Nature: Relaxed) (Moves: Leer/Low Sweep/Knock Off/Dual Chop) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
-EV yield: {"atk":2}
-Jirachi (Lv. 44) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 23/37/43/60/11/74
-Current Exp: 112852 (85.81%)
-[KILL]: Got 1391 Exp for killing Gastrodon (Lv. 43) @(None) (Ability: Storm Drain) (Nature: Sassy) (Moves: Recover/Water Pulse/Ancient Power/Earth Power) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+44	21	30	44	57	11	67
+Jirachi (Lv. 44) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 21/30/44/57/11/67
+Current Exp: 107733 (16.87%)
+[KILL]: Got 1267 Exp for killing Golbat (Lv. 42) @(None) (Ability: Inner Focus) (Nature: Jolly) (Moves: Poison Fang/Bite/Haze/U-turn) IVs: 15/0/15/0/15/0 EVs: 68/0/68/0/68/0
+EV yield: {"spd":2}
+Jirachi (Lv. 44) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 21/30/44/57/11/69
+Current Exp: 109000 (33.93%)
+[KILL]: Got 455 Exp for killing Bronzor (Lv. 41) @(None) (Ability: Levitate) (Nature: Relaxed) (Moves: Confuse Ray/Payback/Extrasensory/Light Screen) IVs: 15/0/15/0/15/0 EVs: 68/0/68/0/68/0
+EV yield: {"def":1}
+Jirachi (Lv. 44) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 21/30/45/57/11/69
+Current Exp: 109455 (40.06%)
+[KILL]: Got 1203 Exp for killing Golbat (Lv. 41) @(None) (Ability: Inner Focus) (Nature: Modest) (Moves: Air Cutter/Haze/Giga Drain/Sludge Bomb) IVs: 15/0/15/0/15/0 EVs: 68/0/68/0/68/0
+EV yield: {"spd":2}
+Jirachi (Lv. 44) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 21/30/45/57/11/71
+Current Exp: 110658 (56.26%)
+[KILL]: Got 1624 Exp for killing Skuntank (Lv. 46) @Sitrus Berry (Ability: Aftermath) (Nature: Modest) (Moves: Flamethrower/Poison Gas/Belch/Snarl) IVs: 15/0/15/0/15/0 EVs: 68/0/68/0/68/0
 EV yield: {"hp":2}
+Jirachi (Lv. 44) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 23/30/45/57/11/71
+Current Exp: 112282 (78.13%)
+[KILL]: Got 1634 Exp for killing Honchkrow (Lv. 45) @Scope Lens (Ability: Super Luck) (Nature: Jolly) (Moves: Air Cutter/Night Slash/Steel Wing/Defog) IVs: 15/0/15/0/15/0 EVs: 68/0/68/0/68/0
+EV yield: {"atk":2}
 [LEVELUP] Now level 45
-45	25	37	43	60	11	74
-Jirachi (Lv. 45) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 25/37/43/60/11/74
-Current Exp: 114243 (4.34%)
-[KILL]: Got 1218 Exp for killing Pachirisu (Lv. 44) @(None) (Ability: Pickup) (Nature: Jolly) (Moves: Charm/Spark/Nuzzle/Dig) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
-EV yield: {"spd":1}
-Jirachi (Lv. 45) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 25/37/43/60/11/75
-Current Exp: 115461 (20.03%)
-[KILL]: Got 1089 Exp for killing Luxio (Lv. 44) @(None) (Ability: Intimidate) (Nature: Jolly) (Moves: Leer/Bite/Spark/Iron Tail) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
-EV yield: {"atk":2}
-Jirachi (Lv. 45) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 25/39/43/60/11/75
-Current Exp: 116550 (34.05%)
-[KILL]: Got 1381 Exp for killing Mr. Mime (Lv. 44) @(None) (Ability: Filter) (Nature: Timid) (Moves: Reflect/Dazzling Gleam/Thunderbolt/Energy Ball) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
-EV yield: {"spDef":2}
-Jirachi (Lv. 45) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 25/39/43/60/13/75
-Current Exp: 117931 (51.84%)
-[KILL]: Got 1202 Exp for killing Kadabra (Lv. 44) @(None) (Ability: Inner Focus) (Nature: Timid) (Moves: Reflect/Psychic/Shock Wave/Energy Ball) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
-EV yield: {"spAtk":2}
-Jirachi (Lv. 45) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 25/39/43/62/13/75
-Current Exp: 119133 (67.32%)
-[KILL]: Got 1870 Exp for killing Raichu (Lv. 44) @(None) (Ability: Static) (Nature: Jolly) (Moves: Thunder Punch/Thunderbolt/Light Screen/Quick Attack) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+45	23	32	45	57	11	71
+Jirachi (Lv. 45) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 23/32/45/57/11/71
+Current Exp: 113916 (0.13%)
+[KILL]: Got 2527 Exp for killing Crobat (Lv. 46) @Quick Claw (Ability: Infiltrator) (Nature: Jolly) (Moves: Cross Poison/Tailwind/Air Cutter/U-turn) IVs: 15/0/15/0/15/0 EVs: 68/0/68/0/68/0
 EV yield: {"spd":3}
-Jirachi (Lv. 45) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 25/39/43/62/13/78
-Current Exp: 121003 (91.41%)
-[KILL]: Got 986 Exp for killing Luxio (Lv. 42) @(None) (Ability: Intimidate) (Nature: Jolly) (Moves: Bite/Volt Switch/Thunder Wave/Iron Tail) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+Jirachi (Lv. 45) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 23/32/45/57/11/74
+Current Exp: 116443 (32.68%)
+[KILL]: Got 1702 Exp for killing Gyarados (Lv. 45) @Wacan Berry (Ability: Intimidate) (Nature: Jolly) (Moves: Ice Fang/Waterfall/Crunch/Earthquake) IVs: 15/0/15/0/15/0 EVs: 68/0/68/0/68/0
 EV yield: {"atk":2}
-[LEVELUP] Now level 46
-46	25	41	43	62	13	78
-Jirachi (Lv. 46) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 25/41/43/62/13/78
-Current Exp: 121989 (3.93%)
-[KILL]: Got 1090 Exp for killing Bibarel (Lv. 42) @(None) (Ability: Simple) (Nature: Jolly) (Moves: Yawn/Thunderbolt/Bulldoze/Waterfall) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
-EV yield: {"atk":2}
-Jirachi (Lv. 46) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 25/43/43/62/13/78
-Current Exp: 123079 (17.38%)
-[KILL]: Got 1498 Exp for killing Steelix (Lv. 44) @(None) (Ability: Sturdy) (Nature: Relaxed) (Moves: Thunder Fang/Screech/Iron Tail/Bulldoze) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
-EV yield: {"def":2}
-Jirachi (Lv. 46) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 25/43/45/62/13/78
-Current Exp: 124577 (35.85%)
-[KILL]: Got 1205 Exp for killing Medicham (Lv. 44) @(None) (Ability: Pure Power) (Nature: Jolly) (Moves: Zen Headbutt/Thunder Punch/Reversal/Rock Tomb) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
-EV yield: {"spd":2}
-Jirachi (Lv. 46) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 25/43/45/62/13/80
-Current Exp: 125782 (50.72%)
-[KILL]: Got 2006 Exp for killing Raichu (Lv. 46) @Shuca Berry (Ability: Static) (Nature: Timid) (Moves: Nuzzle/Volt Switch/Surf/Charge Beam) IVs: 11/0/11/28/11/28 EVs: 12/0/12/160/12/160
-EV yield: {"spd":3}
-Jirachi (Lv. 46) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 25/43/45/62/13/83
-Current Exp: 127788 (75.46%)
-[KILL]: Got 1627 Exp for killing Ambipom (Lv. 47) @Chople Berry (Ability: Technician) (Nature: Naive) (Moves: Fake Out/Thunderbolt/Double Hit/Last Resort) IVs: 11/20/11/20/11/28 EVs: 12/80/12/80/12/160
-EV yield: {"spd":2}
-Jirachi (Lv. 46) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 25/43/45/62/13/85
-Current Exp: 129415 (95.52%)
-[KILL]: Got 1618 Exp for killing Octillery (Lv. 47) @Expert Belt (Ability: Sniper) (Nature: Modest) (Moves: Octazooka/Focus Energy/Aurora Beam/Charge Beam) IVs: 11/0/11/28/11/28 EVs: 12/0/12/160/12/160
-EV yield: {"atk":1,"spAtk":1}
-[LEVELUP] Now level 47
-47	25	44	45	63	13	85
-Jirachi (Lv. 47) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 25/44/45/63/13/85
-Current Exp: 131033 (14.83%)
-[KILL]: Got 2690 Exp for killing Luxray (Lv. 49) @Sitrus Berry (Ability: Intimidate) (Nature: Jolly) (Moves: Thunder Fang/Ice Fang/Crunch/Iron Tail) IVs: 15/28/15/0/0/30 EVs: 28/160/28/0/0/200
-EV yield: {"atk":3}
-Jirachi (Lv. 47) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 25/47/45/63/13/85
-Current Exp: 133723 (46.62%)
-[KILL]: Got 409 Exp for killing Mantyke (Lv. 38) @(None) (Ability: Water Absorb) (Nature: Sassy) (Moves: Supersonic/Bubble Beam/Air Slash/Aqua Ring) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
-EV yield: {"spDef":1}
-Jirachi (Lv. 47) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 25/47/45/63/14/85
-Current Exp: 134132 (51.45%)
-[KILL]: Got 399 Exp for killing Remoraid (Lv. 40) @(None) (Ability: Hustle) (Nature: Hardy) (Moves: Lock-On/Bullet Seed/Ice Beam/Hydro Pump) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
-EV yield: {"spAtk":1}
-Jirachi (Lv. 47) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 25/47/45/64/14/85
-Current Exp: 134531 (56.17%)
-[KILL]: Got 1255 Exp for killing Mantine (Lv. 42) @(None) (Ability: Water Absorb) (Nature: Sassy) (Moves: Bullet Seed/Bubble Beam/Aqua Ring/Bounce) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
-EV yield: {"spDef":2}
-Jirachi (Lv. 47) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 25/47/45/64/16/85
-Current Exp: 135786 (71.00%)
-[KILL]: Got 1572 Exp for killing Golduck (Lv. 46) @(None) (Ability: Cloud Nine) (Nature: Calm) (Moves: Zen Headbutt/Aqua Jet/Tail Whip/Aqua Tail) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
-EV yield: {"spAtk":2}
-Jirachi (Lv. 47) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 25/47/45/66/16/85
-Current Exp: 137358 (89.58%)
-[KILL]: Got 6243 Exp for killing Blissey (Lv. 48) @(None) (Ability: Serene Grace) (Nature: Calm) (Moves: Disarming Voice/Double-Edge/Soft-Boiled/Last Resort) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
-EV yield: {"hp":3}
-[LEVELUP] Now level 48
-48	28	47	45	66	16	85
-Jirachi (Lv. 48) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 28/47/45/66/16/85
-Current Exp: 143601 (60.78%)
-[KILL]: Got 1463 Exp for killing Rapidash (Lv. 45) @(None) (Ability: Run Away) (Nature: Sassy) (Moves: Smart Strike/Poison Jab/Tail Whip/Flame Wheel) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
-EV yield: {"spd":2}
-Jirachi (Lv. 48) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 28/47/45/66/16/87
-Current Exp: 145064 (77.36%)
-[KILL]: Got 1330 Exp for killing Carnivine (Lv. 45) @(None) (Ability: Levitate) (Nature: Hardy) (Moves: Bind/Growth/Leaf Tornado/Crunch) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
-EV yield: {"atk":2}
-Jirachi (Lv. 48) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 28/49/45/66/16/87
-Current Exp: 146394 (92.44%)
-[KILL]: Got 1661 Exp for killing Rampardos (Lv. 48) @(None) (Ability: Mold Breaker) (Nature: Relaxed) (Moves: Headbutt/Zen Headbutt/Assurance/Swords Dance) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
-EV yield: {"atk":2}
-[LEVELUP] Now level 49
-49	28	51	45	66	16	87
-Jirachi (Lv. 49) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 28/51/45/66/16/87
-Current Exp: 148055 (10.82%)
-[KILL]: Got 2071 Exp for killing Clefable (Lv. 46) @(None) (Ability: Cute Charm) (Nature: Calm) (Moves: Moonlight/Meteor Mash/Cosmic Power/Moonblast) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
-EV yield: {"hp":3}
-Jirachi (Lv. 49) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 31/51/45/66/16/87
-Current Exp: 150126 (33.36%)
-[KILL]: Got 2466 Exp for killing Torterra (Lv. 48) @(None) (Ability: Overgrow) (Nature: Impish) (Moves: Earthquake/Wood Hammer/Crunch/Synthesis) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
-EV yield: {"atk":2,"def":1}
-Jirachi (Lv. 49) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 31/53/46/66/16/87
-Current Exp: 152592 (60.19%)
-[KILL]: Got 2178 Exp for killing Staraptor (Lv. 47) @(None) (Ability: Intimidate) (Nature: Relaxed) (Moves: Quick Attack/Endeavor/Aerial Ace/Take Down) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
-EV yield: {"atk":3}
-Jirachi (Lv. 49) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 31/56/46/66/16/87
-Current Exp: 154770 (83.89%)
-[KILL]: Got 1649 Exp for killing Hippowdon (Lv. 47) @(None) (Ability: Sand Stream) (Nature: Relaxed) (Moves: Earthquake/Crunch/Ice Fang/Yawn) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
-EV yield: {"def":2}
-[LEVELUP] Now level 50
-50	31	56	48	66	16	87
-Jirachi (Lv. 50) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 31/56/48/66/16/87
-Current Exp: 156419 (1.77%)
-[KILL]: Got 2423 Exp for killing Machamp (Lv. 49) @(None) (Ability: No Guard) (Nature: Relaxed) (Moves: Low Sweep/Knock Off/Dual Chop/Bulk Up) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
-EV yield: {"atk":3}
-Jirachi (Lv. 50) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 31/59/48/66/16/87
-Current Exp: 158842 (27.10%)
-[KILL]: Got 432 Exp for killing Chingling (Lv. 44) @(None) (Ability: Levitate) (Nature: Bashful) (Moves: Wrap/Astonish/Confusion/Yawn) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
-EV yield: {"spAtk":1}
-Jirachi (Lv. 50) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 31/59/48/67/16/87
-Current Exp: 159274 (31.62%)
-[KILL]: Got 1457 Exp for killing Chimecho (Lv. 48) @(None) (Ability: Levitate) (Nature: Calm) (Moves: Wrap/Yawn/Extrasensory/Heal Pulse) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
-EV yield: {"spAtk":1,"spDef":1}
-Jirachi (Lv. 50) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 31/59/48/68/17/87
-Current Exp: 160731 (46.86%)
-[KILL]: Got 1379 Exp for killing Gabite (Lv. 49) @(None) (Ability: Sand Veil) (Nature: Relaxed) (Moves: Sand Tomb/Sand Attack/Bite/Dragon Claw) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
-EV yield: {"atk":2}
-Jirachi (Lv. 50) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 31/61/48/68/17/87
-Current Exp: 162110 (61.28%)
-[KILL]: Got 1434 Exp for killing Tentacruel (Lv. 45) @(None) (Ability: Clear Body) (Nature: Sassy) (Moves: Reflect Type/Bubble Beam/Acid Armor/Poison Jab) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
-EV yield: {"spDef":2}
-Jirachi (Lv. 50) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 31/61/48/68/19/87
-Current Exp: 163544 (76.27%)
-[KILL]: Got 1976 Exp for killing Golem (Lv. 45) @(None) (Ability: Sturdy) (Nature: Relaxed) (Moves: Earthquake/Sandstorm/Smack Down/Heavy Slam) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
-EV yield: {"def":3}
-Jirachi (Lv. 50) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 31/61/51/68/19/87
-Current Exp: 165520 (96.94%)
-[KILL]: Got 2428 Exp for killing Empoleon (Lv. 48) @(None) (Ability: Torrent) (Nature: Sassy) (Moves: Brine/Aqua Jet/Metal Claw/Swords Dance) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+Jirachi (Lv. 45) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 23/34/45/57/11/74
+Current Exp: 118145 (54.60%)
+[KILL]: Got 1846 Exp for killing Weavile (Lv. 48) @Chople Berry (Ability: Pickpocket) (Nature: Jolly) (Moves: Metal Claw/Fling/Dig/Aerial Ace) IVs: 15/0/15/0/15/0 EVs: 68/0/68/0/68/0
+EV yield: {"atk":1,"spd":1}
+Jirachi (Lv. 45) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 23/35/45/57/11/75
+Current Exp: 119991 (78.37%)
+[CATCH]: Got 3355 Exp for catching Lv. 47 Dialga
 EV yield: {"spAtk":3}
-[LEVELUP] Now level 51
-51	31	61	51	71	19	87
-Jirachi (Lv. 51) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 31/61/51/71/19/87
-Current Exp: 167948 (21.46%)
-[KILL]: Got 490 Exp for killing Gible (Lv. 46) @(None) (Ability: Sand Veil) (Nature: Hardy) (Moves: Sand Tomb/Sand Attack/Bulldoze/Dragon Claw) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
-EV yield: {"atk":1}
-Jirachi (Lv. 51) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 31/62/51/71/19/87
-Current Exp: 168438 (26.39%)
-[KILL]: Got 1769 Exp for killing Gyarados (Lv. 49) @(None) (Ability: Intimidate) (Nature: Sassy) (Moves: Ice Fang/Waterfall/Crunch/Dragon Dance) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+[LEVELUP] Now level 46
+46	23	35	45	60	11	75
+Jirachi (Lv. 46) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 23/35/45/60/11/75
+Current Exp: 123346 (20.67%)
+[KILL]: Got 230 Exp for killing Feebas (Lv. 37) @(None) (Ability: Oblivious) (Nature: Sassy) (Moves: Splash/Tackle/Flail/Bug Buzz/(No Move)) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"spd":1}
+Jirachi (Lv. 46) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 23/35/45/60/11/76
+Current Exp: 123576 (23.51%)
+[KILL]: Got 967 Exp for killing Machoke (Lv. 40) @(None) (Ability: No Guard) (Nature: Relaxed) (Moves: Leer/Low Sweep/Knock Off/Dual Chop) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
 EV yield: {"atk":2}
-Jirachi (Lv. 51) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 31/64/51/71/19/87
-Current Exp: 170207 (44.17%)
-[KILL]: Got 490 Exp for killing Gible (Lv. 46) @(None) (Ability: Sand Veil) (Nature: Hardy) (Moves: Bite/Slash/Dragon Claw/Dig) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
-EV yield: {"atk":1}
-Jirachi (Lv. 51) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 31/65/51/71/19/87
-Current Exp: 170697 (49.10%)
-[KILL]: Got 3149 Exp for killing Torterra (Lv. 55) @Leftovers (Ability: Overgrow) (Nature: Careful) (Moves: Earthquake/Wood Hammer/Roar/Stealth Rock) IVs: 11/11/11/11/11/11 EVs: 164/92/52/52/124/0
-EV yield: {"atk":2,"def":1}
-Jirachi (Lv. 51) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 31/67/52/71/19/87
-Current Exp: 173846 (80.76%)
-[KILL]: Got 2009 Exp for killing Snorlax (Lv. 52) @(None) (Ability: Thick Fat) (Nature: Adamant) (Moves: Covet/Yawn/Crunch/High Horsepower) IVs: 9/9/9/9/9/9 EVs: 96/120/96/0/88/0
+Jirachi (Lv. 46) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 23/37/45/60/11/76
+Current Exp: 124543 (35.43%)
+[KILL]: Got 1322 Exp for killing Gastrodon (Lv. 43) @(None) (Ability: Storm Drain) (Nature: Sassy) (Moves: Recover/Water Pulse/Ancient Power/Earth Power) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
 EV yield: {"hp":2}
+Jirachi (Lv. 46) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 25/37/45/60/11/76
+Current Exp: 125865 (51.74%)
+[KILL]: Got 1188 Exp for killing Pachirisu (Lv. 44) @(None) (Ability: Pickup) (Nature: Jolly) (Moves: Charm/Spark/Nuzzle/Dig) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"spd":1}
+Jirachi (Lv. 46) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 25/37/45/60/11/77
+Current Exp: 127053 (66.39%)
+[KILL]: Got 1062 Exp for killing Luxio (Lv. 44) @(None) (Ability: Intimidate) (Nature: Jolly) (Moves: Leer/Bite/Spark/Iron Tail) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"atk":2}
+Jirachi (Lv. 46) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 25/39/45/60/11/77
+Current Exp: 128115 (79.49%)
+[KILL]: Got 1347 Exp for killing Mr. Mime (Lv. 44) @(None) (Ability: Filter) (Nature: Timid) (Moves: Reflect/Dazzling Gleam/Thunderbolt/Energy Ball) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"spDef":2}
+Jirachi (Lv. 46) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 25/39/45/60/13/77
+Current Exp: 129462 (96.10%)
+[KILL]: Got 1172 Exp for killing Kadabra (Lv. 44) @(None) (Ability: Inner Focus) (Nature: Timid) (Moves: Reflect/Psychic/Shock Wave/Energy Ball) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"spAtk":2}
+[LEVELUP] Now level 47
+47	25	39	45	62	13	77
+Jirachi (Lv. 47) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 25/39/45/62/13/77
+Current Exp: 130634 (10.12%)
+[KILL]: Got 1779 Exp for killing Raichu (Lv. 44) @(None) (Ability: Static) (Nature: Jolly) (Moves: Thunder Punch/Thunderbolt/Light Screen/Quick Attack) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"spd":3}
+Jirachi (Lv. 47) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 25/39/45/62/13/80
+Current Exp: 132413 (31.14%)
+[KILL]: Got 937 Exp for killing Luxio (Lv. 42) @(None) (Ability: Intimidate) (Nature: Jolly) (Moves: Bite/Volt Switch/Thunder Wave/Iron Tail) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"atk":2}
+Jirachi (Lv. 47) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 25/41/45/62/13/80
+Current Exp: 133350 (42.21%)
+[KILL]: Got 1063 Exp for killing Bibarel (Lv. 42) @(None) (Ability: Simple) (Nature: Jolly) (Moves: Yawn/Thunderbolt/Bulldoze/Waterfall) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"atk":2}
+Jirachi (Lv. 47) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 25/43/45/62/13/80
+Current Exp: 134413 (54.77%)
+[KILL]: Got 1461 Exp for killing Steelix (Lv. 44) @(None) (Ability: Sturdy) (Nature: Relaxed) (Moves: Thunder Fang/Screech/Iron Tail/Bulldoze) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"def":2}
+Jirachi (Lv. 47) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 25/43/47/62/13/80
+Current Exp: 135874 (72.04%)
+[KILL]: Got 1176 Exp for killing Medicham (Lv. 44) @(None) (Ability: Pure Power) (Nature: Jolly) (Moves: Zen Headbutt/Thunder Punch/Reversal/Rock Tomb) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"spd":2}
+Jirachi (Lv. 47) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 25/43/47/62/13/82
+Current Exp: 137050 (85.94%)
+[KILL]: Got 1957 Exp for killing Raichu (Lv. 46) @Shuca Berry (Ability: Static) (Nature: Timid) (Moves: Nuzzle/Volt Switch/Surf/Charge Beam) IVs: 11/0/11/28/11/28 EVs: 12/0/12/160/12/160
+EV yield: {"spd":3}
+[LEVELUP] Now level 48
+48	25	43	47	62	13	85
+Jirachi (Lv. 48) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 25/43/47/62/13/85
+Current Exp: 139007 (8.70%)
+[KILL]: Got 1551 Exp for killing Ambipom (Lv. 47) @Chople Berry (Ability: Technician) (Nature: Naive) (Moves: Fake Out/Thunderbolt/Double Hit/Last Resort) IVs: 11/20/11/20/11/28 EVs: 12/80/12/80/12/160
+EV yield: {"spd":2}
+Jirachi (Lv. 48) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 25/43/47/62/13/87
+Current Exp: 140558 (26.28%)
+[KILL]: Got 1542 Exp for killing Octillery (Lv. 47) @Expert Belt (Ability: Sniper) (Nature: Modest) (Moves: Octazooka/Focus Energy/Aurora Beam/Charge Beam) IVs: 11/0/11/28/11/28 EVs: 12/0/12/160/12/160
+EV yield: {"atk":1,"spAtk":1}
+Jirachi (Lv. 48) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 25/44/47/63/13/87
+Current Exp: 142100 (43.76%)
+[KILL]: Got 2628 Exp for killing Luxray (Lv. 49) @Sitrus Berry (Ability: Intimidate) (Nature: Jolly) (Moves: Thunder Fang/Ice Fang/Crunch/Iron Tail) IVs: 15/28/15/0/0/30 EVs: 28/160/28/0/0/200
+EV yield: {"atk":3}
+Jirachi (Lv. 48) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 25/47/47/63/13/87
+Current Exp: 144728 (73.55%)
+[KILL]: Got 399 Exp for killing Mantyke (Lv. 38) @(None) (Ability: Water Absorb) (Nature: Sassy) (Moves: Supersonic/Bubble Beam/Air Slash/Aqua Ring) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"spDef":1}
+Jirachi (Lv. 48) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 25/47/47/63/14/87
+Current Exp: 145127 (78.08%)
+[KILL]: Got 388 Exp for killing Remoraid (Lv. 40) @(None) (Ability: Hustle) (Nature: Hardy) (Moves: Lock-On/Bullet Seed/Ice Beam/Hydro Pump) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"spAtk":1}
+Jirachi (Lv. 48) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 25/47/47/64/14/87
+Current Exp: 145515 (82.47%)
+[KILL]: Got 1224 Exp for killing Mantine (Lv. 42) @(None) (Ability: Water Absorb) (Nature: Sassy) (Moves: Bullet Seed/Bubble Beam/Aqua Ring/Bounce) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"spDef":2}
+Jirachi (Lv. 48) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 25/47/47/64/16/87
+Current Exp: 146739 (96.35%)
+[KILL]: Got 1534 Exp for killing Golduck (Lv. 46) @(None) (Ability: Cloud Nine) (Nature: Calm) (Moves: Zen Headbutt/Aqua Jet/Tail Whip/Aqua Tail) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"spAtk":2}
+[LEVELUP] Now level 49
+49	25	47	47	66	16	87
+Jirachi (Lv. 49) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 25/47/47/66/16/87
+Current Exp: 148273 (13.19%)
+[KILL]: Got 5955 Exp for killing Blissey (Lv. 48) @(None) (Ability: Serene Grace) (Nature: Calm) (Moves: Disarming Voice/Double-Edge/Soft-Boiled/Last Resort) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"hp":3}
+Jirachi (Lv. 49) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 28/47/47/66/16/87
+Current Exp: 154228 (78.00%)
+[KILL]: Got 1428 Exp for killing Rapidash (Lv. 45) @(None) (Ability: Run Away) (Nature: Sassy) (Moves: Smart Strike/Poison Jab/Tail Whip/Flame Wheel) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"spd":2}
+Jirachi (Lv. 49) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 28/47/47/66/16/89
+Current Exp: 155656 (93.54%)
+[KILL]: Got 1298 Exp for killing Carnivine (Lv. 45) @(None) (Ability: Levitate) (Nature: Hardy) (Moves: Bind/Growth/Leaf Tornado/Crunch) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"atk":2}
+[LEVELUP] Now level 50
+50	28	49	47	66	16	89
+Jirachi (Lv. 50) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 28/49/47/66/16/89
+Current Exp: 156954 (7.36%)
+[KILL]: Got 1585 Exp for killing Rampardos (Lv. 48) @(None) (Ability: Mold Breaker) (Nature: Relaxed) (Moves: Headbutt/Zen Headbutt/Assurance/Swords Dance) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"atk":2}
+Jirachi (Lv. 50) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 28/51/47/66/16/89
+Current Exp: 158539 (23.94%)
+[KILL]: Got 2022 Exp for killing Clefable (Lv. 46) @(None) (Ability: Cute Charm) (Nature: Calm) (Moves: Moonlight/Meteor Mash/Cosmic Power/Moonblast) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"hp":3}
+Jirachi (Lv. 50) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 31/51/47/66/16/89
+Current Exp: 160561 (45.08%)
+[KILL]: Got 2409 Exp for killing Torterra (Lv. 48) @(None) (Ability: Overgrow) (Nature: Impish) (Moves: Earthquake/Wood Hammer/Crunch/Synthesis) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"atk":2,"def":1}
+Jirachi (Lv. 50) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 31/53/48/66/16/89
+Current Exp: 162970 (70.27%)
+[KILL]: Got 2128 Exp for killing Staraptor (Lv. 47) @(None) (Ability: Intimidate) (Nature: Relaxed) (Moves: Quick Attack/Endeavor/Aerial Ace/Take Down) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"atk":3}
+Jirachi (Lv. 50) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 31/56/48/66/16/89
+Current Exp: 165098 (92.52%)
+[KILL]: Got 1611 Exp for killing Hippowdon (Lv. 47) @(None) (Ability: Sand Stream) (Nature: Relaxed) (Moves: Earthquake/Crunch/Ice Fang/Yawn) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"def":2}
+[LEVELUP] Now level 51
+51	31	56	50	66	16	89
+Jirachi (Lv. 51) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 31/56/50/66/16/89
+Current Exp: 166709 (9.01%)
+[KILL]: Got 2368 Exp for killing Machamp (Lv. 49) @(None) (Ability: No Guard) (Nature: Relaxed) (Moves: Low Sweep/Knock Off/Dual Chop/Bulk Up) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"atk":3}
+Jirachi (Lv. 51) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 31/59/50/66/16/89
+Current Exp: 169077 (32.81%)
+[KILL]: Got 422 Exp for killing Chingling (Lv. 44) @(None) (Ability: Levitate) (Nature: Bashful) (Moves: Wrap/Astonish/Confusion/Yawn) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"spAtk":1}
+Jirachi (Lv. 51) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 31/59/50/67/16/89
+Current Exp: 169499 (37.06%)
+[KILL]: Got 1424 Exp for killing Chimecho (Lv. 48) @(None) (Ability: Levitate) (Nature: Calm) (Moves: Wrap/Yawn/Extrasensory/Heal Pulse) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"spAtk":1,"spDef":1}
+Jirachi (Lv. 51) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 31/59/50/68/17/89
+Current Exp: 170923 (51.37%)
+[KILL]: Got 1348 Exp for killing Gabite (Lv. 49) @(None) (Ability: Sand Veil) (Nature: Relaxed) (Moves: Sand Tomb/Sand Attack/Bite/Dragon Claw) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"atk":2}
+Jirachi (Lv. 51) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 31/61/50/68/17/89
+Current Exp: 172271 (64.92%)
+[KILL]: Got 1401 Exp for killing Tentacruel (Lv. 45) @(None) (Ability: Clear Body) (Nature: Sassy) (Moves: Reflect Type/Bubble Beam/Acid Armor/Poison Jab) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"spDef":2}
+Jirachi (Lv. 51) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 31/61/50/68/19/89
+Current Exp: 173672 (79.01%)
+[KILL]: Got 1930 Exp for killing Golem (Lv. 45) @(None) (Ability: Sturdy) (Nature: Relaxed) (Moves: Earthquake/Sandstorm/Smack Down/Heavy Slam) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"def":3}
+Jirachi (Lv. 51) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 31/61/53/68/19/89
+Current Exp: 175602 (98.41%)
+[KILL]: Got 2373 Exp for killing Empoleon (Lv. 48) @(None) (Ability: Torrent) (Nature: Sassy) (Moves: Brine/Aqua Jet/Metal Claw/Swords Dance) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"spAtk":3}
 [LEVELUP] Now level 52
-52	33	67	52	71	19	87
-Jirachi (Lv. 52) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 33/67/52/71/19/87
-Current Exp: 175855 (0.92%)
+52	31	61	53	71	19	89
+Jirachi (Lv. 52) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 31/61/53/71/19/89
+Current Exp: 177975 (21.43%)
+[KILL]: Got 479 Exp for killing Gible (Lv. 46) @(None) (Ability: Sand Veil) (Nature: Hardy) (Moves: Sand Tomb/Sand Attack/Bulldoze/Dragon Claw) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"atk":1}
+Jirachi (Lv. 52) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 31/62/53/71/19/89
+Current Exp: 178454 (26.06%)
+[KILL]: Got 1730 Exp for killing Gyarados (Lv. 49) @(None) (Ability: Intimidate) (Nature: Sassy) (Moves: Ice Fang/Waterfall/Crunch/Dragon Dance) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"atk":2}
+Jirachi (Lv. 52) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 31/64/53/71/19/89
+Current Exp: 180184 (42.80%)
+[KILL]: Got 479 Exp for killing Gible (Lv. 46) @(None) (Ability: Sand Veil) (Nature: Hardy) (Moves: Bite/Slash/Dragon Claw/Dig) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"atk":1}
+Jirachi (Lv. 52) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 31/65/53/71/19/89
+Current Exp: 180663 (47.44%)
+[KILL]: Got 3083 Exp for killing Torterra (Lv. 55) @Leftovers (Ability: Overgrow) (Nature: Careful) (Moves: Earthquake/Wood Hammer/Roar/Stealth Rock) IVs: 11/11/11/11/11/11 EVs: 164/92/52/52/124/0
+EV yield: {"atk":2,"def":1}
+Jirachi (Lv. 52) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 31/67/54/71/19/89
+Current Exp: 183746 (77.26%)
+[KILL]: Got 1966 Exp for killing Snorlax (Lv. 52) @(None) (Ability: Thick Fat) (Nature: Adamant) (Moves: Covet/Yawn/Crunch/High Horsepower) IVs: 9/9/9/9/9/9 EVs: 96/120/96/0/88/0
+EV yield: {"hp":2}
+Jirachi (Lv. 52) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 33/67/54/71/19/89
+Current Exp: 185712 (96.28%)
 [KILL]: Got 1583 Exp for killing Floatzel (Lv. 49) @Quick Claw (Ability: Swift Swim) (Nature: Jolly) (Moves: Ice Fang/Crunch/Swift/Brine) IVs: 6/6/6/6/6/6 EVs: 40/104/40/0/40/160
 EV yield: {"spd":2}
-Jirachi (Lv. 52) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 33/67/52/71/19/89
-Current Exp: 177438 (16.23%)
-[KILL]: Got 1746 Exp for killing Heracross (Lv. 51) @(None) (Ability: Swarm) (Nature: Jolly) (Moves: Pin Missile/Swords Dance/Rock Slide/Thief) IVs: 9/9/9/9/9/9 EVs: 44/104/44/0/44/156
-EV yield: {"atk":2}
-Jirachi (Lv. 52) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 33/69/52/71/19/89
-Current Exp: 179184 (33.13%)
-[KILL]: Got 1602 Exp for killing Rapidash (Lv. 49) @Expert Belt (Ability: Flash Fire) (Nature: Jolly) (Moves: Smart Strike/Megahorn/Poison Jab/Flame Wheel) IVs: 7/7/7/7/7/7 EVs: 48/116/48/0/48/172
-EV yield: {"spd":2}
-Jirachi (Lv. 52) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 33/69/52/71/19/91
-Current Exp: 180786 (48.63%)
-[KILL]: Got 2224 Exp for killing Staraptor (Lv. 49) @Focus Sash (Ability: Intimidate) (Nature: Jolly) (Moves: Close Combat/Pluck/Sunny Day/U-turn) IVs: 5/5/5/5/5/5 EVs: 56/148/36/0/36/148
-EV yield: {"atk":3}
-Jirachi (Lv. 52) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 33/72/52/71/19/91
-Current Exp: 183010 (70.14%)
-[KILL]: Got 2090 Exp for killing Dustox (Lv. 53) @Black Sludge (Ability: Shield Dust) (Nature: Bold) (Moves: Toxic/Bug Buzz/Moonlight/Light Screen) IVs: 31/0/21/21/21/21 EVs: 252/0/12/12/12/12
-EV yield: {"spDef":3}
-Jirachi (Lv. 52) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 33/72/52/71/22/91
-Current Exp: 185100 (90.36%)
-[KILL]: Got 2144 Exp for killing Beautifly (Lv. 53) @Black Glasses (Ability: Swarm) (Nature: Modest) (Moves: Bug Buzz/Shadow Ball/Psychic/Quiver Dance) IVs: 21/0/21/31/21/31 EVs: 12/0/12/60/12/204
-EV yield: {"spAtk":3}
 [LEVELUP] Now level 53
-53	33	72	52	74	22	91
-Jirachi (Lv. 53) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 33/72/52/74/22/91
-Current Exp: 187244 (10.69%)
-[KILL]: Got 1831 Exp for killing Vespiquen (Lv. 54) @Sitrus Berry (Ability: Unnerve) (Nature: Adamant) (Moves: Acrobatics/Attack Order/Aerial Ace/Defend Order) IVs: 31/31/31/0/31/31 EVs: 252/0/0/0/0/0
-EV yield: {"def":1,"spDef":1}
-Jirachi (Lv. 53) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 33/72/53/74/23/91
-Current Exp: 189075 (27.75%)
-[KILL]: Got 1931 Exp for killing Heracross (Lv. 54) @Flame Orb (Ability: Guts) (Nature: Jolly) (Moves: Earthquake/Rock Slide/Facade/Brick Break) IVs: 21/31/21/0/21/31 EVs: 12/60/12/0/12/204
+53	33	67	54	71	19	91
+Jirachi (Lv. 53) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 33/67/54/71/19/91
+Current Exp: 187295 (11.17%)
+[KILL]: Got 1708 Exp for killing Heracross (Lv. 51) @(None) (Ability: Swarm) (Nature: Jolly) (Moves: Pin Missile/Swords Dance/Rock Slide/Thief) IVs: 9/9/9/9/9/9 EVs: 44/104/44/0/44/156
 EV yield: {"atk":2}
-Jirachi (Lv. 53) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 33/74/53/74/23/91
-Current Exp: 191006 (45.74%)
-[KILL]: Got 2166 Exp for killing Drapion (Lv. 57) @Scope Lens (Ability: Sniper) (Nature: Jolly) (Moves: Cross Poison/Night Slash/Earthquake/X-Scissor) IVs: 31/31/31/0/31/31 EVs: 12/60/0/0/0/204
-EV yield: {"def":2}
-Jirachi (Lv. 53) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 33/74/55/74/23/91
-Current Exp: 193172 (65.92%)
-[KILL]: Got 1733 Exp for killing Quagsire (Lv. 55) @Leftovers (Ability: Water Absorb) (Nature: Impish) (Moves: Recover/Toxic/Earthquake/Surf) IVs: 23/31/31/0/13/31 EVs: 12/0/252/12/12/12
-EV yield: {"hp":2}
-Jirachi (Lv. 53) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 35/74/55/74/23/91
-Current Exp: 194905 (82.07%)
-[KILL]: Got 1716 Exp for killing Sudowoodo (Lv. 56) @Sitrus Berry (Ability: Rock Head) (Nature: Adamant) (Moves: Double-Edge/Head Smash/Sucker Punch/Low Kick) IVs: 21/31/31/0/11/31 EVs: 0/252/12/0/12/12
-EV yield: {"def":2}
-Jirachi (Lv. 53) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 35/74/57/74/23/91
-Current Exp: 196621 (98.05%)
-[KILL]: Got 2956 Exp for killing Golem (Lv. 56) @Soft Sand (Ability: Sturdy) (Nature: Jolly) (Moves: Rock Polish/Heavy Slam/Earthquake/Stone Edge) IVs: 21/31/31/0/21/31 EVs: 12/60/12/0/12/204
-EV yield: {"def":3}
-[LEVELUP] Now level 54
-54	35	74	60	74	23	91
-Jirachi (Lv. 54) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 35/74/60/74/23/91
-Current Exp: 199577 (24.66%)
-[KILL]: Got 1843 Exp for killing Whiscash (Lv. 55) @Rindo Berry (Ability: Hydration) (Nature: Modest) (Moves: Bulldoze/Ice Beam/Belch/Hydro Pump) IVs: 21/31/21/31/21/0 EVs: 12/12/12/252/12/0
-EV yield: {"hp":2}
-Jirachi (Lv. 54) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 37/74/60/74/23/91
-Current Exp: 201420 (41.21%)
-[KILL]: Got 2399 Exp for killing Hippowdon (Lv. 59) @Chesto Berry (Ability: Sand Stream) (Nature: Adamant) (Moves: Ice Fang/Earthquake/Crunch/Rest) IVs: 31/31/31/0/31/31 EVs: 12/252/0/0/0/0
-EV yield: {"def":2}
-Jirachi (Lv. 54) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 37/74/62/74/23/91
-Current Exp: 203819 (62.75%)
-[KILL]: Got 2201 Exp for killing Rapidash (Lv. 58) @Wide Lens (Ability: Flame Body) (Nature: Jolly) (Moves: Flame Charge/Iron Tail/Poison Jab/Hypnosis) IVs: 25/31/25/0/25/31 EVs: 12/60/12/0/12/204
+Jirachi (Lv. 53) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 33/69/54/71/19/91
+Current Exp: 189003 (27.08%)
+[KILL]: Got 1566 Exp for killing Rapidash (Lv. 49) @Expert Belt (Ability: Flash Fire) (Nature: Jolly) (Moves: Smart Strike/Megahorn/Poison Jab/Flame Wheel) IVs: 7/7/7/7/7/7 EVs: 48/116/48/0/48/172
 EV yield: {"spd":2}
-Jirachi (Lv. 54) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 37/74/62/74/23/93
-Current Exp: 206020 (82.51%)
-[KILL]: Got 2169 Exp for killing Steelix (Lv. 57) @Life Orb (Ability: Sheer Force) (Nature: Adamant) (Moves: Thunder Fang/Fire Fang/Iron Tail/Crunch) IVs: 31/31/31/0/31/31 EVs: 12/252/0/12/12/0
+Jirachi (Lv. 53) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 33/69/54/71/19/93
+Current Exp: 190569 (41.67%)
+[KILL]: Got 2175 Exp for killing Staraptor (Lv. 49) @Focus Sash (Ability: Intimidate) (Nature: Jolly) (Moves: Close Combat/Pluck/Sunny Day/U-turn) IVs: 5/5/5/5/5/5 EVs: 56/148/36/0/36/148
+EV yield: {"atk":3}
+Jirachi (Lv. 53) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 33/72/54/71/19/93
+Current Exp: 192744 (61.93%)
+[KILL]: Got 2046 Exp for killing Dustox (Lv. 53) @Black Sludge (Ability: Shield Dust) (Nature: Bold) (Moves: Toxic/Bug Buzz/Moonlight/Light Screen) IVs: 31/0/21/21/21/21 EVs: 252/0/12/12/12/12
+EV yield: {"spDef":3}
+Jirachi (Lv. 53) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 33/72/54/71/22/93
+Current Exp: 194790 (80.99%)
+[KILL]: Got 2099 Exp for killing Beautifly (Lv. 53) @Black Glasses (Ability: Swarm) (Nature: Modest) (Moves: Bug Buzz/Shadow Ball/Psychic/Quiver Dance) IVs: 21/0/21/31/21/31 EVs: 12/0/12/60/12/204
+EV yield: {"spAtk":3}
+[LEVELUP] Now level 54
+54	33	72	54	74	22	93
+Jirachi (Lv. 54) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 33/72/54/74/22/93
+Current Exp: 196889 (0.53%)
+[KILL]: Got 1793 Exp for killing Vespiquen (Lv. 54) @Sitrus Berry (Ability: Unnerve) (Nature: Adamant) (Moves: Acrobatics/Attack Order/Aerial Ace/Defend Order) IVs: 31/31/31/0/31/31 EVs: 252/0/0/0/0/0
+EV yield: {"def":1,"spDef":1}
+Jirachi (Lv. 54) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 33/72/55/74/23/93
+Current Exp: 198682 (16.63%)
+[KILL]: Got 1891 Exp for killing Heracross (Lv. 54) @Flame Orb (Ability: Guts) (Nature: Jolly) (Moves: Earthquake/Rock Slide/Facade/Brick Break) IVs: 21/31/21/0/21/31 EVs: 12/60/12/0/12/204
+EV yield: {"atk":2}
+Jirachi (Lv. 54) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 33/74/55/74/23/93
+Current Exp: 200573 (33.61%)
+[KILL]: Got 2121 Exp for killing Drapion (Lv. 57) @Scope Lens (Ability: Sniper) (Nature: Jolly) (Moves: Cross Poison/Night Slash/Earthquake/X-Scissor) IVs: 31/31/31/0/31/31 EVs: 12/60/0/0/0/204
 EV yield: {"def":2}
+Jirachi (Lv. 54) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 33/74/57/74/23/93
+Current Exp: 202694 (52.65%)
+[KILL]: Got 1697 Exp for killing Quagsire (Lv. 55) @Leftovers (Ability: Water Absorb) (Nature: Impish) (Moves: Recover/Toxic/Earthquake/Surf) IVs: 23/31/31/0/13/31 EVs: 12/0/252/12/12/12
+EV yield: {"hp":2}
+Jirachi (Lv. 54) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 35/74/57/74/23/93
+Current Exp: 204391 (67.88%)
+[KILL]: Got 1681 Exp for killing Sudowoodo (Lv. 56) @Sitrus Berry (Ability: Rock Head) (Nature: Adamant) (Moves: Double-Edge/Head Smash/Sucker Punch/Low Kick) IVs: 21/31/31/0/11/31 EVs: 0/252/12/0/12/12
+EV yield: {"def":2}
+Jirachi (Lv. 54) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 35/74/59/74/23/93
+Current Exp: 206072 (82.98%)
+[KILL]: Got 2895 Exp for killing Golem (Lv. 56) @Soft Sand (Ability: Sturdy) (Nature: Jolly) (Moves: Rock Polish/Heavy Slam/Earthquake/Stone Edge) IVs: 21/31/31/0/21/31 EVs: 12/60/12/0/12/204
+EV yield: {"def":3}
 [LEVELUP] Now level 55
-55	37	74	64	74	23	93
+55	35	74	62	74	23	93
+Jirachi (Lv. 55) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 35/74/62/74/23/93
+Current Exp: 208967 (8.65%)
+[KILL]: Got 1805 Exp for killing Whiscash (Lv. 55) @Rindo Berry (Ability: Hydration) (Nature: Modest) (Moves: Bulldoze/Ice Beam/Belch/Hydro Pump) IVs: 21/31/21/31/21/0 EVs: 12/12/12/252/12/0
+EV yield: {"hp":2}
+Jirachi (Lv. 55) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 37/74/62/74/23/93
+Current Exp: 210772 (24.27%)
+[KILL]: Got 2351 Exp for killing Hippowdon (Lv. 59) @Chesto Berry (Ability: Sand Stream) (Nature: Adamant) (Moves: Ice Fang/Earthquake/Crunch/Rest) IVs: 31/31/31/0/31/31 EVs: 12/252/0/0/0/0
+EV yield: {"def":2}
 Jirachi (Lv. 55) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 37/74/64/74/23/93
-Current Exp: 208189 (1.91%)
+Current Exp: 213123 (44.62%)
+[KILL]: Got 2157 Exp for killing Rapidash (Lv. 58) @Wide Lens (Ability: Flame Body) (Nature: Jolly) (Moves: Flame Charge/Iron Tail/Poison Jab/Hypnosis) IVs: 25/31/25/0/25/31 EVs: 12/60/12/0/12/204
+EV yield: {"spd":2}
+Jirachi (Lv. 55) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 37/74/64/74/23/95
+Current Exp: 215280 (63.30%)
+[KILL]: Got 2125 Exp for killing Steelix (Lv. 57) @Life Orb (Ability: Sheer Force) (Nature: Adamant) (Moves: Thunder Fang/Fire Fang/Iron Tail/Crunch) IVs: 31/31/31/0/31/31 EVs: 12/252/0/12/12/0
+EV yield: {"def":2}
+Jirachi (Lv. 55) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 37/74/66/74/23/95
+Current Exp: 217405 (81.69%)
 [KILL]: Got 2144 Exp for killing Drifblim (Lv. 58) @Sitrus Berry (Ability: Unburden) (Nature: Timid) (Moves: Strength Sap/Minimize/Baton Pass/Will-O-Wisp) IVs: 31/0/31/0/31/31 EVs: 12/60/12/0/12/204
 EV yield: {"hp":2}
-Jirachi (Lv. 55) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 39/74/64/74/23/93
-Current Exp: 210333 (20.47%)
-[KILL]: Got 1995 Exp for killing Lopunny (Lv. 57) @Leftovers (Ability: Cute Charm) (Nature: Jolly) (Moves: Mirror Coat/High Jump Kick/Quick Attack/Fire Punch) IVs: 31/31/31/0/31/31 EVs: 252/0/0/0/0/0
-EV yield: {"spd":2}
-Jirachi (Lv. 55) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 39/74/64/74/23/95
-Current Exp: 212328 (37.74%)
-[KILL]: Got 3659 Exp for killing Infernape (Lv. 61) @Focus Sash (Ability: Iron Fist) (Nature: Jolly) (Moves: Fire Punch/Thunder Punch/Close Combat/Mach Punch) IVs: 31/31/31/0/31/31 EVs: 12/60/0/0/0/204
-EV yield: {"atk":1,"spAtk":1,"spd":1}
-Jirachi (Lv. 55) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 39/75/64/75/23/96
-Current Exp: 215987 (69.42%)
-[KILL]: Got 2056 Exp for killing Mr. Mime (Lv. 59) @Light Clay (Ability: Filter) (Nature: Bold) (Moves: Light Screen/Reflect/Psychic/Dazzling Gleam) IVs: 31/0/31/31/31/31 EVs: 252/0/12/12/12/12
-EV yield: {"spDef":2}
-Jirachi (Lv. 55) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 39/75/64/75/25/96
-Current Exp: 218043 (87.21%)
-[KILL]: Got 2031 Exp for killing Girafarig (Lv. 59) @Mental Herb (Ability: Sap Sipper) (Nature: Calm) (Moves: Light Screen/Psychic/Thunderbolt/Trick Room) IVs: 31/0/31/31/31/0 EVs: 252/0/12/12/12/0
-EV yield: {"spAtk":2}
 [LEVELUP] Now level 56
-56	39	75	64	77	25	96
-Jirachi (Lv. 56) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 39/75/64/77/25/96
-Current Exp: 220074 (4.63%)
+56	39	74	66	74	23	95
+Jirachi (Lv. 56) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 39/74/66/74/23/95
+Current Exp: 219549 (0.24%)
+[KILL]: Got 1955 Exp for killing Lopunny (Lv. 57) @Leftovers (Ability: Cute Charm) (Nature: Jolly) (Moves: Mirror Coat/High Jump Kick/Quick Attack/Fire Punch) IVs: 31/31/31/0/31/31 EVs: 252/0/0/0/0/0
+EV yield: {"spd":2}
+Jirachi (Lv. 56) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 39/74/66/74/23/97
+Current Exp: 221504 (16.57%)
+[KILL]: Got 3588 Exp for killing Infernape (Lv. 61) @Focus Sash (Ability: Iron Fist) (Nature: Jolly) (Moves: Fire Punch/Thunder Punch/Close Combat/Mach Punch) IVs: 31/31/31/0/31/31 EVs: 12/60/0/0/0/204
+EV yield: {"atk":1,"spAtk":1,"spd":1}
+Jirachi (Lv. 56) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 39/75/66/75/23/98
+Current Exp: 225092 (46.55%)
+[KILL]: Got 2015 Exp for killing Mr. Mime (Lv. 59) @Light Clay (Ability: Filter) (Nature: Bold) (Moves: Light Screen/Reflect/Psychic/Dazzling Gleam) IVs: 31/0/31/31/31/31 EVs: 252/0/12/12/12/12
+EV yield: {"spDef":2}
+Jirachi (Lv. 56) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 39/75/66/75/25/98
+Current Exp: 227107 (63.38%)
+[KILL]: Got 1991 Exp for killing Girafarig (Lv. 59) @Mental Herb (Ability: Sap Sipper) (Nature: Calm) (Moves: Light Screen/Psychic/Thunderbolt/Trick Room) IVs: 31/0/31/31/31/0 EVs: 252/0/12/12/12/0
+EV yield: {"spAtk":2}
+Jirachi (Lv. 56) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 39/75/66/77/25/98
+Current Exp: 229098 (80.01%)
 [KILL]: Got 1869 Exp for killing Medicham (Lv. 60) @Muscle Band (Ability: Pure Power) (Nature: Brave) (Moves: Zen Headbutt/High Jump Kick/Thunder Punch/Ice Punch) IVs: 31/31/31/0/31/0 EVs: 0/252/0/0/0/0
 EV yield: {"spd":2}
-Jirachi (Lv. 56) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 39/75/64/77/25/98
-Current Exp: 221943 (20.24%)
+Jirachi (Lv. 56) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 39/75/66/77/25/100
+Current Exp: 230967 (95.62%)
 [KILL]: Got 3244 Exp for killing Alakazam (Lv. 60) @Life Orb (Ability: Magic Guard) (Nature: Timid) (Moves: Nasty Plot/Psychic/Future Sight/Shock Wave) IVs: 31/0/31/31/31/31 EVs: 0/0/0/0/0/252
 EV yield: {"spAtk":3}
-Jirachi (Lv. 56) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 39/75/64/80/25/98
-Current Exp: 225187 (47.34%)
-[KILL]: Got 2517 Exp for killing Bronzong (Lv. 63) @Sitrus Berry (Ability: Levitate) (Nature: Brave) (Moves: Gyro Ball/Earthquake/Payback/Trick Room) IVs: 31/31/31/0/31/0 EVs: 12/252/0/0/0/0
-EV yield: {"def":1,"spDef":1}
-Jirachi (Lv. 56) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 39/75/65/80/26/98
-Current Exp: 227704 (68.37%)
-[KILL]: Got 2285 Exp for killing Spiritomb (Lv. 61) @Sitrus Berry (Ability: Pressure) (Nature: Quiet) (Moves: Shadow Ball/Dark Pulse/Psychic/Sucker Punch) IVs: 31/31/31/31/31/31 EVs: 252/6/0/252/0/0
-EV yield: {"def":1,"spDef":1}
-Jirachi (Lv. 56) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 39/75/66/80/27/98
-Current Exp: 229989 (87.45%)
-[KILL]: Got 3348 Exp for killing Roserade (Lv. 60) @Expert Belt (Ability: Poison Point) (Nature: Timid) (Moves: Dazzling Gleam/Shadow Ball/Sludge Bomb/Energy Ball) IVs: 31/0/31/0/31/31 EVs: 52/0/0/252/0/204
-EV yield: {"spAtk":3}
 [LEVELUP] Now level 57
-57	39	75	66	83	27	98
-Jirachi (Lv. 57) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 39/75/66/83/27/98
-Current Exp: 233337 (14.89%)
+57	39	75	66	80	25	100
+Jirachi (Lv. 57) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 39/75/66/80/25/100
+Current Exp: 234211 (21.94%)
+[KILL]: Got 2469 Exp for killing Bronzong (Lv. 63) @Sitrus Berry (Ability: Levitate) (Nature: Brave) (Moves: Gyro Ball/Earthquake/Payback/Trick Room) IVs: 31/31/31/0/31/0 EVs: 12/252/0/0/0/0
+EV yield: {"def":1,"spDef":1}
+Jirachi (Lv. 57) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 39/75/67/80/26/100
+Current Exp: 236680 (41.85%)
+[KILL]: Got 2240 Exp for killing Spiritomb (Lv. 61) @Sitrus Berry (Ability: Pressure) (Nature: Quiet) (Moves: Shadow Ball/Dark Pulse/Psychic/Sucker Punch) IVs: 31/31/31/31/31/31 EVs: 252/6/0/252/0/0
+EV yield: {"def":1,"spDef":1}
+Jirachi (Lv. 57) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 39/75/68/80/27/100
+Current Exp: 238920 (59.92%)
+[KILL]: Got 3283 Exp for killing Roserade (Lv. 60) @Expert Belt (Ability: Poison Point) (Nature: Timid) (Moves: Dazzling Gleam/Shadow Ball/Sludge Bomb/Energy Ball) IVs: 31/0/31/0/31/31 EVs: 52/0/0/252/0/204
+EV yield: {"spAtk":3}
+Jirachi (Lv. 57) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 39/75/68/83/27/100
+Current Exp: 242203 (86.39%)
 [KILL]: Got 2112 Exp for killing Gastrodon (Lv. 60) @Leftovers (Ability: Storm Drain) (Nature: Relaxed) (Moves: Scald/Earthquake/Sludge Bomb/Rock Tomb) IVs: 31/31/31/31/31/0 EVs: 252/0/252/0/6/0
 EV yield: {"hp":2}
-Jirachi (Lv. 57) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 41/75/66/83/27/98
-Current Exp: 235449 (31.92%)
-[KILL]: Got 2595 Exp for killing Lucario (Lv. 63) @Wise Glasses (Ability: Inner Focus) (Nature: Timid) (Moves: Aura Sphere/Dragon Pulse/Flash Cannon/Nasty Plot) IVs: 31/0/31/31/31/31 EVs: 52/0/0/252/0/204
-EV yield: {"atk":1,"spAtk":1}
-Jirachi (Lv. 57) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 41/76/66/84/27/98
-Current Exp: 238044 (52.85%)
-[KILL]: Got 2666 Exp for killing Milotic (Lv. 63) @Flame Orb (Ability: Marvel Scale) (Nature: Bold) (Moves: Recover/Mirror Coat/Ice Beam/Scald) IVs: 31/0/31/31/31/31 EVs: 252/0/252/6/0/0
-EV yield: {"spDef":2}
-Jirachi (Lv. 57) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 41/76/66/84/29/98
-Current Exp: 240710 (74.35%)
-[KILL]: Got 4665 Exp for killing Garchomp (Lv. 66) @Yache Berry (Ability: Rough Skin) (Nature: Jolly) (Moves: Dragon Claw/Earthquake/Swords Dance/Poison Jab) IVs: 31/31/31/0/31/31 EVs: 52/252/0/0/0/204
-EV yield: {"atk":3}
 [LEVELUP] Now level 58
-58	41	79	66	84	29	98
-Jirachi (Lv. 58) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 41/79/66/84/29/98
-Current Exp: 245375 (11.57%)
+58	41	75	68	83	27	100
+Jirachi (Lv. 58) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 41/75/68/83/27/100
+Current Exp: 244315 (3.31%)
+[KILL]: Got 2546 Exp for killing Lucario (Lv. 63) @Wise Glasses (Ability: Inner Focus) (Nature: Timid) (Moves: Aura Sphere/Dragon Pulse/Flash Cannon/Nasty Plot) IVs: 31/0/31/31/31/31 EVs: 52/0/0/252/0/204
+EV yield: {"atk":1,"spAtk":1}
+Jirachi (Lv. 58) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 41/76/68/84/27/100
+Current Exp: 246861 (23.15%)
+[KILL]: Got 2615 Exp for killing Milotic (Lv. 63) @Flame Orb (Ability: Marvel Scale) (Nature: Bold) (Moves: Recover/Mirror Coat/Ice Beam/Scald) IVs: 31/0/31/31/31/31 EVs: 252/0/252/6/0/0
+EV yield: {"spDef":2}
+Jirachi (Lv. 58) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 41/76/68/84/29/100
+Current Exp: 249476 (43.53%)
+[KILL]: Got 4578 Exp for killing Garchomp (Lv. 66) @Yache Berry (Ability: Rough Skin) (Nature: Jolly) (Moves: Dragon Claw/Earthquake/Swords Dance/Poison Jab) IVs: 31/31/31/0/31/31 EVs: 52/252/0/0/0/204
+EV yield: {"atk":3}
+Jirachi (Lv. 58) (Ability: Serene Grace) (Nature: Hardy) (Moves: Psychic/Thunderbolt/Shadow Ball/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 41/79/68/84/29/100
+Current Exp: 254054 (79.20%)
