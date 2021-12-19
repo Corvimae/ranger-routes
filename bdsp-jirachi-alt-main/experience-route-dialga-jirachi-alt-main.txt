@@ -1,0 +1,185 @@
+C:\Program Files\nodejs\node.exe .\..\BDSPExp\Dialga.js
+[KILL]: Got 112 Exp for killing Feebas (Lv. 37) @(None) (Ability: Oblivious) (Nature: Sassy) (Moves: Splash/Tackle/Flail/Bug Buzz/(No Move)) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"spd":1}
+Dialga (Lv. 47) (Ability: Pressure) (Nature: Hardy) (Moves: Psychic/Swift/Shock Wave/Dazzling Gleam) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/1
+Current Exp: 129890 (1.32%)
+[KILL]: Got 472 Exp for killing Machoke (Lv. 40) @(None) (Ability: No Guard) (Nature: Relaxed) (Moves: Leer/Low Sweep/Knock Off/Dual Chop) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"atk":2}
+Dialga (Lv. 47) (Ability: Pressure) (Nature: Hardy) (Moves: Psychic/Swift/Shock Wave/Dazzling Gleam) IVs: 0/0/0/0/0/0 EVs: 0/2/0/0/0/1
+Current Exp: 130362 (6.90%)
+[KILL]: Got 644 Exp for killing Gastrodon (Lv. 43) @(None) (Ability: Storm Drain) (Nature: Sassy) (Moves: Recover/Water Pulse/Ancient Power/Earth Power) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"hp":2}
+Dialga (Lv. 47) (Ability: Pressure) (Nature: Hardy) (Moves: Psychic/Swift/Shock Wave/Dazzling Gleam) IVs: 0/0/0/0/0/0 EVs: 2/2/0/0/0/1
+Current Exp: 131006 (14.51%)
+[KILL]: Got 579 Exp for killing Pachirisu (Lv. 44) @(None) (Ability: Pickup) (Nature: Jolly) (Moves: Charm/Spark/Nuzzle/Dig) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"spd":1}
+Dialga (Lv. 47) (Ability: Pressure) (Nature: Hardy) (Moves: Psychic/Swift/Shock Wave/Dazzling Gleam) IVs: 0/0/0/0/0/0 EVs: 2/2/0/0/0/2
+Current Exp: 131585 (21.35%)
+[KILL]: Got 518 Exp for killing Luxio (Lv. 44) @(None) (Ability: Intimidate) (Nature: Jolly) (Moves: Leer/Bite/Spark/Iron Tail) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"atk":2}
+Dialga (Lv. 47) (Ability: Pressure) (Nature: Hardy) (Moves: Psychic/Swift/Shock Wave/Dazzling Gleam) IVs: 0/0/0/0/0/0 EVs: 2/4/0/0/0/2
+Current Exp: 132103 (27.48%)
+[KILL]: Got 657 Exp for killing Mr. Mime (Lv. 44) @(None) (Ability: Filter) (Nature: Timid) (Moves: Reflect/Dazzling Gleam/Thunderbolt/Energy Ball) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"spDef":2}
+Dialga (Lv. 47) (Ability: Pressure) (Nature: Hardy) (Moves: Psychic/Swift/Shock Wave/Dazzling Gleam) IVs: 0/0/0/0/0/0 EVs: 2/4/0/0/2/2
+Current Exp: 132760 (35.24%)
+[KILL]: Got 572 Exp for killing Kadabra (Lv. 44) @(None) (Ability: Inner Focus) (Nature: Timid) (Moves: Reflect/Psychic/Shock Wave/Energy Ball) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"spAtk":2}
+Dialga (Lv. 47) (Ability: Pressure) (Nature: Hardy) (Moves: Psychic/Swift/Shock Wave/Dazzling Gleam) IVs: 0/0/0/0/0/0 EVs: 2/4/0/2/2/2
+Current Exp: 133332 (42.00%)
+[KILL]: Got 890 Exp for killing Raichu (Lv. 44) @(None) (Ability: Static) (Nature: Jolly) (Moves: Thunder Punch/Thunderbolt/Light Screen/Quick Attack) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"spd":3}
+Dialga (Lv. 47) (Ability: Pressure) (Nature: Hardy) (Moves: Psychic/Swift/Shock Wave/Dazzling Gleam) IVs: 0/0/0/0/0/0 EVs: 2/4/0/2/2/5
+Current Exp: 134222 (52.52%)
+[KILL]: Got 469 Exp for killing Luxio (Lv. 42) @(None) (Ability: Intimidate) (Nature: Jolly) (Moves: Bite/Volt Switch/Thunder Wave/Iron Tail) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"atk":2}
+Dialga (Lv. 47) (Ability: Pressure) (Nature: Hardy) (Moves: Psychic/Swift/Shock Wave/Dazzling Gleam) IVs: 0/0/0/0/0/0 EVs: 2/6/0/2/2/5
+Current Exp: 134691 (58.06%)
+[KILL]: Got 531 Exp for killing Bibarel (Lv. 42) @(None) (Ability: Simple) (Nature: Jolly) (Moves: Yawn/Thunderbolt/Bulldoze/Waterfall) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"atk":2}
+Dialga (Lv. 47) (Ability: Pressure) (Nature: Hardy) (Moves: Psychic/Swift/Shock Wave/Dazzling Gleam) IVs: 0/0/0/0/0/0 EVs: 2/8/0/2/2/5
+Current Exp: 135222 (64.33%)
+[KILL]: Got 730 Exp for killing Steelix (Lv. 44) @(None) (Ability: Sturdy) (Nature: Relaxed) (Moves: Thunder Fang/Screech/Iron Tail/Bulldoze) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"def":2}
+Dialga (Lv. 47) (Ability: Pressure) (Nature: Hardy) (Moves: Psychic/Swift/Shock Wave/Dazzling Gleam) IVs: 0/0/0/0/0/0 EVs: 2/8/2/2/2/5
+Current Exp: 135952 (72.96%)
+[KILL]: Got 588 Exp for killing Medicham (Lv. 44) @(None) (Ability: Pure Power) (Nature: Jolly) (Moves: Zen Headbutt/Thunder Punch/Reversal/Rock Tomb) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"spd":2}
+Dialga (Lv. 47) (Ability: Pressure) (Nature: Hardy) (Moves: Psychic/Swift/Shock Wave/Dazzling Gleam) IVs: 0/0/0/0/0/0 EVs: 2/8/2/2/2/7
+Current Exp: 136540 (79.91%)
+[KILL]: Got 978 Exp for killing Raichu (Lv. 46) @Shuca Berry (Ability: Static) (Nature: Timid) (Moves: Nuzzle/Volt Switch/Surf/Charge Beam) IVs: 11/0/11/28/11/28 EVs: 12/0/12/160/12/160
+EV yield: {"spd":3}
+Dialga (Lv. 47) (Ability: Pressure) (Nature: Hardy) (Moves: Psychic/Swift/Shock Wave/Dazzling Gleam) IVs: 0/0/0/0/0/0 EVs: 2/8/2/2/2/10
+Current Exp: 137518 (91.47%)
+[KILL]: Got 795 Exp for killing Ambipom (Lv. 47) @Chople Berry (Ability: Technician) (Nature: Naive) (Moves: Fake Out/Thunderbolt/Double Hit/Last Resort) IVs: 11/20/11/20/11/28 EVs: 12/80/12/80/12/160
+EV yield: {"spd":2}
+[LEVELUP] Now level 48
+48	2	8	2	2	2	12
+Dialga (Lv. 48) (Ability: Pressure) (Nature: Hardy) (Moves: Psychic/Swift/Shock Wave/Dazzling Gleam) IVs: 0/0/0/0/0/0 EVs: 2/8/2/2/2/12
+Current Exp: 138313 (0.83%)
+[KILL]: Got 771 Exp for killing Octillery (Lv. 47) @Expert Belt (Ability: Sniper) (Nature: Modest) (Moves: Octazooka/Focus Energy/Aurora Beam/Charge Beam) IVs: 11/0/11/28/11/28 EVs: 12/0/12/160/12/160
+EV yield: {"atk":1,"spAtk":1}
+Dialga (Lv. 48) (Ability: Pressure) (Nature: Hardy) (Moves: Psychic/Swift/Shock Wave/Dazzling Gleam) IVs: 0/0/0/0/0/0 EVs: 2/9/2/3/2/12
+Current Exp: 139084 (9.57%)
+[KILL]: Got 1314 Exp for killing Luxray (Lv. 49) @Sitrus Berry (Ability: Intimidate) (Nature: Jolly) (Moves: Thunder Fang/Ice Fang/Crunch/Iron Tail) IVs: 15/28/15/0/0/30 EVs: 28/160/28/0/0/200
+EV yield: {"atk":3}
+Dialga (Lv. 48) (Ability: Pressure) (Nature: Hardy) (Moves: Psychic/Swift/Shock Wave/Dazzling Gleam) IVs: 0/0/0/0/0/0 EVs: 2/12/2/3/2/12
+Current Exp: 140398 (24.46%)
+[KILL]: Got 200 Exp for killing Mantyke (Lv. 38) @(None) (Ability: Water Absorb) (Nature: Sassy) (Moves: Supersonic/Bubble Beam/Air Slash/Aqua Ring) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"spDef":1}
+Dialga (Lv. 48) (Ability: Pressure) (Nature: Hardy) (Moves: Psychic/Swift/Shock Wave/Dazzling Gleam) IVs: 0/0/0/0/0/0 EVs: 2/12/2/3/3/12
+Current Exp: 140598 (26.73%)
+[KILL]: Got 194 Exp for killing Remoraid (Lv. 40) @(None) (Ability: Hustle) (Nature: Hardy) (Moves: Lock-On/Bullet Seed/Ice Beam/Hydro Pump) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"spAtk":1}
+Dialga (Lv. 48) (Ability: Pressure) (Nature: Hardy) (Moves: Psychic/Swift/Shock Wave/Dazzling Gleam) IVs: 0/0/0/0/0/0 EVs: 2/12/2/4/3/12
+Current Exp: 140792 (28.93%)
+[KILL]: Got 612 Exp for killing Mantine (Lv. 42) @(None) (Ability: Water Absorb) (Nature: Sassy) (Moves: Bullet Seed/Bubble Beam/Aqua Ring/Bounce) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"spDef":2}
+Dialga (Lv. 48) (Ability: Pressure) (Nature: Hardy) (Moves: Psychic/Swift/Shock Wave/Dazzling Gleam) IVs: 0/0/0/0/0/0 EVs: 2/12/2/4/5/12
+Current Exp: 141404 (35.87%)
+[KILL]: Got 767 Exp for killing Golduck (Lv. 46) @(None) (Ability: Cloud Nine) (Nature: Calm) (Moves: Zen Headbutt/Aqua Jet/Tail Whip/Aqua Tail) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"spAtk":2}
+Dialga (Lv. 48) (Ability: Pressure) (Nature: Hardy) (Moves: Psychic/Swift/Shock Wave/Dazzling Gleam) IVs: 0/0/0/0/0/0 EVs: 2/12/2/6/5/12
+Current Exp: 142171 (44.56%)
+[KILL]: Got 6097 Exp for killing Blissey (Lv. 48) @(None) (Ability: Serene Grace) (Nature: Calm) (Moves: Disarming Voice/Double-Edge/Soft-Boiled/Last Resort) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"hp":3}
+[LEVELUP] Now level 49
+49	5	12	2	6	5	12
+Dialga (Lv. 49) (Ability: Pressure) (Nature: Hardy) (Moves: Psychic/Swift/Shock Wave/Dazzling Gleam) IVs: 0/0/0/0/0/0 EVs: 5/12/2/6/5/12
+Current Exp: 148268 (13.14%)
+[KILL]: Got 714 Exp for killing Rapidash (Lv. 45) @(None) (Ability: Run Away) (Nature: Sassy) (Moves: Smart Strike/Poison Jab/Tail Whip/Flame Wheel) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"spd":2}
+Dialga (Lv. 49) (Ability: Pressure) (Nature: Hardy) (Moves: Psychic/Swift/Shock Wave/Dazzling Gleam) IVs: 0/0/0/0/0/0 EVs: 5/12/2/6/5/14
+Current Exp: 148982 (20.91%)
+[KILL]: Got 649 Exp for killing Carnivine (Lv. 45) @(None) (Ability: Levitate) (Nature: Hardy) (Moves: Bind/Growth/Leaf Tornado/Crunch) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"atk":2}
+Dialga (Lv. 49) (Ability: Pressure) (Nature: Hardy) (Moves: Psychic/Swift/Shock Wave/Dazzling Gleam) IVs: 0/0/0/0/0/0 EVs: 5/14/2/6/5/14
+Current Exp: 149631 (27.97%)
+[KILL]: Got 811 Exp for killing Rampardos (Lv. 48) @(None) (Ability: Mold Breaker) (Nature: Relaxed) (Moves: Headbutt/Zen Headbutt/Assurance/Swords Dance) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"atk":2}
+Dialga (Lv. 49) (Ability: Pressure) (Nature: Hardy) (Moves: Psychic/Swift/Shock Wave/Dazzling Gleam) IVs: 0/0/0/0/0/0 EVs: 5/16/2/6/5/14
+Current Exp: 150442 (36.79%)
+[KILL]: Got 1036 Exp for killing Clefable (Lv. 46) @(None) (Ability: Cute Charm) (Nature: Calm) (Moves: Moonlight/Meteor Mash/Cosmic Power/Moonblast) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"hp":3}
+Dialga (Lv. 49) (Ability: Pressure) (Nature: Hardy) (Moves: Psychic/Swift/Shock Wave/Dazzling Gleam) IVs: 0/0/0/0/0/0 EVs: 8/16/2/6/5/14
+Current Exp: 151478 (48.07%)
+[KILL]: Got 1233 Exp for killing Torterra (Lv. 48) @(None) (Ability: Overgrow) (Nature: Impish) (Moves: Earthquake/Wood Hammer/Crunch/Synthesis) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"atk":2,"def":1}
+Dialga (Lv. 49) (Ability: Pressure) (Nature: Hardy) (Moves: Psychic/Swift/Shock Wave/Dazzling Gleam) IVs: 0/0/0/0/0/0 EVs: 8/18/3/6/5/14
+Current Exp: 152711 (61.49%)
+[KILL]: Got 1089 Exp for killing Staraptor (Lv. 47) @(None) (Ability: Intimidate) (Nature: Relaxed) (Moves: Quick Attack/Endeavor/Aerial Ace/Take Down) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"atk":3}
+Dialga (Lv. 49) (Ability: Pressure) (Nature: Hardy) (Moves: Psychic/Swift/Shock Wave/Dazzling Gleam) IVs: 0/0/0/0/0/0 EVs: 8/21/3/6/5/14
+Current Exp: 153800 (73.34%)
+[KILL]: Got 824 Exp for killing Hippowdon (Lv. 47) @(None) (Ability: Sand Stream) (Nature: Relaxed) (Moves: Earthquake/Crunch/Ice Fang/Yawn) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"def":2}
+Dialga (Lv. 49) (Ability: Pressure) (Nature: Hardy) (Moves: Psychic/Swift/Shock Wave/Dazzling Gleam) IVs: 0/0/0/0/0/0 EVs: 8/21/5/6/5/14
+Current Exp: 154624 (82.30%)
+[KILL]: Got 1240 Exp for killing Machamp (Lv. 49) @(None) (Ability: No Guard) (Nature: Relaxed) (Moves: Low Sweep/Knock Off/Dual Chop/Bulk Up) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"atk":3}
+Dialga (Lv. 49) (Ability: Pressure) (Nature: Hardy) (Moves: Psychic/Swift/Shock Wave/Dazzling Gleam) IVs: 0/0/0/0/0/0 EVs: 8/24/5/6/5/14
+Current Exp: 155864 (95.80%)
+[KILL]: Got 221 Exp for killing Chingling (Lv. 44) @(None) (Ability: Levitate) (Nature: Bashful) (Moves: Wrap/Astonish/Confusion/Yawn) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"spAtk":1}
+Dialga (Lv. 49) (Ability: Pressure) (Nature: Hardy) (Moves: Psychic/Swift/Shock Wave/Dazzling Gleam) IVs: 0/0/0/0/0/0 EVs: 8/24/5/7/5/14
+Current Exp: 156085 (98.20%)
+[KILL]: Got 746 Exp for killing Chimecho (Lv. 48) @(None) (Ability: Levitate) (Nature: Calm) (Moves: Wrap/Yawn/Extrasensory/Heal Pulse) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"spAtk":1,"spDef":1}
+[LEVELUP] Now level 50
+50	8	24	5	8	6	14
+Dialga (Lv. 50) (Ability: Pressure) (Nature: Hardy) (Moves: Psychic/Swift/Shock Wave/Dazzling Gleam) IVs: 0/0/0/0/0/0 EVs: 8/24/5/8/6/14
+Current Exp: 156831 (6.08%)
+[KILL]: Got 689 Exp for killing Gabite (Lv. 49) @(None) (Ability: Sand Veil) (Nature: Relaxed) (Moves: Sand Tomb/Sand Attack/Bite/Dragon Claw) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"atk":2}
+Dialga (Lv. 50) (Ability: Pressure) (Nature: Hardy) (Moves: Psychic/Swift/Shock Wave/Dazzling Gleam) IVs: 0/0/0/0/0/0 EVs: 8/26/5/8/6/14
+Current Exp: 157520 (13.28%)
+[KILL]: Got 717 Exp for killing Tentacruel (Lv. 45) @(None) (Ability: Clear Body) (Nature: Sassy) (Moves: Reflect Type/Bubble Beam/Acid Armor/Poison Jab) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"spDef":2}
+Dialga (Lv. 50) (Ability: Pressure) (Nature: Hardy) (Moves: Psychic/Swift/Shock Wave/Dazzling Gleam) IVs: 0/0/0/0/0/0 EVs: 8/26/5/8/8/14
+Current Exp: 158237 (20.78%)
+[KILL]: Got 988 Exp for killing Golem (Lv. 45) @(None) (Ability: Sturdy) (Nature: Relaxed) (Moves: Earthquake/Sandstorm/Smack Down/Heavy Slam) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"def":3}
+Dialga (Lv. 50) (Ability: Pressure) (Nature: Hardy) (Moves: Psychic/Swift/Shock Wave/Dazzling Gleam) IVs: 0/0/0/0/0/0 EVs: 8/26/8/8/8/14
+Current Exp: 159225 (31.11%)
+[KILL]: Got 1214 Exp for killing Empoleon (Lv. 48) @(None) (Ability: Torrent) (Nature: Sassy) (Moves: Brine/Aqua Jet/Metal Claw/Swords Dance) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"spAtk":3}
+Dialga (Lv. 50) (Ability: Pressure) (Nature: Hardy) (Moves: Psychic/Swift/Shock Wave/Dazzling Gleam) IVs: 0/0/0/0/0/0 EVs: 8/26/8/11/8/14
+Current Exp: 160439 (43.80%)
+[KILL]: Got 251 Exp for killing Gible (Lv. 46) @(None) (Ability: Sand Veil) (Nature: Hardy) (Moves: Sand Tomb/Sand Attack/Bulldoze/Dragon Claw) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"atk":1}
+Dialga (Lv. 50) (Ability: Pressure) (Nature: Hardy) (Moves: Psychic/Swift/Shock Wave/Dazzling Gleam) IVs: 0/0/0/0/0/0 EVs: 8/27/8/11/8/14
+Current Exp: 160690 (46.43%)
+[KILL]: Got 905 Exp for killing Gyarados (Lv. 49) @(None) (Ability: Intimidate) (Nature: Sassy) (Moves: Ice Fang/Waterfall/Crunch/Dragon Dance) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"atk":2}
+Dialga (Lv. 50) (Ability: Pressure) (Nature: Hardy) (Moves: Psychic/Swift/Shock Wave/Dazzling Gleam) IVs: 0/0/0/0/0/0 EVs: 8/29/8/11/8/14
+Current Exp: 161595 (55.89%)
+[KILL]: Got 251 Exp for killing Gible (Lv. 46) @(None) (Ability: Sand Veil) (Nature: Hardy) (Moves: Bite/Slash/Dragon Claw/Dig) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"atk":1}
+Dialga (Lv. 50) (Ability: Pressure) (Nature: Hardy) (Moves: Psychic/Swift/Shock Wave/Dazzling Gleam) IVs: 0/0/0/0/0/0 EVs: 8/30/8/11/8/14
+Current Exp: 161846 (58.52%)
+[KILL]: Got 1163 Exp for killing Staraptor (Lv. 49) @Focus Sash (Ability: Intimidate) (Nature: Jolly) (Moves: Close Combat/Pluck/Sunny Day/U-turn) IVs: 5/5/5/5/5/5 EVs: 56/148/36/0/36/148
+EV yield: {"atk":3}
+Dialga (Lv. 50) (Ability: Pressure) (Nature: Hardy) (Moves: Psychic/Swift/Shock Wave/Dazzling Gleam) IVs: 0/0/0/0/0/0 EVs: 8/33/8/11/8/14
+Current Exp: 163009 (70.68%)
+[KILL]: Got 828 Exp for killing Floatzel (Lv. 49) @Quick Claw (Ability: Swift Swim) (Nature: Jolly) (Moves: Ice Fang/Crunch/Swift/Brine) IVs: 6/6/6/6/6/6 EVs: 40/104/40/0/40/160
+EV yield: {"spd":2}
+Dialga (Lv. 50) (Ability: Pressure) (Nature: Hardy) (Moves: Psychic/Swift/Shock Wave/Dazzling Gleam) IVs: 0/0/0/0/0/0 EVs: 8/33/8/11/8/16
+Current Exp: 163837 (79.34%)
+[KILL]: Got 913 Exp for killing Heracross (Lv. 51) @(None) (Ability: Swarm) (Nature: Jolly) (Moves: Pin Missile/Swords Dance/Rock Slide/Thief) IVs: 9/9/9/9/9/9 EVs: 44/104/44/0/44/156
+EV yield: {"atk":2}
+Dialga (Lv. 50) (Ability: Pressure) (Nature: Hardy) (Moves: Psychic/Swift/Shock Wave/Dazzling Gleam) IVs: 0/0/0/0/0/0 EVs: 8/35/8/11/8/16
+Current Exp: 164750 (88.88%)
+[KILL]: Got 838 Exp for killing Rapidash (Lv. 49) @Expert Belt (Ability: Flash Fire) (Nature: Jolly) (Moves: Smart Strike/Megahorn/Poison Jab/Flame Wheel) IVs: 7/7/7/7/7/7 EVs: 48/116/48/0/48/172
+EV yield: {"spd":2}
+Dialga (Lv. 50) (Ability: Pressure) (Nature: Hardy) (Moves: Psychic/Swift/Shock Wave/Dazzling Gleam) IVs: 0/0/0/0/0/0 EVs: 8/35/8/11/8/18
+Current Exp: 165588 (97.65%)
+[KILL]: Got 1027 Exp for killing Snorlax (Lv. 52) @(None) (Ability: Thick Fat) (Nature: Adamant) (Moves: Covet/Yawn/Crunch/High Horsepower) IVs: 9/9/9/9/9/9 EVs: 96/120/96/0/88/0
+EV yield: {"hp":2}
+[LEVELUP] Now level 51
+51	10	35	8	11	8	18
+Dialga (Lv. 51) (Ability: Pressure) (Nature: Hardy) (Moves: Psychic/Swift/Shock Wave/Dazzling Gleam) IVs: 0/0/0/0/0/0 EVs: 10/35/8/11/8/18
+Current Exp: 166615 (8.06%)
+[KILL]: Got 1574 Exp for killing Torterra (Lv. 55) @Leftovers (Ability: Overgrow) (Nature: Careful) (Moves: Earthquake/Wood Hammer/Roar/Stealth Rock) IVs: 11/11/11/11/11/11 EVs: 164/92/52/52/124/0
+EV yield: {"atk":2,"def":1}
+Dialga (Lv. 51) (Ability: Pressure) (Nature: Hardy) (Moves: Psychic/Swift/Shock Wave/Dazzling Gleam) IVs: 0/0/0/0/0/0 EVs: 10/37/9/11/8/18
+Current Exp: 168189 (23.89%)
