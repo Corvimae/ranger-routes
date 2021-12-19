@@ -129,8 +129,8 @@ Immediately after entering Rusturf Tunnel:
  :::if{source="Mudkip" condition=!$rtskip}
   - Repel
   - Potion to full
-  - Teach Rock Tomb over Mud Slap (slot 1).
-  - Teach Echoed Voice over Tackle (slot 4).
+  - Teach Rock Tomb over Tackle (slot 1).
+  - Teach Echoed Voice over Mud Slap (slot 4).
  :::
 
 :::::::trainer[Team Magma Grunt]
@@ -276,9 +276,11 @@ Grab/Skip PP UP
 :::::trainer[Team Magma Grunt]
   :::pokemon[Zubat]{info="Faster at 19+ Speed (x /13+ / 6+)" infoColor=blue}
     :::if{source="Mudkip" condition=$rtskip}
-      - Tackle x2
+      - Tackle x2 
+    ::: 
     :::if{source="Mudkip" condition=!$rtskip}
       - Rock Tomb (+Water Gun)
+    :::  
     :::if{source="Mudkip" condition="!$rtskip && atk=(26+ / 6-12 / 0-5)" theme=error}
       **Rock Tomb Range 11/16**
     :::

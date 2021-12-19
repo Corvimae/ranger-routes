@@ -33,39 +33,43 @@ Make sure Mudkip is deposited before starting.
   :info[_Level 8_]{color="gray"}
 :::::
 
+- Grab the Oran Berries from the left tree before entering the forest.
+
 - Pick up the Balm Mushroom.
 - Pick up the Ether.
 
 - Pick up the Super Potion hidden in the grass behind the flower shop (bottom-right single grassless tile of the three).
-- Pick up the Oran Berries in front of the flower shop.
-- Pick up the Cheri Berries in front of the flower shop.
+- Grab the Cheri Berries from the middl treed at the top-right of the pond (run past the fisher).
+- Grab the Cheri Berries from the left tree at the top-right of the pond.
 - Pick up the X Defense (before entering Rustboro, run to the right and follow the outside of the fence).
-- Turn off the Exp. Share.
 
 - Enter the center and withdraw Mudkip.
 - Move Mudkip to slot 1.
 
 **SAVE BEFORE ROXANNE**
 
+::level{source="Drifloon" value=8}
+
 :::::trainer[Leader Roxanne]
   :::pokemon[Geodude]{info="Heal as needed. If you get crit, you are dead." infoColor="blue"}
-    - Growl x6 :info[Get as many Growls in as possible before Mudkip dies.]
-    - (If Mudkip is still alive, switch to Drifloon.)
+    - Growl until Mudkip dies.
     - Minimize x3
     - X Defense
     - Spam Gust
-    ::damage[Geodude's -6 Rock Tomb at +1 Defense]{source="Drifloon" offensive=false movePower=60 level=8 evs=1 opponentLevel=12 opponentStat=24 effectiveness=2 stab=true combatStages=1 opponentCombatStages=-6}
+    ::damage[Geodude's -6 Rock Tomb at +1 Defense]{source="Drifloon" offensive=false movePower=60 evs=1 opponentLevel=12 opponentStat=24 effectiveness=2 stab=true combatStages=1 opponentCombatStages=-6}
   :::
+  ::level{source="Drifloon" value=10}
+
   :info[_Level 10_]{color="gray"}
   :::pokemon[Nosepass]{info="Heal as needed. If you get crit, you are dead." infoColor="blue"}
     - Spam Gust. If you run out of PP, spam Astonish :(
 
-    ::damage[Nosepass's Rock Tomb at +1 Defense]{source="Drifloon" offensive=false movePower=60 level=10 evs=1 opponentLevel=14 opponentStat=17 effectiveness=2 stab=true combatStages=1}
+    ::damage[Nosepass's Rock Tomb at +1 Defense]{source="Drifloon" offensive=false movePower=60 evs=1 opponentLevel=14 opponentStat=17 effectiveness=2 stab=true combatStages=1}
   :::
   :info[_Level 11_]{color="gray"}
 :::::
 
-- Move Drifloon to slot 1.
+- Move Drifloon to slot 1. :info[You need to do this even though Mudkip is fainted or else you risk encounters]{color=blue}
 
 - Pick up the Repel before the bug catcher.
 
@@ -92,6 +96,7 @@ Fight the bug catcher on purpose.
 - Use the Repel.
 - Heal Drifloon to full.
 - Use the Ether on Gust.
+- Turn off the Exp. Share.
 
 :::::trainer[Aqua Grunt]
   :::pokemon[Poochyena]
@@ -100,9 +105,7 @@ Fight the bug catcher on purpose.
   :info[_Level 12_]{color="gray"}
 :::::
 
-- If Mudkip is alive, deposit it in the center and PC heal Drifloon.
-
-- If you took damage, heal Drifloon to full.
+- If you're low, heal Drifloon.
 
 :::::trainer[Battle Girl Laura]
   :::pokemon[Meditite]
@@ -117,7 +120,6 @@ Fight the bug catcher on purpose.
   :::
   :info[_Level 15_]{color="gray"}
 :::::
-
 
 :::::trainer[Battle Girl Tessa]
   :::pokemon[Meditite]
@@ -142,29 +144,35 @@ Fight the bug catcher on purpose.
   :::
 :::::
 
+- Grab the Stardust above the trainer next to Granite Cave (he can't see you at the farthest tile).
+
 - Grab the PP Up in the north-west of Route 109 (Slateport beach).
+- Equip an Oran Berry on Drifloon.
 - Heal to full.
 
 ### Slateport Shopping
 > #### Sell
 > - Balm Mushroom
+> - Stardust
 > - Great Ball
 > - All Poke Balls
 > - PP Up
 > #### Buy (Top)
 > - 2 X Speed 
-> - 2 X Defense (vv)
-> - 2 X Sp. Defense (>>^)
+> - 1 X Attack (v)
+> - 2 X Defense (v)
+> - 2 X Sp. Defense (>^)
 > - 15 X Sp. Attack (^) 
 > #### Buy (Bottom)
-> - 5 Paralyze Heals (>)
-> - 8 Super Potions (^^^^)
+> - 3 Paralyze Heals (>)
+> - 2 Awakenings (v)
+> - 10 Super Potions (^^^^^)
 > - 4 Super Repels (>>^)
 
 **Save before the Aqua Grunt.**
 
 :::::trainer[Aqua Grunt]
-  :::pokemon[Carvanha]{info="If Carvanha uses Assurance turn 1, reset." infoColor="blue"}
+  :::pokemon[Carvanha]
     - Gust x2
 
     ::damage[Carvanha's Assurance (not doubled)]{source="Drifloon" offensive=false movePower=60 level=16 evs=5 opponentLevel=16 opponentStat=33 effectiveness=2 stab=true}
@@ -185,16 +193,18 @@ Fight the bug catcher on purpose.
 :::::
 
 - Enter the center, withdraw Mudkip from the PC, and PC heal Drifloon.
+- Equip a Cheri Berry on Drifloon.
 
 :::::trainer[Poke Fan Isabel]{info="Heal as needed" infoColor="blue"}
   :::pokemon[Plusle]
     - X Defense
-    - Payback x3/4
+    - X Attack
+    - Payback x2/3
 
     ::damage[Plusle's Spark at +1 Defense]{source="Drifloon" offensive=false movePower=60 level=18 evs=0 combatStages=1 opponentLevel=15 opponentStat=20 effectiveness=2 stab=true }
   :::
   :::pokemon[Minun]
-    - Payback x3/4
+    - Payback x2/3
 
     ::damage[Minun's Spark at +1 Defense]{source="Drifloon" offensive=false movePower=60 level=18 evs=0 combatStages=1 opponentLevel=15 opponentStat=17 effectiveness=2 stab=true }
   :::
@@ -218,7 +228,7 @@ Fight the bug catcher on purpose.
   :::pokemon[Grovyle]
     - Gust
 
-    Teach Ominous Wind over Astonish (slot 3) (maybe?)
+    Teach Ominous Wind over Astonish (slot 3)
   :::
   :info[_Level 20_]{color="gray"}
 
@@ -243,7 +253,7 @@ Fight the bug catcher on purpose.
 - Use the bike.
 
 - Bike up the south-east stairs and get the Nugget (run left at the top of the stairs).
-- Head to the north-west of the upper floor and talk to the musician to buy the Metronome.
+- Bike to the north-west of the upper floor and talk to the musician to buy the Metronome.
 
 Head to the gym.
 
@@ -291,19 +301,20 @@ Head to the gym.
 **Save before Wattson.**
 
 :::::trainer[Leader Wattson]
-  :::pokemon[Magnemite (Setup)]
+  :::pokemon[Magnemite (Setup)]{info="If Magnemite uses Volt Tackle turn one for some reason, this fight is a mess."}
     - Gust
+    - Minimize until you get paralyzed (up to 3 times).
     - X Sp. Defense
     - X Sp. Attack x2
     - (Heal Paralysis)
 
     Continue to set up even after Volt Switches, healing as needed.
 
-    ::damage[Magnemite's Volt Switch at +2 Sp. Defense]{source="Drifloon" offensive=false movePower=70 level=22 evs=0 opponentLevel=19 opponentStat=41 effectiveness=2 stab=true combatStages=2 special=true}
+    ::damage[Magnemite's Volt Switch at +1 Sp. Defense]{source="Drifloon" offensive=false movePower=70 level=22 evs=0 opponentLevel=19 opponentStat=41 effectiveness=2 stab=true combatStages=1 special=true}
 
-    ::damage[Magneton's Volt Switch at +2 Sp. Defense]{source="Drifloon" offensive=false movePower=70 level=22 evs=0 opponentLevel=19 opponentStat=55 effectiveness=2 stab=true combatStages=2 special=true}
+    ::damage[Magneton's Volt Switch at +1 Sp. Defense]{source="Drifloon" offensive=false movePower=70 level=22 evs=0 opponentLevel=19 opponentStat=55 effectiveness=2 stab=true combatStages=1 special=true}
 
-    ::damage[Voltorb's Volt Switch at +1 Sp. Defense]{source="Drifloon" offensive=false movePower=70 level=22 evs=0 opponentLevel=19 opponentStat=25 effectiveness=2 stab=true combatStages=2 special=true}
+    ::damage[Voltorb's Volt Switch at +1 Sp. Defense]{source="Drifloon" offensive=false movePower=70 level=22 evs=0 opponentLevel=19 opponentStat=25 effectiveness=2 stab=true combatStages=1 special=true}
     :info[Remember that Charge doubles the damage of Volt Switch if they are used in succession]{color=green}
   :::
   :::pokemon[Voltorb]
@@ -399,7 +410,7 @@ Say no to Brendan.
 > - Nugget
 > - Rare Bone
 > #### Buy (Bottom)
-> - 14 Hyper Potions (>^^)
+> - 12 Hyper Potions (>^^)
 > - 8 Full Heals (>)
 > - 23 Max Repels (>^)
 
@@ -573,7 +584,7 @@ Take the left door.
 
 :info[**Free heal**]{color=pink}
 
-Do not nickname Latias. Do not acknoledge Latias.
+Do not nickname Latias. Do not acknowledge Latias.
 
 - Pick up the Elixir.
 - Pick up the PP Max.
@@ -697,6 +708,7 @@ Get the Skitty heal :info[in a flash!]{color=gray}.
 :::::
 
 - Heal to full.
+- Heal poison if you're poisoned.
 - Teach Fly to Drifblim over Minimize (slot 2).
 - Fly to Slateport.
 
@@ -762,8 +774,10 @@ Run down to the 3rd floor.
 > - 2 X Defense (v) 
 > - 3 Guard Spec (v) 
 > - 3 X Accuracy (vv)
-> - 11 X Sp. Attack (v)
+> - 12 X Sp. Attack (v)
 > - 1 X Sp. Defense (v)
+
+If you need more healing, buy max Hyper Potions from the right vendor on the 2nd floor.
 
 Run downstairs to the first floor and head to the Team Aqua hideout.
 
@@ -944,7 +958,7 @@ Use the Master Ball on Kyogre. Do not nickname it.
 - Deposit Kyogre and PC heal Drifblim. **Do not heal Mudkip.**
 
 :::::trainer[Ace Trainer Hope]
-  :::pokemon[Froslass]
+  :::pokemon[Froslass]{info="Heal until you get confused, I guess?"}
     - Shadow Ball x2
   :::
 :::::
@@ -1009,7 +1023,7 @@ Use the Master Ball on Kyogre. Do not nickname it.
   :info[_Level 49_]{color="gray"}
 :::::
 
-- Deposit Mudkip and PC heal Drifblim.
+- Deposit Mudkip and PC heal Drifblim. Withdraw Kyogre into slot 2.
 
 ### Pokemon League Shopping
 > #### Buy 
@@ -1060,6 +1074,11 @@ Use the Master Ball on Kyogre. Do not nickname it.
   :::
   :info[_Level 51_]{color="gray"}
   :::pokemon[Sableye]
+    - _If you were hit by Curse:_
+      - Switch to Kyogre
+      - Heal Drifblim to full.
+      - Spam Aqua Veil until Kyogre dies.
+      - X Sp Attack
     - Shadow Ball
   :::
   :::pokemon[Banette]
