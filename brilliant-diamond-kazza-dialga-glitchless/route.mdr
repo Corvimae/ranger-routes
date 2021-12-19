@@ -54,7 +54,7 @@ Set your console to 9 June 18:30 (works for roughly 20 minutes of resets)
 
 Pick the female character and name the character 1.
 
-Select Clint as the rival's name.
+Select Barry as the rival's name.
 
 Options:
   - Text Speed: Fast
@@ -108,7 +108,7 @@ Head north to Route 202 and learn how to catch Bidoof.
 :::::trainer[Youngster Logan]
   :::pokemon[Shinx]
     - Ember x2/3
-    ::damage[Shinx's Thunder Shock]{source="Chimchar" offensive=false movePower=40 level=7 evs=0 opponentLevel=5 opponentStat=8 special=true stab=true effectiveness=2}
+    ::damage[Shinx's Thunder Shock]{source="Chimchar" offensive=false movePower=40 level=7 evs=0 opponentLevel=5 opponentStat=8 special=true stab=true}
   :::
 :::::
 
@@ -138,8 +138,7 @@ Grab the X Defense from the right side of the first room in Oreburgh Mine (run d
 
 Head to the left and down in the second room of Oreburgh Mine, grab the Escape Rope, then talk to Roark.
 
-- Switch Machop to slot 1
-- Heal Machop to full
+- Heal Machop to full and switch it to Slot 1.
 - Use the Escape Rope.
  
 Head to the gym and fight the second trainer.
@@ -291,7 +290,7 @@ Head to the north-east and fight the left trainer by talking to him diagonally f
   :::pokemon[Pachirisu]{baseStats="[60, 45, 70, 45, 90, 95]" nature="Bashful" type="Electric" level=14}
     - Mach Punch x3 / x4
     - Ember once your attack is dropped
-    :damage[+0 Spark]{source="Chimchar" evolution=1 offensive=false movePower=65 level=14 evs=0 type="Electric"}
+    :damage[+0 Spark]{source="Chimchar" evolution=1 offensive=false movePower=65 level=14 evs=0 stab=true type="Electric"}
   :::
 :::::
 
@@ -373,16 +372,16 @@ Equip Cheri Berry.
   :::
   :::pokemon[Roserade]
     - Flame Wheel
-      ::damage[Grass Knot]{source="Chimchar" evolution=1 offensive=false opponentLevel=22 opponentStat=65 movePower=40 level=20 evs=0 type="Grass"}
+      ::damage[Grass Knot]{source="Chimchar" evolution=1 offensive=false special=true opponentLevel=22 opponentStat=65 movePower=40 level=20 evs=0 otherPowerModifier=1.5 stab=true type="Grass"}
   :::
 :::::
 
 Head to the building directly to the right of the Galactic Eterna building.
 
 **Eterna Shopping:**
-- 14 Energy Roots (v)
+- 15 Energy Roots (vv)
 - 1 Revival Herb (R)
-- 8 Heal Powders
+- 7 Heal Powders (v)
 
 Cure any status.
 
@@ -420,10 +419,17 @@ Head upstairs twice.
 
 :::::trainer[Commander Jupiter]
   :::pokemon[Zubat]
-    - Power-Up Punch x2 + Flame Wheel
+    :::if{source="Chimchar" condition="atk=(x/ 0-24/ 0-11)"}
+      - Power-Up Punch x2 + Flame Wheel
+    :::
+    - Othwerise: 
+      - Power Up Punch + Flame Wheel
   :::
   :::pokemon[Skuntank]
-    - Flame Wheel x2 - x3
+    - At +1:
+      - Power Up Punch + Flame Wheel x2
+    - Otherwise:  
+      - Flame Wheel x3
   :::
 :::::
 
@@ -467,6 +473,7 @@ Enter the contest hall, watch the cutscene, then head to the far south-east of H
     :info[94.5% range]{color=red}
   :::::
   :::::pokemon[Roselia]
+    :info[Magical Leaf does 21-24(25)]{color=blue}
     - Teleport / Switch (if low HP)
     - **If holding Cheri Berry:** Power-Up Punch + Flame Wheel
     - **Otherwise:** (Heal Paralysis +) Flame Wheel
@@ -498,13 +505,13 @@ At the milk house, head east.
 :::::::trainer[Ruin Maniac Calvin]
   :::::pokemon[Bronzor]
     - Taunt + Power-Up Punch + Flame Wheel + Mach Punch
+    :damage[Confusion damage does]{source="Chimchar" evolution=1 offensive=false special=true movePower=50 opponentLevel=21 level=23 effectiveness=2 opponentStat=15 evs=0 stab=true type="Psychic"}
   :::::
   :::::pokemon[Shieldon]
     - Mach Punch + Flame Wheel
+    :damage[Take Down does]{source="Chimchar" evolution=1 offensive=false movePower=90 opponentStat=24 opponentLevel=23 level=23 evs=0 type="Normal"}
   :::::
 :::::::
-
-Talk to the black belt before the second bridge to get TM66 Payback.
 
 Pick up the Ether in the pokeball by the jogger.
 
@@ -546,19 +553,17 @@ Take the escalator to the third floor.
   - 4x TM86
   - 3x TM93
   - 3x TM96
-  - 3x TM66
 
 **Buy:**
- - TM24 Thunderbolt (R)
- - TM35 Flamethrower (^)
+ - TM35 Flamethrower (R^)
  - TM29 Psychic (vvvv)
  - TM21 Dazzling Gleam (v)
 
 **Second floor, top vendor:**
-- 13 X Speed
-- 9 X Defense (vv)
+- 11 X Speed
+- 7 X Defense (vv)
 - 2 X Accuracy (vvv)
-- 3 X Sp. Defense (R)
+- 5 X Sp. Defense (R)
 - 31 X Sp. Attack (^)
 
 **First floor, left vendor:**
@@ -611,11 +616,10 @@ Head back to the north-west of Veilstone and talk to Lucas.
     - Flamethrower **Dustox**
     - Flamethrower **Croagunk**
   :::
-  :::if{source="Chimchar" condition="spatk=(31-/12/x)"}
-    - Flamethrower **Dustox**
-    - Flamethrower **Stunky**
-    - Flamethrower **Croagunk**
-  :::
+  - Otherwise:
+      - Flamethrower **Dustox**
+      - Flamethrower **Stunky**
+      - Flamethrower **Croagunk**
 :::::
 
 Get Fly from the warehouse on the hill, then leave Veilstone through the south gate.
@@ -644,6 +648,8 @@ After the fight:
 **DO NOT GET FREE HEAL**
 
 Pick up hidden Calcium next to tuber spinner.
+
+Pick up the two Rawst Berries (The second tree from the left).
 
 Head to the gym after reaching Pastoria.
 
@@ -691,13 +697,11 @@ Press the green button, then head down and press the orange button.
   :::
 :::::
 
-Heal Kadabra to full.
-
-Use the Calcium.
-
-Set battle style to Switch.
-
-Save.
+After this fight:
+  - Heal Kadabra to full.
+  - Use the Calcium.
+  - Set battle style to Switch.
+  - Save.
 
 :::::trainer[Gym Leader Wake]
   :::pokemon[Gyarados]
@@ -822,7 +826,7 @@ Enter the:
 - Right door
 
 :::::trainer[Gym Leader Fantina]
-  :::pokemon[Drifblim]{info="(Heal as needed (heal burn immediately). Has aftermath)"}
+  :::pokemon[Drifblim]{info="Heal as needed (heal burn immediately)."}
     - X-Sp. Def + X-Speed + X-Sp. Atk + Psyshock[2]
       - If fly, heal to full.
   :::
@@ -839,8 +843,8 @@ After exiting the gym:
 - Ether Psychic.
 - Super Repel (do not refresh).
 - Equip Metronome on Kadabra.
-- Teach Shadow Ball over Shock Wave (Slot 3).
-- Fly to Jubilife City and head west.
+- Teach TM30 Shadow Ball over Shock Wave (Slot 3).
+- Fly to Jubilife City (big red, left of the map) and head west.
 
 Go fully west to the water, surf to the land with Fishermen, then surf again to fully avoid the spinner.
 
@@ -979,12 +983,12 @@ Go South to Lake Valor.
   :::pokemon[Kadabra]
     - Shadow Ball[4]
   :::
+  :::pokemon[Toxicroak]
+    - Psyshock[0]
+  :::
   :::pokemon[Bronzor]
     - Shadow Ball (x2)[2]
     :info[13/16 Range]{color=red}
-  :::
-  :::pokemon[Toxicroak]
-    - Psyshock[0]
   :::
 :::::
 
@@ -1092,11 +1096,11 @@ Enter the middle door and head up the stairs.
   :::
 :::::
 
-Use the teleporter in the middle room, then head up the stairs.
-
-Talk to the bed from the side for a free heal. Then up the stairs.
-
-Grab the Full Restore in the machine thing to the right, then fight the double battle.
+After this fight:
+  - Use the teleporter in the middle room, then head up the stairs.
+  - Talk to the bed from the side for a free heal. Then up the stairs.
+  - Grab the Full Restore in the machine thing to the right, then fight the double battle.
+  - Withdraw Monferno.
 
 :::::trainer[Team Galactic Double]
   - Dazzling Gleam[9] / Anything
@@ -1161,7 +1165,7 @@ Grab the Rare Candy in the last outdoor section on the rock in the grass.
 
 :::::trainer[Team Galactic Grunt]
   :::pokemon[Bronzor]
-    - Shadow Ball[10]
+    - Shadow Ball[11]
   :::
   :::pokemon[Golbat]
     - Psyshock[5]
