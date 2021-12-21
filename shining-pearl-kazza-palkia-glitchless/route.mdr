@@ -102,7 +102,7 @@ Head north to Route 202 and learn how to catch Bidoof.
 :::::trainer[Youngster Logan]
   :::pokemon[Shinx]
     - Ember x2/3
-    ::damage[Shinx's Thunder Shock]{source="Chimchar" offensive=false movePower=40 level=7 evs=0 opponentLevel=5 opponentStat=8 special=true stab=true effectiveness=2}
+    ::damage[Shinx's Thunder Shock]{source="Chimchar" offensive=false movePower=40 level=7 evs=0 opponentLevel=5 opponentStat=8 special=true stab=true}
   :::
 :::::
 
@@ -284,7 +284,7 @@ Head to the north-east and fight the left trainer by talking to him diagonally f
   :::pokemon[Pachirisu]{baseStats="[60, 45, 70, 45, 90, 95]" nature="Bashful" type="Electric" level=14}
     - Mach Punch x3 / x4
     - Ember once your attack is dropped
-    :damage[+0 Spark]{source="Chimchar" evolution=1 offensive=false movePower=65 level=14 evs=0 type="Electric"}
+    :damage[+0 Spark]{source="Chimchar" evolution=1 offensive=false movePower=65 level=14 evs=0 stab=true type="Electric"}
   :::
 :::::
 
@@ -366,16 +366,16 @@ Equip Cheri Berry.
   :::
   :::pokemon[Roserade]
     - Flame Wheel
-      ::damage[Grass Knot]{source="Chimchar" evolution=1 offensive=false opponentLevel=22 opponentStat=65 movePower=40 level=20 evs=0 type="Grass"}
+      ::damage[Grass Knot]{source="Chimchar" evolution=1 offensive=false special=true opponentLevel=22 opponentStat=65 movePower=40 level=20 evs=0 otherPowerModifier=1.5 stab=true type="Grass"}
   :::
 :::::
 
 Head to the building directly to the right of the Galactic Eterna building.
 
 **Eterna Shopping:**
-- 14 Energy Roots (v)
+- 15 Energy Roots (vv)
 - 1 Revival Herb (R)
-- 8 Heal Powders
+- 7 Heal Powders (v)
 
 Cure any status.
 
@@ -413,10 +413,17 @@ Head upstairs twice.
 
 :::::trainer[Commander Jupiter]
   :::pokemon[Zubat]
-    - Power-Up Punch x2 + Flame Wheel
+    :::if{source="Chimchar" condition="atk=(x/ 0-24/ 0-11)"}
+      - Power-Up Punch x2 + Flame Wheel
+    :::
+    - Othwerise: 
+      - Power Up Punch + Flame Wheel
   :::
   :::pokemon[Skuntank]
-    - Flame Wheel x2 - x3
+    - At +1:
+      - Power Up Punch + Flame Wheel x2
+    - Otherwise:  
+      - Flame Wheel x3
   :::
 :::::
 
@@ -460,6 +467,7 @@ Enter the contest hall, watch the cutscene, then head to the far south-east of H
     :info[94.5% range]{color=red}
   :::::
   :::::pokemon[Roselia]
+    :info[Magical Leaf does 21-24(25)]{color=blue}
     - Teleport / Switch (if low HP)
     - **If holding Cheri Berry:** Power-Up Punch + Flame Wheel
     - **Otherwise:** (Heal Paralysis +) Flame Wheel
@@ -491,9 +499,11 @@ At the milk house, head east.
 :::::::trainer[Ruin Maniac Calvin]
   :::::pokemon[Bronzor]
     - Taunt + Power-Up Punch + Flame Wheel + Mach Punch
+    :damage[Confusion damage does]{source="Chimchar" evolution=1 offensive=false special=true movePower=50 opponentLevel=21 level=23 effectiveness=2 opponentStat=15 evs=0 stab=true type="Psychic"}
   :::::
   :::::pokemon[Shieldon]
     - Mach Punch + Flame Wheel
+    :damage[Take Down does]{source="Chimchar" evolution=1 offensive=false movePower=90 opponentStat=24 opponentLevel=23 level=23 evs=0 type="Normal"}
   :::::
 :::::::
 
@@ -600,11 +610,10 @@ Head back to the north-west of Veilstone and talk to Lucas.
     - Flamethrower **Dustox**
     - Flamethrower **Croagunk**
   :::
-  :::if{source="Chimchar" condition="spatk=(31-/12/x)"}
-    - Flamethrower **Dustox**
-    - Flamethrower **Stunky**
-    - Flamethrower **Croagunk**
-  :::
+  - Otherwise:
+      - Flamethrower **Dustox**
+      - Flamethrower **Stunky**
+      - Flamethrower **Croagunk**
 :::::
 
 Get Fly from the warehouse on the hill, then leave Veilstone through the south gate.
@@ -633,6 +642,8 @@ After the fight:
 **DO NOT GET FREE HEAL**
 
 Pick up hidden Calcium next to tuber spinner.
+
+Pick up the two Rawst Berries (The second tree from the left).
 
 Head to the gym after reaching Pastoria.
 
@@ -680,13 +691,11 @@ Press the green button, then head down and press the orange button.
   :::
 :::::
 
-Heal Kadabra to full.
-
-Use the Calcium.
-
-Set battle style to Switch.
-
-Save.
+After this fight:
+  - Heal Kadabra to full.
+  - Use the Calcium.
+  - Set battle style to Switch.
+  - Save.
 
 :::::trainer[Gym Leader Wake]
   :::pokemon[Gyarados]
@@ -811,7 +820,7 @@ Enter the:
 - Right door
 
 :::::trainer[Gym Leader Fantina]
-  :::pokemon[Drifblim]{info="(Heal as needed (heal burn immediately). Has aftermath)"}
+  :::pokemon[Drifblim]{info="Heal as needed (heal burn immediately)."}
     - X-Sp. Def + X-Speed + X-Sp. Atk + Psyshock[2]
       - If fly, heal to full.
   :::
@@ -828,8 +837,8 @@ After exiting the gym:
 - Ether Psychic.
 - Super Repel (do not refresh).
 - Equip Metronome on Kadabra.
-- Teach Shadow Ball over Shock Wave (Slot 3).
-- Fly to Jubilife City and head west.
+- Teach TM30 Shadow Ball over Shock Wave (Slot 3).
+- Fly to Jubilife City (big red, left of the map) and head west.
 
 Go fully west to the water, surf to the land with Fishermen, then surf again to fully avoid the spinner.
 
@@ -968,12 +977,12 @@ Go South to Lake Valor.
   :::pokemon[Kadabra]
     - Shadow Ball[4]
   :::
+  :::pokemon[Toxicroak]
+    - Psyshock[0]
+  :::
   :::pokemon[Bronzor]
     - Shadow Ball (x2)[2]
     :info[13/16 Range]{color=red}
-  :::
-  :::pokemon[Toxicroak]
-    - Psyshock[0]
   :::
 :::::
 
@@ -1081,11 +1090,11 @@ Enter the middle door and head up the stairs.
   :::
 :::::
 
-Use the teleporter in the middle room, then head up the stairs.
-
-Talk to the bed from the side for a free heal. Then up the stairs.
-
-Grab the Full Restore in the machine thing to the right, then fight the double battle.
+After this fight:
+  - Use the teleporter in the middle room, then head up the stairs.
+  - Talk to the bed from the side for a free heal. Then up the stairs.
+  - Grab the Full Restore in the machine thing to the right, then fight the double battle.
+  - Withdraw Monferno.
 
 :::::trainer[Team Galactic Double]
   - Dazzling Gleam[9] / Anything
@@ -1150,7 +1159,7 @@ Grab the Rare Candy in the last outdoor section on the rock in the grass.
 
 :::::trainer[Team Galactic Grunt]
   :::pokemon[Bronzor]
-    - Shadow Ball[10]
+    - Shadow Ball[11]
   :::
   :::pokemon[Golbat]
     - Psyshock[5]
@@ -1235,28 +1244,29 @@ Grab the Rare Candy in the last outdoor section on the rock in the grass.
 
 After entering Sunyshore, head to the lighthouse. Talk to Volkner, then head to the gym.
 
-Gym Puzzle: Right, Left
+:info[Gym Puzzle: Right, Left]{color=green}
 :::::trainer[School Kid Tiera]
   :::pokemon[Pachirisu]
     - Psychic[9]
   :::
 :::::
 
-Gym Puzzle: Left Blue x3
+:info[Gym Puzzle: Left Blue x3]{color=blue}
 :::::trainer[School Kid Forrest]
   :::pokemon[Mr. Mime]
     - Shadow Ball[14]
   :::
 :::::
 
-Gym Puzzle: Blue + Green
+:info[Gym Puzzle: Blue then]{color=blue}
+:info[Gym Puzzle: Green]{color=green}
 :::::trainer[Guitarist Jerry]
   :::pokemon[Luxio]
     - Shadow Ball[13]
   :::
 :::::
 
-Gym Puzzle: Red then the next red
+:info[Gym Puzzle: Red then the next red]{color=red}
 :::::trainer[Ace Trainer Destiny]
   :::pokemon[Kadabra]
     - Shadow Ball[12]
@@ -1276,7 +1286,8 @@ Gym Puzzle: Red then the next red
   :::
 :::::
 
-Gym Puzzle: Green x2 then Blue
+:info[Gym Puzzle: Green x2]{color=green} 
+:info[then Blue]{color=blue}
 :::::::trainer[Ace Trainer Zachery]
   :::::pokemon[Steelix]
     - Shadow Ball x2[8]
@@ -1443,11 +1454,11 @@ Before triggering the Barry fight:
   :::pokemon[Heracross]
     - Surf[5]
   :::
-  :::pokemon[Empoleon]{baseStats="[84, 86, 88, 111, 101, 60]" ivs="[11, 11, 11, 11, 11, 11]" evs="[52, 0, 52, 156, 52, 164]" nature="Timid" type="Grass/Ground" level=56}
+  :::pokemon[Empoleon]{baseStats="[84, 86, 88, 111, 101, 60]" ivs="[11, 11, 11, 11, 11, 11]" evs="[52, 0, 52, 156, 52, 164]" nature="Timid" type="Grass" level=55}
     - (heal +) Surf[3 SIC]
     :info[Has Quick Claw]{color=red}
-    :damage[Empoleon's Grass Knot at lvl 50]{source="Palkia" offensive=false movePower=120 combatStages=0 level=50 evs=8 special=false type="Grass"}
-    :damage[Empoleon's Grass Knot at lvl 51]{source="Palkia" offensive=false movePower=120 combatStages=0 level=51 evs=8 special=false type="Grass"}
+    :damage[Empoleon's Grass Knot at lvl 50]{source="Palkia" offensive=false movePower=120 combatStages=0 level=50 special=false type="Grass"}
+    :damage[Empoleon's Grass Knot at lvl 51]{source="Palkia" offensive=false movePower=120 combatStages=0 level=51 special=false type="Grass"}
   :::
 :::::
 
@@ -1479,7 +1490,7 @@ Before triggering the Barry fight:
 - Equip Metronome (or anything else than Choice Specs with 191+ Sp. Atk (x / x / 14+))
 
 :::::::trainer[Elite Four Bertha]
-  :::::pokemon[Quagsire]{info="X-Speed if 111 or less speed on Golem (0 - 20/ x / x)"}
+  :::::pokemon[Quagsire]{info="X-Speed if 111 or less speed on Golem (0 - 20/ x / x)" infoColor=blue}
     - X-Defense (+ X-Speed) + X-Sp. Atk + Full Restore + Dragon Pulse[9]
   :::::
   :::::pokemon[Sudowoodo]
@@ -1523,8 +1534,8 @@ Before triggering the Barry fight:
   :::::
   :::::pokemon[Infernape]{baseStats="[76, 104, 71, 104, 71, 108]" ivs="[31, 31, 31, 0, 31, 31]" evs="[12, 60, 0, 0, 0, 204]" nature="Jolly" type="Fire/Fighting" level=62}
     - Surf x2[0]
-    :damage[Infernape's Mach Punch]{source="Palkia" offensive=false movePower=40 level=57 special=false type="Fighting"}
-    :damage[Infernape's Close Combat]{source="Palkia" offensive=false movePower=120 level=57 special=false type="Fighting"}
+    :damage[Infernape's Mach Punch]{source="Palkia" offensive=false movePower=40 level=55 combatStages=2 special=false type="Fighting"}
+    :damage[Infernape's Close Combat]{source="Palkia" offensive=false movePower=120 level=55 combatStages=2 special=false type="Fighting"}
   :::::
 :::::::
 
@@ -1537,7 +1548,7 @@ Before triggering the Barry fight:
     - X Speed (x2) :info[Use 2 X-Speeds with 112 Speed or less (0 - 14/ x / x)]
     - X Sp. Attack x3
     - Surf[9]
-    :damage[Mr. Mime's Dazzling Gleam]{source="Palkia" offensive=false movePower=80 level=57 evs=12 special=true type="Fairy"}
+    :damage[Mr. Mime's Dazzling Gleam]{source="Palkia" offensive=false movePower=80 level=57 evs=12 combatStages=2 special=true type="Fairy"}
   :::
   :::pokemon[Medicham]{baseStats="[60, 60, 75, 60, 75, 80]" ivs="[31, 31, 31, 0, 31, 0]" evs="[0, 252, 0, 0, 0, 0]" type="Psychic/Fighting" level=60 nature="Brave"}
     - Surf[8]
@@ -1561,7 +1572,7 @@ Before triggering the Barry fight:
     - X Speed
     - X Sp. Attack x2
     - Dragon Pulse[5]
-    :damage[Spiritomb's Shadow Ball/Dark Pulse at +2 Sp. Defense]{source="Palkia" offensive=false movePower=80 level=57 special=true combatStages=2 evs=14 type="Dark"}
+    :damage[Spiritomb's Shadow Ball/Dark Pulse at +2 Sp. Defense]{source="Palkia" offensive=false movePower=80 level=56 special=true combatStages=2 type="Dark"}
   :::
   :::pokemon[Lucario]
     - Dragon Pulse[3]

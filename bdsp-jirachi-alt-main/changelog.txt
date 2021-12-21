@@ -33,3 +33,85 @@ Version skip cause I made a lot of changes, idk how this works
 	Added notes to prioritize Glameows with Retaliate
 	Routed out Hotel PP Up and Hyper Potion
 	And more stuff I didn't write down on my post-it notes...
+
+Version 1.3.0
+	Re-reverted Mars 1 - added note about keeping piplup alive
+	Added note to use swift on Eterna Bug Catcher
+	Added note to fight the Psychics as a double battle
+	Fixed ranges on Caroline's Cherubi by setting healthThreshold to auto
+	Added a hidden revive pickup after you get the bike
+	Routed out Moomoo Milks and instead buy more Herbs
+	Added a note concerning Jirachi hating Ruin Maniac Calvin
+	Added some periods.
+	Moved a Rare Candy to try and reduce encounters on Route 215 - means Rafael's Meditite can't get OHKO'd
+	Fixed (?) some ::: appearing on Abigail
+	Moved Calcium earlier
+	Updated syntax on the Wake fight
+	Updated colours on Rival 3 fight
+	Added note about dodging the fog ninja on the way to Shadow Ball
+	Added note to refresh repel "like once" on the Fog Route
+	Removed the x1-2 Thunderbolt on Brianna's Noctowl as it's guaranteed
+	Added a note if you somehow ran out of Super Repels
+	Moved the Celestic Grunt fight to before Choice Specs
+	Updated Saturn 1 due to Toxicroak always going for Thief
+	Fixed the Verity Double by not having Stunky out on turn 1, adding Silcoon & Golbat
+	Updated Mars 2 Mon order
+	Fixed Mars 2 Purugly's level in the data
+	Fixed the damage calcs not including the X SpAttack
+	Fixed Saturn 2 Shadow Ball ranges calcing off Attack instead of SpAttack
+	Added 2 Rare Candies to the route, and edited the levels to reflect that
+	Made teaching Aqua Jet in boldface
+	Fixed Jupiter & Mars double damage calcs by changing flamethrower to effect SpDefense instead of Defense & Thunderbolt being special
+	Moved an X SpAttack from Omar to Cyrus 2
+	Removed X Defense from Volkner
+	Fixed Omar's Rapidash's base speed from 1055 to 105, and nature
+	Removed Light Screen ranges from Drapion, it's not likely to ever matter. Crits? I guess
+	Added note to save before Bertha
+	Added conditional X SpAttack to OHKO the Hippowdon
+	Updated the OHKO range on Hippowdon to include Stealth Rock text
+	Added more ranges on Flint to reflect different situations while setting up on Rapidash
+	Updated the OHKO range on Steelix to include Stealth Rock text
+	Added a note that you don't need to move Jirachi back to slot 1
+	Fixed Flash Cannon Ranges on Girafarig from 90 Power to 80 Power
+	Fixed Earthquake Ranges from Bronzong from 80 Power to 100 Power
+	Moved the optional X Speed on Cynthia from Gastrodon to Spiritomb
+	Removed the X Defense from Cynthia
+	
+Version 1.3.1
+	Moved X SpAttack back to Omar, bought 2 more, bought 2 less super repels
+
+Version 1.4.0
+	Added Pluck
+	Fixed a spelling mistake on an Armoa Lady
+	Updated Jupiter to Commander Jupiter
+	Added a colon
+	Updated Rival 2 fight to go to +4 SpAttack, to deal with Ponyta and Grotle better
+	Added Flame Charge Ranges to Rival 2
+	Added Flame Wheel Ranges to Rival 3
+	Fixed and moved the level up 26 location
+	Updated Herb shop to 9 Heal Powders, 14 Energy Roots, 1 Revival Herb
+	Updated Super Repel shop to be like 8
+	Added an X SpDefense
+	Added Samson Thunderbolt Ranges
+	Moved Celestic Grunt fight to be after it says to fight him
+	Added Phantom Force ranges against Jirachi
+	Added Prinplup to your party earlier
+	Changed Rival 4 fight to use Metronome
+	Added Stealth Rock on Byron
+	Updated the place we do a menu after Saturn 2
+	Changed the ether we pick up in Mt. Coronet
+	Added note to say second outside for the Mt. Coronet Rare Candy
+	Updated the exp route to reflect this, teaching Aqua Jet before Mars & Jupiter
+ 	Moved a candy pickup location to where it actually is
+	Removed a heal after Fredrick which doesn't really help anything
+	Updated Saturn 2 Toxicroak ranges to be guaranteed
+	Added Filter to both Mr. Mimes and updated the ranges to actually reflect it
+	Added Dialga/Palkia back into the route for the Blissey
+	Added Psychic OHKO Range to Edgar's Tentacruel
+	Updated Edgar's Empoleon's Brine to be actually useful, with boosted Brine 
+	Added conditional X Speed on Barry 5
+	Updated Flash Cannon power from 90 to 80 on Girafarig
+	Added Shockwave ranges from Alakazam
+	Updated Cynthia to have +0 Sucker Punch ranges, +3/+4 Dark Pulse ranges, +0 Earthquake ranges, +6 Metronome-0 Flash Cannon ranges
+
+
