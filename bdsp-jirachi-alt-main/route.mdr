@@ -153,6 +153,8 @@ Head north to Route 202 and learn how to catch Bidoof.
   ::level{source="Piplup" value=7}
 :::::
 
+- Heal to full.
+
 :::::trainer[Youngster Logan]
   :::pokemon[Shinx]{baseStats="[45, 65, 34, 40, 34, 45]" nature="Jolly" type="Electric" level=5}
     - Water Gun x2-3
