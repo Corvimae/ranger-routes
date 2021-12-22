@@ -114,4 +114,8 @@ Version 1.4.0
 	Added Shockwave ranges from Alakazam
 	Updated Cynthia to have +0 Sucker Punch ranges, +3/+4 Dark Pulse ranges, +0 Earthquake ranges, +6 Metronome-0 Flash Cannon ranges
 
+Version 1.4.1
+	Added a heal between Natalie and Logan
+	Added Expert Belt to Fantina's Mismagius
+	Updated the Metronome bonus from 1.6 to 1.8 on Rival 4's Ponyta
 
