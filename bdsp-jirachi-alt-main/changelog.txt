@@ -118,3 +118,4 @@ Version 1.4.1
 	Added a heal between Natalie and Logan
 	Added Expert Belt to Fantina's Mismagius
 	Updated the Metronome bonus from 1.6 to 1.8 on Rival 4's Ponyta
+

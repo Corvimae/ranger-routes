@@ -894,6 +894,7 @@ Enter the:
     - Shadow Ball x1-2
 	:damage[Jirachi's +4 Shadow Ball Ranges vs Mismagius]{source="Jirachi" special=true offensive=true movePower=80 combatStages=4 type="Ghost" healthThreshold=auto}
   :damage[Mismagius' Shadow Force vs Jirachi]{source="Jirachi" offensive=false movePower=90 type="Ghost" otherModifier=1.2 theme=error}
+
   :::::
   ::level{source="Jirachi" value=31}
 :::::::
@@ -932,6 +933,7 @@ At Canalave, cross the bridge.
   :::::pokemon[Ponyta]{baseStats="[50, 85, 55, 65, 65, 90]" ivs="[7, 7, 7, 7, 7, 7]" evs="[40, 64, 16, 0, 16, 64]" nature="Jolly" type="Fire" level=34}
     - Psychic x1-2
 	:damage[Jirachi's +0 Metronome-4 Psychic vs Ponyta]{source="Jirachi" type="Psychic" movePower=90 otherModifier=1.8 special=true healthThreshold=auto}
+
 	:damage[Ponyta's Flame Wheel vs Jirachi]{source="Jirachi" offensive=false type="Fire" movePower=60 theme="error"}
   ::::: 
   :::::pokemon[Grotle]{baseStats="[75, 89, 85, 55, 65, 36]" ivs="[11, 11, 11, 11, 11, 11]" evs="[80,24,48,24,80,0]" nature="Careful" type="Grass" level=37}
