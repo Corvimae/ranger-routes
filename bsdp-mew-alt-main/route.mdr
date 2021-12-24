@@ -1085,10 +1085,10 @@ Surf around the second double battle (avoid grass completely).
 
 :::::::trainer[Commander Mars]
   :::::pokemon[Golbat]{info="You outspeed at (5+ / 0+ / 0+)" infoColor=blue baseStats="[75, 80, 70, 65, 75, 90]" ivs="[15, 0, 15, 0, 15, 0]" evs="[68, 0, 68, 0, 68, 0]" nature="Jolly" level=37}
-  :::if{source="Mew" condition="spe=(31-/31-/17-)}
+  :::if{source="Mew" condition="spe=(31-/31-/17-)"}
     - X SpAttack + X Speed + Thunderbolt
   :::
-  :::if{source="Mew" condition="spe=(x)/x/18+)}
+  :::if{source="Mew" condition="spe=(x)/x/18+)"}
   - X SpAttack + X Speed + Thunderbolt
   :::
   :damage[Golbats's U-Turn vs Mew]{source="Mew" type="Bug" movePower=70 theme="error" offensive=false}
@@ -1104,7 +1104,7 @@ Surf around the second double battle (avoid grass completely).
   :damage[Bronzor's Payback-100 vs Mew]{source="Mew" type="Dark" movePower=100 theme="error" offensive=false}
   :::::
   ::level{source="Mew" value=40}
-:::::
+:::::::
 
 Fly to Celestic Town.
 
@@ -1326,7 +1326,7 @@ __Teach Aqua Jet over Bubble Beam (Slot 1)__
 - Heal to full.
 - Save the game.
 
-:::::trainer[Commander Jupiter & Mars]{info="Okay this fight kinda sucks}
+:::::trainer[Commander Jupiter & Mars]{info="Okay this fight kinda sucks"}
   :::pokemon[Right Bronzor]{baseStats="[57, 24, 86, 24, 86, 23]" ivs="[15, 0, 15, 0, 15, 0]" evs="[68, 0, 68, 0, 68, 0]" nature="Relaxed" type="Steel/Psychic" level=41}
 	 - Flamethrower x1-2
 	 :damage[Mew's Choice Specs Flamethrower vs Bronzor-R]{source="Mew" choiceItem=true special=true healthThreshold=auto movePower=90 type="Fire"}

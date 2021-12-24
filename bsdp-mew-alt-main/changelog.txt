@@ -47,3 +47,7 @@ Version 0.1.0
     Added Full Restore on Dustox
     Fixed Aaron's mon order
     Added ranges to Lucian
+
+Version 1.0.0
+    Released to public
+    Removed any outlying ":::"
