@@ -119,3 +119,10 @@ Version 1.4.1
 	Added Expert Belt to Fantina's Mismagius
 	Updated the Metronome bonus from 1.6 to 1.8 on Rival 4's Ponyta
 
+Version 1.4.2
+	Move Jirachi back to Slot 1 after Byron
+	Moved some menus around
+	Added the note of the Expert Belt to Fantina's Mismagius
+	Changed the menus before Jubilife the first time
+	Cleaned up some syntax
+	Updated Vespiquen to actually have correct stats

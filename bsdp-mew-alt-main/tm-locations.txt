@@ -1,0 +1,84 @@
+Jubilife:
+    Work Up
+
+Oreburgh:
+    Rock Smash
+
+Floaroma:
+    Rock Tomb
+    Bullet Seed
+    Pluck
+
+Eterna:
+    Calm Mind
+    ---
+    Grass Knot
+    Thief
+
+Hearthome -> Veilstone:
+    Volt Switch
+    Steel Wing
+    Strength
+    Payback
+    Shock Wave
+    
+Veilstone:
+    Flamethrower
+    Ice Beam
+    Bulldoze
+    Thunderbolt
+    Psychic
+    Swords Dance
+    Focus Blast
+    Dazzling Gleam
+    --
+    Nasty Plot
+    --
+    Drain Punch
+    ---
+    Fly
+
+Pastoria:
+    Aerial Ace
+    Defog
+    Toxic
+    ---
+    Brine
+
+Celestic:
+    Shadow Ball
+    Surf
+
+Hearthome:
+    ---
+    Shadow Claw
+    ---
+    Poison Jab
+
+Canalave:
+    U-Turn
+    ---
+    Flash Cannon
+
+Snowpoint:
+    ---
+    Avalanche
+
+Mt Coronet -> Spear Pillar:
+    Rock Slide
+    Dragon Claw
+
+Sunnyshore:
+    ---
+    Charge Beam
+
+Victory Road:
+    Dragon Pulse
+    Stone Edge
+    Dark Pulse
+
+Heavy Backtracks:
+    Giga Drain - South Hallowed Tower w/ Surf
+    Earthquake - Wayward Cave w/ Strength
+    Snarl - North of Jubilife w/ Cut
+    Brick Break - Oreburgh Gate w/ Bike

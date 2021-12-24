@@ -1,0 +1,1816 @@
+:::tracker{species="Piplup" baseStats="[[53, 51, 53, 61, 56, 40], [64, 66, 68, 81, 76, 50]]" type="Water" generation=8}
+  5:
+    6  -> 0,  0,  0,  0,  0,  3
+    7  -> 1,  0,  0,  0,  0,  4
+    8  -> 2,  1,  0,  0,  0,  4
+    9  -> 2,  1,  0,  2,  0,  4 
+    10 -> 2,  2,  0,  2,  0,  5
+    11 -> 2,  2,  1,  2,  0,  5
+    12 -> 2,  2,  2,  2,  0,  5
+    13 -> 2,  3,  2,  2,  0,  5
+    14 -> 4,  3,  2,  2,  0,  6
+    15 -> 4,  3,  2,  2,  0,  9
+:::
+:::tracker{species="Mew" baseStats="[[100, 100, 100, 100, 100, 100]]" type="Psychic" generation=8}
+  6:
+    7 -> 1, 0, 2, 0, 0, 0
+    8 -> 1, 0, 2, 0, 0, 0
+    9 -> 1, 0, 2, 0, 0, 1
+    10 -> 1, 0, 2, 0, 0, 2
+    11 -> 1, 0, 2, 0, 0, 3
+    12 -> 1, 0, 2, 0, 0, 5
+    13 -> 1, 0, 2, 0, 0, 5
+    14 -> 1, 0, 2, 0, 0, 6
+    15 -> 2, 0, 2, 0, 0, 6
+    16 -> 2, 0, 4, 3, 0, 6
+    17 -> 2, 0, 4, 8, 0, 6
+    18 -> 2, 0, 4, 11, 0, 6
+    19 -> 2, 1, 4, 14, 0, 6
+    20 -> 2, 2, 4, 17, 0, 6
+    21 -> 3, 2, 6, 17, 0, 6
+    22 -> 6, 2, 8, 19, 0, 10
+    23 -> 6, 3, 9, 19, 0, 13
+    24 -> 6, 3, 11, 20, 0, 14
+    25 -> 6, 5, 11, 22, 0, 15
+    26 -> 6, 7, 11, 22, 0, 17
+    27 -> 6, 8, 11, 23, 3, 17
+    28 -> 6, 9, 11, 26, 3, 18
+    28 -> 6, 9, 11, 39, 4, 18
+    29 -> 7, 9, 11, 39, 4, 21
+    30 -> 13, 11, 11, 39, 4, 22
+    31 -> 13, 12, 12, 39, 4, 27
+    32 -> 13, 12, 12, 39, 4, 27
+    33 -> 13, 12, 12, 39, 4, 27
+    34 -> 16, 15, 13, 42, 4, 29
+    35 -> 18, 16, 13, 45, 4, 29
+    36 -> 18, 18, 13, 46, 5, 33
+    37 -> 18, 19, 19, 46, 5, 33
+    38 -> 21, 19, 27, 46, 5, 33
+    39 -> 21, 21, 30, 48, 5, 33
+    40 -> 21, 21, 33, 48, 5, 42
+    41 -> 21, 23, 36, 50, 5, 45
+    42 -> 21, 25, 36, 51, 8, 48
+    43 -> 21, 27, 39, 55, 8, 52
+    44 -> 21, 29, 41, 57, 8, 57
+    45 -> 21, 30, 43, 57, 11, 65
+    46 -> 23, 30, 45, 57, 11, 71
+    47 -> 23, 35, 45, 57, 11, 75
+    48 -> 25, 37, 45, 60, 11, 76
+    49 -> 25, 41, 45, 62, 13, 80
+    50 -> 25, 44, 47, 63, 13, 87
+    51 -> 28, 47, 47, 66, 16, 87
+    52 -> 28, 51, 47, 66, 16, 89
+    53 -> 31, 56, 50, 66, 16, 89
+    54 -> 31, 61, 53, 68, 19, 89
+    55 -> 33, 65, 53, 71, 19, 93
+    56 -> 33, 72, 54, 74, 22, 93
+    57 -> 35, 74, 59, 74, 23, 93
+    58 -> 37, 74, 66, 74, 23, 95
+    59 -> 39, 75, 66, 75, 25, 98
+    60 -> 39, 75, 68, 80, 27, 100
+    61 -> 41, 79, 68, 84, 29, 100
+
+:::
+
+## Mew Alt Main v1.0.0
+Routed by GreenLightn1ng#2156
+
+_This route is unpolished, use at your own risk. If you have any queries, complaints, or criticism, feel free to message me on Discord._
+
+:::card{theme=warning}
+This route requires a Pokemon Let's Go Pikachu or Eevee save file on the same account you attempt this run. It does not need to be a completed save file. If you are running on your primary switch, you do not need to purchase multiple copies of SwSh or BDSP, so long as you have purchased both games once on any of your accounts. If you are running on a secondary switch, you must use the account that has purchased the games.
+:::
+
+:::card{theme=success}
+This route works for both Brilliant Diamond __and__ Shining Pearl, as the Box Legendary is interchangable.
+:::
+
+Optimal mashing is to switch between pressing A, ZL, and ZR. You must continue mashing throughout the textbox, unlike previous games.
+
+If you know where all the items are, you can turn off images by clicking the options button at the top of these notes.
+
+Spreadsheets: https://docs.google.com/spreadsheets/d/1iuInm8ypxDUj6C7QC1q9Vkv3na9Ua1R40W4IAMLb8HA/edit?usp=sharing
+
+I still need to add some more images, and maybe some other things...
+
+Minus Attack or Special Attack natures are not considered, and should probably not be run, concerning PP management.
+
+**Set your clock to approximately 2:30 AM. You want it to be between 4-10 when you get to Celestic Town.**
+
+Name the character 1.
+
+Select Barry/Clint as the rival's name.
+
+Options:  
+  - Text Speed: Fast
+  - Battle Effects: Off (vv)
+  - Battle Style: Set (v)
+  - Send to Boxes: Automatic (v)
+  - Autosave: Off (vv)
+  - Background Music: 0 (vv)
+
+Head to Barry's House (top left). Enter Barry's house and go upstairs, then leave.
+
+Leave the town from the north, then head west to the lake.
+
+Select Piplup (right-most ball).
+
+:::trainer[Starly]
+  - Pound spam
+:::
+
+All Piplups _should_ work.
+
+Run north, then east to Sandgem Town.
+
+Do not nickname Piplup (say No). Say Yes to Rowan's second prompt. Run back to your house.
+
+Talk to your mom.
+
+Run back to Sandgem. On the way, talk to the Pokemart clerk at the top of the second grass patch to get 10 potions.
+
+Head north to Route 202 and learn how to catch Bidoof.
+
+:::::trainer[Youngster Tristan]
+  :::pokemon[Starly]{baseStats="[40, 55, 30, 30, 30, 60]" nature="Jolly" type="Normal/Flying" level=5}
+    - Pound spam
+    ::damage[Starly's Quick Attack]{source="Piplup" offensive=false movePower=40 level=5 evs=0 type="Normal" special=false theme="error"}
+  :::
+  ::level{source="Piplup" value=6}
+:::::
+
+- Heal to full unless safely in torrent.
+
+:::::trainer[Lass Natalie]
+  ::damage[Bidoofs' Tackles vs Piplup]{source="Piplup" offensive=false movePower=40 opponentLevel=3 opponentStat=7 stab=true special=false theme="error"}
+  ::damage[Piplup's Torrent Water Gun vs Bidoofs]{source="Piplup" movePower=40 type="Water" special=true opponentStat=7 torrent=true healthThreshold=16}
+  :::pokemon[Bidoof]{baseStats="[59, 45, 40, 35, 40, 31]" nature="Jolly" type="Normal" level=3}
+    - Water Gun x1-2
+  :::
+  :::pokemon[Bidoof]{baseStats="[59, 45, 40, 35, 40, 31]" nature="Jolly" type="Normal" level=3}
+    - Water Gun x1-2
+  :::
+  ::level{source="Piplup" value=7}
+:::::
+
+- Heal to full.
+
+:::::trainer[Youngster Logan]
+  :::pokemon[Shinx]{baseStats="[45, 65, 34, 40, 34, 45]" nature="Jolly" type="Electric" level=5}
+    - Water Gun x2-3
+    ::damage[Shinx's Thunder Shock vs Piplup]{source="Piplup" offensive=false movePower=40 special=true type="Electric" theme="error"}
+  :::
+:::::
+
+_If you're paralyzed, grab the hidden Paralyze Heal on the left before going into Jubilife, and use it_
+
+- Heal to full.
+
+Head to the Trainer School and talk to Barry. Leave the trainer school. _Supposedly you can do the Abra fights now, but its safer later._
+
+Talk to the three Poketch Clowns and get the Poketch from the Poketch inventor.
+
+:::::trainer[Pokemon Trainer Barry]
+  :::pokemon[Starly]{baseStats="[40, 55, 30, 30, 30, 60]" ivs="[5, 5, 5, 5, 5, 5]" nature="Jolly" type="Normal/Flying" level=7}
+    - Water Gun x2-3
+  ::damage[Starly's Tackle/Quick Attack vs Piplup]{source="Piplup" offensive=false movePower=40 type="Normal" theme="error"}
+  ::level{source="Piplup" value=8}
+  :::pokmeon[Turtwig]{baseStats="[55, 68, 64, 45, 55, 31]" ivs="[11, 11, 11, 11, 11, 11]" nature="Careful" type="Grass" level=9}
+    - _If Starly never used Growl and not safely in Torrent:_
+      - Pound until Turtwig uses Withdraw.
+    - Spam Water Gun.
+  ::damage[Turtwig's Tackle vs Piplup]{source="Piplup" offensive=false movePower=40 opponentStat=18 type="Normal" theme="error"}
+  :::
+  ::level{source="Piplup" value=9}
+:::::
+
+Head East to Oreburgh Gate. Watch out for the trainer at the top of the stairs (hug the top-most stairs tile).
+
+Run behind both of the trainers in Oreburgh Gate.
+
+Heal at Pokemon Center.
+
+Head south to Oreburgh Mine.
+
+Grab the X Defense from the right side of the first room in Oreburgh Mine (run down the first set of stairs, head right, then head up).
+
+![X Defense Location](xdefense.png)
+
+Head to the left and down in the second room of Oreburgh Mine and talk to Roark. Head left and grab the Escape Rope.
+
+- Use the Escape Rope.
+
+Head to the gym and run around all the trainers.
+
+:::::trainer[Gym Leader Roark]
+  :::pokemon[Geodude]{baseStats="[40, 80, 100, 30, 30, 20]" nature="Impish" type="Rock/Ground" level=12}
+  - X Defense + Water Gun
+  :::
+  ::level{source="Piplup" value=10}
+  :::pokemon[Onix]{info="You never outspeed" infoColor=red baseStats="[35, 45, 160, 30, 45, 70]" nature="Adamant" type="Rock/Ground" level=12}
+	- Water Gun x2 (x4)
+    ::damage[Onix's Rock Throw vs +2 Defense Piplup]{source="Piplup" offensive=false movePower=50 combatStages=2 special=false type="Rock" theme="error"}
+  :::
+  ::level{source="Piplup" value=11}
+  :::pokemon[Cranidos]{info="You never outspeed" infoColor=red baseStats="[67, 125, 40, 30, 30, 58]" nature="Jolly" type="Rock" level=14}
+    - Water Gun x2-3
+    ::damage[Cranidos' Headbutt vs +2 Defense Piplup]{source="Piplup" offensive=false movePower=70 combatStages=2 type="Normal" theme="error"}
+    ::damage[Cranidos' Headbutt vs +1 Defense Piplup]{source="Piplup" offensive=false movePower=70 combatStages=1 type="Normal" theme="error"}
+  :::
+  ::level{source="Piplup" value=12}
+:::::
+
+Head north to the mart.
+
+**Oreburgh Shopping:**
+  - 5 Super Potions (R)
+  - 2 Escape Ropes (R^)
+  - MAX Repels (v)
+
+Head west back to Oreburgh Mine. Once inside:
+:::if{source="Piplup" condition="spa=(28+/3+/0+) && spe= (x/20+/12+)"}
+- Don't heal.
+:::
+:::if{source="Piplup" condition="spa=(27-/2-/x) && spe= (31-/19-/11-)"}
+- Heal if low.
+:::
+- Repel (keep refreshing until Floaroma Town).
+- Teach Stealth Rock over Growl (Slot 2)
+
+At the crossing in Jubilife, head south to the Trainer School.
+
+Fight the school children:
+
+:::::trainer[Schoolgirl Christine]
+:::pokemon[Abra]{info="Outspeed at (x / 20+ / 12+)" infoColor=blue baseStats="[25, 20, 15, 105, 55, 90]" nature="Timid" type="Psychic" level=6}
+  - Water Gun x1-2  
+  ::damage[Piplup's Torrent Water Gun vs Abra]{source="Piplup" movePower=40 type="Water" special=true torrent=true healthThreshold=auto}  
+  ::damage[Abra's +0 Charge Beam vs Piplup]{source="Piplup" offensive=false special=true movePower=50 type="Electric" theme="error"}
+:::
+:::::
+
+:::::trainer[Schoolboy Harrison]
+:::pokemon[Abra]{info="Outspeed at (x / 20+ / 12+)" infoColor=blue baseStats="[25, 20, 15, 105, 55, 90]" nature="Hasty" type="Psychic" level=6}
+  - Water Gun x1-2  
+  ::damage[Piplup's Torrent Water Gun vs Abra]{source="Piplup" movePower=40 type="Water" special=true torrent=true healthThreshold=auto}  
+  ::damage[Abra's +0 Charge Beam vs Piplup]{source="Piplup" offensive=false special=true movePower=50 type="Electric" theme="error"}
+:::
+:::::
+
+Get TM 10 Work Up.
+
+:::::trainer[Team Galactic Double]
+:::pokemon[Zubat]{baseStats="[40, 45, 35, 30, 40, 55]" nature="Hardy" type="Poison/Flying" level=9}
+  - Water Gun Zubat x2-3
+ ::damage[Zubat's Astonish vs Lv 12 Piplup]{source="Piplup" offensive=false level=12 movePower=30 type="Ghost" theme="error"}
+:::
+:::pokemon[Wurmple]{baseStats="[45, 45, 35, 20, 30, 20]" nature="Serious" type="Bug" level=9}
+ ::damage[Wurmple's Tackle vs Lv 12 Piplup]{source="Piplup" offensive=false level=12 movePower=40 type="Normal" theme="error"}
+:::
+:::::
+
+Head north to Ravaged Path.
+
+Head north, dodging the spinner and the roamer. Hug the trees to avoid the double battle.
+
+:::card{theme=neutral}
+Head to the south west and pickup Mew from the old lady.
+:::
+
+Head into the house to the left of the flower shop and pickup TM 88 Pluck from the lady.
+
+Head to the east and talk to the girl on the path to Valley Windworks.
+
+Grab the Pecha Berries (right tree) on the way back to Floaroma on Route 205.
+
+Grab the Cheri Berries (right tree) next to the flower shop.
+
+- Teach Work Up to Mew (Slot 3)
+- Teach Rock Smash to Mew (Slot 4)
+- Teach Pluck to Mew over Pound (Slot 1)
+- Swap Mew to Slot 1.
+
+Head to the north-west and enter the meadow.
+
+:::::trainer[Team Galactic Grunt]
+  :::pokemon[Wurmple]{baseStats="[45, 45, 35, 20, 30, 20]" nature="Bashful" type="Bug" level=9}
+    - Switch to Piplup
+    - Water Gun x2-3
+  :::
+  ::level{source="Mew" value=6}
+  Switch to Mew
+  :::pokemon[Silcoon]{baseStats="[50, 35, 55, 25, 25, 15]" nature="Bashful" type="Bug" level=9}
+    - Work Up + Pluck x2-3
+  :::
+  ::level{source="Mew" value=8}
+:::::
+
+:::::trainer[Team Galactic Grunt]
+  :::pokemon[Zubat]{baseStats="[40, 45, 35, 30, 40, 55]" nature="Quirky" type="Poison/Flying" level=11}
+    - Work Up + Pluck x2-3
+  :::
+  ::level{source="Mew" value=9}
+:::::
+
+Head east to Valley Windworks and fight the grunt outside.
+
+:::::trainer[Team Galactic Grunt]
+  :::pokemon[Glameow]{baseStats="[49, 55, 42, 42, 37, 85]" nature="Bashful" type="Normal" level=11}
+    - Work Up + Rock Smash x2-3
+  :::
+  ::level{source="Mew" value=10}
+:::::
+
+Just before Mars:
+- Heal Mew to full.
+- Save the game.
+
+:::::trainer[Commander Mars]
+  :::pokemon[Zubat]{info="The only chance it has to U-Turn is on Turn 1, probably" infoColor=red baseStats="[40, 45, 35, 30, 40, 55]" ivs="[15, 0, 15, 0, 15, 0]" nature="Jolly" type="Poison/Flying" level=14}
+    - Reflect Type + Work Up x4 + Pluck x1-2    
+  :::
+  :::pokemon[Purugly]{baseStats="[71, 82, 64, 64, 59, 112]" ivs="[15, 0, 15, 0, 15, 0]" nature="Jolly" type="Normal" level=16}
+	- Heal to near-full, Pluck x2-3+
+    ::damage[Purugly's Thief vs Lv 10 Poison/Flying Mew]{source="Mew" offensive=false movePower=60 effectiveness=1 theme=error}
+    ::damage[Purugly's Thief vs Lv 11 Poison/Flying Mew]{source="Mew" offensive=false level=11 movePower=60 effectiveness=1 theme=error}
+  :::
+  ::level{source="Mew" value=13}
+:::::
+
+At the grass:
+- Repel (refresh until Eterna City)
+- Heal to full-ish.
+- Equip the Cheri Berry.
+
+Head north to Eterna Forest, avoiding all the trainers.
+
+Head to the north-east and fight the left trainer by talking to him diagonally.
+
+:::::trainer[Bug Catcher Jack]
+  :::pokemon[Wurmple]{baseStats="[45, 45, 35, 20, 30, 20]" nature="Naive" type="Bug" level=9}
+    - Pluck
+  :::
+  ::level{source="Mew" value=14}
+  :::pokemon[Beautifly]{baseStats="[60, 70, 50, 100, 50, 65]" nature="Docile" type="Bug/Flying" level=13}
+    - Pluck x1-2    
+	::damage[Mew's Pluck vs Beautifly]{source="Mew" movePower=60 healthThreshold=auto type="Flying"}
+  :::
+  ::level{source="Mew" value=15}
+  :::pokemon[Silcoon]{baseStats="[50, 35, 55, 25, 25, 15]" nature="Naive" type="Bug" level=11}
+    - Pluck
+  :::
+:::::
+
+:::::trainer[Lass Briana]
+  :::pokemon[Pachirisu]{baseStats="[60, 45, 70, 45, 90, 95]" nature="Quirky" type="Electric" level=14}
+    - Reflect Type + Rock Smash spam
+  :::
+  ::level{source="Mew" value=16}
+:::::
+
+Fight the Psychics as a double battle.
+
+:::::trainer[Psychic Lindsey & Psychic Elijah]
+  :::pokemon[Abra]{baseStats="[25, 20, 15, 105, 55, 90]" nature="Calm" type="Psychic" level=14}
+    Pluck
+  :::
+  :::pokemon[Abra]{baseStats="[25, 20, 15, 105, 55, 90]" nature="Sassy" type="Psychic" level=14}
+    Pluck
+  :::
+:::::
+
+Avoid the rest of the trainers and leave Eterna Forest.
+
+Head east to Eterna City and head for the gym.  
+
+Head to the north-west fight the first trainer. Be mindful of Pluck PP.
+
+:::::trainer[Lass Caroline]
+  :::pokemon[Cherubi]{baseStats="[45, 35, 45, 62, 53, 35]" nature="Impish" type="Grass" level=15}
+    - (Work Up) + Pluck (+ Rock Smash)
+	::damage[Mew's +0 Pluck vs Cherubi]{source="Mew" movePower=60 healthThreshold=auto type="Flying"}
+  :::
+  :info[in testing, I leveled up here]
+  :::pokemon[Roselia]{baseStats="[50, 60, 45, 100, 80, 65]" nature="Timid" type="Grass/Poison" level=15}
+    - Pluck (+ Rock Smash)
+  ::damage[Mew's +0 Pluck vs Roselia]{source="Mew" movePower=60 healthThreshold=auto type="Flying"}
+  :::
+  ::level{source="Mew" value=17}
+:::::
+
+Head to the south-west and fight the second trainer.
+
+:::::trainer[Aroma Lady Jenna]
+  :::pokemon[Budew]{baseStats="[40, 30, 35, 50, 70, 55]" nature="Bold" type="Grass/Poison" level=14}
+    - Pluck
+  :::
+  :::pokemon[Budew]{baseStats="[40, 30, 35, 50, 70, 55]" nature="Bold" type="Grass/Poison" level=13}
+    - Pluck
+  :::
+  :::pokemon[Budew]{baseStats="[40, 30, 35, 50, 70, 55]" nature="Bold" type="Grass/Poison" level=15}
+    - Pluck
+  :::
+  ::level{source="Mew" value=18}
+:::::
+
+Head back to the middle, fight the trainer in the second-to-bottom most path.
+
+:::::trainer[Aroma Lady Angela]
+  :::pokemon[Turtwig]{baseStats="[55, 68, 64, 45, 55, 31]" nature="Adamant" type="Grass" level=17}
+  - Work Up + Pluck (+ Rock Smash)
+  ::damage[Mew's +1 Pluck vs Turtwig]{source="Mew" movePower=60 combatStages=1 healthThreshold=auto type="Flying"}
+:::::
+
+Head to the bottom-most path, head east then north to the last trainer.
+
+:::::trainer[Beauty Lindsay]
+  :::pokemon[Roselia]{baseStats="[50, 60, 45, 100, 80, 65]" nature="Timid" type="Grass/Poison" level=17}
+    - Pluck (+ Rock Smash)
+  ::damage[Mew's Pluck vs Roselia]{source="Mew" movePower=60 healthThreshold=auto type="Flying"}
+:::
+:::::
+
+- Heal to full and any status condition.
+- Equip a Cheri Berry.
+
+Then talk to Gardenia.
+
+:::::::trainer[Gym Leader Gardenia]
+  :::::pokemon[Cherubi]{baseStats="[45, 35, 45, 62, 53, 35]" nature="Timid" type="Grass" level=19}
+  :::if{source="Mew" condition="atk=(x/x/11+)"}
+	- Work Up x2 + Pluck
+  :::
+  :::if{source="Mew" condition="atk=(31-/31-/10-)"}
+	- Work Up x3 + Pluck
+  :::
+  :::::
+  ::level{source="Mew" value=19}
+  :::::pokemon[Turtwig]{baseStats="[55, 68, 64, 45, 55, 31]" nature="Relaxed" type="Grass" level=19}
+    - Pluck
+  :::::
+  :::::pokemon[Roserade]{info="Speed-Tie at (x / x / 31)" infoColor=yellow baseStats="[60, 70, 65, 125, 105, 90]" ivs="[0,15,0,15,0,15]" evs="[0,36,0,36,0,36]" nature="Timid" type="Grass/Poison" level=22}
+    - Pluck
+  ::damage[Mew's +2 Pluck vs Roserade]{source="Mew" movePower=60 healthThreshold=auto combatStages=2 type="Flying"}  
+  ::damage[Roserade's Petal Blizzard vs Psychic Mew]{source="Mew" movePower=90 offensive=false type="Grass" theme=error}
+  :::::
+  ::level{source="Mew" value=20}
+:::::::
+
+Head to the building directly to the right of the Galactic Eterna building.
+
+**Eterna Shopping:**
+- _Sell:_
+  - All TMs
+- _Buy:_  
+  - 11 Heal Powder
+  - 15 Energy Root (vv)
+  - 1 Revival Herb (v)
+
+Before entering Galactic HQ, head to the back right and cut the bush, picking up TM46 Thief.
+
+Fight the grunts individually.
+
+__Teach Bubble Beam over Pound (Slot 1) (Mash A)__
+
+:::::trainer[Team Galactic Grunt]
+:::pokemon[Zubat]
+  - Pluck
+:::
+:::pokemon[Glameow]
+  - Rock Smash
+:::
+::level{source="Mew" value=21}
+:::::
+
+:::::trainer[Team Galactic Grunt]
+:::pokemon[Wurmple]
+  - Pluck
+:::
+:::pokemon[Cascoon]
+  - Pluck
+:::
+:::::
+
+Head upstairs twice.
+
+:::::::Trainer[Team Galactic Grunt]
+  :::::pokemon[Wurmple]{baseStats="[45, 45, 35, 20, 30, 20]" nature="Docile" type="Bug" level=12}
+    - Pluck
+  :::::
+  :::::pokemon[Zubat]{baseStats="[40, 45, 35, 30, 40, 55]" nature="Bashful" type="Poison/Flying" level=12}
+    - Pluck
+  :::::
+  :::::pokemon[Silcoon]{baseStats="[50, 35, 55, 25, 25, 15]" nature="Serious" type="Bug" level=12}
+    - Pluck
+  :::::
+:::::::
+
+:::::trainer[Scientist Travon]
+  :::pokemon[Kadabra]{baseStats="[40, 35, 30, 120, 70, 105]" nature="Sassy" type="Psychic" level=15}
+    - Pluck (+ Rock Smash)    
+  ::damage[Mew's Pluck vs Kadabra]{source="Mew" movePower=60 healthThreshold=auto type="Flying"}  
+  :::
+:::::
+
+- Heal Mew to full.
+
+:::::::trainer[Commander Jupiter]
+  :::::pokemon[Zubat]{baseStats="[40, 45, 35, 30, 40, 55]" ivs="[15,0,15,0,15,0]" evs="[68,0,68,0,68,0]" nature="Modest" type="Poison/Flying" level=18}
+  	- Reflect Type + Work Up x2 + Pluck
+  :::::
+  :::::pokemon[Skuntank]{baseStats="[103, 93, 67, 71, 61, 84]" ivs="[15,0,15,0,15,0]" evs="[68,0,68,0,68,0]" nature="Modest" type="Poison/Dark" level=20}
+	- Pluck x2   
+  __Aftermath does :calc[floor(hp/4)]{source="Mew"} damage__
+  :::::
+  ::level{source="Mew" value=22}
+:::::::
+
+Enter the house to the right of the center. Talk to the old man to get the Explorer Kit.  
+Get the bike from the Cycle shop. Head south to Cycling Road and avoid all the trainers.
+
+:info[_Start down the left side, cut to the far right after the first trainer, cut back to the far left after the third trainer. At the bottom of the lane, cut to the far right, head right past the trainer, then cut to the middle._]{color=gray}
+
+Pickup the hidden revive. Head through the gap in the rocks, then go right. Watch out for the roamers.   
+Grab the hidden Rare Candy, then head past the hiker spinner into the cave. 
+
+After entering Mt. Coronet:
+  - Deposit Prinplup.
+  - Heal Mew to 45+ HP.
+  - Teach Thief over Reflect Type (Slot 2)
+  - Use a Repel (keep refreshing until Hearthome, drop when you get there)
+  - Register the Bike.
+  - Use the Bike.
+
+Grab the Ether in the rock right above the Cyrus cutscene trigger.
+
+![Ether location](cyrusether.png)
+
+Head through the cave then avoid the bridge hiker spinners and head to Hearthome.
+
+Head to the contest hall and talk to Fantina. 
+
+Enter the contest hall, watch the cutscene, then head to the far south-east of Hearthome.
+
+:::::::trainer[Pokemon Trainer Barry]
+  :::::pokemon[Starly]{info="Heal as needed." infoColor=green baseStats="[40, 55, 30, 30, 30, 60]" ivs="[5, 5, 5, 5, 5, 5]" evs="[12,28,4,0,4,12]" nature="Jolly" type="Normal/Flying" level=19}
+    - Work Up x3 + Thief
+  :::::
+   :::::pokemon[Buizel]{info="Outspeed at (2+ / 0+ / 0+)" infoColor=blue baseStats="[55, 65, 35, 60, 30, 85]" ivs="[6, 6, 6, 6, 6, 6]" evs="[0,28,4,0,4,12]" nature="Jolly" type="Water" level=20}
+    - Thief
+  :::::
+  :::::pokemon[Grotle]{baseStats="[75, 89, 85, 55, 65, 36]" ivs="[11, 11, 11, 11, 11, 11]" evs="[36,4,12,4,36,0]" nature="Careful" type="Grass" level=21}
+    - Thief x2-3
+	:damage[Grotle's +0 Bite vs Mew]{source="Mew" offensive=false movePower=60 type="Dark" theme="error"}  
+	:damage[Grotle's +0 Razor Leaf vs Mew]{source="Mew" offensive=false movePower=65 type="Grass" theme="error"}  
+	:damage[Grotle's +0 Overgrow Razor Leaf vs Mew]{source="Mew" offensive=false movePower=65 type="Grass" torrent=true theme="error"}
+  :::::
+  ::level{source="Mew" value=23}
+  :::::pokemon[Ponyta]{info="Outspeed at (11+ / 0+ / 0+)" infoColor=blue baseStats="[50, 85, 55, 65, 65, 90]" ivs="[7, 7, 7, 7, 7, 7]" evs="[0, 28,4, 0, 4, 12]" nature="Jolly" type="Fire" level=20}
+    - Thief
+  :::::
+:::::::
+
+After leaving town:
+- Repel (refresh until Veilstone)
+- Heal to full.
+
+Before reaching Solaceon Town, enter the Lost Tower. Talk to the left person on the top floor, then Escape Rope out and continue heading north.
+
+You can ignore the doubles. Avoid the spinner by going through the grass.  
+Head east.
+
+
+:::::trainer[Ruin Maniac Calvin]
+  :::pokemon[Bronzor]{baseStats="[57, 24, 86, 24, 86, 23]" nature="Hardy" type="Steel/Psychic" level=21}
+  - Thief x2
+  :::
+  :::pokemon[Shieldon]{baseStats="[30, 42, 118, 42, 88, 30]" nature="Hardy" type="Steel/Rock" level=23}
+  - Rock Smash x2
+  :::
+:::::
+
+Pick up the Ether in the pokeball by the jogger.
+
+![Ether Location](joggerether.png)
+
+Grab the Zinc in the northeast grass patch. 
+![](https://media.discordapp.net/attachments/735229809420009516/913635471240876052/unknown.png?width=806&height=448)
+
+Cut the bush and pickup Shock Wave.
+
+![Shock Wave Location](shockwavetm.png)
+
+- Grab Prinplup from the PC, put into Slot 2.
+- Heal Mew and Prinplup to full.
+- Teach Shock Wave to Mew over Pluck (Slot 1)
+
+Fight this as a double battle:
+
+:::::trainer[Ace Trainer Maya & Dennis]
+  :::pokemon[Turn 1]
+    - Rock Smash Glameow / Bubble Beam Monferno
+  :::
+  ::level{source="Mew" value=24}
+  :::pokemon[Turn 2]
+    - Shock Wave Gyarados / Bubble Beam Glameow
+    ::damage[Mew's Shock Wave vs Gyarados]{source="Piplup" movePower=60 type="Electric" special=true opponentLevel=23 opponentStat=51 healthThreshold=76 effectiveness=4}
+  :::
+  :::pokemon[Turn 3+]
+    - Shock Wave Gyarados / Thief Kadabra / Bubble Beam Kadabra
+    ::damage[Prinplup's Torrent Bubble Beam vs Kadabra]{source="Piplup" movePower=65 type="Water" special=true opponentLevel=23 opponentStat=37 level=20 evs=19 torrent=true healthThreshold=51}
+    :damage[Mew's -1 Thief vs Kadabra]{source="Mew" movePower=60 healthThreshold=51 opponentLevel=23 opponentStat=18 effectiveness=2 combatStages=-1}
+  :::
+  ::level{source="Mew" value=25}
+:::::
+
+Head to the Veilstone Department Store. Pick up the hidden revive on the left side of the store before entering.
+
+Take the escalator to the third floor.
+
+**Third floor, bottom vendor:**
+- _Sell:_
+  - All TMs
+  - Zinc
+  - Pokeballs
+- _Buy:_
+  - Thunderbolt (R)
+  - Flamethrower (^)
+  - Psychic (Rvv)
+  - Dazzling Gleam (v)
+ 
+**Second floor, top vendor:**
+- _Buy:_
+  -  11 X Speed [Use 6-9]
+  -  2 X Defense (vv) [Use 2]
+  -  4 X Sp. Defense (R) [Use 3-4]
+  -  31 X Sp. Attack (^) [Use 30-31]
+
+**First floor, left vendor:**
+- _Buy:_
+  - MAX Super Repels (at least 3, probably 18)
+
+Leave the department store and get the metronome from the Girafarig trainer.
+
+- Teach Thunderbolt over Work Up (Slot 3)
+- Teach Flamethrower over Rock Smash (Slot 4)
+- Teach Psychic over Shock Wave (Slot 1) (Mash A)
+- Equip the Metronome on Mew.
+- Heal Mew to full.
+- Deposit Prinplup.
+
+Head to the gym. There is only 1 mandatory gym trainer, on the right.
+
+:::::trainer[Black Belt Rafael]
+  :::pokemon[Meditite]{baseStats="[30, 40, 55, 40, 55, 60]" nature="Jolly" type="Psychic/Fighting" level=28}
+    - Psychic x1-2
+    ::damage[Mew's Metronome-0 Psychic vs Meditite]{source="Piplup" movePower=90 type="Psychic" special=true healthThreshold=auto}
+  :::
+:::::
+
+- Heal Mew if you took damage.
+
+:::::trainer[Gym Trainer Maylene]
+  :::pokemon[Meditite]{baseStats="[30, 40, 55, 40, 55, 60]" ivs="[15,15,0,0,0,15]" evs="[36,52,0,0,0,36]" nature="Naive" type="Psychic/Fighting" level=27}
+    - Psychic x1-2    
+  ::damage[Mew's Metronome-0 Psychic vs Meditite]{source="Piplup" movePower=90 type="Psychic" special=true healthThreshold=auto}
+  :::
+  :::pokemon[Machoke]{baseStats="[80, 100, 70, 50, 60, 45]" ivs="[15,15,0,0,0,15]" evs="[36,52,0,0,0,36]" nature="Adamant" type="Fighting" level=27}
+    - Psychic
+  :::
+  ::level{source="Mew" value=26}
+  :::pokemon[Lucario]{info="Outspeed at (x / x / 17+)" infoColor=blue baseStats="[70, 110, 70, 115, 70, 90]" ivs="[0,15,15,0,0,15]" evs="[0,68,68,0,0,68]" nature="Adamant" type="Steel/Fighting" level=30}
+    - Psychic x2
+	:damage[Lucario +0 Metal Claw vs Mew]{source="Mew" offensive=false movePower=50 type="Steel" theme=error}  
+	:damage[Lucario +1 Metal Claw vs Mew]{source="Mew" offensive=false movePower=50 type="Steel" theme=error}
+  :::
+  
+:::::
+
+- Heal Mew to full.
+
+Head back to the north-west of Veilstone and talk to Lucas.
+
+:::::trainer[Team Galactic Double]
+:::pokemon[Dustox]{baseStats="[60, 50, 70, 50, 90, 65]" nature="Serious" type="Bug/Poison" level=25}
+  - Psychic
+:::
+::level{source="Mew" value=27}
+:::pokemon[Croagunk]{baseStats="[48, 61, 40, 61, 40, 50]" nature="Bashful" type="Fighting/Poison" level=25}
+  - Psychic
+:::
+:::pokemon[Beautifly]{baseStats="[60, 70, 50, 100, 50, 65]" nature="Hardy" type="Bug/Flying" level=25}
+  - Flamethrower
+:::
+:::pokemon[Stunky]{baseStats="[63, 63, 47, 41, 41, 74]" nature="Docile" type="Dark/Poison" level=25}
+  - M1-Flamethrower x1-2
+  :damage[Mew's Metronome-1 Flamethrower vs Stunky]{source="Mew" type="Electric" movePower=90 healthThreshold=auto special=true otherModifier=1.2}
+:::
+::level{source="Mew" value=28}
+:::::
+
+Get Fly from the warehouse on the hill, then leave Veilstone through the south gate.
+
+:::::trainer[Psychic Abigail]
+  :::pokemon[Gastly]{baseStats="[30, 35, 30, 100, 35, 80]" nature="Timid" type="Ghost/Poison" level=22}
+    - Thief
+  :::
+  :::pokemon[Misdreavus]{baseStats="[60, 60, 60, 85, 85, 85]" nature="Timid" type="Ghost" level=23}
+    - Thief
+  :::
+  :::pokemon[Kadabra]{baseStats="[40, 35, 30, 120, 70, 105]" nature="Timid" type="Psychic" level=24}
+    - Thief
+  :::
+:::::
+
+At the fences:
+  - Super Repel (refresh once)
+
+Get the hidden Max Ether.
+
+:::if{source="Mew" condition="spa=(0+/18-/x)"}
+Get the hidden Hyper Potion and PP Up.
+:::
+
+Get the free heal in the hotel.
+
+Get the hidden Calcium.
+
+Get the Rawst Berries from the berry patch right before the entrace to Pastoria.
+
+Head to the gym.
+
+Drop repel when it runs out.  
+
+Press the yellow button, then the green button near Wake.
+
+:::::trainer[Sailor Damian]
+  :::pokemon[Wingull]{baseStats="[40, 30, 30, 55, 30, 85]" nature="Jolly" type="Water/Flying" level=24}
+    - Thunderbolt
+  :::
+  :::pokemon[Wingull]{baseStats="[40, 30, 30, 55, 30, 85]" nature="Adamant" type="Water/Flying" level=24}
+    - Thunderbolt
+  :::
+:::::
+
+Press the blue button.
+
+:::::trainer[Tuber Jacky]
+  :::pokemon[Buizel]{baseStats="[55, 65, 35, 60, 30, 85]" nature="Jolly" type="Water" level=26}
+    - Thunderbolt
+  :::
+:::::
+
+:::::trainer[Tuber Caitlyn]
+  :::pokemon[Azurill]{baseStats="[50, 20, 40, 20, 40, 20]" nature="Timid" type="Normal/Fairy" level=24}
+    - Psychic
+  :::
+  ::level{source="Mew" value=29}
+  :::pokemon[Marill]{baseStats="[70, 20, 50, 20, 50, 40]" nature="Timid" type="Water/Fairy" level=24}
+    - Psychic
+  :::
+:::::
+
+Press the green button, then head down and press the orange button.
+
+:::::trainer[Sailor Samson]
+  :::pokemon[Shellos]{baseStats="[76, 48, 48, 57, 62, 34]" nature="Timid" type="Water" level=24}
+    - Thunderbolt
+  :::
+  :::pokemon[Wingull]{baseStats="[40, 30, 30, 55, 30, 85]" nature="Adamant" type="Water/Flying" level=24}
+    - Thunderbolt
+  :::
+  :::pokemon[Shellos]{baseStats="[76, 48, 48, 57, 62, 34]" nature="Modest" type="Water" level=24}
+    - Thunderbolt
+  :::
+:::::
+
+Press the last blue button, then talk to Crasher Wake.
+
+:::::trainer[Gym Leader Wake]
+  :::pokemon[Gyarados]{info="Heal as needed." infoColor=green baseStats="[95, 125, 79, 60, 100, 81]" ivs="[16, 16, 0, 0, 0, 16]" evs="[40, 56, 0, 0, 0, 40]" nature="Jolly" type="Water/Flying" level=27}
+    - X SpAttack + Thunderbolt
+    :damage[Gyarados' Crunch vs Mew]{source="Mew" offensive=false movePower=80 type="Dark" theme=error}
+  :::
+  :::pokemon[Quagsire]{baseStats="[95, 85, 85, 65, 65, 35]" ivs="[0, 16, 16, 5, 16, 5]" evs="[40, 40, 4, 56, 4, 0]" nature="Quiet" type="Water/Ground" level=27}
+    - Psychic
+:::
+  ::level{source="Mew" value=30}
+  :::pokemon[Floatzel]{info="Never outspeed" infoColor=red baseStats="[85, 105, 55, 85, 50, 115]" ivs="[0, 17, 0, 17, 0, 17]" evs="[0, 84, 0, 20, 0, 84]" nature="Adamant" type="Water" level=30}
+    - Psychic
+    :damage[Floatzel's Bite vs +0 Defense Mew]{source="Mew" offensive=false movePower=60 combatStages=0 type="Dark" theme=error}
+    :damage[Floatzel's Bite vs -1 Defense Mew]{source="Mew" offensive=false movePower=60 combatStages=-1 type="Dark" theme=error}
+    :damage[Floatzel's Brine vs <50% HP Mew]{source="Mew" special=true offensive=false movePower=130 combatStages=0 type="Water" theme=error}
+  :::
+:::::
+
+Head inside the Great Marsh, then grab Defog, and the Rare Candy in the top left.  
+Retire.
+
+Talk to the Team Galactic grunt outside of the Great Marsh.
+
+- Super Repel (refresh until foggy)
+:::if{source="Mew" condition="spa=(0+/18-/x)"}
+- PP Up Psychic (Mash A)
+:::
+- Calcium Mew.
+- Heal to full if in Quick Attack + Aqua Jet range.
+
+Talk to the Team Galactic grunt at the east gate.
+
+:::::trainer[Pokemon Trainer Barry]
+  :::pokemon[Starly]{info="Has Quick Claw" baseStats="[40, 55, 30, 30, 30, 60]" ivs="[5, 5, 5, 5, 5, 5]" evs="[28,52,12,0,12,52]" nature="Jolly" type="Normal/Flying" level=26}
+    - Psychic
+    :damage[Starly's Quick Attack vs Mew]{source="Mew" offensive=false movePower=40 type="Normal" theme=error}
+  :::
+  :::pokemon[Buizel]{baseStats="[55, 65, 35, 60, 30, 85]" ivs="[6, 6, 6, 6, 6, 6]" evs="[0, 0, 0, 0, 0, 0]" nature="Jolly" type="Water" level=26}
+    - Psychic
+    :damage[Buizel's Aqua Jet vs Mew]{source="Mew" offensive=false movePower=40 type="Water" theme=error}
+  :::
+  :::pokemon[Grotle]{baseStats="[75, 89, 85, 55, 65, 36]" ivs="[11, 11, 11, 11, 11, 11]" evs="[52,4,12,4,52,0]" nature="Careful" type="Grass" level=31}
+    - Psychic x2
+  :::
+  ::level{source="Mew" value=31}
+  :::pokemon[Ponyta]{baseStats="[50, 85, 55, 65, 65, 90]" ivs="[7, 7, 7, 7, 7, 7]" evs="[4, 44, 12, 0, 12, 12]" nature="Jolly" type="Fire" level=27}
+    - Psychic + (Thunderbolt x2 if necessary)
+  :damage[Ponyta's Flame Wheel vs Mew]{source="Mew" offensive=false type="Fire" movePower=60 theme="error"}
+  :::
+  
+:::::
+
+- Rare Candy Mew to Lv 33 (x2)
+
+::level{source="Mew" value=33}
+
+Continue to the beach. Talk to the grunt again.
+
+Head north through the hotel and get the free heal. Head north-east and talk to the grunt again.
+
+:::::trainer[Team Galactic Grunt]
+  :::pokemon[Glameow]{baseStats="[49, 55, 42, 42, 37, 85]" nature="Quirky" type="Normal" level=25}
+    - Thunderbolt
+  :::
+:::::
+
+Head north and talk to Cynthia. 
+- Fly to Solaceon Town.
+
+Head north and medicine those Psyducks up. Head north to the fog route. Head west through the grass.
+
+:::::trainer[Ace Trainer Alyssa]
+  :::pokemon[Ponyta]{baseStats="[50, 85, 55, 65, 65, 90]" nature="Careful" type="Fire" level=27}
+    - X SpAttack + Thunderbolt
+  :::
+  :::pokemon[Grotle]{baseStats="[75, 89, 85, 55, 65, 36]" nature="Impish" type="Grass" level=27}
+    - Flamethrower
+  :::
+:::::
+
+:::::trainer[Black Belt Adam]
+  :::pokemon[Machoke]{baseStats="[80, 100, 70, 50, 60, 45]" nature="Relaxed" type="Fighting" level=29}
+    - Psychic
+  :::
+:::::
+
+:::::trainer[Bird Keeper Brianna]
+  :::pokemon[Hoothoot]{baseStats="[60, 30, 30, 36, 56, 50]" nature="Timid" type="Normal/Flying" level=27}
+    - X SpAttack + Thunderbolt
+  :::
+  :::pokemon[Noctowl]{baseStats="[100, 50, 50, 86, 96, 70]" nature="Jolly" type="Normal/Flying" level=27}
+    - Thunderbolt
+  :::
+:::::
+
+Fight the grunt in front of the cave.
+
+:::::trainer[Team Galactic Grunt]
+  :::pokemon[Beautifly]{baseStats="[60, 70, 50, 100, 50, 65]" nature="Hardy" type="Bug/Flying" level=25}
+    - Thunderbolt
+  :::
+  :::pokemon[Croagunk]{baseStats="[48, 61, 40, 61, 40, 50]" nature="Docile" type="Fighting/Poison" level=27}
+    - Thunderbolt
+  :::
+  ::level{source="Mew" value=34}
+:::::
+
+Enter the cave and talk to the mural.
+
+Enter the house in the north-west of Celestic and get the Choice Specs.
+
+Buy Super Potions if you're really low on healing supplies. Some Super Repels if you ran out as well, somehow.
+Head outside:
+- Heal to full.
+- Equip a Rawst Berry.
+- Fly to Hearthome. 
+
+Enter the gym.
+
+Enter the:
+- Right door
+- Middle door
+- Left door
+- Right door
+
+:::::::trainer[Gym Leader Fantina]
+  :::::pokemon[Drifblim]{baseStats="[150, 80, 44, 90, 54, 80]" ivs="[19,0,5,19,5,19]" evs="[52,0,4,68,4,52]" nature="Timid" type="Ghost/Flying" level=32}
+	- X SpDefense + X SpAttack + X Speed + Thunderbolt
+	:damage[Drifblim's Hex vs +2 SpDef Healthy Mew]{source="Mew" offensive=false special=true movePower=65 combatStages=2 type="Ghost" theme=error}
+  :damage[Drifblim's Hex vs +2 SpDef Burned Mew]{source="Mew" offensive=false special=true movePower=110 combatStages=2 type="Ghost" theme=error}  
+  :::::  
+  :::::pokemon[Gengar]{baseStats="[60, 65, 60, 130, 75, 110]" ivs="[19,0,5,19,5,19]" evs="[52,0,4,76,4,68]" nature="Timid" type="Ghost/Poison" level=34}
+    - Psychic
+  :::::
+  ::level{source="Mew" value=35}
+  :::::pokemon[Mismagius]{baseStats="[60, 60, 60, 105, 105, 105]" ivs="[19,0,5,19,5,19]" evs="[44,0,4,92,4,68]" nature="Timid" type="Ghost" level=36}
+    - Thief x2 
+  :damage[Mismagius' Expert Belt Shadow Force vs Mew]{source="Mew" offensive=false movePower=90 type="Ghost" otherModifier=1.2 theme=error}
+  :damage[Mismagius' No Item Shadow Force vs Mew]{source="Mew" offensive=false movePower=90 type="Ghost" theme=error}
+  :::::
+:::::::
+
+After exiting the gym:
+- Add Prinplup to your party, equip Choice Specs on them.
+- Equip Metronome on Mew.
+- Super Repel (do not refresh)
+- Heal Mew to full.
+- Fly to Jubilife City and head west.  
+
+At Canalave, cross the bridge.
+
+:::::::trainer[Pokemon Trainer Barry]
+  :::::pokemon[Staravia]{baseStats="[55, 75, 50, 40, 40, 80]" ivs="[5, 5, 5, 5, 5, 5]" evs="[40, 72, 16, 0, 16, 56]" nature="Jolly" level=32}
+    :::if{source="Mew" condition="spe=(3-/x/x)"}
+	- X Speed + Psychic
+	:::
+	:::if{source="Mew" condition="spe=(4+/0+/0+)"}
+	- Psychic
+	:::
+  :::::
+  :::::pokemon[Buizel]{baseStats="[55, 65, 35, 60, 30, 85]" ivs="[6, 6, 6, 6, 6, 6]" evs="[16, 48, 24, 0, 24, 56]" nature="Jolly" level=33}
+  - Psychic
+  :::::
+  :::::pokemon[Heracross]{baseStats="[80, 125, 75, 40, 95, 85]" ivs="[9, 9, 9, 9, 9, 9]" evs="[16, 64, 24, 0, 24, 32]" nature="Jolly" level=32}
+  - Psychic  
+  :::::
+  :::::pokemon[Grotle]{baseStats="[75, 89, 85, 55, 65, 36]" ivs="[11, 11, 11, 11, 11, 11]" evs="[80,24,48,24,80,0]" nature="Careful" type="Grass" level=37}
+    - Psychic x2  
+	:damage[Grotle's Bite vs Mew]{source="Mew" offensive=false type="Dark" movePower=60 theme="error"}
+  :::::
+  :::::pokemon[Ponyta]{baseStats="[50, 85, 55, 65, 65, 90]" ivs="[7, 7, 7, 7, 7, 7]" evs="[40, 64, 16, 0, 16, 64]" nature="Jolly" type="Fire" level=34}
+    - Psychic
+	:damage[Ponyta's Flame Wheel vs Mew]{source="Mew" offensive=false type="Fire" movePower=60 theme="error"}
+  :::::
+:::::::
+
+- Swap Choice Specs onto Mew.
+
+:::::trainer[Black Belt Ricky]
+  :::pokemon[Steelix]{baseStats="[75, 85, 200, 55, 65, 30]" nature="Relaxed" type="Steel/Ground" level=33}
+    - Flamethrower x2
+	:damage[Steelix's Iron Tail vs Mew]{source="Mew" offensive=false movePower=100 type="Steel" theme="error"}
+  :::  
+:::::
+
+Take the fourth elevator.
+
+:::::trainer[Ace Trainer Cesar]
+  :::pokemon[Skorupi]{baseStats="[40, 50, 90, 30, 55, 65]" nature="Relaxed" type="Poison/Bug" level=30}
+    - Flamethrower 
+  :::
+  :::pokemon[Steelix]{baseStats="[75, 85, 200, 55, 65, 30]" nature="Relaxed" type="Steel/Ground" level=33}
+    - Flamethrower
+	:damage[Steelix's Iron Tail vs Mew]{source="Mew" type="Steel" movePower=100 offensive=false theme="error"}
+  :::
+  ::level{source="Mew" value=37}
+:::::
+
+At the fork, go up, then take the lift near the trainer.
+
+:::::trainer[Worker Gerardo]
+  :::pokemon[Onix]{baseStats="[35, 45, 160, 30, 45, 70]" nature="Relaxed" type="Rock/Ground" level=29}
+    - Psychic
+  :::
+  :::pokemon[Onix]{baseStats="[35, 45, 160, 30, 45, 70]" nature="Relaxed" type="Rock/Ground" level=29}
+    - Psychic
+  :::
+:::::
+
+:::::trainer[Black Belt David]
+  :::pokemon[Onix]{baseStats="[35, 45, 160, 30, 45, 70]" nature="Relaxed" type="Rock/Ground" level=30}
+    - Flamethrower x1-2    
+  :damage[Mew's Choice Specs Flamethrower vs Grotle]{source="Mew" type="Fire" movePower=90 special=true choiceItem=true healthThreshold=auto}
+  :::
+  :::pokemon[Steelix]{baseStats="[75, 85, 200, 55, 65, 30]" nature="Relaxed" type="Steel/Ground" level=32}
+    - Flamethrower
+  :::
+:::::
+
+:::::trainer[Ace Trainer Breanna]
+  :::pokemon[Azumarill]{baseStats="[100, 100, 80, 60, 80, 50]" nature="Jolly" type="Water/Fairy" level=33}
+    - Thunderbolt x1-2
+	:damage[Mew's Choice Specs Thunderbolt vs Azumarill]{source="Mew" type="Electric" healthThreshold=auto movePower=90 choiceItem=true special=true}
+	:damage[Azumarill's Bulldoze vs Mew]{source="Mew" type="Ground" movePower=60 offensive=false theme="error"}
+  :::
+:::::
+
+- Heal Mew to full.
+- Move Prinplup to Slot 1.
+
+:::::trainer[Gym Leader Byron]
+  :::pokemon[Bronzor]{baseStats="[57, 24, 86, 24, 86, 23]" ivs="[17,0,17,17,17,0]" evs="[68,0,68,44,68,0]" nature="Relaxed" type="Steel/Psychic" level=36}
+    - Stealth Rock --> Swap to Mew
+    - X SpAttack + (Heal confusion +) Flamethrower
+  :::  
+  :::pokemon[Steelix]{baseStats="[75, 85, 200, 55, 65, 30]" ivs="[0,0,23,17,0,17]" evs="[0,100,68,0,68,0]" nature="Brave" type="Steel/Ground" level=36}
+    - Flamethrower
+	:damage[Steelix's Soft Sand Earthquake vs Mew]{source="Mew" offensive=false movePower=100 type="Ground" otherModifier=1.2 theme="error"}
+  :::
+  ::level{source="Mew" value=38}
+  :::pokemon[Bastiodon]{baseStats="[75, 85, 200, 55, 65, 30]" ivs="[0,0,0,17,23,17]" evs="[0,0,68,100,68,0]" nature="Relaxed" type="Steel/Rock" level=39}
+    - Flamethrower x2
+	:damage[Bastiodon's Thunderbolt vs +0 SpDefense Mew]{source="Mew" offensive=false movePower=90 type="Electric" special=true theme="error"}
+  :damage[Bastiodon's Thunderbolt vs -1 SpDefense Mew]{source="Mew" offensive=false movePower=90 combatStages=-1 type="Electric" special=true theme="error"}
+  :::
+:::::
+
+Enter the library and head to the third floor. After the cutscene, exit the library.
+
+- Super Repel (Refresh once)
+- Move Mew to Slot 1.
+- Fly to Pastoria.
+
+Head west back to the resort area. Grab the hotel heal on your way through, and head up to Lake Valor.
+
+:::::trainer[Commander Saturn]
+  :::pokemon[Kadabra]{baseStats="[40, 35, 30, 120, 70, 105]" ivs="[15, 0, 15, 0, 15, 0]" evs="[68, 0, 68, 0, 68, 0]" nature="Timid" type="Psychic" level=35}
+    - X SpAttack + Flamethrower / Thunderbolt if Raining
+  :::
+  :::pokemon[Toxicroak]{info="Heal as needed, Toxic ASAP" infoColor=green baseStats="[83, 106, 65, 86, 65, 85]" ivs="[15, 0, 15, 0, 15, 0]" evs="[68, 0, 68, 0, 68, 0]" nature="Jolly" type="Steel/Psychic" level=37}
+    - Flamethrower / Thunderbolt x1-2
+    :damage[Mew's +2 Choice Specs Thunderbolt vs Toxicroak in Rain]{source="Mew" type="Electric" combatStages=2 healthThreshold=auto movePower=90 choiceItem=true special=true}
+  :::
+  :::pokemon[Bronzor]{baseStats="[57, 24, 86, 24, 86, 23]" ivs="[15, 0, 15, 0, 15, 0]" evs="[68, 0, 68, 0, 68, 0]" nature="Relaxed" type="Steel/Psychic" level=35}
+    - Flamethrower x1-2 / Thunderbolt x1-2
+    :damage[Mew's +2 Choice Specs Flamethrower/Thunderbolt vs Bronzor in Rain]{source="Mew" type="Fire" combatStages=2 weatherReduced=true healthThreshold=auto movePower=90 choiceItem=true special=true}
+  :::  
+  ::level{source="Mew" value=39}
+:::::
+
+Exit the cave, then:
+- Heal Mew to full.
+- Fly to Twinleaf Town.  
+
+Head north-west to Lake Verity.
+
+:::::trainer[Team Galactic Double]
+:::pokemon[Turn 1]
+  - Thunderbolt Glameow / Bubble Beam Silcoon
+:::
+:::pokemon[Turn 2]
+  - Thunderbolt Stunky / Bubble Beam Silcoon
+:::
+:::pokemon[Turn 3]
+  - Thunderbolt Glameow-R / Heal Mew/Prinplup
+:::
+:::pokemon[Turn 4]
+  - Thunderbolt Glameow-L / Heal Mew/Prinplup
+:::
+:::pokemon[Turn 4]
+  - Thunderbolt Golbat / Heal Mew/Prinplup
+:::
+:::::
+
+Surf around the second double battle (avoid grass completely).
+- Heal Mew to full-ish
+- (Revive Prinplup, it needs the exp)
+
+:::::::trainer[Commander Mars]
+  :::::pokemon[Golbat]{info="You outspeed at (5+ / 0+ / 0+)" infoColor=blue baseStats="[75, 80, 70, 65, 75, 90]" ivs="[15, 0, 15, 0, 15, 0]" evs="[68, 0, 68, 0, 68, 0]" nature="Jolly" level=37}
+  :::if{source="Mew" condition="spe=(31-/31-/17-)"}
+    - X SpAttack + X Speed + Thunderbolt
+  :::
+  :::if{source="Mew" condition="spe=(x)/x/18+)"}
+  - X SpAttack + X Speed + Thunderbolt
+  :::
+  :damage[Golbats's U-Turn vs Mew]{source="Mew" type="Bug" movePower=70 theme="error" offensive=false}
+  :::::
+  :::::pokemon[Purugly]{info="You outspeed at (x / x / 18+)" infoColor=blue baseStats="[71, 82, 64, 64, 59, 112]" ivs="[15, 0, 15, 0, 15, 0]" evs="[68,0,68,0,68,0]" nature="Jolly" type="Normal" level=39}
+    - Thunderbolt x1-2
+	:damage[Mew's +2 Choice Specs Thunderbolt vs Purugly]{source="Mew" type="Electric" movePower=90 combatStages=2 special=true choiceItem=true healthThreshold=auto}
+  :damage[Purugly's U-Turn vs Mew]{source="Mew" type="Bug" movePower=70 theme="error" offensive=false}
+  :::::
+  :::::pokemon[Bronzor]{baseStats="[57, 24, 86, 24, 86, 23]" ivs="[15, 0, 15, 0, 15, 0]" evs="[68, 0, 68, 0, 68, 0]" nature="Sassy" type="Steel/Psychic" level=37}
+    - Thunderbolt x1-2
+  :damage[Mew's +2 Choice Specs Thunderbolt vs Bronzor]{source="Mew" type="Electric" movePower=90 combatStages=2 special=true choiceItem=true healthThreshold=auto}
+  :damage[Bronzor's Payback-100 vs Mew]{source="Mew" type="Dark" movePower=100 theme="error" offensive=false}
+  :::::
+  ::level{source="Mew" value=40}
+:::::::
+
+Fly to Celestic Town.
+
+Enter the house in the north-west of Celestic.
+
+Buy:
+- 11 Hyper Potions (R^^^)
+- Full Heals/Revives if needed.
+- MAX Super Repels (RR)
+
+Menu before the grass:
+- Heal to full.
+- Super Repel (Refresh until back in Veilstone)
+
+Head east to Mount Coronet. Head north once you enter the cave, then follow the path to Route 216.  
+Grab the hidden Rare Candy in the top left of the Fog room on the way.
+
+:::::trainer[Ace Trainer Dalton]
+  :::pokemon[Raichu]{info="You outspeed at (19+ / 0+ / 0+)" infoColor=blue baseStats="[60, 90, 55, 90, 80, 110]" nature="Timid" type="Electric" level=34}
+    - Psychic 
+    :damage[Raichu's Electro Ball-60BP vs (18- / x / x) Mew]{source="Mew" offensive=false movePower=60 type="Electric" special=true theme=error}
+  :::
+  :::pokemon[Hippopotas]{baseStats="[68, 72, 78, 38, 42, 32]" nature="Relaxed" level=38}
+    - Psychic
+  :::
+  :::pokemon[Pelipper]{baseStats="[60, 50, 100, 95, 70, 65]" nature="Timid" level=36}
+    - Psychic
+  :::
+:::::
+
+Head north-by-northwest and grab Rock Climb from the pokeball behind the house, then head north.
+
+:::::trainer[Ace Trainer Olivia]
+  :::pokemon[Roselia]{baseStats="[50, 60, 45, 100, 80, 65]" nature="Calm" type="Grass/Poison" level=37}
+    - Psychic
+  :::
+  :::pokemon[Seaking]{baseStats="[80, 92, 65, 65, 80, 68]" nature="Jolly" type="Water" level=37}
+    - Psychic x1-2
+   :damage[Mew's Choice Specs Psychic vs Seaking]{source="Mew" type="Psychic" movePower=90 special=true healthThreshold=auto choiceItem=true}
+  :::
+  ::level{source="Mew" value=41}
+:::::
+
+When you see the two grunts, head east. Head to the Snowpoint Gym.
+- Heal to full.
+
+Do the puzzle or repel trick to skip it entirely.
+
+![Puzzle Solution (Credit: Corvimae)](https://media.discordapp.net/attachments/735229809420009516/914430703243001886/candice-all.png?width=406&height=447)
+
+:::::trainer[Gym Leader Candice]
+  :::pokemon[Snover]{info="Heal as needed" infoColor=green baseStats="[60, 62, 50, 62, 60, 40]" ivs="[19,25,0,25,0,0]" evs="[60,124,0,124,0,0]" type="Grass/Ice" nature="Relaxed" level=38}
+    - Flamethrower
+  :::
+  :::pokemon[Sneasel]{info="You don't outspeed, but Avalanche is negative Priority" infoColor=red baseStats="[55, 95, 55, 35, 75, 115]" ivs="[10, 25, 0, 0, 0, 25]" evs="[64, 124, 0, 0, 0, 124]" nature="Jolly" type="Ice/Dark" level=38}
+    - Flamethrower
+      - _X SpAttack if Dig_
+  :::
+  :::pokemon[Medicham]{info="Outspeed at (x / 25+ / 3+)" infoColor=blue baseStats="[60, 120, 75, 60, 75, 80]" ivs="[10, 25, 0, 0, 0, 25]" evs="[64, 124, 0, 0, 0, 124]" nature="Jolly" type="Fighting/Psychic" level=40}
+    - Flamethrower x2 (x1 if +2)
+  :::  
+  :::pokemon[Abomasnow]{baseStats="[55, 95, 55, 35, 75, 115]" ivs="[13, 25, 10, 27, 10, 0]" evs="[124, 60, 0, 164, 0, 0]" nature="Quiet" type="Ice/Grass" level=42}
+    - Flamethrower
+  :::
+:::::
+
+Head south from the gym, then west to Lake Acuity. After the cutscene, fly to Veilstone City.
+ 
+Do not refresh your Repel when it runs out.
+
+Talk to the grunt in front of the Galactic HQ, then pick up the Storage Key. Head to the warehouse.
+
+:::::trainer[Team Galactic Grunt]
+  :::pokemon[Dustox]{baseStats="[60, 50, 70, 50, 90, 65]" nature="Quirky" type="Bug/Poison" level=35}
+    - Flamethrower
+  :::
+  ::level{source="Mew" value=42}
+  :::pokemon[Bronzor]{baseStats="[57, 24, 86, 24, 86, 23]" nature="Hardy" type="Steel/Psychic" level=35}
+    - Flamethrower x1-2
+  :damage[Mew's Choice Specs Flamethrower vs Bronzor]{source="Mew" type="Fire" movePower=90 special=true healthThreshold=auto choiceItem=true}
+  :::
+:::::
+
+Take the left teleporter. After heading up the stairs, take the teleporter to the left.
+
+:::::trainer[Scientist Fredrick]
+  :::pokemon[Kadabra]{baseStats="[40, 35, 30, 120, 70, 105]" ivs="[0, 0, 0, 0, 0, 0]" evs="[0, 0, 0, 0, 0, 0]" nature="Sassy" type="Psychic" level=35}
+    - Thief
+  :::
+  :::pokemon[Kadabra]{baseStats="[40, 35, 30, 120, 70, 105]" ivs="[0, 0, 0, 0, 0, 0]" evs="[0, 0, 0, 0, 0, 0]" nature="Sassy" type="Psychic" level=35}
+    - Thief
+  :::
+:::::
+
+Grab the Galactic Key in the pokeball behind the boxes.
+
+Exit the warehouse and head to the Galactic HQ. 
+Enter the middle door and head up the stairs.
+
+Dodge the spinner and fight the Right Grunt.
+:::::trainer[Team Galactic Grunt]
+  :::pokemon[Golbat]{baseStats="[75, 80, 70, 65, 75, 90]" nature="Serious" level=36}
+    - Psychic
+  :::
+  :::pokemon[Silcoon]{baseStats="[50, 35, 55, 25, 25, 15]" nature="Bashful" type="Bug" level=34}
+    - Psychic
+  :::
+:::::
+
+Use the teleporter in the middle room, take the bed heal, then head up the stairs.
+- Grab the Full Restore in the machine thing to the right
+
+:::::trainer[Team Galactic Grunt]
+:::pokemon[Turn 1]
+  - Flamethrower Stunky-36 / Bubble Beam Croagunk-35
+:::
+:::pokemon[Turn 2]
+  - Flamethrower Croagunk-36 / Bubble Beam Croagunk-35
+:::
+:::pokemon[Turn 3]
+  - Flamethrower Stunky-35 / Heal Mew to full
+:::
+::level{source="Mew" value=43}
+:::pokemon[Turn 4]
+  - Flamethrower Glameow / Heal Mew to full?
+:::
+:::::
+
+Take the left-most teleporter, and head up the stairs.
+
+:::::trainer[Team Galactic Boss Cyrus]
+  :::pokemon[Murkrow]{baseStats="[60, 85, 42, 85, 42, 91]" ivs="[15, 0, 15, 0, 15, 0]" evs="[68, 0, 68, 0, 68, 0]" nature="Jolly" level=40}
+    - X SpAttack + Thunderbolt
+	:damage[Murkrow's Assurance vs Mew]{source="Mew" offensive=false movePower=60 type="Dark" theme="error"}
+  :::
+  :::pokemon[Golbat]{baseStats="[75, 80, 70, 65, 75, 90]" ivs="[15, 0, 15, 0, 15, 0]" evs="[68, 0, 68, 0, 68, 0]" nature="Jolly" level=40}
+    - Thunderbolt
+  :::
+  :::pokemon[Sneasel]{info="You outspeed at (x / x / 18+)" infoColor=blue baseStats="[55, 95, 55, 35, 75, 115]" ivs="[15, 0, 15, 0, 15, 0]" evs="[68, 0, 68, 0, 68, 0]" nature="Jolly" type="Ice/Dark" level=43}
+    - Thunderbolt x1-2    
+   :damage[Mew's +2 Choice Specs Thunderbolt vs Sneasel]{source="Mew" type="Electric" movePower=90 combatStages=2 special=true healthThreshold=auto choiceItem=true}
+  :::
+:::::
+
+Take the teleporter in the north-east of the room.
+
+- Heal if under 25% HP.
+
+:::::trainer[Commander Saturn]
+  :::pokemon[Kadabra]{info="You outspeed at (17+ / 0+ / 0+)" infoColor=blue baseStats="[40, 35, 30, 120, 70, 105]" ivs="[15, 0, 15, 0, 15, 0]" evs="[68, 0, 68, 0, 68, 0]" nature="Timid" type="Psychic" level=38}
+    - Thief
+  :::
+  :::pokemon[Toxicroak]{baseStats="[83, 106, 65, 86, 65, 85]" ivs="[15, 0, 15, 0, 15, 0]" evs="[68, 0, 68, 0, 68, 0]" nature="Jolly" type="Steel/Psychic" level=40}
+    - Thief + Psychic
+  :::
+  :::pokemon[Bronzor]{baseStats="[57, 24, 86, 24, 86, 23]" ivs="[15, 0, 15, 0, 15, 0]" evs="[68, 0, 68, 0, 68, 0]" nature="Relaxed" type="Steel/Psychic" level=38}
+    - Flamethrower x1-2
+    :damage[Mew's No Item Flamethrower vs Bronzor]{source="Mew" type="Fire" movePower=90 special=true healthThreshold=auto}
+  :::
+:::::
+
+Leave the Galactic HQ:
+- Heal to full.
+- Super Repel (keep refreshed)
+- Fly to Oreburgh.
+
+Head through the one tile path after biking up the slope and head to Mt. Coronet. Surf across the water, then Rock Climb and head up the stairs.
+
+_Optional: Grab the Hidden Max Revive down the stairs after the fork._
+
+:::::trainer[Team Galactic Grunt]
+  :::pokemon[Bronzor]{baseStats="[57, 24, 86, 24, 86, 23]" nature="Hardy" type="Steel/Psychic" level=38}
+    - Thunderbolt x2
+  :::
+  ::level{source="Mew" value=44}
+  :::pokemon[Glameow]{baseStats="[49, 55, 42, 42, 37, 85]" nature="Docile" type="Normal" level=36}
+    - Thunderbolt
+  :::
+:::::
+
+__Teach Aqua Jet over Water Gun (Slot 3)__
+
+:::::trainer[Team Galactic Grunt]
+  :::pokemon[Bronzor]{baseStats="[57, 24, 86, 24, 86, 23]" nature="Serious" type="Steel/Psychic" level=37}
+    - Thunderbolt x2
+  :::
+  :::pokemon[Golbat]{baseStats="[75, 80, 70, 65, 75, 90]" nature="Bashful" level=37}
+    - Thunderbolt
+  :::
+:::::
+
+:::::trainer[Team Galactic Grunt]
+  :::pokemon[Golbat]{baseStats="[75, 80, 70, 65, 75, 90]" nature="Serious" level=37}
+	- Thunderbolt
+  :::
+  :::pokemon[Glameow]{baseStats="[49, 55, 42, 42, 37, 85]" nature="Bashful" type="Normal" level=37}
+  - Thunderbolt
+  :::
+  :::pokemon[Bronzor]{baseStats="[57, 24, 86, 24, 86, 23]" nature="Quirky" type="Steel/Psychic" level=37}
+  - Thunderbolt x2
+  :::
+:::::
+
+:::::trainer[Team Galactic Double]
+:::pokemon[Turn 1]
+  - Psychic Dustox / Bubble Beam Stunky
+:::
+:::pokemon[Turn 2]
+  - Psychic Croagunk / Bubble Beam Stunky
+:::
+:::pokemon[Turn 3]
+  - Psychic Glameow / Heal Mew
+:::
+::level{source="Mew" value=45}
+:::::
+
+__Teach Aqua Jet over Bubble Beam (Slot 1)__
+
+- Heal to full.
+- Save the game.
+
+:::::trainer[Commander Jupiter & Mars]{info="Okay this fight kinda sucks"}
+  :::pokemon[Right Bronzor]{baseStats="[57, 24, 86, 24, 86, 23]" ivs="[15, 0, 15, 0, 15, 0]" evs="[68, 0, 68, 0, 68, 0]" nature="Relaxed" type="Steel/Psychic" level=41}
+	 - Flamethrower x1-2
+	 :damage[Mew's Choice Specs Flamethrower vs Bronzor-R]{source="Mew" choiceItem=true special=true healthThreshold=auto movePower=90 type="Fire"}
+  :::
+  :::pokemon[Setup]
+   - X SpAttack x2
+  :::
+  :::pokemon[Golbat-42 - Has Haze]{info="Outspeed at (5+ / 0+ / 0+)" infoColor=blue baseStats="[75, 80, 70, 65, 75, 90]" ivs="[15, 0, 15, 0, 15, 0]" evs="[68, 0, 68, 0, 68, 0]" type="Poison/Flying" nature="Jolly" level=42}
+	 - Flamethrower 
+  :damage[Golbat's U-Turn vs Mew]{source="Mew" offensive=false movePower=70 type="Bug" theme="error"}
+  :::
+  :::pokemon[Purugly]{baseStats="[71, 82, 64, 64, 59, 112]" ivs="[15, 0, 15, 0, 15, 0]" evs="[68, 0, 68, 0, 68, 0]" nature="Jolly" type="Normal" level=45}
+   - Flamethrower x2
+	 :damage[Purugly's U-Turn vs Mew]{source="Mew" offensive=false movePower=70 type="Bug" theme="error"}
+	 :damage[Purugly's Body Slam vs Mew]{source="Mew" offensive=false movePower=85 type="Normal" theme="error"}
+  :::  
+  :::pokemon[Left Bronzor]{baseStats="[57, 24, 86, 24, 86, 23]" ivs="[15, 0, 15, 0, 15, 0]" evs="[68, 0, 68, 0, 68, 0]" nature="Sassy" type="Steel/Psychic" level=41} 
+	 - Flamethrower
+  ::: 
+  :::pokemon[Skuntank]{baseStats="[103, 93, 67, 71, 61, 84]" ivs="[15,0,15,0,15,0]" evs="[68,0,68,0,68,0]" nature="Modest" type="Poison/Dark" level=46}
+    - Flamethrower
+  :::  
+  :::pokemon[Golbat-41 - Has Haze]{baseStats="[75, 80, 70, 65, 75, 90]" ivs="[15, 0, 15, 0, 15, 0]" evs="[68, 0, 68, 0, 68, 0]" type="Poison/Flying" nature="Modest" level=41}
+    - Flamethrower
+  :::
+  ::level{source="Mew" value=46}
+:::::
+
+:info[**Free Heal**]{color=pink}
+
+:::::trainer[Team Galactic Boss Cyrus]
+  :::pokemon[Honchkrow]{baseStats="[100, 125, 52, 105, 52, 71]" ivs="[15,0,15,0,15,0]" evs="[68,0,68,0,68,0]" nature="Jolly" type="Flying/Dark" level=45}
+    - _If Thunderbolt range is bad, hard switch to Empoleon + Aqua Jet (Honchkrow is incapable of OHKOing them)_
+	- Thunderbolt
+	:damage[Mew's +0 Choice Specs Thunderbolt vs Honchkrow]{source="Mew" special=true type="Electric" healthThreshold=auto movePower=90 choiceItem=true}
+    :damage[Crit Night Slash vs Mew]{source="Mew" offensive=false movePower=70 type="Dark" otherModifier=1.5 theme=warning}
+  :::
+  :::pokemon[Gyarados]{info="Heal as needed" infoColor=green baseStats="[95, 125, 79, 60, 100, 81]" ivs="[15,0,15,0,15,0]" evs="[68,0,68,0,68,0]" nature="Jolly" type="Water/Flying" level=45}
+    - X Defense + X SpAttack x2 + X Speed + Thunderbolt
+	:damage[Gyarados' Crunch vs +0 Defense Mew]{source="Mew" offensive=false movePower=80 type="Dark" theme="error"}
+	:damage[Gyarados' Crunch vs +1 Defense Mew]{source="Mew" offensive=false combatStages=1 movePower=80 type="Dark" theme="error"}
+	:damage[Gyarados' Crunch vs +2 Defense Mew]{source="Mew" offensive=false combatStages=2 movePower=80 type="Dark" theme="error"}
+  :::
+  :::pokemon[Crobat]{info="You outspeed, but Crobat has Quick Claw." infoColor=blue baseStats="[85, 90, 80, 70, 80, 130]" ivs="[15,0,15,0,15,0]" evs="[68,0,68,0,68,0]" nature="Jolly" type="Poison/Flying" level=46}
+    - Thunderbolt
+  :::
+  :::pokemon[Weavile]{baseStats="[70, 120, 65, 45, 85, 125]" ivs="[15,0,15,0,15,0]" evs="[68,0,68,0,68,0]" nature="Jolly" type="Ice/Dark" level=48}
+    - Thunderbolt
+  :::
+  ::level{source="Mew" value=47}
+:::::
+
+Catch Dialga/Palkia with the Master Ball.
+
+Enter the cave again.
+
+- Escape Rope.
+- Fly to Pastoria City.
+
+Drop repel after the grass.  
+
+Head east to Sunyshore.  
+
+Take the free heal if you took significant damage.
+
+:::::trainer[Sailor Luther]
+  :::pokemon[Feebas]{baseStats="[20, 15, 20, 10, 55, 80]" ivs="[0, 0, 0, 0, 0, 0]" evs="[0, 0, 0, 0, 0, 0]" nature="Sassy" type="Water" level=37}
+    - Psychic
+  :::
+  :::pokemon[Machoke]{baseStats="[80, 100, 70, 50, 60, 45]" ivs="[0, 0, 0, 0, 0, 0]" evs="[0, 0, 0, 0, 0, 0]" nature="Relaxed" type="Fighting" level=40}
+    - Psychic
+  :::
+  :::pokemon[Gastrodon]{baseStats="[111, 83, 68, 92, 82, 39]" ivs="[0, 0, 0, 0, 0, 0]" evs="[0, 0, 0, 0, 0, 0]" nature="Sassy" type="Water/Ground" level=43}
+    - Psychic x2
+   :damage[Gastrodon's Earth Power vs Mew]{source="Mew" offensive=false special=true movePower=90 type="Ground" theme="error"}
+  :::
+  ::level{source="Mew" value=48}
+:::::
+
+After entering Sunyshore, head to the lighthouse. Talk to Volkner, then head to the gym.
+
+:::::::trainer[School Kid Tiera]
+:::::pokemon[Pachirisu]{baseStats="[60, 45, 70, 45, 90, 45]" ivs="[0, 0, 0, 0, 0, 0]" evs="[0, 0, 0, 0, 0, 0]" nature="Jolly" type="Electric" level=44}
+   - Psychic x1-2
+  :damage[Mew's Choice Specs Psychic vs Pachirisu]{source="Mew" special=true type="Psychic" healthThreshold=auto movePower=90 choiceItem=true}
+:::::
+:::::::
+
+- (Heal paralysis)
+
+:::::trainer[School Kid Forrest]
+  :::pokemon[Mr. Mime]{baseStats="[40, 45, 65, 100, 120, 90]" ivs="[0, 0, 0, 0, 0, 0]" evs="[0, 0, 0, 0, 0, 0]" nature="Timid" type="Psychic/Fairy" level=44}
+    - Thunderbolt x2
+  :::
+:::::
+
+:::::trainer[Guitarist Jerry]
+  :::pokemon[Luxio]{baseStats="[60, 85, 49, 60, 49, 60]" ivs="[0, 0, 0, 0, 0, 0]" evs="[0, 0, 0, 0, 0, 0]" nature="Jolly" type="Electric" level=44}
+    - Flamethrower
+  :::
+  ::level{source="Mew" value=49}
+:::::
+
+:::::trainer[Ace Trainer Destiny]
+  :::pokemon[Kadabra]{baseStats="[40, 35, 30, 120, 70, 105]" ivs="[0, 0, 0, 0, 0, 0]" evs="[0, 0, 0, 0, 0, 0]" nature="Timid" type="Psychic" level=44}
+    - X SpAttack + Flamethrower
+  :::
+  :::pokemon[Raichu]{baseStats="[60, 90, 55, 90, 80, 110]" ivs="[0, 0, 0, 0, 0, 0]" evs="[0, 0, 0, 0, 0, 0]" nature="Jolly" type="Electric" level=44}
+    - Flamethrower (x2 if Light Screen)
+  :damage[Raichu's Thunder Punch vs Mew]{source="Mew" offensive=false movePower=75 type="Electric" theme=error}
+  :damage[Raichu's Thunderbolt vs Mew]{source="Mew" offensive=false movePower=90 type="Electric" special=true theme=error}
+  :::
+:::::
+
+:::::trainer[Guitarist Preston]
+  :::pokemon[Luxio]{baseStats="[60, 85, 49, 60, 56, 60]" ivs="[0, 0, 0, 0, 0, 0]" evs="[0, 0, 0, 0, 0, 0]" nature="Jolly" type="Electric" level=42}
+    - Psychic
+  :::
+  :::pokemon[Bibarel]{baseStats="[79, 85, 60, 55, 60, 71]" ivs="[0, 0, 0, 0, 0, 0]" evs="[0, 0, 0, 0, 0, 0]" nature="Jolly" type="Normal/Water" level=42}
+    - Psychic
+  :::
+:::::
+
+:::::trainer[Ace Trainer Zachery]
+  :::pokemon[Steelix]{baseStats="[75, 85, 200, 55, 65, 30]" ivs="[0, 0, 0, 0, 0, 0]" evs="[0, 0, 0, 0, 0, 0]" nature="Relaxed" type="Steel/Ground" level=44}
+    - Psychic x2
+	:damage[Steelix's Iron Tail vs Mew]{source="Mew" offensive=false movePower=100 type="Steel" theme=error}
+  :::
+  :::pokemon[Medicham]{baseStats="[60, 60, 75, 60, 75, 80]" ivs="[0, 0, 0, 0, 0, 0]" evs="[0, 0, 0, 0, 0, 0]" nature="Jolly" type="Fighting/Psychic" level=44}
+    - Psychic
+  :::
+:::::
+
+- Heal to full
+- Ether Psychic (Mash A)
+
+:::::trainer[Gym Leader Volkner]{info="Heal as needed."}
+  :::pokemon[Setup]
+	- X Speed + X SpAttack
+  :::
+  :::pokemon[Raichu]{baseStats="[60, 90, 55, 90, 80, 110]" ivs="[11, 0, 11, 28, 11, 28]" evs="[12, 0, 12, 160, 12, 160]" nature="Timid" type="Electric" level=46}
+	:damage[Volt Switch vs Mew]{source="Mew" offensive=false movePower=70 type="Electric" theme=error}
+  :::
+  :::pokemon[Ambipom]{baseStats="[75, 100, 66, 60, 66, 115]" ivs="[11, 20, 11, 20, 11, 28]" evs="[12, 0, 12, 160, 12, 160]" nature="Naive" type="Normal" level=47}
+    - Psychic
+  :::  
+  :::pokemon[Raichu, but again]{baseStats="[60, 90, 55, 90, 80, 110]" ivs="[11, 0, 11, 28, 11, 28]" evs="[12, 0, 12, 160, 12, 160]" nature="Timid" type="Electric" level=46}
+	 - Psychic
+  :::
+  __Don't teach Nasty Plot to Mew, but teach Dragon Claw to Dialga__
+  :::pokemon[Octillery]{baseStats="[75, 105, 75, 105, 75, 45]" ivs="[11, 0, 11, 28, 11, 28]" evs="[12, 0, 12, 160, 12, 160]" nature="Modest" type="Water" level=47}
+    - Psychic
+  :::
+  ::level{source="Mew" value=50}
+  :::pokemon[Luxray]{baseStats="[80, 120, 79, 95, 79, 70]" ivs="[15, 28, 15, 0, 0, 30]" evs="[28, 160, 28, 0, 0, 200]" nature="Jolly" type="Electric" level=49}
+    - Psychic
+  :::  
+:::::
+
+Get Waterfall from Jasmine.
+
+- Super repel (refresh until you get to the Pokemon League).
+- Heal to full.
+
+Head north to Victory Road.
+
+:::::trainer[Swimmer Oscar]
+  :::pokemon[Mantyke]{baseStats="[80, 120, 79, 95, 79, 70]" nature="Sassy" type="Water/Flying" level=38}
+    - Thunderbolt
+  :::
+  :::pokemon[Remoraid]{baseStats="[35, 65, 35, 65, 35, 65]" nature="Hardy" type="Water" level=40}
+    - Thunderbolt
+  :::
+  :::pokemon[Mantine]{baseStats="[85, 40, 70, 80, 140, 70]" nature="Sassy" type="Water/Flying" level=42}
+    - Thunderbolt
+  :::
+:::::
+
+:::::trainer[Ace Trainer Mariah]
+  :::pokemon[Golduck]{baseStats="[80, 120, 79, 95, 79, 70]" ivs="[0, 0, 0, 0, 0, 0]" evs="[0, 0, 0, 0, 0, 0]" nature="Calm" type="Water" level=46}
+    - Thunderbolt x1-2
+    :damage[Mew's Choice Specs Thunderbolt vs Golduck]{source="Mew" movePower=90 special=true type="Electric" healthThreshold=auto choiceItem=true}
+  :::
+  :::pokemon[Blissey]{baseStats="[255, 10, 10, 75, 135, 55]" nature="Calm" type="Normal" level=48}
+     - Switch to Dialga/Palkia
+	- Dragon Claw
+  :::
+  ::level{source="Mew" value=51}
+:::::
+
+_Empoleon's Aqua Jet is a x2-3HKO on Blissey, without considering Soft-Boiled_  
+_Mew's Thief is a 2HKO on Blissey, without considering Soft-Boiled_  
+__Grab the Max Elixir hidden in the rock behind the trainer you just fought__
+
+:::::::trainer[Ace Trainer Omar]
+  :::::pokemon[Rapidash]{baseStats="[65, 100, 70, 80, 80, 105]" nature="Sassy" type="Fire" level=45}
+  :::if{source="Mew" condition="spa=(x/21+/0+)"}
+  - Psychic
+  :::
+  :::if{source="Mew" condition="spa=(31-/20-/x)"}
+  - X SpAttack + Psychic
+  :::
+  :::::
+  :::::pokemon[Carnivine]{baseStats="[74, 100, 72, 90, 72, 46]" nature="Hardy" type="Grass" level=45}
+    - Psychic
+  :::::
+  :::::pokemon[Rampardos]{baseStats="[97, 165, 60, 65, 50, 58]" nature="Relaxed" type="Rock" level=48}
+    - Psychic
+  :::::
+  ::level{source="Mew" value=52}
+:::::::
+
+:::::trainer[Ace Trainer Sydney]
+  :::pokemon[Clefable]{baseStats="[95, 70, 73, 95, 90, 60]" ivs="[0, 0, 0, 0, 0, 0]" evs="[0, 0, 0, 0, 0, 0]" nature="Calm" type="Fairy" level=46}
+    - X SpAttack + Psychic x1-2    
+    :damage[Mew's +2 Choice Specs Psychic vs +1 SpDefense Clefable]{source="Mew" movePower=90 special=true combatStages=2 opponentCombatStages=1 type="Psychic" healthThreshold=auto choiceItem=true}
+  :::    
+  :::pokemon[Torterra]{baseStats="[95, 109, 105, 75, 85, 56]" ivs="[0, 0, 0, 0, 0, 0]" evs="[0, 0, 0, 0, 0, 0]" nature="Impish" type="Grass/Ground" level=48}
+    - Psychic
+  :::
+:::::
+
+:::::trainer[Veteran Clayton]
+  :::pokemon[Staraptor]{baseStats="[85, 120, 70, 50, 60, 100]" ivs="[0, 0, 0, 0, 0, 0]" evs="[0, 0, 0, 0, 0, 0]" nature="Relaxed" type="Normal/Flying" level=47}
+    - X SpAttack + Flamethrower
+  :damage[Staraptor's Take Down vs Mew]{source="Mew" offensive=false movePower=90 level=49 special=false type="Normal" theme=error}
+	:damage[Staraptor's Quick Attack vs Mew]{source="Mew" offensive=false movePower=40 level=49 special=false type="Normal" theme=error}
+  :::
+  :::pokemon[Hippowdon]{baseStats="[108, 112, 118, 68, 72, 47]" ivs="[0, 0, 0, 0, 0, 0]" evs="[0, 0, 0, 0, 0, 0]" nature="Relaxed" type="Ground" level=47}
+    - Flamethrower
+  :::
+  ::level{source="Mew" value=53}
+:::::
+
+:::::trainer[Black Belt Miles]
+  :::pokemon[Machamp]{baseStats="[90, 130, 80, 65, 85, 55]" ivs="[0, 0, 0, 0, 0, 0]" evs="[0, 0, 0, 0, 0, 0]" nature="Relaxed" type="Fighting" level=49}
+    Psychic
+  :::
+:::::
+
+:::::trainer[Psychic Valencia]
+  :::pokemon[Chingling]{baseStats="[45, 30, 50, 65, 50, 45]" ivs="[0, 0, 0, 0, 0, 0]" evs="[0, 0, 0, 0, 0, 0]" nature="Bashful" type="Psychic" level=44}
+    - Thief
+  :::
+  :::pokemon[Chimecho]{baseStats="[75, 50, 80, 95, 90, 65]" ivs="[0, 0, 0, 0, 0, 0]" evs="[0, 0, 0, 0, 0, 0]" nature="Calm" type="Psychic" level=48}
+    - Thief x2
+  :::
+:::::
+
+Head north up the waterfall.
+
+- Heal to full.
+- Ether Psychic (Mash A)
+- Teach Dazzling Gleam over Thief (Slot 2)
+- Swap Metronome onto Mew.
+- Deposit your legendary.
+
+:::::trainer[Dragon Tamer Andre]
+  :::pokemon[Gabite]{baseStats="[68, 90, 65, 50, 55, 82]" ivs="[0, 0, 0, 0, 0, 0]" evs="[0, 0, 0, 0, 0, 0]" nature="Relaxed" type="Dragon/Ground" level=49}
+    - Dazzling Gleam
+  :::
+:::::
+
+:::::trainer[Veteran Edgar]
+  :::pokemon[Tentacruel]{baseStats="[80, 70, 65, 80, 120, 100]" ivs="[0, 0, 0, 0, 0, 0]" evs="[0, 0, 0, 0, 0, 0]" nature="Sassy" type="Water/Poison" level=45}
+    - Psychic (+ Flamethrower)
+  :damage[Mew's Metronome-0 Psychic vs Tentacruel]{source="Mew" movePower=90 special=true type="Psychic" healthThreshold=auto}
+  :::
+  :::pokemon[Golem]{baseStats="[80, 120, 130, 55, 65, 45]" ivs="[0, 0, 0, 0, 0, 0]" evs="[0, 0, 0, 0, 0, 0]" nature="Relaxed" type="Rock/Ground" level=45}
+    - Flamethrower + Psychic
+    :damage[Golem's Earthquake vs Mew]{source="Mew" offensive=false movePower=100 type="Ground" theme=error}
+  :::
+  ::level{source="Mew" value=54}
+  :::pokemon[Empoleon]{baseStats="[84, 86, 88, 111, 101, 60]" ivs="[0, 0, 0, 0, 0, 0]" evs="[0, 0, 0, 0, 0, 0]" nature="Sassy" type="Water/Steel" level=48}
+    - Heal if below half + Thunderbolt x2
+    :damage[Empoleon's Aqua Jet vs Mew]{source="Mew" offensive=false movePower=40 type="Water" theme=error}
+    :damage[Empoleon's Brine vs <50% HP Mew]{source="Mew" special=true offensive=false movePower=130 type="Water" theme=error}
+  :::
+:::::
+
+:::::trainer[Dragon Tamer Clinton]
+  :::pokemon[Gible]{baseStats="[68, 90, 65, 50, 55, 82]" ivs="[0, 0, 0, 0, 0, 0]" evs="[0, 0, 0, 0, 0, 0]" nature="Hardy" type="Dragon/Ground" level=46}
+    - Dazzling Gleam
+  :::
+  :::pokemon[Gyarados]{baseStats="[95, 125, 79, 60, 100, 81]" nature="Sassy" type="Water/Flying" level=49}
+    - Thunderbolt
+  :::
+  :::pokemon[Gible]{baseStats="[68, 90, 65, 50, 55, 82]" ivs="[0, 0, 0, 0, 0, 0]" evs="[0, 0, 0, 0, 0, 0]" nature="Hardy" type="Dragon/Ground" level=46}
+    - Dazzling Gleam
+  :::
+:::::
+
+**Elite 4 Shopping:**
+  - 0-2 Revives (RR). _You need at least 2 for the Elite Four_
+  - Max Full Restores (^)  
+
+Menu:
+	- Heal Mew to full.
+  - Swap Choice Specs onto Mew.
+  - Move Empoleon to slot 1.
+
+:::::::trainer[Pokemon Trainer Barry]
+  :::::pokemon[Turn 1]
+    - Aqua Jet (die) --> Swap to Mew
+  :::::
+   :::::pokemon[Setup]{info="Heal as needed" infoColor="green"}
+   :damage[Staraptor's U-Turn vs Mew]{source="Mew" offensive=false movePower=70 special=false type="Bug" opponentLevel=49 opponentStat=143 theme=error}
+   :::if{source="Mew" condition="spe=(x/x/16+)"}
+    - X SpAttack x2 + Psychic
+  :::
+  :::if{source="Mew" condition="spe=(31-/31-/15-)"}
+    - X Speed + X SpAttack x2 + Psychic
+  :::
+  :::::  
+  :::::pokemon[Rapidash]{baseStats="[65, 100, 70, 80, 80, 105]" ivs="[7,7,7,7,7,7]" evs="[48, 116, 48, 0, 48, 172]" nature="Jolly" type="Fire" level=49}
+   - Psychic
+   :damage[Mew's +0 Choice Specs Psychic vs Rapidash]{source="Mew" offensive=true movePower=90 special=true type="Psychic" choiceItem=true healthThreshold=auto}
+	
+  :::::
+  :::::pokemon[Floatzel]{info="Has Quick Claw, Outspeed at +0 at (x / x / 30+)" infoColor="red" baseStats="[85, 105, 55, 85, 50, 115]" ivs="[6, 6, 6, 6, 6, 6]" evs="[44, 104, 40, 0, 40, 160]" nature="Jolly" type="Water" level=49}
+    - X Defense + Finish Setup + Psychic
+    :damage[Floatzel's Brine <50% vs Mew]{source="Mew" offensive=false movePower=130 special=true type="Water" theme=error}
+    :damage[Floatzel's Crunch vs +0 Defense Mew]{source="Mew" offensive=false movePower=80 special=false type="Dark" theme=error}
+    :damage[Floatzel's Crunch vs +1 Defense Mew]{source="Mew" offensive=false movePower=80 combatStages=1 special=false type="Dark" theme=error}
+    :damage[Floatzel's Crunch vs +2 Defense Mew]{source="Mew" offensive=false movePower=80 combatStages=2 special=false type="Dark" theme=error}
+  :::::
+  :::::pokemon[Snorlax]{baseStats="[160, 110, 65, 65, 110, 30]" ivs="[9, 9, 9, 9, 9, 9]" evs="[96, 120, 96, 0, 88, 0]" nature="Adamant" type="Normal" level=52}
+    - Psychic x1-2
+	 :damage[Mew's +4 Choice Specs Psychic vs Snorlax]{source="Mew" offensive=true movePower=90 special=true type="Psychic" combatStages=4 choiceItem=true healthThreshold=auto}
+	 :damage[Snorlax's Crunch vs +0 Defense Mew]{source="Mew" offensive=false movePower=80 special=false type="Dark" theme=error}
+   :damage[Snorlax's Crunch vs +2 Defense Mew]{source="Mew" offensive=false combatStages=2 movePower=80 special=false type="Dark" theme=error}
+  :::::
+  ::level{source="Mew" value=55}
+  :::::pokemon[Staraptor, but again]{baseStats="[85, 120, 70, 50, 60, 100]" ivs="[5, 5, 5, 5, 5, 5]" evs="[56, 148, 36, 0, 36, 148]" nature="Jolly" type="Normal/Flying" level=49}
+    - Psychic
+  :::::
+   :::::pokemon[Heracross]{baseStats="[80, 125, 75, 40, 95, 85]" ivs="[9,9,9,9,9,9]" evs="[44, 104, 44, 0, 44, 156]" nature="Jolly" type="Bug" level=51}
+    - Psychic
+  :::::  
+  :::::pokemon[Torterra]{baseStats="[95, 109, 105, 75, 85, 56]" ivs="[11, 11, 11, 11, 11, 11]" evs="[164, 92, 52, 52, 124, 0]" nature="Careful" type="Grass/Ground" level=55}
+  	- Psychic
+  :::::  
+:::::::
+
+- Mew should effectively be in Slot 1.
+- Max Elixir + Full Restore Mew.
+
+:::::trainer[Elite Four Aaron]
+  :::pokemon[Dustox]{info="If you get Turn 3 or 4 Light Screen, stall a turn" infoColor=blue baseStats="[60, 50, 70, 50, 90, 65]" ivs="[31, 0, 21, 21, 21, 31]" evs="[252, 0, 12, 12, 12, 12]" nature="Bold" type="Bug/Poison" level=53}
+    - X SpAttack x2 + X Speed + (Full Restore +) Flamethrower 
+  :::
+  :::pokemon[Beautifly]{baseStats="[60, 70, 50, 100, 50, 65]" ivs="[21, 0, 21, 21, 21, 21]" evs="[12, 0, 12, 60, 12, 204]" nature="Modest" type="Bug/Flying" level=53}
+    - Flamethrower
+  :::
+  ::level{source="Mew" value=56}
+  :::pokemon[Vespiquen]{baseStats="[70, 80, 102, 80, 102, 40]" ivs="[31, 0, 31, 31, 31, 31]" evs="[252, 0, 0, 0, 0, 0]" nature="Adamant" type="Bug/Flying" level=54}
+    - Flamethrower (x1-2)
+    :damage[Mew's +4 Choice Specs Flamethrower vs Vespiquen through Light Screen]{source="Mew" offensive=true movePower=90 special=true type="Fire" healthThreshold=auto combatStages=4 choiceItem=true screen=true}
+  :::
+  :::pokemon[Heracross]{baseStats="[1, 1, 1, 1, 1, 85]" ivs="[31, 31, 31, 0, 31, 31]" evs="[12, 60, 0, 0, 0, 204]" nature="Jolly" level=54}
+    - Flamethrower
+  :::
+  :::pokemon[Drapion]{baseStats="[70, 90, 110, 60, 75, 95]" ivs="[31, 31, 31, 0, 31, 31]" evs="[12, 60, 0, 0, 0, 204]" nature="Jolly" type="Poison/Dark" level=57}
+    - Flamethrower
+  :::
+:::::
+
+- Revive Empoleon and heal them to full, they should already be in Slot 1.
+- Heal Mew to full.
+- Save the game.
+
+:::::::trainer[Elite Four Bertha]
+  :::::pokemon[Quagsire]{info="Heal as needed." infoColor="green" baseStats="[95, 85, 85, 65, 65, 35]" ivs="[23, 31, 31, 0, 13, 31]" evs="[12, 0, 252, 12, 12, 12]" nature="Jolly" type="Water/Ground" level=55}
+    - Stealth Rock + Charm (die) --> Swap in Mew
+	  - X SpAttack + (Heal Poison +) Psychic
+  :damage[Quagsire's +0 Earthquake vs Mew]{source="Mew" offensive=false movePower=100 special=false type="Ground" theme=error}
+  :damage[Quagsire's -2 Earthquake vs Mew]{source="Mew" offensive=false movePower=100 opponentCombatStages=-2 special=false type="Ground" theme=error}
+  :::::
+  :::::pokemon[Sudowoodo]{baseStats="[70, 100, 115, 30, 65, 30]" ivs="[21, 31, 31, 0, 11, 31]" evs="[0, 252, 12, 0, 12, 12]" nature="Adamant" type="Rock" level=56}
+	 - Psychic
+  ::damage[Sudowoodo's Sucker Punch vs Mew]{source="Mew" offensive=false movePower=70 type="Dark" theme=error}
+  :::::
+  ::level{source="Mew" value=57}
+  :::::pokemon[Whiscash]{baseStats="[110, 78, 73, 76, 71, 60]" ivs="[21, 31, 21, 31, 21, 31]" evs="[12, 12, 12, 252, 12, 0]" nature="Modest" type="Ground/Water" level=55}
+    - Psychic
+  :::::
+  :::::pokemon[Golem]{baseStats="[80, 120, 130, 55, 65, 45]" ivs="[21, 31, 21, 0, 21, 31]" evs="[12, 60, 12, 0, 12, 204]" nature="Jolly" type="Rock/Ground" level=56}
+    - Psychic
+  ::::: 
+  :::::pokemon[Hippowdon]{baseStats="[108, 112, 118, 68, 72, 47]" ivs="[31, 31, 31, 0, 31, 31]" evs="[12, 252, 0, 0, 0, 0]" nature="Adamant" type="Ground" level=59}
+    - Psychic x1-2
+	  :damage[Mew's +2 Choice Specs Psychic vs Hippowdon after Stealth Rock]{source="Mew" offensive=true movePower=90 special=true type="Psychic" combatStages=2 choiceItem=true healthThreshold=203}
+    :damage[Hippowdon's Earthquake vs Mew]{source="Mew" offensive=false movePower=100 type="Ground" theme=error}
+  :::::
+:::::::
+
+- Revive Empoleon and heal them to full.
+- Heal Mew to full.
+
+:::::::trainer[Elite Four Flint]
+  :::::pokemon[Rapidash]{info="Just dodge Hypnosis" infoColor=red baseStats="[65, 100, 70, 80, 80, 105]" ivs="[25, 31, 25, 0, 25, 31]" evs="[12, 60, 12, 0, 12, 204]" nature="Jolly" type="Fire" level=58}
+    - Stealth Rock (+ Charm x2) --> Switch to Mew 
+	  - X SpAttack x2 + X Speed + (Full Restore) + Psychic
+    :damage[Rapidash's +0 Flame Charge vs +0 Defense Mew]{source="Mew" offensive=false opponentCombatStages=0 movePower=50 type="Fire" theme=error}
+    :damage[Rapidash's -2 Flame Charge vs +0 Defense Mew]{source="Mew" offensive=false opponentCombatStages=-2 movePower=50 type="Fire" theme=error}
+  :::::
+  :::::pokemon[Steelix]{baseStats="[75, 85, 200, 55, 65, 30]" ivs="[31, 31, 31, 0, 31, 31]" evs="[12, 252, 0, 12, 12, 0]" nature="Adamant" type="Steel/Ground" level=57}
+    - Psychic x1-2
+	:damage[Mew's +4 Choice Specs Psychic vs Steelix after Stealth Rock]{source="Mew" offensive=true movePower=90 special=true type="Psychic" combatStages=4 choiceItem=true healthThreshold=166}
+    :damage[Steelix's Crunch vs +0 Defense Mew]{source="Mew" offensive=false movePower=80 special=false type="Fire" theme=error}
+    :damage[Steelix's Crunch vs +2 Defense Mew]{source="Mew" offensive=false movePower=80 combatStages=2 special=false type="Fire" theme=error}
+  :::::
+  ::level{source="Mew" value=58}
+  :::::pokemon[Lopunny]{baseStats="[65, 76, 84, 54, 96, 105]" ivs="[31, 31, 31, 0, 31, 31]" evs="[252, 0, 0, 0, 0, 0]" nature="Jolly" type="Normal" level=57}
+    - Psychic
+  :::::  
+  :::::pokemon[Drifblim]{baseStats="[150, 80, 44, 90, 54, 80]" ivs="[31,0,31,0,31,31]" evs="[12,60,12,0,12,204]" nature="Timid" type="Ghost/Flying" level=58}
+    - Psychic
+  :::::  
+  :::::pokemon[Infernape]{baseStats="[76, 104, 71, 104, 71, 108]" ivs="[31, 31, 31, 0, 31, 31]" evs="[12, 60, 0, 0, 0, 204]" nature="Jolly" type="Fire/Fighting" level=62}
+    - Psychic
+	:damage[Infernape's Mach Punch vs +0 Defense Mew]{source="Mew" offensive=false movePower=40 type="Fighting" theme=error}
+  :::::
+:::::::
+
+- _Swap Mew to Slot 1 if Empoleon is alive_.
+- Heal Mew to full.
+
+:::::trainer[Elite Four Lucian]{info="Heal as needed." infoColor="green"}
+  :::pokemon[Mr. Mime]{baseStats="[40, 45, 65, 100, 120, 90]" ivs="[31, 0, 31, 31, 31, 31]" evs="[252, 0, 12, 12, 12, 12]" nature="Bold" type="Psychic/Fairy" level=59}
+    - X SpAttack x3 + Flamethrower (x2 if Light Screen)
+    :damage[Mr. Mime's Dazzling Gleam vs Mew]{source="Mew" offensive=false movePower=80 type="Fairy" special=true theme=error}
+  :::
+  ::level{source="Mew" value=59}
+  :::pokemon[Girafarig]{baseStats="[70, 80, 65, 90, 65, 85]" ivs="[31, 0, 31, 31, 31, 0]" evs="[252, 0, 12, 12, 12, 0]" nature="Calm" type="Normal/Psychic" level=59}
+  - Flamethrower (x2 if Light Screen)
+  :damage[Girafarig's Thunderbolt vs Mew]{source="Mew" offensive=false movePower=90 type="Electric" special=true theme=error}
+  :::
+  :::pokemon[Medicham]{baseStats="[60, 120, 75, 60, 75, 80]" ivs="[31, 31, 31, 0, 31, 0]" evs="[0, 252, 0, 0, 0, 0]" nature="Brave" type="Fighting/Psychic" level=60}
+  - Flamethrower (x1-2 if Light Screen)
+    :damage[Mew's +6 Choice Specs Flamethrower vs Medicham through Light Screen]{source="Mew" offensive=true movePower=90 special=true type="Fire" combatStages=6 choiceItem=true healthThreshold=auto screen=true}
+    :damage[Medicham's Thunder/Ice Punch vs Mew]{source="Mew" offensive=false movePower=75 type="Electric" theme=error}
+  :::
+  :::pokemon[Alakazam]{info="You outslow during Trick Room" infoColor=blue baseStats="[55, 50, 45, 135, 95, 120]" ivs="[31, 0, 31, 31, 31, 31]" evs="[0, 0, 0, 0, 0, 252]" type="Psychic" level=60}
+    - Flamethrower (x1-2 if Light Screen)
+	:damage[Mew's +6 Choice Specs Flamethrower vs Alakazam through Light Screen]{source="Mew" offensive=true movePower=90 special=true type="Fire" combatStages=6 choiceItem=true opponentLevel=137 healthThreshold=154 screen=true}
+  :damage[Alakazam's Shockwave vs Mew]{source="Mew" offensive=false movePower=60 special=true type="Electric" theme=error}
+  :::
+  :::pokemon[Bronzong]{baseStats="[67, 89, 116, 79, 116, 33]" ivs="[31, 31, 31, 0, 31, 0]" evs="[12, 252, 0, 0, 0, 0]" type="Steel/Psychic" nature="Brave" level=63}
+    - (Heal until Trick Room ends +) Flamethrower
+	:damage[Bronzong's Payback-100 vs Mew]{source="Mew" offensive=false movePower=100 combatStages=4 type="Dark" theme=error}
+  :::
+:::::
+
+- Heal to full?
+- Max Ether Psychic.
+- Swap Metronome onto Mew.
+- Save the game.
+
+:::::::trainer[Champion Cynthia]
+  :::::pokemon[Spiritomb]{baseStats="[50, 92, 108, 92, 108, 35]" ivs="[31, 31, 31, 31, 31, 31]" evs="[252, 6, 0, 252, 0, 0]" type="Ghost/Dark" level=61 nature="Quiet"}
+    - X SpDefense (x2) + X Speed + X SpAttack x3 + Dazzling Gleam
+    :damage[Spiritomb's Sucker Punch vs Mew]{source="Mew" offensive=false movePower=70 type="Dark" theme=error}
+    :damage[Spiritomb's Shadow Ball/Dark Pulse vs +2 SpDefense Mew]{source="Mew" offensive=false movePower=80 special=true combatStages=2 type="Dark" theme=error}
+    :damage[Spiritomb's Shadow Ball/Dark Pulse vs +3 SpDefense Mew]{source="Mew" offensive=false movePower=80 special=true combatStages=3 type="Dark" theme=error}
+    :damage[Spiritomb's Shadow Ball/Dark Pulse vs +4 SpDefense Mew]{source="Mew" offensive=false movePower=80 special=true combatStages=4 type="Dark" theme=error}
+  :::::
+  ::level{source="Mew" value=60}
+  :::::pokemon[Roserade]{baseStats="[60, 70, 65, 125, 105, 90]" ivs="[31,0,31,0,31,31]" evs="[52,0,0,252,0,204]" nature="Timid" type="Grass/Poison" level=60}
+    - Psychic
+  :::::
+  :::::pokemon[Gastrodon]{baseStats="[111, 83, 68, 92, 82, 39]" ivs="[31, 31, 31, 31, 31, 0]" evs="[252, 0, 252, 0, 6, 0]" type="Water/Ground" level=60 nature="Relaxed"}
+    - Psychic
+  ::::: 
+  :::::pokemon[Milotic]{baseStats="[95, 60, 79, 100, 125, 81]" ivs="[31,0,31,31,31,31]" evs="[252,0,252,6,0,0]" nature="Bold" type="Water" level=63}
+    - Psychic
+  ::::: 
+  :::::pokemon[Lucario]{baseStats="[70, 110, 70, 115, 70, 90]" ivs="[31,0,31,31,31,31]" evs="[52,0,0,252,0,204]" nature="Timid" type="Steel/Fighting" level=63}
+    - Psychic
+  :::::
+  :::::pokemon[Garchomp]{baseStats="[108, 130, 95, 80, 85, 102]" ivs="[31,31,31,0,31,31]" evs="[52,252,0,0,0,204]" nature="Jolly" type="Dragon/Ground" level=66}
+    - Psychic
+  :::::
+  ::level{source="Mew" value=61}
+:::::::
+
+Timing ends on the first black frame of the fadeout after you are inducted to the Hall of Fame.
