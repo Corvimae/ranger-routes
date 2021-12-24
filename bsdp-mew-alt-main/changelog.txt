@@ -1,0 +1,49 @@
+Version 0.0.1
+    First Draft
+
+Version 0.0.2
+    Fixed Mars 1 fight - Removed Piplup altogether
+    Reverted to setting to Set at beginning of game
+    Changed move order
+    Changed who to fight first in Eterna Forest
+    Added conditional statements to trainer school heal
+    Added Jubilife grunt double ranges
+    Removed the Ravaged Path antidote
+    Added Pluck ranges vs Roserade
+    Added Petal Blizzard ranges vs Mew
+    Moved learn Bubble Beam location
+    Fixed Shop
+    Added Pluck ranges against Travon
+    Removed Oreburgh Super Potion
+    Added Aftermath damage
+    Changed Grotle's bite syntax
+    Added Razor Leaf & Overgrow Razor Leaf ranges
+    Changed Rival 2 mon order
+    Changed the order moves are taught
+    Added Meditites ranges
+    Added Marsh candy and removed Bog Candy
+    Moved the conditional PP Up & Calcium
+    Changed Brine to calc against SpDefense instead of Defense
+    Moved the Celestic Grunt fight before Choice Specs
+    Changed menu order post Fantina
+    Fixed Flamethrower PP management
+    Changed Barry 4's mon order
+    Move Mew back to Slot 1 after Byron.
+
+Version 0.1.0
+    Fixed Shop
+    Overhauled Saturn 1 
+    and a later Grunt fight to make PP always work
+    Added conditional X Speed on Mars 2
+    North by North-West
+    Added +2 Choice Specs and combatStages to Cyrus' Sneasel
+    Updated Jupiter & Mars first Bronzor to be special
+    Jupiter & Mars mon order
+    Jupiter & Mars sucks
+    Fixed formatting on Volkner
+    Added formatting on Sydney
+    Updated Vespiquen's stats on Aaron
+    Added note to not switch off Choice Specs
+    Added Full Restore on Dustox
+    Fixed Aaron's mon order
+    Added ranges to Lucian

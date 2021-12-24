@@ -893,7 +893,8 @@ Enter the:
   :::::pokemon[Mismagius]{baseStats="[60, 60, 60, 105, 105, 105]" ivs="[19,0,5,19,5,19]" evs="[44,0,4,92,4,68]" nature="Timid" type="Ghost" level=36}
     - Shadow Ball x1-2
 	:damage[Jirachi's +4 Shadow Ball Ranges vs Mismagius]{source="Jirachi" special=true offensive=true movePower=80 combatStages=4 type="Ghost" healthThreshold=auto}
-  	:damage[Mismagius' Expert Belt Shadow Force vs Jirachi]{source="Jirachi" offensive=false movePower=90 type="Ghost" otherModifier=1.2 theme=error}
+  :damage[Mismagius' Expert Belt Shadow Force vs Jirachi]{source="Jirachi" offensive=false movePower=90 type="Ghost" otherModifier=1.2 theme=error}
+
 
   :::::
   ::level{source="Jirachi" value=31}
