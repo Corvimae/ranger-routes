@@ -71,7 +71,7 @@
 
 :::
 
-## Jirachi Alt Main v1.4.0
+## Jirachi Alt Main v1.4.2
 Routed by GreenLightn1ng#2156
 
 :info[_This route is slightly more polished than it was previously, if you have any queries, complaints, or criticism, feel free to message me on Discord._]
@@ -162,9 +162,9 @@ Head north to Route 202 and learn how to catch Bidoof.
   :::
 :::::
 
-Grab the hidden Paralyze Heal on the left before going into Jubilife.
+_Grab the hidden Paralyze Heal on the left before going into Jubilife if you were paralyzed, use it_
 
-- (Heal to full, Heal paralysis)
+- Heal if you took significant damage.
 
 Head to the Trainer School and talk to Barry. Leave the trainer school.
 
@@ -544,7 +544,7 @@ Enter the contest hall, watch the cutscene, then head to the far south-east of H
 After leaving town:
 - Repel (refresh until Veilstone)
 
-- Pick the Leppa Berries by wrapping back around after crossing the first bridge, top left-ish.
+Pick the Leppa Berries by wrapping back around after crossing the first bridge, top left-ish.
 
 Before reaching Solaceon Town, enter the Lost Tower. Talk to the left person on the top floor, then Escape Rope out and continue heading north.
 
@@ -893,7 +893,7 @@ Enter the:
   :::::pokemon[Mismagius]{baseStats="[60, 60, 60, 105, 105, 105]" ivs="[19,0,5,19,5,19]" evs="[44,0,4,92,4,68]" nature="Timid" type="Ghost" level=36}
     - Shadow Ball x1-2
 	:damage[Jirachi's +4 Shadow Ball Ranges vs Mismagius]{source="Jirachi" special=true offensive=true movePower=80 combatStages=4 type="Ghost" healthThreshold=auto}
-  :damage[Mismagius' Shadow Force vs Jirachi]{source="Jirachi" offensive=false movePower=90 type="Ghost" otherModifier=1.2 theme=error}
+  :damage[Mismagius' Expert Belt Shadow Force vs Jirachi]{source="Jirachi" offensive=false movePower=90 type="Ghost" otherModifier=1.2 theme=error}
 
   :::::
   ::level{source="Jirachi" value=31}
@@ -906,9 +906,9 @@ After exiting the gym:
 Surf to the top right corner and grab the Rare Candy, then:
 
 - Add Prinplup to your party, equip Choice Specs on them.
-- Heal to full.
 - Equip Metronome on Jirachi.
 - Rare Candy Jirachi to Lv 33 (x2)
+- Heal to full.
 
 ::level{source="Jirachi" value=33}
 
@@ -1020,7 +1020,8 @@ At the fork, go up, then take the lift near the trainer.
 
 Enter the library and head to the third floor. After the cutscene, exit the library.
 
-- Either Super Repel or be prepared to yolo 5 grass tiles.
+- Super Repel (don't refresh).
+- Move Jirachi back to Slot 1.
 - Fly to Pastoria.
 
 Head west back to the resort area. Grab the hotel heal on your way through, and head up to Lake Valor.
@@ -1663,7 +1664,7 @@ __Grab the Max Elixir hidden in the rock behind the trainer you just fought__
   :::pokemon[Beautifly]{baseStats="[60, 70, 50, 100, 50, 65]" ivs="[21, 0, 21, 21, 21, 21]" evs="[12, 0, 12, 60, 12, 204]" nature="Modest" type="Bug/Flying" level=53}
     - Thunderbolt
   :::  
-  :::pokemon[Vespiquen]{baseStats="[60, 70, 50, 100, 50, 65]" ivs="[21, 0, 21, 21, 21, 21]" evs="[12, 0, 12, 60, 12, 204]" nature="Modest" type="Bug/Flying" level=53}
+  :::pokemon[Vespiquen]{baseStats="[70, 80, 102, 80, 102, 40]" ivs="[31, 0, 31, 31, 31, 31]" evs="[252, 0, 0, 0, 0, 0]" nature="Adamant" type="Bug/Flying" level=54}
     - Thunderbolt (x2)
   :::
   :::pokemon[Drapion]{baseStats="[70, 90, 110, 60, 75, 95]" ivs="[31, 31, 31, 0, 31, 31]" evs="[12, 60, 0, 0, 0, 204]" nature="Jolly" type="Poison/Dark" level=57}
