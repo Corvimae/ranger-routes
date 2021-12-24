@@ -126,4 +126,3 @@ Version 1.4.2
 	Changed the menus before Jubilife the first time
 	Cleaned up some syntax
 	Updated Vespiquen to actually have correct stats
-

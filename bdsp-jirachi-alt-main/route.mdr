@@ -895,6 +895,7 @@ Enter the:
 	:damage[Jirachi's +4 Shadow Ball Ranges vs Mismagius]{source="Jirachi" special=true offensive=true movePower=80 combatStages=4 type="Ghost" healthThreshold=auto}
   :damage[Mismagius' Expert Belt Shadow Force vs Jirachi]{source="Jirachi" offensive=false movePower=90 type="Ghost" otherModifier=1.2 theme=error}
 
+
   :::::
   ::level{source="Jirachi" value=31}
 :::::::
