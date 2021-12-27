@@ -51,3 +51,7 @@ Version 0.1.0
 Version 1.0.0
     Released to public
     Removed any outlying ":::"
+
+Version 1.0.1
+    Fixed syntax on Mars 2 Golbat
+    Added Heatproof to a Grunt after Candice

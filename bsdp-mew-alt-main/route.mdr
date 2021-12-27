@@ -72,7 +72,7 @@
 
 :::
 
-## Mew Alt Main v1.0.0
+## Mew Alt Main v1.0.1
 Routed by GreenLightn1ng#2156
 
 _This route is unpolished, use at your own risk. If you have any queries, complaints, or criticism, feel free to message me on Discord._
@@ -1088,7 +1088,7 @@ Surf around the second double battle (avoid grass completely).
   :::if{source="Mew" condition="spe=(31-/31-/17-)"}
     - X SpAttack + X Speed + Thunderbolt
   :::
-  :::if{source="Mew" condition="spe=(x)/x/18+)"}
+  :::if{source="Mew" condition="spe=(x/x/18+)"}
   - X SpAttack + X Speed + Thunderbolt
   :::
   :damage[Golbats's U-Turn vs Mew]{source="Mew" type="Bug" movePower=70 theme="error" offensive=false}
@@ -1184,7 +1184,7 @@ Talk to the grunt in front of the Galactic HQ, then pick up the Storage Key. Hea
   ::level{source="Mew" value=42}
   :::pokemon[Bronzor]{baseStats="[57, 24, 86, 24, 86, 23]" nature="Hardy" type="Steel/Psychic" level=35}
     - Flamethrower x1-2
-  :damage[Mew's Choice Specs Flamethrower vs Bronzor]{source="Mew" type="Fire" movePower=90 special=true healthThreshold=auto choiceItem=true}
+  :damage[Mew's Choice Specs Flamethrower vs Bronzor]{source="Mew" type="Fire" movePower=90 special=true opponentCombatStages=2 healthThreshold=auto choiceItem=true}
   :::
 :::::
 
