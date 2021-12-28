@@ -674,367 +674,369 @@ EV yield: {"spd":1}
 45	21	30	43	57	11	65
 Mew (Lv. 45) @Choice Specs (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Thief/Thunderbolt/Flamethrower) IVs: 0/0/0/0/0/0 EVs: 21/30/43/57/11/65
 Current Exp: 83622 (4.64%)
-[KILL]: Got 443 Exp for killing Bronzor (Lv. 41) @(None) (Ability: Levitate) (Nature: Sassy) (Moves: Confuse Ray/Payback/Gyro Ball/Reflect) IVs: 15/0/15/0/15/0 EVs: 68/0/68/0/68/0
+[RARE CANDY] Now level 46
+46	21	30	43	57	11	65
+Mew (Lv. 46) @Choice Specs (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Thief/Thunderbolt/Flamethrower) IVs: 0/0/0/0/0/0 EVs: 21/30/43/57/11/65
+Current Exp: 89523 (0.00%)
+[KILL]: Got 432 Exp for killing Bronzor (Lv. 41) @(None) (Ability: Levitate) (Nature: Sassy) (Moves: Confuse Ray/Payback/Gyro Ball/Reflect) IVs: 15/0/15/0/15/0 EVs: 68/0/68/0/68/0
 EV yield: {"def":1}
-Mew (Lv. 45) @Choice Specs (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Thief/Thunderbolt/Flamethrower) IVs: 0/0/0/0/0/0 EVs: 21/30/44/57/11/65
-Current Exp: 84065 (11.80%)
-[KILL]: Got 1423 Exp for killing Purugly (Lv. 45) @Sitrus Berry (Ability: Thick Fat) (Nature: Jolly) (Moves: Aerial Ace/Body Slam/Dig/U-turn) IVs: 15/0/15/0/15/0 EVs: 68/0/68/0/68/0
+Mew (Lv. 46) @Choice Specs (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Thief/Thunderbolt/Flamethrower) IVs: 0/0/0/0/0/0 EVs: 21/30/44/57/11/65
+Current Exp: 89955 (6.66%)
+[KILL]: Got 1388 Exp for killing Purugly (Lv. 45) @Sitrus Berry (Ability: Thick Fat) (Nature: Jolly) (Moves: Aerial Ace/Body Slam/Dig/U-turn) IVs: 15/0/15/0/15/0 EVs: 68/0/68/0/68/0
 EV yield: {"spd":2}
-Mew (Lv. 45) @Choice Specs (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Thief/Thunderbolt/Flamethrower) IVs: 0/0/0/0/0/0 EVs: 21/30/44/57/11/67
-Current Exp: 85488 (34.79%)
-[KILL]: Got 1235 Exp for killing Golbat (Lv. 42) @(None) (Ability: Inner Focus) (Nature: Jolly) (Moves: Poison Fang/Bite/Haze/U-turn) IVs: 15/0/15/0/15/0 EVs: 68/0/68/0/68/0
+Mew (Lv. 46) @Choice Specs (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Thief/Thunderbolt/Flamethrower) IVs: 0/0/0/0/0/0 EVs: 21/30/44/57/11/67
+Current Exp: 91343 (28.05%)
+[KILL]: Got 1203 Exp for killing Golbat (Lv. 42) @(None) (Ability: Inner Focus) (Nature: Jolly) (Moves: Poison Fang/Bite/Haze/U-turn) IVs: 15/0/15/0/15/0 EVs: 68/0/68/0/68/0
 EV yield: {"spd":2}
-Mew (Lv. 45) @Choice Specs (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Thief/Thunderbolt/Flamethrower) IVs: 0/0/0/0/0/0 EVs: 21/30/44/57/11/69
-Current Exp: 86723 (54.75%)
-[KILL]: Got 443 Exp for killing Bronzor (Lv. 41) @(None) (Ability: Levitate) (Nature: Relaxed) (Moves: Confuse Ray/Payback/Extrasensory/Light Screen) IVs: 15/0/15/0/15/0 EVs: 68/0/68/0/68/0
+Mew (Lv. 46) @Choice Specs (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Thief/Thunderbolt/Flamethrower) IVs: 0/0/0/0/0/0 EVs: 21/30/44/57/11/69
+Current Exp: 92546 (46.59%)
+[KILL]: Got 432 Exp for killing Bronzor (Lv. 41) @(None) (Ability: Levitate) (Nature: Relaxed) (Moves: Confuse Ray/Payback/Extrasensory/Light Screen) IVs: 15/0/15/0/15/0 EVs: 68/0/68/0/68/0
 EV yield: {"def":1}
-Mew (Lv. 45) @Choice Specs (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Thief/Thunderbolt/Flamethrower) IVs: 0/0/0/0/0/0 EVs: 21/30/45/57/11/69
-Current Exp: 87166 (61.91%)
-[KILL]: Got 1172 Exp for killing Golbat (Lv. 41) @(None) (Ability: Inner Focus) (Nature: Modest) (Moves: Air Cutter/Haze/Giga Drain/Sludge Bomb) IVs: 15/0/15/0/15/0 EVs: 68/0/68/0/68/0
+Mew (Lv. 46) @Choice Specs (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Thief/Thunderbolt/Flamethrower) IVs: 0/0/0/0/0/0 EVs: 21/30/45/57/11/69
+Current Exp: 92978 (53.24%)
+[KILL]: Got 1142 Exp for killing Golbat (Lv. 41) @(None) (Ability: Inner Focus) (Nature: Modest) (Moves: Air Cutter/Haze/Giga Drain/Sludge Bomb) IVs: 15/0/15/0/15/0 EVs: 68/0/68/0/68/0
 EV yield: {"spd":2}
-Mew (Lv. 45) @Choice Specs (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Thief/Thunderbolt/Flamethrower) IVs: 0/0/0/0/0/0 EVs: 21/30/45/57/11/71
-Current Exp: 88338 (80.85%)
-[KILL]: Got 1584 Exp for killing Skuntank (Lv. 46) @Sitrus Berry (Ability: Aftermath) (Nature: Modest) (Moves: Flamethrower/Poison Gas/Belch/Snarl) IVs: 15/0/15/0/15/0 EVs: 68/0/68/0/68/0
+Mew (Lv. 46) @Choice Specs (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Thief/Thunderbolt/Flamethrower) IVs: 0/0/0/0/0/0 EVs: 21/30/45/57/11/71
+Current Exp: 94120 (70.84%)
+[KILL]: Got 1546 Exp for killing Skuntank (Lv. 46) @Sitrus Berry (Ability: Aftermath) (Nature: Modest) (Moves: Flamethrower/Poison Gas/Belch/Snarl) IVs: 15/0/15/0/15/0 EVs: 68/0/68/0/68/0
 EV yield: {"hp":2}
-[LEVELUP] Now level 46
-46	23	30	45	57	11	71
 Mew (Lv. 46) @Choice Specs (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Thief/Thunderbolt/Flamethrower) IVs: 0/0/0/0/0/0 EVs: 23/30/45/57/11/71
-Current Exp: 89922 (6.15%)
+Current Exp: 95666 (94.67%)
 [KILL]: Got 1554 Exp for killing Honchkrow (Lv. 45) @Scope Lens (Ability: Super Luck) (Nature: Jolly) (Moves: Air Cutter/Night Slash/Steel Wing/Defog) IVs: 15/0/15/0/15/0 EVs: 68/0/68/0/68/0
 EV yield: {"atk":2}
-Mew (Lv. 46) @Choice Specs (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Thief/Thunderbolt/Flamethrower) IVs: 0/0/0/0/0/0 EVs: 23/32/45/57/11/71
-Current Exp: 91476 (30.10%)
-[KILL]: Got 2466 Exp for killing Crobat (Lv. 46) @Quick Claw (Ability: Infiltrator) (Nature: Jolly) (Moves: Cross Poison/Tailwind/Air Cutter/U-turn) IVs: 15/0/15/0/15/0 EVs: 68/0/68/0/68/0
-EV yield: {"spd":3}
-Mew (Lv. 46) @Choice Specs (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Thief/Thunderbolt/Flamethrower) IVs: 0/0/0/0/0/0 EVs: 23/32/45/57/11/74
-Current Exp: 93942 (68.10%)
-[KILL]: Got 1660 Exp for killing Gyarados (Lv. 45) @Wacan Berry (Ability: Intimidate) (Nature: Jolly) (Moves: Ice Fang/Waterfall/Crunch/Earthquake) IVs: 15/0/15/0/15/0 EVs: 68/0/68/0/68/0
-EV yield: {"atk":2}
-Mew (Lv. 46) @Choice Specs (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Thief/Thunderbolt/Flamethrower) IVs: 0/0/0/0/0/0 EVs: 23/34/45/57/11/74
-Current Exp: 95602 (93.68%)
-[KILL]: Got 1802 Exp for killing Weavile (Lv. 48) @Chople Berry (Ability: Pickpocket) (Nature: Jolly) (Moves: Metal Claw/Fling/Dig/Aerial Ace) IVs: 15/0/15/0/15/0 EVs: 68/0/68/0/68/0
-EV yield: {"atk":1,"spd":1}
 [LEVELUP] Now level 47
-47	23	35	45	57	11	75
-Mew (Lv. 47) @Choice Specs (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Thief/Thunderbolt/Flamethrower) IVs: 0/0/0/0/0/0 EVs: 23/35/45/57/11/75
-Current Exp: 97404 (20.48%)
-[CATCH]: Got 3197 Exp for catching Lv. 47 Dialga
-EV yield: {"spAtk":3}
-Mew (Lv. 47) @Choice Specs (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Thief/Thunderbolt/Flamethrower) IVs: 0/0/0/0/0/0 EVs: 23/35/45/60/11/75
-Current Exp: 100601 (67.51%)
-[KILL]: Got 224 Exp for killing Feebas (Lv. 37) @(None) (Ability: Oblivious) (Nature: Sassy) (Moves: Splash/Tackle/Flail/Bug Buzz/(No Move)) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
-EV yield: {"spd":1}
-Mew (Lv. 47) @Choice Specs (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Thief/Thunderbolt/Flamethrower) IVs: 0/0/0/0/0/0 EVs: 23/35/45/60/11/76
-Current Exp: 100825 (70.80%)
-[KILL]: Got 943 Exp for killing Machoke (Lv. 40) @(None) (Ability: No Guard) (Nature: Relaxed) (Moves: Leer/Low Sweep/Knock Off/Dual Chop) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+47	23	32	45	57	11	71
+Mew (Lv. 47) @Choice Specs (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Thief/Thunderbolt/Flamethrower) IVs: 0/0/0/0/0/0 EVs: 23/32/45/57/11/71
+Current Exp: 97220 (17.77%)
+[KILL]: Got 2406 Exp for killing Crobat (Lv. 46) @Quick Claw (Ability: Infiltrator) (Nature: Jolly) (Moves: Cross Poison/Tailwind/Air Cutter/U-turn) IVs: 15/0/15/0/15/0 EVs: 68/0/68/0/68/0
+EV yield: {"spd":3}
+Mew (Lv. 47) @Choice Specs (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Thief/Thunderbolt/Flamethrower) IVs: 0/0/0/0/0/0 EVs: 23/32/45/57/11/74
+Current Exp: 99626 (53.16%)
+[KILL]: Got 1619 Exp for killing Gyarados (Lv. 45) @Wacan Berry (Ability: Intimidate) (Nature: Jolly) (Moves: Ice Fang/Waterfall/Crunch/Earthquake) IVs: 15/0/15/0/15/0 EVs: 68/0/68/0/68/0
 EV yield: {"atk":2}
-Mew (Lv. 47) @Choice Specs (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Thief/Thunderbolt/Flamethrower) IVs: 0/0/0/0/0/0 EVs: 23/37/45/60/11/76
-Current Exp: 101768 (84.67%)
-[KILL]: Got 1289 Exp for killing Gastrodon (Lv. 43) @(None) (Ability: Storm Drain) (Nature: Sassy) (Moves: Recover/Water Pulse/Ancient Power/Earth Power) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
-EV yield: {"hp":2}
+Mew (Lv. 47) @Choice Specs (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Thief/Thunderbolt/Flamethrower) IVs: 0/0/0/0/0/0 EVs: 23/34/45/57/11/74
+Current Exp: 101245 (76.98%)
+[KILL]: Got 1760 Exp for killing Weavile (Lv. 48) @Chople Berry (Ability: Pickpocket) (Nature: Jolly) (Moves: Metal Claw/Fling/Dig/Aerial Ace) IVs: 15/0/15/0/15/0 EVs: 68/0/68/0/68/0
+EV yield: {"atk":1,"spd":1}
 [LEVELUP] Now level 48
-48	25	37	45	60	11	76
+48	23	35	45	57	11	75
+Mew (Lv. 48) @Choice Specs (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Thief/Thunderbolt/Flamethrower) IVs: 0/0/0/0/0/0 EVs: 23/35/45/57/11/75
+Current Exp: 103005 (2.74%)
+[CATCH]: Got 3121 Exp for catching Lv. 47 Dialga
+EV yield: {"spAtk":3}
+Mew (Lv. 48) @Choice Specs (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Thief/Thunderbolt/Flamethrower) IVs: 0/0/0/0/0/0 EVs: 23/35/45/60/11/75
+Current Exp: 106126 (46.62%)
+[KILL]: Got 218 Exp for killing Feebas (Lv. 37) @(None) (Ability: Oblivious) (Nature: Sassy) (Moves: Splash/Tackle/Flail/Bug Buzz/(No Move)) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"spd":1}
+Mew (Lv. 48) @Choice Specs (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Thief/Thunderbolt/Flamethrower) IVs: 0/0/0/0/0/0 EVs: 23/35/45/60/11/76
+Current Exp: 106344 (49.68%)
+[KILL]: Got 919 Exp for killing Machoke (Lv. 40) @(None) (Ability: No Guard) (Nature: Relaxed) (Moves: Leer/Low Sweep/Knock Off/Dual Chop) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"atk":2}
+Mew (Lv. 48) @Choice Specs (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Thief/Thunderbolt/Flamethrower) IVs: 0/0/0/0/0/0 EVs: 23/37/45/60/11/76
+Current Exp: 107263 (62.60%)
+[KILL]: Got 1257 Exp for killing Gastrodon (Lv. 43) @(None) (Ability: Storm Drain) (Nature: Sassy) (Moves: Recover/Water Pulse/Ancient Power/Earth Power) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"hp":2}
 Mew (Lv. 48) @Choice Specs (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Thief/Thunderbolt/Flamethrower) IVs: 0/0/0/0/0/0 EVs: 25/37/45/60/11/76
-Current Exp: 103057 (3.47%)
+Current Exp: 108520 (80.28%)
 [KILL]: Got 1131 Exp for killing Pachirisu (Lv. 44) @(None) (Ability: Pickup) (Nature: Jolly) (Moves: Charm/Spark/Nuzzle/Dig) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
 EV yield: {"spd":1}
 Mew (Lv. 48) @Choice Specs (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Thief/Thunderbolt/Flamethrower) IVs: 0/0/0/0/0/0 EVs: 25/37/45/60/11/77
-Current Exp: 104188 (19.37%)
+Current Exp: 109651 (96.18%)
 [KILL]: Got 1011 Exp for killing Luxio (Lv. 44) @(None) (Ability: Intimidate) (Nature: Jolly) (Moves: Leer/Bite/Spark/Iron Tail) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
 EV yield: {"atk":2}
-Mew (Lv. 48) @Choice Specs (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Thief/Thunderbolt/Flamethrower) IVs: 0/0/0/0/0/0 EVs: 25/39/45/60/11/77
-Current Exp: 105199 (33.59%)
-[KILL]: Got 1282 Exp for killing Mr. Mime (Lv. 44) @(None) (Ability: Filter) (Nature: Timid) (Moves: Reflect/Dazzling Gleam/Thunderbolt/Energy Ball) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
-EV yield: {"spDef":2}
-Mew (Lv. 48) @Choice Specs (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Thief/Thunderbolt/Flamethrower) IVs: 0/0/0/0/0/0 EVs: 25/39/45/60/13/77
-Current Exp: 106481 (51.61%)
-[KILL]: Got 1115 Exp for killing Kadabra (Lv. 44) @(None) (Ability: Inner Focus) (Nature: Timid) (Moves: Reflect/Psychic/Shock Wave/Energy Ball) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
-EV yield: {"spAtk":2}
-Mew (Lv. 48) @Choice Specs (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Thief/Thunderbolt/Flamethrower) IVs: 0/0/0/0/0/0 EVs: 25/39/45/62/13/77
-Current Exp: 107596 (67.29%)
-[KILL]: Got 1736 Exp for killing Raichu (Lv. 44) @(None) (Ability: Static) (Nature: Jolly) (Moves: Thunder Punch/Thunderbolt/Light Screen/Quick Attack) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
-EV yield: {"spd":3}
-Mew (Lv. 48) @Choice Specs (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Thief/Thunderbolt/Flamethrower) IVs: 0/0/0/0/0/0 EVs: 25/39/45/62/13/80
-Current Exp: 109332 (91.69%)
-[KILL]: Got 914 Exp for killing Luxio (Lv. 42) @(None) (Ability: Intimidate) (Nature: Jolly) (Moves: Bite/Volt Switch/Thunder Wave/Iron Tail) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
-EV yield: {"atk":2}
 [LEVELUP] Now level 49
-49	25	41	45	62	13	80
+49	25	39	45	60	11	77
+Mew (Lv. 49) @Choice Specs (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Thief/Thunderbolt/Flamethrower) IVs: 0/0/0/0/0/0 EVs: 25/39/45/60/11/77
+Current Exp: 110662 (9.94%)
+[KILL]: Got 1251 Exp for killing Mr. Mime (Lv. 44) @(None) (Ability: Filter) (Nature: Timid) (Moves: Reflect/Dazzling Gleam/Thunderbolt/Energy Ball) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"spDef":2}
+Mew (Lv. 49) @Choice Specs (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Thief/Thunderbolt/Flamethrower) IVs: 0/0/0/0/0/0 EVs: 25/39/45/60/13/77
+Current Exp: 111913 (26.76%)
+[KILL]: Got 1088 Exp for killing Kadabra (Lv. 44) @(None) (Ability: Inner Focus) (Nature: Timid) (Moves: Reflect/Psychic/Shock Wave/Energy Ball) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"spAtk":2}
+Mew (Lv. 49) @Choice Specs (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Thief/Thunderbolt/Flamethrower) IVs: 0/0/0/0/0/0 EVs: 25/39/45/62/13/77
+Current Exp: 113001 (41.39%)
+[KILL]: Got 1694 Exp for killing Raichu (Lv. 44) @(None) (Ability: Static) (Nature: Jolly) (Moves: Thunder Punch/Thunderbolt/Light Screen/Quick Attack) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"spd":3}
+Mew (Lv. 49) @Choice Specs (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Thief/Thunderbolt/Flamethrower) IVs: 0/0/0/0/0/0 EVs: 25/39/45/62/13/80
+Current Exp: 114695 (64.17%)
+[KILL]: Got 891 Exp for killing Luxio (Lv. 42) @(None) (Ability: Intimidate) (Nature: Jolly) (Moves: Bite/Volt Switch/Thunder Wave/Iron Tail) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"atk":2}
 Mew (Lv. 49) @Choice Specs (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Thief/Thunderbolt/Flamethrower) IVs: 0/0/0/0/0/0 EVs: 25/41/45/62/13/80
-Current Exp: 110246 (4.34%)
+Current Exp: 115586 (76.15%)
 [KILL]: Got 1011 Exp for killing Bibarel (Lv. 42) @(None) (Ability: Simple) (Nature: Jolly) (Moves: Yawn/Thunderbolt/Bulldoze/Waterfall) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
 EV yield: {"atk":2}
 Mew (Lv. 49) @Choice Specs (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Thief/Thunderbolt/Flamethrower) IVs: 0/0/0/0/0/0 EVs: 25/43/45/62/13/80
-Current Exp: 111257 (17.94%)
+Current Exp: 116597 (89.74%)
 [KILL]: Got 1391 Exp for killing Steelix (Lv. 44) @(None) (Ability: Sturdy) (Nature: Relaxed) (Moves: Thunder Fang/Screech/Iron Tail/Bulldoze) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
 EV yield: {"def":2}
-Mew (Lv. 49) @Choice Specs (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Thief/Thunderbolt/Flamethrower) IVs: 0/0/0/0/0/0 EVs: 25/43/47/62/13/80
-Current Exp: 112648 (36.64%)
-[KILL]: Got 1119 Exp for killing Medicham (Lv. 44) @(None) (Ability: Pure Power) (Nature: Jolly) (Moves: Zen Headbutt/Thunder Punch/Reversal/Rock Tomb) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
-EV yield: {"spd":2}
-Mew (Lv. 49) @Choice Specs (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Thief/Thunderbolt/Flamethrower) IVs: 0/0/0/0/0/0 EVs: 25/43/47/62/13/82
-Current Exp: 113767 (51.69%)
-[KILL]: Got 1865 Exp for killing Raichu (Lv. 46) @Shuca Berry (Ability: Static) (Nature: Timid) (Moves: Nuzzle/Volt Switch/Surf/Charge Beam) IVs: 11/0/11/28/11/28 EVs: 12/0/12/160/12/160
-EV yield: {"spd":3}
-Mew (Lv. 49) @Choice Specs (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Thief/Thunderbolt/Flamethrower) IVs: 0/0/0/0/0/0 EVs: 25/43/47/62/13/85
-Current Exp: 115632 (76.76%)
-[KILL]: Got 1515 Exp for killing Ambipom (Lv. 47) @Chople Berry (Ability: Technician) (Nature: Naive) (Moves: Fake Out/Thunderbolt/Double Hit/Last Resort) IVs: 11/20/11/20/11/28 EVs: 12/80/12/80/12/160
-EV yield: {"spd":2}
-Mew (Lv. 49) @Choice Specs (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Thief/Thunderbolt/Flamethrower) IVs: 0/0/0/0/0/0 EVs: 25/43/47/62/13/87
-Current Exp: 117147 (97.14%)
-[KILL]: Got 1506 Exp for killing Octillery (Lv. 47) @Expert Belt (Ability: Sniper) (Nature: Modest) (Moves: Octazooka/Focus Energy/Aurora Beam/Charge Beam) IVs: 11/0/11/28/11/28 EVs: 12/0/12/160/12/160
-EV yield: {"atk":1,"spAtk":1}
 [LEVELUP] Now level 50
-50	25	44	47	63	13	87
+50	25	43	47	62	13	80
+Mew (Lv. 50) @Choice Specs (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Thief/Thunderbolt/Flamethrower) IVs: 0/0/0/0/0/0 EVs: 25/43/47/62/13/80
+Current Exp: 117988 (8.09%)
+[KILL]: Got 1093 Exp for killing Medicham (Lv. 44) @(None) (Ability: Pure Power) (Nature: Jolly) (Moves: Zen Headbutt/Thunder Punch/Reversal/Rock Tomb) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"spd":2}
+Mew (Lv. 50) @Choice Specs (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Thief/Thunderbolt/Flamethrower) IVs: 0/0/0/0/0/0 EVs: 25/43/47/62/13/82
+Current Exp: 119081 (22.16%)
+[KILL]: Got 1822 Exp for killing Raichu (Lv. 46) @Shuca Berry (Ability: Static) (Nature: Timid) (Moves: Nuzzle/Volt Switch/Surf/Charge Beam) IVs: 11/0/11/28/11/28 EVs: 12/0/12/160/12/160
+EV yield: {"spd":3}
+Mew (Lv. 50) @Choice Specs (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Thief/Thunderbolt/Flamethrower) IVs: 0/0/0/0/0/0 EVs: 25/43/47/62/13/85
+Current Exp: 120903 (45.62%)
+[KILL]: Got 1480 Exp for killing Ambipom (Lv. 47) @Chople Berry (Ability: Technician) (Nature: Naive) (Moves: Fake Out/Thunderbolt/Double Hit/Last Resort) IVs: 11/20/11/20/11/28 EVs: 12/80/12/80/12/160
+EV yield: {"spd":2}
+Mew (Lv. 50) @Choice Specs (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Thief/Thunderbolt/Flamethrower) IVs: 0/0/0/0/0/0 EVs: 25/43/47/62/13/87
+Current Exp: 122383 (64.68%)
+[KILL]: Got 1471 Exp for killing Octillery (Lv. 47) @Expert Belt (Ability: Sniper) (Nature: Modest) (Moves: Octazooka/Focus Energy/Aurora Beam/Charge Beam) IVs: 11/0/11/28/11/28 EVs: 12/0/12/160/12/160
+EV yield: {"atk":1,"spAtk":1}
 Mew (Lv. 50) @Choice Specs (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Thief/Thunderbolt/Flamethrower) IVs: 0/0/0/0/0/0 EVs: 25/44/47/63/13/87
-Current Exp: 118653 (16.65%)
+Current Exp: 123854 (83.62%)
 [KILL]: Got 2509 Exp for killing Luxray (Lv. 49) @Sitrus Berry (Ability: Intimidate) (Nature: Jolly) (Moves: Thunder Fang/Ice Fang/Crunch/Iron Tail) IVs: 15/28/15/0/0/30 EVs: 28/160/28/0/0/200
 EV yield: {"atk":3}
-Mew (Lv. 50) @Choice Specs (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Thief/Thunderbolt/Flamethrower) IVs: 0/0/0/0/0/0 EVs: 25/47/47/63/13/87
-Current Exp: 121162 (48.96%)
-[KILL]: Got 379 Exp for killing Mantyke (Lv. 38) @(None) (Ability: Water Absorb) (Nature: Sassy) (Moves: Supersonic/Bubble Beam/Air Slash/Aqua Ring) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
-EV yield: {"spDef":1}
-Mew (Lv. 50) @Choice Specs (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Thief/Thunderbolt/Flamethrower) IVs: 0/0/0/0/0/0 EVs: 25/47/47/63/14/87
-Current Exp: 121541 (53.84%)
-[KILL]: Got 369 Exp for killing Remoraid (Lv. 40) @(None) (Ability: Hustle) (Nature: Hardy) (Moves: Lock-On/Bullet Seed/Ice Beam/Hydro Pump) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
-EV yield: {"spAtk":1}
-Mew (Lv. 50) @Choice Specs (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Thief/Thunderbolt/Flamethrower) IVs: 0/0/0/0/0/0 EVs: 25/47/47/64/14/87
-Current Exp: 121910 (58.59%)
-[KILL]: Got 1165 Exp for killing Mantine (Lv. 42) @(None) (Ability: Water Absorb) (Nature: Sassy) (Moves: Bullet Seed/Bubble Beam/Aqua Ring/Bounce) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
-EV yield: {"spDef":2}
-Mew (Lv. 50) @Choice Specs (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Thief/Thunderbolt/Flamethrower) IVs: 0/0/0/0/0/0 EVs: 25/47/47/64/16/87
-Current Exp: 123075 (73.59%)
-[KILL]: Got 1463 Exp for killing Golduck (Lv. 46) @(None) (Ability: Cloud Nine) (Nature: Calm) (Moves: Zen Headbutt/Aqua Jet/Tail Whip/Aqua Tail) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
-EV yield: {"spAtk":2}
-Mew (Lv. 50) @Choice Specs (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Thief/Thunderbolt/Flamethrower) IVs: 0/0/0/0/0/0 EVs: 25/47/47/66/16/87
-Current Exp: 124538 (92.43%)
-[KILL]: Got 5818 Exp for killing Blissey (Lv. 48) @(None) (Ability: Serene Grace) (Nature: Calm) (Moves: Disarming Voice/Double-Edge/Soft-Boiled/Last Resort) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
-EV yield: {"hp":3}
 [LEVELUP] Now level 51
-51	28	47	47	66	16	87
-Mew (Lv. 51) @Choice Specs (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Thief/Thunderbolt/Flamethrower) IVs: 0/0/0/0/0/0 EVs: 28/47/47/66/16/87
-Current Exp: 130356 (64.54%)
-[KILL]: Got 1362 Exp for killing Rapidash (Lv. 45) @(None) (Ability: Run Away) (Nature: Sassy) (Moves: Smart Strike/Poison Jab/Tail Whip/Flame Wheel) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
-EV yield: {"spd":2}
-Mew (Lv. 51) @Choice Specs (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Thief/Thunderbolt/Flamethrower) IVs: 0/0/0/0/0/0 EVs: 28/47/47/66/16/89
-Current Exp: 131718 (81.35%)
-[KILL]: Got 1238 Exp for killing Carnivine (Lv. 45) @(None) (Ability: Levitate) (Nature: Hardy) (Moves: Bind/Growth/Leaf Tornado/Crunch) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
-EV yield: {"atk":2}
-Mew (Lv. 51) @Choice Specs (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Thief/Thunderbolt/Flamethrower) IVs: 0/0/0/0/0/0 EVs: 28/49/47/66/16/89
-Current Exp: 132956 (96.63%)
-[KILL]: Got 1549 Exp for killing Rampardos (Lv. 48) @(None) (Ability: Mold Breaker) (Nature: Relaxed) (Moves: Headbutt/Zen Headbutt/Assurance/Swords Dance) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
-EV yield: {"atk":2}
+51	25	47	47	63	13	87
+Mew (Lv. 51) @Choice Specs (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Thief/Thunderbolt/Flamethrower) IVs: 0/0/0/0/0/0 EVs: 25/47/47/63/13/87
+Current Exp: 126363 (15.27%)
+[KILL]: Got 369 Exp for killing Mantyke (Lv. 38) @(None) (Ability: Water Absorb) (Nature: Sassy) (Moves: Supersonic/Bubble Beam/Air Slash/Aqua Ring) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"spDef":1}
+Mew (Lv. 51) @Choice Specs (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Thief/Thunderbolt/Flamethrower) IVs: 0/0/0/0/0/0 EVs: 25/47/47/63/14/87
+Current Exp: 126732 (19.82%)
+[KILL]: Got 360 Exp for killing Remoraid (Lv. 40) @(None) (Ability: Hustle) (Nature: Hardy) (Moves: Lock-On/Bullet Seed/Ice Beam/Hydro Pump) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"spAtk":1}
+Mew (Lv. 51) @Choice Specs (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Thief/Thunderbolt/Flamethrower) IVs: 0/0/0/0/0/0 EVs: 25/47/47/64/14/87
+Current Exp: 127092 (24.26%)
+[KILL]: Got 1137 Exp for killing Mantine (Lv. 42) @(None) (Ability: Water Absorb) (Nature: Sassy) (Moves: Bullet Seed/Bubble Beam/Aqua Ring/Bounce) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"spDef":2}
+Mew (Lv. 51) @Choice Specs (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Thief/Thunderbolt/Flamethrower) IVs: 0/0/0/0/0/0 EVs: 25/47/47/64/16/87
+Current Exp: 128229 (38.29%)
+[KILL]: Got 1429 Exp for killing Golduck (Lv. 46) @(None) (Ability: Cloud Nine) (Nature: Calm) (Moves: Zen Headbutt/Aqua Jet/Tail Whip/Aqua Tail) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"spAtk":2}
+Mew (Lv. 51) @Choice Specs (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Thief/Thunderbolt/Flamethrower) IVs: 0/0/0/0/0/0 EVs: 25/47/47/66/16/87
+Current Exp: 129658 (55.93%)
+[KILL]: Got 5686 Exp for killing Blissey (Lv. 48) @(None) (Ability: Serene Grace) (Nature: Calm) (Moves: Disarming Voice/Double-Edge/Soft-Boiled/Last Resort) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"hp":3}
 [LEVELUP] Now level 52
-52	28	51	47	66	16	89
+52	28	47	47	66	16	87
+Mew (Lv. 52) @Choice Specs (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Thief/Thunderbolt/Flamethrower) IVs: 0/0/0/0/0/0 EVs: 28/47/47/66/16/87
+Current Exp: 135344 (25.04%)
+[KILL]: Got 1330 Exp for killing Rapidash (Lv. 45) @(None) (Ability: Run Away) (Nature: Sassy) (Moves: Smart Strike/Poison Jab/Tail Whip/Flame Wheel) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"spd":2}
+Mew (Lv. 52) @Choice Specs (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Thief/Thunderbolt/Flamethrower) IVs: 0/0/0/0/0/0 EVs: 28/47/47/66/16/89
+Current Exp: 136674 (40.78%)
+[KILL]: Got 1209 Exp for killing Carnivine (Lv. 45) @(None) (Ability: Levitate) (Nature: Hardy) (Moves: Bind/Growth/Leaf Tornado/Crunch) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"atk":2}
+Mew (Lv. 52) @Choice Specs (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Thief/Thunderbolt/Flamethrower) IVs: 0/0/0/0/0/0 EVs: 28/49/47/66/16/89
+Current Exp: 137883 (55.09%)
+[KILL]: Got 1514 Exp for killing Rampardos (Lv. 48) @(None) (Ability: Mold Breaker) (Nature: Relaxed) (Moves: Headbutt/Zen Headbutt/Assurance/Swords Dance) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"atk":2}
 Mew (Lv. 52) @Choice Specs (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Thief/Thunderbolt/Flamethrower) IVs: 0/0/0/0/0/0 EVs: 28/51/47/66/16/89
-Current Exp: 134505 (15.10%)
+Current Exp: 139397 (73.01%)
 [KILL]: Got 1930 Exp for killing Clefable (Lv. 46) @(None) (Ability: Cute Charm) (Nature: Calm) (Moves: Moonlight/Meteor Mash/Cosmic Power/Moonblast) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
 EV yield: {"hp":3}
 Mew (Lv. 52) @Choice Specs (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Thief/Thunderbolt/Flamethrower) IVs: 0/0/0/0/0/0 EVs: 31/51/47/66/16/89
-Current Exp: 136435 (37.95%)
+Current Exp: 141327 (95.86%)
 [KILL]: Got 2301 Exp for killing Torterra (Lv. 48) @(None) (Ability: Overgrow) (Nature: Impish) (Moves: Earthquake/Wood Hammer/Crunch/Synthesis) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
 EV yield: {"atk":2,"def":1}
-Mew (Lv. 52) @Choice Specs (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Thief/Thunderbolt/Flamethrower) IVs: 0/0/0/0/0/0 EVs: 31/53/48/66/16/89
-Current Exp: 138736 (65.19%)
-[KILL]: Got 2032 Exp for killing Staraptor (Lv. 47) @(None) (Ability: Intimidate) (Nature: Relaxed) (Moves: Quick Attack/Endeavor/Aerial Ace/Take Down) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
-EV yield: {"atk":3}
-Mew (Lv. 52) @Choice Specs (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Thief/Thunderbolt/Flamethrower) IVs: 0/0/0/0/0/0 EVs: 31/56/48/66/16/89
-Current Exp: 140768 (89.24%)
-[KILL]: Got 1538 Exp for killing Hippowdon (Lv. 47) @(None) (Ability: Sand Stream) (Nature: Relaxed) (Moves: Earthquake/Crunch/Ice Fang/Yawn) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
-EV yield: {"def":2}
 [LEVELUP] Now level 53
-53	31	56	50	66	16	89
+53	31	53	48	66	16	89
+Mew (Lv. 53) @Choice Specs (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Thief/Thunderbolt/Flamethrower) IVs: 0/0/0/0/0/0 EVs: 31/53/48/66/16/89
+Current Exp: 143628 (22.17%)
+[KILL]: Got 1986 Exp for killing Staraptor (Lv. 47) @(None) (Ability: Intimidate) (Nature: Relaxed) (Moves: Quick Attack/Endeavor/Aerial Ace/Take Down) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"atk":3}
+Mew (Lv. 53) @Choice Specs (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Thief/Thunderbolt/Flamethrower) IVs: 0/0/0/0/0/0 EVs: 31/56/48/66/16/89
+Current Exp: 145614 (44.74%)
+[KILL]: Got 1503 Exp for killing Hippowdon (Lv. 47) @(None) (Ability: Sand Stream) (Nature: Relaxed) (Moves: Earthquake/Crunch/Ice Fang/Yawn) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"def":2}
 Mew (Lv. 53) @Choice Specs (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Thief/Thunderbolt/Flamethrower) IVs: 0/0/0/0/0/0 EVs: 31/56/50/66/16/89
-Current Exp: 142306 (7.15%)
+Current Exp: 147117 (61.83%)
 [KILL]: Got 2264 Exp for killing Machamp (Lv. 49) @(None) (Ability: No Guard) (Nature: Relaxed) (Moves: Low Sweep/Knock Off/Dual Chop/Bulk Up) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
 EV yield: {"atk":3}
 Mew (Lv. 53) @Choice Specs (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Thief/Thunderbolt/Flamethrower) IVs: 0/0/0/0/0/0 EVs: 31/59/50/66/16/89
-Current Exp: 144570 (32.88%)
+Current Exp: 149381 (87.56%)
 [KILL]: Got 403 Exp for killing Chingling (Lv. 44) @(None) (Ability: Levitate) (Nature: Bashful) (Moves: Wrap/Astonish/Confusion/Yawn) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
 EV yield: {"spAtk":1}
 Mew (Lv. 53) @Choice Specs (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Thief/Thunderbolt/Flamethrower) IVs: 0/0/0/0/0/0 EVs: 31/59/50/67/16/89
-Current Exp: 144973 (37.46%)
+Current Exp: 149784 (92.14%)
 [KILL]: Got 1360 Exp for killing Chimecho (Lv. 48) @(None) (Ability: Levitate) (Nature: Calm) (Moves: Wrap/Yawn/Extrasensory/Heal Pulse) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
 EV yield: {"spAtk":1,"spDef":1}
-Mew (Lv. 53) @Choice Specs (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Thief/Thunderbolt/Flamethrower) IVs: 0/0/0/0/0/0 EVs: 31/59/50/68/17/89
-Current Exp: 146333 (52.92%)
-[CURRENT MOVESET CHANGED] Psychic/Dazzling Gleam/Thunderbolt/Flamethrower
-Current Exp: 146333 (52.92%)
-[ITEM EQUIP] Metronome
-Current Exp: 146333 (52.92%)
-[KILL]: Got 1289 Exp for killing Gabite (Lv. 49) @(None) (Ability: Sand Veil) (Nature: Relaxed) (Moves: Sand Tomb/Sand Attack/Bite/Dragon Claw) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
-EV yield: {"atk":2}
-Mew (Lv. 53) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Dazzling Gleam/Thunderbolt/Flamethrower) IVs: 0/0/0/0/0/0 EVs: 31/61/50/68/17/89
-Current Exp: 147622 (67.56%)
-[KILL]: Got 1337 Exp for killing Tentacruel (Lv. 45) @(None) (Ability: Clear Body) (Nature: Sassy) (Moves: Reflect Type/Bubble Beam/Acid Armor/Poison Jab) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
-EV yield: {"spDef":2}
-Mew (Lv. 53) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Dazzling Gleam/Thunderbolt/Flamethrower) IVs: 0/0/0/0/0/0 EVs: 31/61/50/68/19/89
-Current Exp: 148959 (82.76%)
-[KILL]: Got 1842 Exp for killing Golem (Lv. 45) @(None) (Ability: Sturdy) (Nature: Relaxed) (Moves: Earthquake/Sandstorm/Smack Down/Heavy Slam) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
-EV yield: {"def":3}
 [LEVELUP] Now level 54
-54	31	61	53	68	19	89
+54	31	59	50	68	17	89
+Mew (Lv. 54) @Choice Specs (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Thief/Thunderbolt/Flamethrower) IVs: 0/0/0/0/0/0 EVs: 31/59/50/68/17/89
+Current Exp: 151144 (7.29%)
+[CURRENT MOVESET CHANGED] Psychic/Dazzling Gleam/Thunderbolt/Flamethrower
+Current Exp: 151144 (7.29%)
+[ITEM EQUIP] Metronome
+Current Exp: 151144 (7.29%)
+[KILL]: Got 1261 Exp for killing Gabite (Lv. 49) @(None) (Ability: Sand Veil) (Nature: Relaxed) (Moves: Sand Tomb/Sand Attack/Bite/Dragon Claw) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"atk":2}
+Mew (Lv. 54) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Dazzling Gleam/Thunderbolt/Flamethrower) IVs: 0/0/0/0/0/0 EVs: 31/61/50/68/17/89
+Current Exp: 152405 (21.06%)
+[KILL]: Got 1307 Exp for killing Tentacruel (Lv. 45) @(None) (Ability: Clear Body) (Nature: Sassy) (Moves: Reflect Type/Bubble Beam/Acid Armor/Poison Jab) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"spDef":2}
+Mew (Lv. 54) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Dazzling Gleam/Thunderbolt/Flamethrower) IVs: 0/0/0/0/0/0 EVs: 31/61/50/68/19/89
+Current Exp: 153712 (35.33%)
+[KILL]: Got 1800 Exp for killing Golem (Lv. 45) @(None) (Ability: Sturdy) (Nature: Relaxed) (Moves: Earthquake/Sandstorm/Smack Down/Heavy Slam) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"def":3}
 Mew (Lv. 54) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Dazzling Gleam/Thunderbolt/Flamethrower) IVs: 0/0/0/0/0/0 EVs: 31/61/53/68/19/89
-Current Exp: 150801 (3.55%)
+Current Exp: 155512 (54.98%)
 [KILL]: Got 2217 Exp for killing Empoleon (Lv. 48) @(None) (Ability: Torrent) (Nature: Sassy) (Moves: Brine/Aqua Jet/Metal Claw/Swords Dance) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
 EV yield: {"spAtk":3}
 Mew (Lv. 54) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Dazzling Gleam/Thunderbolt/Flamethrower) IVs: 0/0/0/0/0/0 EVs: 31/61/53/71/19/89
-Current Exp: 153018 (27.75%)
+Current Exp: 157729 (79.19%)
 [KILL]: Got 458 Exp for killing Gible (Lv. 46) @(None) (Ability: Sand Veil) (Nature: Hardy) (Moves: Sand Tomb/Sand Attack/Bulldoze/Dragon Claw) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
 EV yield: {"atk":1}
 Mew (Lv. 54) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Dazzling Gleam/Thunderbolt/Flamethrower) IVs: 0/0/0/0/0/0 EVs: 31/62/53/71/19/89
-Current Exp: 153476 (32.75%)
+Current Exp: 158187 (84.19%)
 [KILL]: Got 1654 Exp for killing Gyarados (Lv. 49) @(None) (Ability: Intimidate) (Nature: Sassy) (Moves: Ice Fang/Waterfall/Crunch/Dragon Dance) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
 EV yield: {"atk":2}
-Mew (Lv. 54) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Dazzling Gleam/Thunderbolt/Flamethrower) IVs: 0/0/0/0/0/0 EVs: 31/64/53/71/19/89
-Current Exp: 155130 (50.81%)
-[KILL]: Got 458 Exp for killing Gible (Lv. 46) @(None) (Ability: Sand Veil) (Nature: Hardy) (Moves: Bite/Slash/Dragon Claw/Dig) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
-EV yield: {"atk":1}
-Mew (Lv. 54) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Dazzling Gleam/Thunderbolt/Flamethrower) IVs: 0/0/0/0/0/0 EVs: 31/65/53/71/19/89
-Current Exp: 155588 (55.81%)
-[ITEM EQUIP] Choice Specs
-Current Exp: 155588 (55.81%)
-[KILL]: Got 1532 Exp for killing Rapidash (Lv. 49) @Expert Belt (Ability: Flash Fire) (Nature: Jolly) (Moves: Smart Strike/Megahorn/Poison Jab/Flame Wheel) IVs: 7/7/7/7/7/7 EVs: 48/116/48/0/48/172
-EV yield: {"spd":2}
-Mew (Lv. 54) @Choice Specs (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Dazzling Gleam/Thunderbolt/Flamethrower) IVs: 0/0/0/0/0/0 EVs: 31/65/53/71/19/91
-Current Exp: 157120 (72.54%)
-[KILL]: Got 1514 Exp for killing Floatzel (Lv. 49) @Quick Claw (Ability: Swift Swim) (Nature: Jolly) (Moves: Ice Fang/Crunch/Swift/Brine) IVs: 6/6/6/6/6/6 EVs: 40/104/40/0/40/160
-EV yield: {"spd":2}
-Mew (Lv. 54) @Choice Specs (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Dazzling Gleam/Thunderbolt/Flamethrower) IVs: 0/0/0/0/0/0 EVs: 31/65/53/71/19/93
-Current Exp: 158634 (89.07%)
-[KILL]: Got 1882 Exp for killing Snorlax (Lv. 52) @(None) (Ability: Thick Fat) (Nature: Adamant) (Moves: Covet/Yawn/Crunch/High Horsepower) IVs: 9/9/9/9/9/9 EVs: 96/120/96/0/88/0
-EV yield: {"hp":2}
 [LEVELUP] Now level 55
-55	33	65	53	71	19	93
+55	31	64	53	71	19	89
+Mew (Lv. 55) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Dazzling Gleam/Thunderbolt/Flamethrower) IVs: 0/0/0/0/0/0 EVs: 31/64/53/71/19/89
+Current Exp: 159841 (2.16%)
+[KILL]: Got 447 Exp for killing Gible (Lv. 46) @(None) (Ability: Sand Veil) (Nature: Hardy) (Moves: Bite/Slash/Dragon Claw/Dig) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"atk":1}
+Mew (Lv. 55) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Dazzling Gleam/Thunderbolt/Flamethrower) IVs: 0/0/0/0/0/0 EVs: 31/65/53/71/19/89
+Current Exp: 160288 (6.86%)
+[ITEM EQUIP] Choice Specs
+Current Exp: 160288 (6.86%)
+[KILL]: Got 1499 Exp for killing Rapidash (Lv. 49) @Expert Belt (Ability: Flash Fire) (Nature: Jolly) (Moves: Smart Strike/Megahorn/Poison Jab/Flame Wheel) IVs: 7/7/7/7/7/7 EVs: 48/116/48/0/48/172
+EV yield: {"spd":2}
+Mew (Lv. 55) @Choice Specs (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Dazzling Gleam/Thunderbolt/Flamethrower) IVs: 0/0/0/0/0/0 EVs: 31/65/53/71/19/91
+Current Exp: 161787 (22.60%)
+[KILL]: Got 1481 Exp for killing Floatzel (Lv. 49) @Quick Claw (Ability: Swift Swim) (Nature: Jolly) (Moves: Ice Fang/Crunch/Swift/Brine) IVs: 6/6/6/6/6/6 EVs: 40/104/40/0/40/160
+EV yield: {"spd":2}
+Mew (Lv. 55) @Choice Specs (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Dazzling Gleam/Thunderbolt/Flamethrower) IVs: 0/0/0/0/0/0 EVs: 31/65/53/71/19/93
+Current Exp: 163268 (38.15%)
+[KILL]: Got 1842 Exp for killing Snorlax (Lv. 52) @(None) (Ability: Thick Fat) (Nature: Adamant) (Moves: Covet/Yawn/Crunch/High Horsepower) IVs: 9/9/9/9/9/9 EVs: 96/120/96/0/88/0
+EV yield: {"hp":2}
 Mew (Lv. 55) @Choice Specs (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Dazzling Gleam/Thunderbolt/Flamethrower) IVs: 0/0/0/0/0/0 EVs: 33/65/53/71/19/93
-Current Exp: 160516 (9.25%)
+Current Exp: 165110 (57.49%)
 [KILL]: Got 2080 Exp for killing Staraptor (Lv. 49) @Focus Sash (Ability: Intimidate) (Nature: Jolly) (Moves: Close Combat/Pluck/Sunny Day/U-turn) IVs: 5/5/5/5/5/5 EVs: 56/148/36/0/36/148
 EV yield: {"atk":3}
 Mew (Lv. 55) @Choice Specs (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Dazzling Gleam/Thunderbolt/Flamethrower) IVs: 0/0/0/0/0/0 EVs: 33/68/53/71/19/93
-Current Exp: 162596 (31.09%)
+Current Exp: 167190 (79.33%)
 [KILL]: Got 1636 Exp for killing Heracross (Lv. 51) @(None) (Ability: Swarm) (Nature: Jolly) (Moves: Pin Missile/Swords Dance/Rock Slide/Thief) IVs: 9/9/9/9/9/9 EVs: 44/104/44/0/44/156
 EV yield: {"atk":2}
 Mew (Lv. 55) @Choice Specs (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Dazzling Gleam/Thunderbolt/Flamethrower) IVs: 0/0/0/0/0/0 EVs: 33/70/53/71/19/93
-Current Exp: 164232 (48.27%)
+Current Exp: 168826 (96.50%)
 [KILL]: Got 2894 Exp for killing Torterra (Lv. 55) @Leftovers (Ability: Overgrow) (Nature: Careful) (Moves: Earthquake/Wood Hammer/Roar/Stealth Rock) IVs: 11/11/11/11/11/11 EVs: 164/92/52/52/124/0
 EV yield: {"atk":2,"def":1}
-Mew (Lv. 55) @Choice Specs (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Dazzling Gleam/Thunderbolt/Flamethrower) IVs: 0/0/0/0/0/0 EVs: 33/72/54/71/19/93
-Current Exp: 167126 (78.65%)
-[KILL]: Got 1960 Exp for killing Dustox (Lv. 53) @Black Sludge (Ability: Shield Dust) (Nature: Bold) (Moves: Toxic/Bug Buzz/Moonlight/Light Screen) IVs: 31/0/21/21/21/21 EVs: 252/0/12/12/12/12
-EV yield: {"spDef":3}
-Mew (Lv. 55) @Choice Specs (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Dazzling Gleam/Thunderbolt/Flamethrower) IVs: 0/0/0/0/0/0 EVs: 33/72/54/71/22/93
-Current Exp: 169086 (99.23%)
-[KILL]: Got 2011 Exp for killing Beautifly (Lv. 53) @Black Glasses (Ability: Swarm) (Nature: Modest) (Moves: Bug Buzz/Shadow Ball/Psychic/Quiver Dance) IVs: 21/0/21/31/21/31 EVs: 12/0/12/60/12/204
-EV yield: {"spAtk":3}
 [LEVELUP] Now level 56
-56	33	72	54	74	22	93
+56	33	72	54	71	19	93
+Mew (Lv. 56) @Choice Specs (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Dazzling Gleam/Thunderbolt/Flamethrower) IVs: 0/0/0/0/0/0 EVs: 33/72/54/71/19/93
+Current Exp: 171720 (25.88%)
+[KILL]: Got 1919 Exp for killing Dustox (Lv. 53) @Black Sludge (Ability: Shield Dust) (Nature: Bold) (Moves: Toxic/Bug Buzz/Moonlight/Light Screen) IVs: 31/0/21/21/21/21 EVs: 252/0/12/12/12/12
+EV yield: {"spDef":3}
+Mew (Lv. 56) @Choice Specs (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Dazzling Gleam/Thunderbolt/Flamethrower) IVs: 0/0/0/0/0/0 EVs: 33/72/54/71/22/93
+Current Exp: 173639 (45.27%)
+[KILL]: Got 1969 Exp for killing Beautifly (Lv. 53) @Black Glasses (Ability: Swarm) (Nature: Modest) (Moves: Bug Buzz/Shadow Ball/Psychic/Quiver Dance) IVs: 21/0/21/31/21/31 EVs: 12/0/12/60/12/204
+EV yield: {"spAtk":3}
 Mew (Lv. 56) @Choice Specs (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Dazzling Gleam/Thunderbolt/Flamethrower) IVs: 0/0/0/0/0/0 EVs: 33/72/54/74/22/93
-Current Exp: 171097 (19.58%)
+Current Exp: 175608 (65.16%)
 [KILL]: Got 1719 Exp for killing Vespiquen (Lv. 54) @Sitrus Berry (Ability: Unnerve) (Nature: Adamant) (Moves: Acrobatics/Attack Order/Aerial Ace/Defend Order) IVs: 31/31/31/0/31/31 EVs: 252/0/0/0/0/0
 EV yield: {"def":1,"spDef":1}
 Mew (Lv. 56) @Choice Specs (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Dazzling Gleam/Thunderbolt/Flamethrower) IVs: 0/0/0/0/0/0 EVs: 33/72/55/74/23/93
-Current Exp: 172816 (36.95%)
+Current Exp: 177327 (82.53%)
 [KILL]: Got 1813 Exp for killing Heracross (Lv. 54) @Flame Orb (Ability: Guts) (Nature: Jolly) (Moves: Earthquake/Rock Slide/Facade/Brick Break) IVs: 21/31/21/0/21/31 EVs: 12/60/12/0/12/204
 EV yield: {"atk":2}
-Mew (Lv. 56) @Choice Specs (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Dazzling Gleam/Thunderbolt/Flamethrower) IVs: 0/0/0/0/0/0 EVs: 33/74/55/74/23/93
-Current Exp: 174629 (55.27%)
-[KILL]: Got 2036 Exp for killing Drapion (Lv. 57) @Scope Lens (Ability: Sniper) (Nature: Jolly) (Moves: Cross Poison/Night Slash/Earthquake/X-Scissor) IVs: 31/31/31/0/31/31 EVs: 12/60/0/0/0/204
-EV yield: {"def":2}
-Mew (Lv. 56) @Choice Specs (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Dazzling Gleam/Thunderbolt/Flamethrower) IVs: 0/0/0/0/0/0 EVs: 33/74/57/74/23/93
-Current Exp: 176665 (75.84%)
-[KILL]: Got 1627 Exp for killing Quagsire (Lv. 55) @Leftovers (Ability: Water Absorb) (Nature: Impish) (Moves: Recover/Toxic/Earthquake/Surf) IVs: 23/31/31/0/13/31 EVs: 12/0/252/12/12/12
-EV yield: {"hp":2}
-Mew (Lv. 56) @Choice Specs (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Dazzling Gleam/Thunderbolt/Flamethrower) IVs: 0/0/0/0/0/0 EVs: 35/74/57/74/23/93
-Current Exp: 178292 (92.28%)
-[KILL]: Got 1613 Exp for killing Sudowoodo (Lv. 56) @Sitrus Berry (Ability: Rock Head) (Nature: Adamant) (Moves: Double-Edge/Head Smash/Sucker Punch/Low Kick) IVs: 21/31/31/0/11/31 EVs: 0/252/12/0/12/12
-EV yield: {"def":2}
 [LEVELUP] Now level 57
-57	35	74	59	74	23	93
+57	33	74	55	74	23	93
+Mew (Lv. 57) @Choice Specs (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Dazzling Gleam/Thunderbolt/Flamethrower) IVs: 0/0/0/0/0/0 EVs: 33/74/55/74/23/93
+Current Exp: 179140 (0.82%)
+[KILL]: Got 1996 Exp for killing Drapion (Lv. 57) @Scope Lens (Ability: Sniper) (Nature: Jolly) (Moves: Cross Poison/Night Slash/Earthquake/X-Scissor) IVs: 31/31/31/0/31/31 EVs: 12/60/0/0/0/204
+EV yield: {"def":2}
+Mew (Lv. 57) @Choice Specs (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Dazzling Gleam/Thunderbolt/Flamethrower) IVs: 0/0/0/0/0/0 EVs: 33/74/57/74/23/93
+Current Exp: 181136 (20.24%)
+[KILL]: Got 1594 Exp for killing Quagsire (Lv. 55) @Leftovers (Ability: Water Absorb) (Nature: Impish) (Moves: Recover/Toxic/Earthquake/Surf) IVs: 23/31/31/0/13/31 EVs: 12/0/252/12/12/12
+EV yield: {"hp":2}
+Mew (Lv. 57) @Choice Specs (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Dazzling Gleam/Thunderbolt/Flamethrower) IVs: 0/0/0/0/0/0 EVs: 35/74/57/74/23/93
+Current Exp: 182730 (35.75%)
+[KILL]: Got 1580 Exp for killing Sudowoodo (Lv. 56) @Sitrus Berry (Ability: Rock Head) (Nature: Adamant) (Moves: Double-Edge/Head Smash/Sucker Punch/Low Kick) IVs: 21/31/31/0/11/31 EVs: 0/252/12/0/12/12
+EV yield: {"def":2}
 Mew (Lv. 57) @Choice Specs (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Dazzling Gleam/Thunderbolt/Flamethrower) IVs: 0/0/0/0/0/0 EVs: 35/74/59/74/23/93
-Current Exp: 179905 (8.26%)
+Current Exp: 184310 (51.12%)
 [KILL]: Got 2721 Exp for killing Golem (Lv. 56) @Soft Sand (Ability: Sturdy) (Nature: Jolly) (Moves: Rock Polish/Heavy Slam/Earthquake/Stone Edge) IVs: 21/31/31/0/21/31 EVs: 12/60/12/0/12/204
 EV yield: {"def":3}
 Mew (Lv. 57) @Choice Specs (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Dazzling Gleam/Thunderbolt/Flamethrower) IVs: 0/0/0/0/0/0 EVs: 35/74/62/74/23/93
-Current Exp: 182626 (34.73%)
+Current Exp: 187031 (77.59%)
 [KILL]: Got 1731 Exp for killing Whiscash (Lv. 55) @Rindo Berry (Ability: Hydration) (Nature: Modest) (Moves: Bulldoze/Ice Beam/Belch/Hydro Pump) IVs: 21/31/21/31/21/0 EVs: 12/12/12/252/12/0
 EV yield: {"hp":2}
 Mew (Lv. 57) @Choice Specs (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Dazzling Gleam/Thunderbolt/Flamethrower) IVs: 0/0/0/0/0/0 EVs: 37/74/62/74/23/93
-Current Exp: 184357 (51.58%)
+Current Exp: 188762 (94.43%)
 [KILL]: Got 2259 Exp for killing Hippowdon (Lv. 59) @Chesto Berry (Ability: Sand Stream) (Nature: Adamant) (Moves: Ice Fang/Earthquake/Crunch/Rest) IVs: 31/31/31/0/31/31 EVs: 12/252/0/0/0/0
 EV yield: {"def":2}
-Mew (Lv. 57) @Choice Specs (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Dazzling Gleam/Thunderbolt/Flamethrower) IVs: 0/0/0/0/0/0 EVs: 37/74/64/74/23/93
-Current Exp: 186616 (73.56%)
-[KILL]: Got 2071 Exp for killing Rapidash (Lv. 58) @Wide Lens (Ability: Flame Body) (Nature: Jolly) (Moves: Flame Charge/Iron Tail/Poison Jab/Hypnosis) IVs: 25/31/25/0/25/31 EVs: 12/60/12/0/12/204
-EV yield: {"spd":2}
-Mew (Lv. 57) @Choice Specs (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Dazzling Gleam/Thunderbolt/Flamethrower) IVs: 0/0/0/0/0/0 EVs: 37/74/64/74/23/95
-Current Exp: 188687 (93.71%)
-[KILL]: Got 2041 Exp for killing Steelix (Lv. 57) @Life Orb (Ability: Sheer Force) (Nature: Adamant) (Moves: Thunder Fang/Fire Fang/Iron Tail/Crunch) IVs: 31/31/31/0/31/31 EVs: 12/252/0/12/12/0
-EV yield: {"def":2}
 [LEVELUP] Now level 58
-58	37	74	66	74	23	95
+58	37	74	64	74	23	93
+Mew (Lv. 58) @Choice Specs (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Dazzling Gleam/Thunderbolt/Flamethrower) IVs: 0/0/0/0/0/0 EVs: 37/74/64/74/23/93
+Current Exp: 191021 (15.82%)
+[KILL]: Got 2031 Exp for killing Rapidash (Lv. 58) @Wide Lens (Ability: Flame Body) (Nature: Jolly) (Moves: Flame Charge/Iron Tail/Poison Jab/Hypnosis) IVs: 25/31/25/0/25/31 EVs: 12/60/12/0/12/204
+EV yield: {"spd":2}
+Mew (Lv. 58) @Choice Specs (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Dazzling Gleam/Thunderbolt/Flamethrower) IVs: 0/0/0/0/0/0 EVs: 37/74/64/74/23/95
+Current Exp: 193052 (34.86%)
+[KILL]: Got 2000 Exp for killing Steelix (Lv. 57) @Life Orb (Ability: Sheer Force) (Nature: Adamant) (Moves: Thunder Fang/Fire Fang/Iron Tail/Crunch) IVs: 31/31/31/0/31/31 EVs: 12/252/0/12/12/0
+EV yield: {"def":2}
 Mew (Lv. 58) @Choice Specs (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Dazzling Gleam/Thunderbolt/Flamethrower) IVs: 0/0/0/0/0/0 EVs: 37/74/66/74/23/95
-Current Exp: 190728 (13.07%)
+Current Exp: 195052 (53.61%)
 [KILL]: Got 2019 Exp for killing Drifblim (Lv. 58) @Sitrus Berry (Ability: Unburden) (Nature: Timid) (Moves: Strength Sap/Minimize/Baton Pass/Will-O-Wisp) IVs: 31/0/31/0/31/31 EVs: 12/60/12/0/12/204
 EV yield: {"hp":2}
 Mew (Lv. 58) @Choice Specs (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Dazzling Gleam/Thunderbolt/Flamethrower) IVs: 0/0/0/0/0/0 EVs: 39/74/66/74/23/95
-Current Exp: 192747 (32.00%)
+Current Exp: 197071 (72.55%)
 [KILL]: Got 1877 Exp for killing Lopunny (Lv. 57) @Leftovers (Ability: Cute Charm) (Nature: Jolly) (Moves: Mirror Coat/High Jump Kick/Quick Attack/Fire Punch) IVs: 31/31/31/0/31/31 EVs: 252/0/0/0/0/0
 EV yield: {"spd":2}
 Mew (Lv. 58) @Choice Specs (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Dazzling Gleam/Thunderbolt/Flamethrower) IVs: 0/0/0/0/0/0 EVs: 39/74/66/74/23/97
-Current Exp: 194624 (49.60%)
+Current Exp: 198948 (90.15%)
 [KILL]: Got 3450 Exp for killing Infernape (Lv. 61) @Focus Sash (Ability: Iron Fist) (Nature: Jolly) (Moves: Fire Punch/Thunder Punch/Close Combat/Mach Punch) IVs: 31/31/31/0/31/31 EVs: 12/60/0/0/0/204
 EV yield: {"atk":1,"spAtk":1,"spd":1}
-Mew (Lv. 58) @Choice Specs (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Dazzling Gleam/Thunderbolt/Flamethrower) IVs: 0/0/0/0/0/0 EVs: 39/75/66/75/23/98
-Current Exp: 198074 (81.95%)
-[KILL]: Got 1937 Exp for killing Mr. Mime (Lv. 59) @Light Clay (Ability: Filter) (Nature: Bold) (Moves: Light Screen/Reflect/Psychic/Dazzling Gleam) IVs: 31/0/31/31/31/31 EVs: 252/0/12/12/12/12
-EV yield: {"spDef":2}
 [LEVELUP] Now level 59
-59	39	75	66	75	25	98
+59	39	75	66	75	23	98
+Mew (Lv. 59) @Choice Specs (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Dazzling Gleam/Thunderbolt/Flamethrower) IVs: 0/0/0/0/0/0 EVs: 39/75/66/75/23/98
+Current Exp: 202398 (21.69%)
+[KILL]: Got 1900 Exp for killing Mr. Mime (Lv. 59) @Light Clay (Ability: Filter) (Nature: Bold) (Moves: Light Screen/Reflect/Psychic/Dazzling Gleam) IVs: 31/0/31/31/31/31 EVs: 252/0/12/12/12/12
+EV yield: {"spDef":2}
 Mew (Lv. 59) @Choice Specs (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Dazzling Gleam/Thunderbolt/Flamethrower) IVs: 0/0/0/0/0/0 EVs: 39/75/66/75/25/98
-Current Exp: 200011 (0.11%)
+Current Exp: 204298 (38.87%)
 [KILL]: Got 1877 Exp for killing Girafarig (Lv. 59) @Mental Herb (Ability: Sap Sipper) (Nature: Calm) (Moves: Light Screen/Psychic/Thunderbolt/Trick Room) IVs: 31/0/31/31/31/0 EVs: 252/0/12/12/12/0
 EV yield: {"spAtk":2}
 Mew (Lv. 59) @Choice Specs (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Dazzling Gleam/Thunderbolt/Flamethrower) IVs: 0/0/0/0/0/0 EVs: 39/75/66/77/25/98
-Current Exp: 201888 (17.08%)
+Current Exp: 206175 (55.84%)
 [KILL]: Got 1762 Exp for killing Medicham (Lv. 60) @Muscle Band (Ability: Pure Power) (Nature: Brave) (Moves: Zen Headbutt/High Jump Kick/Thunder Punch/Ice Punch) IVs: 31/31/31/0/31/0 EVs: 0/252/0/0/0/0
 EV yield: {"spd":2}
 Mew (Lv. 59) @Choice Specs (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Dazzling Gleam/Thunderbolt/Flamethrower) IVs: 0/0/0/0/0/0 EVs: 39/75/66/77/25/100
-Current Exp: 203650 (33.01%)
+Current Exp: 207937 (71.77%)
 [KILL]: Got 3059 Exp for killing Alakazam (Lv. 60) @Life Orb (Ability: Magic Guard) (Nature: Timid) (Moves: Nasty Plot/Psychic/Future Sight/Shock Wave) IVs: 31/0/31/31/31/31 EVs: 0/0/0/0/0/252
 EV yield: {"spAtk":3}
 Mew (Lv. 59) @Choice Specs (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Dazzling Gleam/Thunderbolt/Flamethrower) IVs: 0/0/0/0/0/0 EVs: 39/75/66/80/25/100
-Current Exp: 206709 (60.66%)
+Current Exp: 210996 (99.42%)
 [KILL]: Got 2376 Exp for killing Bronzong (Lv. 63) @Sitrus Berry (Ability: Levitate) (Nature: Brave) (Moves: Gyro Ball/Earthquake/Payback/Trick Room) IVs: 31/31/31/0/31/0 EVs: 12/252/0/0/0/0
 EV yield: {"def":1,"spDef":1}
-Mew (Lv. 59) @Choice Specs (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Dazzling Gleam/Thunderbolt/Flamethrower) IVs: 0/0/0/0/0/0 EVs: 39/75/67/80/26/100
-Current Exp: 209085 (82.14%)
-[ITEM EQUIP] Metronome
-Current Exp: 209085 (82.14%)
-[KILL]: Got 2155 Exp for killing Spiritomb (Lv. 61) @Sitrus Berry (Ability: Pressure) (Nature: Quiet) (Moves: Shadow Ball/Dark Pulse/Psychic/Sucker Punch) IVs: 31/31/31/31/31/31 EVs: 252/6/0/252/0/0
-EV yield: {"def":1,"spDef":1}
 [LEVELUP] Now level 60
-60	39	75	68	80	27	100
+60	39	75	67	80	26	100
+Mew (Lv. 60) @Choice Specs (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Dazzling Gleam/Thunderbolt/Flamethrower) IVs: 0/0/0/0/0/0 EVs: 39/75/67/80/26/100
+Current Exp: 213372 (20.17%)
+[ITEM EQUIP] Metronome
+Current Exp: 213372 (20.17%)
+[KILL]: Got 2114 Exp for killing Spiritomb (Lv. 61) @Sitrus Berry (Ability: Pressure) (Nature: Quiet) (Moves: Shadow Ball/Dark Pulse/Psychic/Sucker Punch) IVs: 31/31/31/31/31/31 EVs: 252/6/0/252/0/0
+EV yield: {"def":1,"spDef":1}
 Mew (Lv. 60) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Dazzling Gleam/Thunderbolt/Flamethrower) IVs: 0/0/0/0/0/0 EVs: 39/75/68/80/27/100
-Current Exp: 211240 (1.57%)
+Current Exp: 215486 (38.61%)
 [KILL]: Got 3097 Exp for killing Roserade (Lv. 60) @Expert Belt (Ability: Poison Point) (Nature: Timid) (Moves: Dazzling Gleam/Shadow Ball/Sludge Bomb/Energy Ball) IVs: 31/0/31/0/31/31 EVs: 52/0/0/252/0/204
 EV yield: {"spAtk":3}
 Mew (Lv. 60) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Dazzling Gleam/Thunderbolt/Flamethrower) IVs: 0/0/0/0/0/0 EVs: 39/75/68/83/27/100
-Current Exp: 214337 (28.59%)
+Current Exp: 218583 (65.63%)
 [KILL]: Got 1993 Exp for killing Gastrodon (Lv. 60) @Leftovers (Ability: Storm Drain) (Nature: Relaxed) (Moves: Scald/Earthquake/Sludge Bomb/Rock Tomb) IVs: 31/31/31/31/31/0 EVs: 252/0/252/0/6/0
 EV yield: {"hp":2}
 Mew (Lv. 60) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Dazzling Gleam/Thunderbolt/Flamethrower) IVs: 0/0/0/0/0/0 EVs: 41/75/68/83/27/100
-Current Exp: 216330 (45.98%)
+Current Exp: 220576 (83.02%)
 [KILL]: Got 2451 Exp for killing Lucario (Lv. 63) @Wise Glasses (Ability: Inner Focus) (Nature: Timid) (Moves: Aura Sphere/Dragon Pulse/Flash Cannon/Nasty Plot) IVs: 31/0/31/31/31/31 EVs: 52/0/0/252/0/204
 EV yield: {"atk":1,"spAtk":1}
-Mew (Lv. 60) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Dazzling Gleam/Thunderbolt/Flamethrower) IVs: 0/0/0/0/0/0 EVs: 41/76/68/84/27/100
-Current Exp: 218781 (67.36%)
-[KILL]: Got 2518 Exp for killing Milotic (Lv. 63) @Flame Orb (Ability: Marvel Scale) (Nature: Bold) (Moves: Recover/Mirror Coat/Ice Beam/Scald) IVs: 31/0/31/31/31/31 EVs: 252/0/252/6/0/0
-EV yield: {"spDef":2}
-Mew (Lv. 60) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Dazzling Gleam/Thunderbolt/Flamethrower) IVs: 0/0/0/0/0/0 EVs: 41/76/68/84/29/100
-Current Exp: 221299 (89.33%)
-[KILL]: Got 4412 Exp for killing Garchomp (Lv. 66) @Yache Berry (Ability: Rough Skin) (Nature: Jolly) (Moves: Dragon Claw/Earthquake/Swords Dance/Poison Jab) IVs: 31/31/31/0/31/31 EVs: 52/252/0/0/0/204
-EV yield: {"atk":3}
 [LEVELUP] Now level 61
-61	41	79	68	84	29	100
+61	41	76	68	84	27	100
+Mew (Lv. 61) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Dazzling Gleam/Thunderbolt/Flamethrower) IVs: 0/0/0/0/0/0 EVs: 41/76/68/84/27/100
+Current Exp: 223027 (4.25%)
+[KILL]: Got 2471 Exp for killing Milotic (Lv. 63) @Flame Orb (Ability: Marvel Scale) (Nature: Bold) (Moves: Recover/Mirror Coat/Ice Beam/Scald) IVs: 31/0/31/31/31/31 EVs: 252/0/252/6/0/0
+EV yield: {"spDef":2}
+Mew (Lv. 61) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Dazzling Gleam/Thunderbolt/Flamethrower) IVs: 0/0/0/0/0/0 EVs: 41/76/68/84/29/100
+Current Exp: 225498 (25.07%)
+[KILL]: Got 4332 Exp for killing Garchomp (Lv. 66) @Yache Berry (Ability: Rough Skin) (Nature: Jolly) (Moves: Dragon Claw/Earthquake/Swords Dance/Poison Jab) IVs: 31/31/31/0/31/31 EVs: 52/252/0/0/0/204
+EV yield: {"atk":3}
 Mew (Lv. 61) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Dazzling Gleam/Thunderbolt/Flamethrower) IVs: 0/0/0/0/0/0 EVs: 41/79/68/84/29/100
-Current Exp: 225711 (26.86%)
+Current Exp: 229830 (61.56%)

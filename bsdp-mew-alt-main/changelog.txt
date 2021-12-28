@@ -55,3 +55,53 @@ Version 1.0.0
 Version 1.0.1
     Fixed syntax on Mars 2 Golbat
     Added Heatproof to a Grunt after Candice
+
+Version 1.1.0
+    Modified the condition that you heal for the Trainer School fights to || from &&
+    Added +1 Charge Beam ranges
+    Moved the "Swap back to Mew" as we no longer use Switch strats
+    Added Reflect Type on Jenna to avoid Poison Point
+    Added +1 Ranges to Barry 2's Grotle
+    Fixed Spacing
+    Updated Shock Wave on Maya's Gyarados to use Mew's stats not Prinplup's
+    Updated Bubble Beam on Kadabra to include Rain boost
+    Updated Psychic on Rafael's and Maylene's Meditite to use Mew's stats not Prinplup's
+    Updated Lucario's +1 Metal Claw to actually calc +1 
+    Fixed Spacing
+    Updated the Veilstone Grunt Double to use Flamethrower on everything
+    Updated to kill Beautifly first
+    Moved Marsh Menu
+    Added Defog location
+    Added Rare Candy location
+    Added note to Heal to full before Barry 3
+    Added Grotle Bite Ranges
+    Removed Flame Charge Ranges
+    Added to use Defog, "if you need to"
+    Updated Black Belt David to say vs Steelix
+    Removed Cesar's Steelix's Iron Tail Ranges as he can never get it off
+    Added Trick Room note on Byron's Steelix
+    Removed X Speed on Mars 2 if you're x/x/18+ speed
+    Removed Fog Room Rare Candy
+    Removed the X SpAttack from Candice because it actually loses turns
+    Updated Medichams so it's Attack stat is actually doubled, on Candice and Lucian
+    Fixed Abomasnow's stats
+    Removed OHKO Range from Bronzor - with my understanding of how evs are calculated, it is impossible to OHKO Saturn 2's Bronzor as you get the EVs from Kadabra only after you finish the fight, or level up.
+    Added Thief and Payback ranges on Saturn 2
+    Changed Volt Switch to special on Volkner
+    Added ranges to Mars & Jupiter double
+    Added ranges to Barry 5
+    Cleaned up the setup instructions for Barry 5
+    Fixed +0 Choice Specs Psychic against Rapidash
+    Added conditional setup to do more early to guarantee Rapidash
+    Changed where the Max Ether gets used, from Cynthia to Volkner - it can
+
+Version 1.2.0
+    To avoid confusion with game version, skipping to Route Version 1.2.0
+    Added Mt. Coronet Fog Candy back in
+    Added Rare Candy usage before Mars & Jupiter double
+    Updated Level Up locations
+
+Version 1.2.1
+    Updated a range against Maya's Kadabra to use Prinplup's stats instead of Piplup's
+    Moved Toxicroak's Thief to be after user move
+    Moved the Max Elixir note
