@@ -231,6 +231,7 @@ Head west back to Oreburgh Mine. Once inside:
 - Don't heal.
 :::
 :::if{source="Piplup" condition="spa=(27-/2-/x) || spe= (31-/19-/11-)"}
+
 - Heal if low.
 :::
 - Repel (keep refreshing until Floaroma Town).
@@ -246,6 +247,7 @@ Fight the school children:
   ::damage[Piplup's Torrent Water Gun vs Abra]{source="Piplup" movePower=40 type="Water" special=true torrent=true healthThreshold=auto}  
   ::damage[Abra's +0 Charge Beam vs Piplup]{source="Piplup" offensive=false special=true movePower=50 type="Electric" theme="error"}
   ::damage[Abra's +1 Charge Beam vs Piplup]{source="Piplup" offensive=false combatStages=1 special=true movePower=50 type="Electric" theme="error"}
+
 :::
 :::::
 
@@ -255,6 +257,7 @@ Fight the school children:
   ::damage[Piplup's Torrent Water Gun vs Abra]{source="Piplup" movePower=40 type="Water" special=true torrent=true healthThreshold=auto}  
   ::damage[Abra's +0 Charge Beam vs Piplup]{source="Piplup" offensive=false special=true movePower=50 type="Electric" theme="error"}
   ::damage[Abra's +1 Charge Beam vs Piplup]{source="Piplup" offensive=false combatStages=1 special=true movePower=50 type="Electric" theme="error"}
+
 :::
 :::::
 
@@ -694,7 +697,6 @@ Head to the gym. There is only 1 mandatory gym trainer, on the right.
 Head back to the north-west of Veilstone and talk to Lucas.
 
 :::::trainer[Team Galactic Double]
-
 :::pokemon[Beautifly]{baseStats="[60, 70, 50, 100, 50, 65]" nature="Hardy" type="Bug/Flying" level=25}
   - Flamethrower
 :::
