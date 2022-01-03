@@ -1,11 +1,11 @@
 {
-  "title": "Candyfloss-Shield", // The name of your route.
-  "author": [ // You can specify more than one author. Avoid adding authors unless they made significant contributions to the route. 
+  "title": "Candyfloss-Shield"
+  "author":
     {
-      "name": "gavinNBD", // The name of the author.
+      "name": "gavinNBD"
     }
   ],
-  "game": "Shield", // The name of the game this route is for. Please be accurate.
-  "generation": 8, // The generation of the game this route is for.
-  "version": "1.0.0", // The version of the route. Please use semantic versioning: https://semver.org/
+  "game": "Shield"
+  "generation": 8
+  "version": "1.0.0"
 }
