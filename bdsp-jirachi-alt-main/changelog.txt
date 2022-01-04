@@ -126,3 +126,14 @@ Version 1.4.2
 	Changed the menus before Jubilife the first time
 	Cleaned up some syntax
 	Updated Vespiquen to actually have correct stats
+
+Version 1.4.3
+	Added a line break after Defog note
+	Updated Jupiter & Mars' Thunderbolt to be special
+	Fixed syntax on the Grunt fight 2 fights before
+	Updated Saturn 2's Toxicroak to be a range
+	Fixed the hyperlink?
+	Added Wartab's Spinner Setup Document
+	Updated Volt Switch to be special
+	Fixed syntax on Volkner's Raichu
+	Updated Flint's Steelix's Crunch to consider Sheer Force + Life Orb (It's approximate)

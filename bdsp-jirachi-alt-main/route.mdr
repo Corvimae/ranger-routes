@@ -71,7 +71,7 @@
 
 :::
 
-## Jirachi Alt Main v1.4.2
+## Jirachi Alt Main v1.4.3
 Routed by GreenLightn1ng#2156
 
 :info[_This route is slightly more polished than it was previously, if you have any queries, complaints, or criticism, feel free to message me on Discord._]
@@ -88,11 +88,12 @@ Optimal mashing is to switch between pressing A, ZL, and ZR. You must continue m
 
 If you know where all the items are, you can turn off images by clicking the options button at the top of these notes.
 
-Spreadsheets: https://docs.google.com/spreadsheets/d/1yqYfH6mqYiilWyd46zwIu-EnaBGX_iEiPKuPoH29Pw4/edit?usp=sharing
+[Spreadsheets](https://docs.google.com/spreadsheets/d/1yqYfH6mqYiilWyd46zwIu-EnaBGX_iEiPKuPoH29Pw4/edit?usp=sharing)
+[Spinner Setups by Wartab](https://docs.google.com/document/d/1LXPDSQMccUsRRqMyg2F0kSRripCQaIidmBEhwl5btBU/edit)
 
 *The Piplup Any% Route up until Floraroma is the same as May & Etchy's Piplup + Scyther Route*
 
-I still need to add some more images, damage ranges, defensive ranges, and maybe level up locations.
+I still need to add some images, and specific IVs that outspeed.
 
 **Set your clock to approximately 2:30 AM. You want it to be between 4-10 when you get to Celestic Town.**
 
@@ -780,7 +781,7 @@ Press the last blue button, then talk to Crasher Wake.
   :::
 :::::
 
-_Optional: Head inside the Great Marsh and grab Defog._
+_Optional: Head inside the Great Marsh and grab Defog._  
 Talk to the Team Galactic grunt outside of the Great Marsh.
 
 - Heal to full if in Quick Attack + Aqua Jet range.
@@ -1229,7 +1230,8 @@ Take the teleporter in the north-east of the room.
     - X SpAttack + Shadow Ball
   :::
   :::pokemon[Toxicroak]{baseStats="[83, 106, 65, 86, 65, 85]" ivs="[15, 0, 15, 0, 15, 0]" evs="[68, 0, 68, 0, 68, 0]" nature="Jolly" type="Steel/Psychic" level=40}
-    - Shadow Ball
+    - Shadow Ball (+ Psychic)    
+	:damage[Jirachi's +2 Choice Specs Shadow Ball vs Toxicroak]{source="Jirachi" choiceItem=true special=true healthThreshold=auto combatStages=2 movePower=80 type="Ghost"}
   :::
   :::pokemon[Bronzor]{baseStats="[57, 24, 86, 24, 86, 23]" ivs="[15, 0, 15, 0, 15, 0]" evs="[68, 0, 68, 0, 68, 0]" nature="Relaxed" type="Steel/Psychic" level=38}
     - Shadow Ball
@@ -1274,13 +1276,13 @@ Grab the hidden Rare Candy on the rock, the second time you go outside.
 
 :::::trainer[Team Galactic Grunt]
   :::pokemon[Golbat]{baseStats="[75, 80, 70, 65, 75, 90]" nature="Serious" level=37}
-	  - Thunderbolt
+	- Thunderbolt
   :::
   :::pokemon[Glameow]{baseStats="[49, 55, 42, 42, 37, 85]" nature="Bashful" type="Normal" level=37}
-    - Thunderbolt
+  - Thunderbolt
   :::
   :::pokemon[Bronzor]{baseStats="[57, 24, 86, 24, 86, 23]" nature="Quirky" type="Steel/Psychic" level=37}
-    - Thunderbolt x2
+  - Thunderbolt x2
   :::
 :::::
 
@@ -1303,12 +1305,13 @@ Grab the hidden Rare Candy on the rock, the second time you go outside.
 :::::trainer[Commander Jupiter & Mars]{info="If you get Light Screen'd, X Def + X SpDef, should just spam Payback though"}
    :::pokemon[Right Bronzor]{baseStats="[57, 24, 86, 24, 86, 23]" ivs="[15, 0, 15, 0, 15, 0]" evs="[68, 0, 68, 0, 68, 0]" nature="Relaxed" type="Steel/Psychic" level=41}
 	- X Speed + X SpAttack + Thunderbolt x1-2 (x2-3 if Light Screen)
-	:damage[Jirachi's +2 Choice Specs Thunderbolt vs Bronzor-R]{source="Jirachi" choiceItem=true healthThreshold=auto combatStages=2 movePower=90 type="Electric"}
+	:damage[Jirachi's +2 Choice Specs Thunderbolt vs Bronzor-R]{source="Jirachi" choiceItem=true special=true healthThreshold=auto combatStages=2 movePower=90 type="Electric"}
   :damage[Bronzors' Payback-100 vs +0 Defense Jirachi]{source="Jirachi" offensive=false movePower=100 type="Dark" theme="error"}
 	:damage[Bronzors' Payback-50 vs +0 Defense Jirachi]{source="Jirachi" offensive=false movePower=50 type="Dark" theme="error"}
    :::
    :::pokemon[Purugly]{baseStats="[71, 82, 64, 64, 59, 112]" ivs="[15, 0, 15, 0, 15, 0]" evs="[68, 0, 68, 0, 68, 0]" nature="Jolly" type="Normal" level=45}
-    - Thunderbolt (x2-3 if Light Screen)
+    - Thunderbolt x1-2 (x2-3 if Light Screen)
+	:damage[Jirachi's +2 Choice Specs Thunderbolt vs Purugly *without* Light Screen]{source="Jirachi" choiceItem=true special=true healthThreshold=auto combatStages=2 movePower=90 type="Electric"}
 	:damage[Purugly's Dig vs +0 Defense Jirachi]{source="Jirachi" offensive=false movePower=80 type="Ground" theme="error"}
 	:damage[Purugly's Dig vs +2 Defense Jirachi]{source="Jirachi" offensive=false movePower=80 combatStages=2 type="Ground" theme="error"}
    :::
@@ -1319,7 +1322,7 @@ Grab the hidden Rare Candy on the rock, the second time you go outside.
    :::
    :::pokemon[Left Bronzor]{baseStats="[57, 24, 86, 24, 86, 23]" ivs="[15, 0, 15, 0, 15, 0]" evs="[68, 0, 68, 0, 68, 0]" nature="Sassy" type="Steel/Psychic" level=41} 
 	- Thunderbolt x1-2 (x2-3 if Light Screen)
-	:damage[Jirachi's +2 Choice Specs Thunderbolt vs Bronzor-L]{source="Jirachi" choiceItem=true combatStages=2 healthThreshold=auto movePower=90 type="Electric"}
+	:damage[Jirachi's +2 Choice Specs Thunderbolt vs Bronzor-L]{source="Jirachi" choiceItem=true special=true combatStages=2 healthThreshold=auto movePower=90 type="Electric"}
    :::
    :::pokemon[Skuntank]{baseStats="[103, 93, 67, 71, 61, 84]" ivs="[15,0,15,0,15,0]" evs="[68,0,68,0,68,0]" nature="Modest" type="Poison/Dark" level=46}
     - Thunderbolt x2 (x3-4 if Light Screen)	
@@ -1449,15 +1452,15 @@ After entering Sunyshore, head to the lighthouse. Talk to Volkner, then head to 
 	- X Speed + X SpAttack
   :::
   :::pokemon[Raichu]{baseStats="[60, 90, 55, 90, 80, 110]" ivs="[11, 0, 11, 28, 11, 28]" evs="[12, 0, 12, 160, 12, 160]" nature="Timid" type="Electric" level=46}
-	:damage[Volt Switch vs Jirachi]{source="Jirachi" offensive=false movePower=70 type="Electric" theme=error}
+	:damage[Volt Switch vs Jirachi]{source="Jirachi" offensive=false special=true movePower=70 type="Electric" theme=error}
   :::
   :::pokemon[Ambipom]{baseStats="[75, 100, 66, 60, 66, 115]" ivs="[11, 20, 11, 20, 11, 28]" evs="[12, 0, 12, 160, 12, 160]" nature="Naive" type="Normal" level=47}
     - Psychic
   :::
-  ::level{source="Jirachi" value=48}
   :::pokemon[Raichu]{baseStats="[60, 90, 55, 90, 80, 110]" ivs="[11, 0, 11, 28, 11, 28]" evs="[12, 0, 12, 160, 12, 160]" nature="Timid" type="Electric" level=46}
-	  - Psychic
+	- Psychic
   :::
+  ::level{source="Jirachi" value=48}
   __Teach Dragon Claw to Dialga/Palkia__
   :::pokemon[Octillery]{baseStats="[75, 105, 75, 105, 75, 45]" ivs="[11, 0, 11, 28, 11, 28]" evs="[12, 0, 12, 160, 12, 160]" nature="Modest" type="Water" level=47}
     - Psychic
@@ -1716,7 +1719,8 @@ __Grab the Max Elixir hidden in the rock behind the trainer you just fought__
 
 :::::::trainer[Elite Four Flint]
   :::::pokemon[Rapidash]{info="Just dodge Hypnosis, Stealth Rock is mandatory, Charms are convinient" baseStats="[65, 100, 70, 80, 80, 105]" ivs="[25, 31, 25, 0, 25, 31]" evs="[12, 60, 12, 0, 12, 204]" nature="Jolly" type="Fire" level=58}
-    - Stealth Rock + Charm x2 --> Switch to Jirachi _Can consider X Defense if you want_
+    - Stealth Rock + Charm x2 --> Switch to Jirachi 
+    - _Can consider X Defense if you want_
 	  - X SpAttack x2 + X Speed + (Full Restore) Psychic
     :damage[Rapidash's +0 Flame Charge vs +0 Defense Jirachi]{source="Jirachi" offensive=false opponentCombatStages=0 movePower=50 type="Fire" theme=error}
     :damage[Rapidash's -2 Flame Charge vs +0 Defense Jirachi]{source="Jirachi" offensive=false opponentCombatStages=-2 movePower=50 type="Fire" theme=error}
@@ -1726,8 +1730,8 @@ __Grab the Max Elixir hidden in the rock behind the trainer you just fought__
   :::::pokemon[Steelix]{baseStats="[75, 85, 200, 55, 65, 30]" ivs="[31, 31, 31, 0, 31, 31]" evs="[12, 252, 0, 12, 12, 0]" nature="Adamant" type="Steel/Ground" level=57}
     - Psychic x1-2
 	:damage[Jirachi's +4 Choice Specs Psychic vs Steelix after Stealth Rock]{source="Jirachi" offensive=true movePower=90 special=true type="Psychic" combatStages=4 choiceItem=true healthThreshold=166}
-    :damage[Steelix's Crunch vs +0 Defense Jirachi]{source="Jirachi" offensive=false movePower=80 special=false type="Fire" theme=error}
-    :damage[Steelix's Crunch vs +2 Defense Jirachi]{source="Jirachi" offensive=false movePower=80 combatStages=2 special=false type="Fire" theme=error}
+    :damage[Steelix's Sheer Force Life Orb Crunch vs +0 Defense Jirachi]{source="Jirachi" offensive=false movePower=80 otherModifier=1.68975 special=false type="Dark" theme=error}
+    :damage[Steelix's Sheer Force Life Orb Crunch vs +2 Defense Jirachi]{source="Jirachi" offensive=false movePower=80 otherModifier=1.68975 combatStages=2 special=false type="Dark" theme=error}
   :::::
   :::::pokemon[Lopunny]{baseStats="[65, 76, 84, 54, 96, 105]" ivs="[31, 31, 31, 0, 31, 31]" evs="[252, 0, 0, 0, 0, 0]" nature="Jolly" type="Normal" level=57}
     - Psychic
