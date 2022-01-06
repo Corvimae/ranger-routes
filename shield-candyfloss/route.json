@@ -1,10 +1,11 @@
 {
-  "title": "Candyfloss-Shield"
-  "author":
+  "title": "Candyfloss-Shield", 
+  "author": [ 
     {
-      "name": "gavinNBD"
+      "name": "gavinNBD", 
     }
-  "game": "Shield"
-  "generation": 8
+  ],
+  "game": "Shield", 
+  "generation": 8,
   "version": "1.0.0"
 }
