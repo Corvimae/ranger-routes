@@ -1139,7 +1139,7 @@ Catch Groudon with the Master Ball.
     - Smack Down
     - Earthquake (x2) (Smack Down)
 
-    ::damage[Dragon Pulse]{source="Groudon" special=true movePower=85 stab=true level=46 opponentLevel=46 evs=0 opponentStat=69 offensive=false effectiveness=1 theme=error}
+    ::damage[Dragon Pulse]{source="Groudon" special=true movePower=85 stab=true level=46 opponentLevel=46 evs=0 opponentStat=97 offensive=false effectiveness=2 theme=error}
   :::::
   :::::pokemon[Roselia]
     - Earthquake
