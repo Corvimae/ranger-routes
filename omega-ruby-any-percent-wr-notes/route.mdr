@@ -848,7 +848,7 @@ Gym puzzle:
     ::damage[+3 Luster Purge vs Pelliper]{source="Latios" special=true movePower=70 stab=true level=32 evs=1 opponentStat=56 healthThreshold=82 combatStages=3 theme=error}
   :::
 :::::
-Grab Persim Berries (left) Can skip w/ 2 left (Need one for Wallace and Sidney)
+Grab Persim Berries (left) Can skip w/ 2 left (Need one for and Sidney)
 Get the free heal before surfing to Mt. Pyre.
 
 :::::trainer[Team Magma Grunt]
@@ -1067,10 +1067,11 @@ Catch Groudon with the Master Ball.
      - Earthquake
   :::::
   :::::pokemon[Milotic]
+     - Swords Dance
      - Earthquake
+     ::damage[Ice Beam does]{source="Groudon" offensive=false movePower=90 level=45 special=true opponentLevel=46 opponentStat=97 stab=false}  
   :::::
   :::::pokemon[Whiscash]{info="Faster at 80+ Speed (7+/#/#)" infoColor=blue}
-     - Swords Dance
      - Earthquake
   :::::
   :::::pokemon[Sealeo]
@@ -1082,7 +1083,7 @@ Catch Groudon with the Master Ball.
 :::::::
 - Fly to Route 126.
   - Menu:
-    - Equip a Persim Berry on Groudon if it was used on Luvdisc
+    - Equip a Persim Berry if have one extra :info[(NEED ONE FOR SIDNEY)]{color=yellow}
     - Teach Waterfall over Dragon Breath to Latios (Slot 2)
 
 
