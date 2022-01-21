@@ -744,23 +744,22 @@ Head down the stairs and right into the Glimwood Tangle.
   :::::
 :::::::
 
-Swap Arcanine to the front. Save recommmended.
+Swap Arcanine to the front. Quiz Answers for Opal: 2, 2, 1.
 
 :::::::trainer[Opal]
   :::::pokemon[Weezing]
     - X SpAtk + Max Flare (Burn Up)
-    - *Quiz: Answer 2*
   :::::
   :::::pokemon[Togekiss]
     - Max Flare (Burn Up)
   :::::
   :::::pokemon[Mawile]
-    - If Poisoned: Heal HP (*Answer 2*) + X SpAtk + Flamethrower x1
-    - If not Poisoned: X SpAtk (*Answer 1*) + Flamethrower x1
+    - If Poisoned and can't survive 2 turns: Heal to full
+    - X SpAtk + Flamethrower x1
   :::::
   :::::pokemon[Alcremie]
-    - If Poisoned: Burn Up x1
-    - If not Poisoned: Flamethrower x1 + Burn Up x1
+    - If you healed on Mawile: Flamethrower + Burn Up
+    - Otherwise: Burn Up (range at 28-/1-/x)
   :::::
 :::::::
 
