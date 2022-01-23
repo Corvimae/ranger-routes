@@ -991,7 +991,7 @@ Head upstairs twice.
   :::::
   :::::::
   :::::if{source="Ralts" condition="startingLevel=19"}
-  ::level{source="Ralts" value=22"}
+  ::level{source="Ralts" value=22}
   :::::
 :::::::::
 
@@ -1052,6 +1052,8 @@ Circle around and pickup TM 31 Brick Break.
 ![Brick Break Location (Credit: GreenLightn1ng)](https://media.discordapp.net/attachments/933921341558632458/933921464825053294/IMG_0667.jpg?width=782&height=440)
 
 - Escape Rope
+
+Head back through Oreburgh City and up the bike slope, dismount?
 
 Head through the gap in the rocks, then go right. Watch out for the roamers.   
 Grab the hidden Rare Candy, then head past the hiker spinner into the cave.

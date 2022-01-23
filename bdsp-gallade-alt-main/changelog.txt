@@ -11,3 +11,7 @@ Bibarel actually kinda good though...
 
 Version 1.0.0
 First draft completed
+
+Version 1.0.1
+Fixed a level up location
+Added text to return to Route 207 after Brick Break
