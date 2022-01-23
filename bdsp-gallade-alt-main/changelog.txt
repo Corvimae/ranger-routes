@@ -8,3 +8,6 @@ Switched to using Turtwig in an attempt to save the X Defense for Gardenia
 
 Version 0.1.1
 Bibarel actually kinda good though...
+
+Version 1.0.0
+First draft completed

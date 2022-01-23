@@ -499,489 +499,490 @@ Current Exp: 75363 (20.76%)
 EV yield: {"atk":1,"spAtk":1}
 Gallade (Lv. 39) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Drain Punch/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 22/22/29/65/5/45
 Current Exp: 76939 (47.69%)
+39	22	72	29	65	5	45
+Gallade (Lv. 39) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Drain Punch/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 22/72/29/65/5/45
+Current Exp: 76939 (47.69%)
 [KILL]: Got 1196 Exp for killing Dustox (Lv. 35) @(None) (Ability: Shield Dust) (Nature: Quirky) (Moves: Venoshock/Leech Life/Toxic/Bug Buzz) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
 EV yield: {"spDef":3}
-Gallade (Lv. 39) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Drain Punch/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 22/22/29/65/8/45
+Gallade (Lv. 39) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Drain Punch/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 22/72/29/65/8/45
 Current Exp: 78135 (68.13%)
 [KILL]: Got 372 Exp for killing Bronzor (Lv. 35) @(None) (Ability: Heatproof) (Nature: Hardy) (Moves: Confuse Ray/Payback/Extrasensory/Heavy Slam) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
 EV yield: {"def":1}
-Gallade (Lv. 39) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Drain Punch/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 22/22/30/65/8/45
+Gallade (Lv. 39) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Drain Punch/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 22/72/30/65/8/45
 Current Exp: 78507 (74.49%)
 [KILL]: Got 868 Exp for killing Kadabra (Lv. 35) @(None) (Ability: Inner Focus) (Nature: Sassy) (Moves: Kinesis/Reflect/Psyshock/Psychic) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
 EV yield: {"spAtk":2}
-Gallade (Lv. 39) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Drain Punch/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 22/22/30/67/8/45
+Gallade (Lv. 39) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Drain Punch/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 22/72/30/67/8/45
 Current Exp: 79375 (89.32%)
 [KILL]: Got 868 Exp for killing Kadabra (Lv. 35) @(None) (Ability: Synchronize) (Nature: Sassy) (Moves: Reflect/Recover/Psyshock/Psychic) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
 EV yield: {"spAtk":2}
 [LEVELUP] Now level 40
-40	22	22	30	69	8	45
-Gallade (Lv. 40) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Drain Punch/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 22/22/30/69/8/45
+40	22	72	30	69	8	45
+Gallade (Lv. 40) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Drain Punch/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 22/72/30/69/8/45
 Current Exp: 80243 (3.95%)
 [KILL]: Got 1016 Exp for killing Golbat (Lv. 36) @(None) (Ability: Inner Focus) (Nature: Serious) (Moves: Poison Fang/Quick Guard/Air Cutter/Bite) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
 EV yield: {"spd":2}
-Gallade (Lv. 40) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Drain Punch/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 22/22/30/69/8/47
+Gallade (Lv. 40) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Drain Punch/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 22/72/30/69/8/47
 Current Exp: 81259 (20.47%)
 [KILL]: Got 407 Exp for killing Silcoon (Lv. 34) @(None) (Ability: Shed Skin) (Nature: Bashful) (Moves: Tackle/Poison Sting/Harden/(No Move)) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
 EV yield: {"def":2}
-Gallade (Lv. 40) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Drain Punch/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 22/22/32/69/8/47
+Gallade (Lv. 40) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Drain Punch/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 22/72/32/69/8/47
 Current Exp: 81666 (27.09%)
 [KILL]: Got 422 Exp for killing Stunky (Lv. 36) @(None) (Ability: Aftermath) (Nature: Quirky) (Moves: Venoshock/Toxic/Memento/Night Slash) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
 EV yield: {"spd":1}
-Gallade (Lv. 40) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Drain Punch/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 22/22/32/69/8/48
+Gallade (Lv. 40) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Drain Punch/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 22/72/32/69/8/48
 Current Exp: 82088 (33.95%)
 [KILL]: Got 384 Exp for killing Croagunk (Lv. 36) @(None) (Ability: Anticipation) (Nature: Hardy) (Moves: Mud-Slap/Revenge/Sucker Punch/Toxic) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
 EV yield: {"atk":1}
-Gallade (Lv. 40) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Drain Punch/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 22/23/32/69/8/48
+Gallade (Lv. 40) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Drain Punch/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 22/73/32/69/8/48
 Current Exp: 82472 (40.19%)
 [KILL]: Got 361 Exp for killing Croagunk (Lv. 35) @(None) (Ability: Anticipation) (Nature: Quirky) (Moves: Taunt/Revenge/Sucker Punch/Poison Jab) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
 EV yield: {"atk":1}
-Gallade (Lv. 40) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Drain Punch/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 22/24/32/69/8/48
+Gallade (Lv. 40) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Drain Punch/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 22/74/32/69/8/48
 Current Exp: 82833 (46.06%)
 [KILL]: Got 398 Exp for killing Stunky (Lv. 35) @(None) (Ability: Aftermath) (Nature: Hardy) (Moves: Poison Gas/Smokescreen/Acid Spray/Bite) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
 EV yield: {"spd":1}
-Gallade (Lv. 40) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Drain Punch/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 22/24/32/69/8/49
+Gallade (Lv. 40) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Drain Punch/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 22/74/32/69/8/49
 Current Exp: 83231 (52.53%)
 [KILL]: Got 373 Exp for killing Glameow (Lv. 35) @(None) (Ability: Own Tempo) (Nature: Docile) (Moves: Growl/Hypnosis/Aerial Ace/Retaliate) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
 EV yield: {"spd":1}
-Gallade (Lv. 40) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Drain Punch/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 22/24/32/69/8/50
+Gallade (Lv. 40) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Drain Punch/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 22/74/32/69/8/50
 Current Exp: 83604 (58.59%)
 [KILL]: Got 649 Exp for killing Murkrow (Lv. 40) @(None) (Ability: Insomnia) (Nature: Jolly) (Moves: Wing Attack/Night Shade/Assurance/Taunt) IVs: 15/0/15/0/15/0 EVs: 68/0/68/0/68/0
 EV yield: {"spd":1}
-Gallade (Lv. 40) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Drain Punch/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 22/24/32/69/8/51
+Gallade (Lv. 40) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Drain Punch/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 22/74/32/69/8/51
 Current Exp: 84253 (69.14%)
 [KILL]: Got 1273 Exp for killing Golbat (Lv. 40) @(None) (Ability: Inner Focus) (Nature: Jolly) (Moves: Screech/Poison Fang/Air Cutter/Bite) IVs: 15/0/15/0/15/0 EVs: 68/0/68/0/68/0
 EV yield: {"spd":2}
-Gallade (Lv. 40) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Drain Punch/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 22/24/32/69/8/53
+Gallade (Lv. 40) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Drain Punch/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 22/74/32/69/8/53
 Current Exp: 85526 (89.84%)
 [KILL]: Got 801 Exp for killing Sneasel (Lv. 43) @Sitrus Berry (Ability: Keen Eye) (Nature: Jolly) (Moves: Metal Claw/Icy Wind/Hone Claws/Beat Up) IVs: 15/0/15/0/15/0 EVs: 68/0/68/0/68/0
 EV yield: {"spd":1}
 [LEVELUP] Now level 41
-41	22	24	32	69	8	54
-Gallade (Lv. 41) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Drain Punch/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 22/24/32/69/8/54
+41	22	74	32	69	8	54
+Gallade (Lv. 41) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Drain Punch/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 22/74/32/69/8/54
 Current Exp: 86327 (2.72%)
 [KILL]: Got 977 Exp for killing Kadabra (Lv. 38) @Damp Rock (Ability: Inner Focus) (Nature: Timid) (Moves: Kinesis/Reflect/Psychic/Rain Dance) IVs: 15/0/15/0/15/0 EVs: 68/0/68/0/68/0
 EV yield: {"spAtk":2}
-Gallade (Lv. 41) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Drain Punch/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 22/24/32/71/8/54
+Gallade (Lv. 41) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Drain Punch/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 22/74/32/71/8/54
 Current Exp: 87304 (17.85%)
 [KILL]: Got 419 Exp for killing Bronzor (Lv. 38) @(None) (Ability: Levitate) (Nature: Relaxed) (Moves: Confuse Ray/Payback/Gyro Ball/Extrasensory) IVs: 15/0/15/0/15/0 EVs: 68/0/68/0/68/0
 EV yield: {"def":1}
-Gallade (Lv. 41) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Drain Punch/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 22/24/33/71/8/54
+Gallade (Lv. 41) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Drain Punch/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 22/74/33/71/8/54
 Current Exp: 87723 (24.34%)
 [KILL]: Got 1339 Exp for killing Toxicroak (Lv. 40) @(None) (Ability: Dry Skin) (Nature: Jolly) (Moves: Mud-Slap/Toxic/Thief/Brick Break) IVs: 15/0/15/0/15/0 EVs: 68/0/68/0/68/0
 EV yield: {"atk":2}
-Gallade (Lv. 41) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Drain Punch/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 22/26/33/71/8/54
+Gallade (Lv. 41) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Drain Punch/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 22/76/33/71/8/54
 Current Exp: 89062 (45.07%)
 [KILL]: Got 419 Exp for killing Bronzor (Lv. 38) @(None) (Ability: Levitate) (Nature: Hardy) (Moves: Hypnosis/Safeguard/Extrasensory/Heavy Slam) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
 EV yield: {"def":1}
-Gallade (Lv. 41) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Drain Punch/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 22/26/34/71/8/54
+Gallade (Lv. 41) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Drain Punch/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 22/76/34/71/8/54
 Current Exp: 89481 (51.56%)
 [KILL]: Got 385 Exp for killing Glameow (Lv. 36) @(None) (Ability: Own Tempo) (Nature: Docile) (Moves: Aerial Ace/Charm/Taunt/Slash) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
 EV yield: {"spd":1}
-Gallade (Lv. 41) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Drain Punch/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 22/26/34/71/8/55
+Gallade (Lv. 41) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Drain Punch/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 22/76/34/71/8/55
 Current Exp: 89866 (57.52%)
 [KILL]: Got 396 Exp for killing Bronzor (Lv. 37) @(None) (Ability: Heatproof) (Nature: Serious) (Moves: Confuse Ray/Payback/Extrasensory/Iron Defense) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
 EV yield: {"def":1}
-Gallade (Lv. 41) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Drain Punch/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 22/26/35/71/8/55
+Gallade (Lv. 41) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Drain Punch/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 22/76/35/71/8/55
 Current Exp: 90262 (63.65%)
 [KILL]: Got 1047 Exp for killing Golbat (Lv. 37) @(None) (Ability: Inner Focus) (Nature: Bashful) (Moves: Screech/Astonish/Poison Fang/Bite) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
 EV yield: {"spd":2}
-Gallade (Lv. 41) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Drain Punch/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 22/26/35/71/8/57
+Gallade (Lv. 41) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Drain Punch/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 22/76/35/71/8/57
 Current Exp: 91309 (79.86%)
 [KILL]: Got 1047 Exp for killing Golbat (Lv. 37) @(None) (Ability: Inner Focus) (Nature: Serious) (Moves: Screech/Astonish/Poison Fang/Bite) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
 EV yield: {"spd":2}
-Gallade (Lv. 41) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Drain Punch/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 22/26/35/71/8/59
+Gallade (Lv. 41) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Drain Punch/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 22/76/35/71/8/59
 Current Exp: 92356 (96.07%)
 [KILL]: Got 408 Exp for killing Glameow (Lv. 37) @(None) (Ability: Own Tempo) (Nature: Bashful) (Moves: Fake Out/Hypnosis/Aerial Ace/Retaliate) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
 EV yield: {"spd":1}
 [LEVELUP] Now level 42
-42	22	26	35	71	8	60
-Gallade (Lv. 42) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Drain Punch/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 22/26/35/71/8/60
+42	22	76	35	71	8	60
+Gallade (Lv. 42) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Drain Punch/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 22/76/35/71/8/60
 Current Exp: 92764 (2.27%)
 [KILL]: Got 385 Exp for killing Bronzor (Lv. 37) @(None) (Ability: Levitate) (Nature: Quirky) (Moves: Confuse Ray/Extrasensory/Heavy Slam/Iron Defense) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
 EV yield: {"def":1}
-Gallade (Lv. 42) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Drain Punch/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 22/26/36/71/8/60
+Gallade (Lv. 42) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Drain Punch/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 22/76/36/71/8/60
 Current Exp: 93149 (7.96%)
-[KILL]: Got 1309 Exp for killing Dustox (Lv. 38) @(None) (Ability: Shield Dust) (Nature: Quirky) (Moves: Light Screen/Toxic/Bug Buzz/Protect) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
-EV yield: {"spDef":3}
-Gallade (Lv. 42) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Drain Punch/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 22/26/36/71/11/60
-Current Exp: 94458 (27.28%)
-[KILL]: Got 408 Exp for killing Croagunk (Lv. 38) @(None) (Ability: Anticipation) (Nature: Hardy) (Moves: Revenge/Venoshock/Sucker Punch/Toxic) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
-EV yield: {"atk":1}
-Gallade (Lv. 42) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Drain Punch/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 22/27/36/71/11/60
-Current Exp: 94866 (33.31%)
-[KILL]: Got 448 Exp for killing Stunky (Lv. 38) @(None) (Ability: Aftermath) (Nature: Hardy) (Moves: Venoshock/Toxic/Memento/Night Slash) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
-EV yield: {"spd":1}
-Gallade (Lv. 42) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Drain Punch/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 22/27/36/71/11/61
-Current Exp: 95314 (39.92%)
-[KILL]: Got 421 Exp for killing Glameow (Lv. 38) @(None) (Ability: Own Tempo) (Nature: Docile) (Moves: Aerial Ace/Charm/Taunt/Retaliate) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
-EV yield: {"spd":1}
-Gallade (Lv. 42) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Drain Punch/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 22/27/36/71/11/62
-Current Exp: 95735 (46.14%)
 [RARE CANDY] Now level 43
-43	22	27	36	71	11	62
-Gallade (Lv. 43) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Drain Punch/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 22/27/36/71/11/62
+43	22	76	36	71	8	60
+Gallade (Lv. 43) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Drain Punch/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 22/76/36/71/8/60
 Current Exp: 99383 (0.00%)
 [RARE CANDY] Now level 44
-44	22	27	36	71	11	62
-Gallade (Lv. 44) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Drain Punch/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 22/27/36/71/11/62
+44	22	76	36	71	8	60
+Gallade (Lv. 44) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Drain Punch/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 22/76/36/71/8/60
 Current Exp: 106480 (0.00%)
-[RARE CANDY] Now level 45
-45	22	27	36	71	11	62
-Gallade (Lv. 45) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Drain Punch/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 22/27/36/71/11/62
-Current Exp: 113906 (0.00%)
+[KILL]: Got 1239 Exp for killing Dustox (Lv. 38) @(None) (Ability: Shield Dust) (Nature: Quirky) (Moves: Light Screen/Toxic/Bug Buzz/Protect) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"spDef":3}
+Gallade (Lv. 44) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Drain Punch/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 22/76/36/71/11/60
+Current Exp: 107719 (16.68%)
+[KILL]: Got 386 Exp for killing Croagunk (Lv. 38) @(None) (Ability: Anticipation) (Nature: Hardy) (Moves: Revenge/Venoshock/Sucker Punch/Toxic) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"atk":1}
+Gallade (Lv. 44) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Drain Punch/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 22/77/36/71/11/60
+Current Exp: 108105 (21.88%)
+[KILL]: Got 424 Exp for killing Stunky (Lv. 38) @(None) (Ability: Aftermath) (Nature: Hardy) (Moves: Venoshock/Toxic/Memento/Night Slash) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"spd":1}
+Gallade (Lv. 44) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Drain Punch/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 22/77/36/71/11/61
+Current Exp: 108529 (27.59%)
+[KILL]: Got 398 Exp for killing Glameow (Lv. 38) @(None) (Ability: Own Tempo) (Nature: Docile) (Moves: Aerial Ace/Charm/Taunt/Retaliate) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"spd":1}
+Gallade (Lv. 44) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psychic/Drain Punch/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 22/77/36/71/11/62
+Current Exp: 108927 (32.95%)
 [CURRENT MOVESET CHANGED] Psycho Cut/Brick Break/Aerial Ace/Thief
-Current Exp: 113906 (0.00%)
-[KILL]: Got 443 Exp for killing Bronzor (Lv. 41) @(None) (Ability: Levitate) (Nature: Sassy) (Moves: Confuse Ray/Payback/Gyro Ball/Reflect) IVs: 15/0/15/0/15/0 EVs: 68/0/68/0/68/0
+Current Exp: 108927 (32.95%)
+[KILL]: Got 455 Exp for killing Bronzor (Lv. 41) @(None) (Ability: Levitate) (Nature: Sassy) (Moves: Confuse Ray/Payback/Gyro Ball/Reflect) IVs: 15/0/15/0/15/0 EVs: 68/0/68/0/68/0
 EV yield: {"def":1}
-Gallade (Lv. 45) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psycho Cut/Brick Break/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 22/27/37/71/11/62
-Current Exp: 114349 (5.71%)
-[KILL]: Got 1423 Exp for killing Purugly (Lv. 45) @Sitrus Berry (Ability: Thick Fat) (Nature: Jolly) (Moves: Aerial Ace/Body Slam/Dig/U-turn) IVs: 15/0/15/0/15/0 EVs: 68/0/68/0/68/0
+Gallade (Lv. 44) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psycho Cut/Brick Break/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 22/77/37/71/11/62
+Current Exp: 109382 (39.08%)
+[KILL]: Got 1459 Exp for killing Purugly (Lv. 45) @Sitrus Berry (Ability: Thick Fat) (Nature: Jolly) (Moves: Aerial Ace/Body Slam/Dig/U-turn) IVs: 15/0/15/0/15/0 EVs: 68/0/68/0/68/0
 EV yield: {"spd":2}
-Gallade (Lv. 45) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psycho Cut/Brick Break/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 22/27/37/71/11/64
-Current Exp: 115772 (24.03%)
-[KILL]: Got 1235 Exp for killing Golbat (Lv. 42) @(None) (Ability: Inner Focus) (Nature: Jolly) (Moves: Poison Fang/Bite/Haze/U-turn) IVs: 15/0/15/0/15/0 EVs: 68/0/68/0/68/0
+Gallade (Lv. 44) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psycho Cut/Brick Break/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 22/77/37/71/11/64
+Current Exp: 110841 (58.73%)
+[KILL]: Got 1267 Exp for killing Golbat (Lv. 42) @(None) (Ability: Inner Focus) (Nature: Jolly) (Moves: Poison Fang/Bite/Haze/U-turn) IVs: 15/0/15/0/15/0 EVs: 68/0/68/0/68/0
 EV yield: {"spd":2}
-Gallade (Lv. 45) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psycho Cut/Brick Break/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 22/27/37/71/11/66
-Current Exp: 117007 (39.94%)
-[KILL]: Got 443 Exp for killing Bronzor (Lv. 41) @(None) (Ability: Levitate) (Nature: Relaxed) (Moves: Confuse Ray/Payback/Extrasensory/Light Screen) IVs: 15/0/15/0/15/0 EVs: 68/0/68/0/68/0
+Gallade (Lv. 44) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psycho Cut/Brick Break/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 22/77/37/71/11/66
+Current Exp: 112108 (75.79%)
+[KILL]: Got 455 Exp for killing Bronzor (Lv. 41) @(None) (Ability: Levitate) (Nature: Relaxed) (Moves: Confuse Ray/Payback/Extrasensory/Light Screen) IVs: 15/0/15/0/15/0 EVs: 68/0/68/0/68/0
 EV yield: {"def":1}
-Gallade (Lv. 45) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psycho Cut/Brick Break/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 22/27/38/71/11/66
-Current Exp: 117450 (45.65%)
-[KILL]: Got 1172 Exp for killing Golbat (Lv. 41) @(None) (Ability: Inner Focus) (Nature: Modest) (Moves: Air Cutter/Haze/Giga Drain/Sludge Bomb) IVs: 15/0/15/0/15/0 EVs: 68/0/68/0/68/0
+Gallade (Lv. 44) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psycho Cut/Brick Break/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 22/77/38/71/11/66
+Current Exp: 112563 (81.91%)
+[KILL]: Got 1203 Exp for killing Golbat (Lv. 41) @(None) (Ability: Inner Focus) (Nature: Modest) (Moves: Air Cutter/Haze/Giga Drain/Sludge Bomb) IVs: 15/0/15/0/15/0 EVs: 68/0/68/0/68/0
 EV yield: {"spd":2}
-Gallade (Lv. 45) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psycho Cut/Brick Break/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 22/27/38/71/11/68
-Current Exp: 118622 (60.74%)
-[KILL]: Got 1584 Exp for killing Skuntank (Lv. 46) @Sitrus Berry (Ability: Aftermath) (Nature: Modest) (Moves: Flamethrower/Poison Gas/Belch/Snarl) IVs: 15/0/15/0/15/0 EVs: 68/0/68/0/68/0
+Gallade (Lv. 44) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psycho Cut/Brick Break/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 22/77/38/71/11/68
+Current Exp: 113766 (98.11%)
+[KILL]: Got 1624 Exp for killing Skuntank (Lv. 46) @Sitrus Berry (Ability: Aftermath) (Nature: Modest) (Moves: Flamethrower/Poison Gas/Belch/Snarl) IVs: 15/0/15/0/15/0 EVs: 68/0/68/0/68/0
 EV yield: {"hp":2}
-Gallade (Lv. 45) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psycho Cut/Brick Break/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 24/27/38/71/11/68
-Current Exp: 120206 (81.14%)
+[LEVELUP] Now level 45
+45	24	77	38	71	11	68
+Gallade (Lv. 45) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psycho Cut/Brick Break/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 24/77/38/71/11/68
+Current Exp: 115390 (19.11%)
 [KILL]: Got 1594 Exp for killing Honchkrow (Lv. 45) @Scope Lens (Ability: Super Luck) (Nature: Jolly) (Moves: Air Cutter/Night Slash/Steel Wing/Defog) IVs: 15/0/15/0/15/0 EVs: 68/0/68/0/68/0
 EV yield: {"atk":2}
-[LEVELUP] Now level 46
-46	24	29	38	71	11	68
-Gallade (Lv. 46) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psycho Cut/Brick Break/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 24/29/38/71/11/68
-Current Exp: 121800 (1.60%)
-[KILL]: Got 2466 Exp for killing Crobat (Lv. 46) @Quick Claw (Ability: Infiltrator) (Nature: Jolly) (Moves: Cross Poison/Tailwind/Air Cutter/U-turn) IVs: 15/0/15/0/15/0 EVs: 68/0/68/0/68/0
+Gallade (Lv. 45) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psycho Cut/Brick Break/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 24/79/38/71/11/68
+Current Exp: 116984 (39.64%)
+[KILL]: Got 2527 Exp for killing Crobat (Lv. 46) @Quick Claw (Ability: Infiltrator) (Nature: Jolly) (Moves: Cross Poison/Tailwind/Air Cutter/U-turn) IVs: 15/0/15/0/15/0 EVs: 68/0/68/0/68/0
 EV yield: {"spd":3}
-Gallade (Lv. 46) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psycho Cut/Brick Break/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 24/29/38/71/11/71
-Current Exp: 124266 (32.02%)
-[KILL]: Got 1660 Exp for killing Gyarados (Lv. 45) @Wacan Berry (Ability: Intimidate) (Nature: Jolly) (Moves: Ice Fang/Waterfall/Crunch/Earthquake) IVs: 15/0/15/0/15/0 EVs: 68/0/68/0/68/0
+Gallade (Lv. 45) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psycho Cut/Brick Break/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 24/79/38/71/11/71
+Current Exp: 119511 (72.19%)
+[KILL]: Got 1702 Exp for killing Gyarados (Lv. 45) @Wacan Berry (Ability: Intimidate) (Nature: Jolly) (Moves: Ice Fang/Waterfall/Crunch/Earthquake) IVs: 15/0/15/0/15/0 EVs: 68/0/68/0/68/0
 EV yield: {"atk":2}
-Gallade (Lv. 46) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psycho Cut/Brick Break/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 24/31/38/71/11/71
-Current Exp: 125926 (52.49%)
-[KILL]: Got 1802 Exp for killing Weavile (Lv. 48) @Chople Berry (Ability: Pickpocket) (Nature: Jolly) (Moves: Metal Claw/Fling/Dig/Aerial Ace) IVs: 15/0/15/0/15/0 EVs: 68/0/68/0/68/0
+Gallade (Lv. 45) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psycho Cut/Brick Break/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 24/81/38/71/11/71
+Current Exp: 121213 (94.11%)
+[KILL]: Got 1846 Exp for killing Weavile (Lv. 48) @Chople Berry (Ability: Pickpocket) (Nature: Jolly) (Moves: Metal Claw/Fling/Dig/Aerial Ace) IVs: 15/0/15/0/15/0 EVs: 68/0/68/0/68/0
 EV yield: {"atk":1,"spd":1}
-Gallade (Lv. 46) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psycho Cut/Brick Break/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 24/32/38/71/11/72
-Current Exp: 127728 (74.72%)
+[LEVELUP] Now level 46
+46	24	82	38	71	11	72
+Gallade (Lv. 46) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psycho Cut/Brick Break/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 24/82/38/71/11/72
+Current Exp: 123059 (17.13%)
 [CATCH]: Got 3275 Exp for catching Lv. 47 Dialga
 EV yield: {"spAtk":3}
-[LEVELUP] Now level 47
-47	24	32	38	74	11	72
-Gallade (Lv. 47) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psycho Cut/Brick Break/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 24/32/38/74/11/72
-Current Exp: 131003 (14.48%)
-[KILL]: Got 224 Exp for killing Feebas (Lv. 37) @(None) (Ability: Oblivious) (Nature: Sassy) (Moves: Splash/Tackle/Flail/Bug Buzz/(No Move)) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+Gallade (Lv. 46) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psycho Cut/Brick Break/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 24/82/38/74/11/72
+Current Exp: 126334 (57.52%)
+[KILL]: Got 230 Exp for killing Feebas (Lv. 37) @(None) (Ability: Oblivious) (Nature: Sassy) (Moves: Splash/Tackle/Flail/Bug Buzz/(No Move)) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
 EV yield: {"spd":1}
-Gallade (Lv. 47) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psycho Cut/Brick Break/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 24/32/38/74/11/73
-Current Exp: 131227 (17.12%)
-[KILL]: Got 943 Exp for killing Machoke (Lv. 40) @(None) (Ability: No Guard) (Nature: Relaxed) (Moves: Leer/Low Sweep/Knock Off/Dual Chop) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+Gallade (Lv. 46) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psycho Cut/Brick Break/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 24/82/38/74/11/73
+Current Exp: 126564 (60.36%)
+[KILL]: Got 967 Exp for killing Machoke (Lv. 40) @(None) (Ability: No Guard) (Nature: Relaxed) (Moves: Leer/Low Sweep/Knock Off/Dual Chop) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
 EV yield: {"atk":2}
-Gallade (Lv. 47) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psycho Cut/Brick Break/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 24/34/38/74/11/73
-Current Exp: 132170 (28.27%)
-[KILL]: Got 1289 Exp for killing Gastrodon (Lv. 43) @(None) (Ability: Storm Drain) (Nature: Sassy) (Moves: Recover/Water Pulse/Ancient Power/Earth Power) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+Gallade (Lv. 46) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psycho Cut/Brick Break/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 24/84/38/74/11/73
+Current Exp: 127531 (72.29%)
+[KILL]: Got 1322 Exp for killing Gastrodon (Lv. 43) @(None) (Ability: Storm Drain) (Nature: Sassy) (Moves: Recover/Water Pulse/Ancient Power/Earth Power) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
 EV yield: {"hp":2}
-Gallade (Lv. 47) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psycho Cut/Brick Break/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 26/34/38/74/11/73
-Current Exp: 133459 (43.50%)
-[KILL]: Got 1159 Exp for killing Pachirisu (Lv. 44) @(None) (Ability: Pickup) (Nature: Jolly) (Moves: Charm/Spark/Nuzzle/Dig) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+Gallade (Lv. 46) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psycho Cut/Brick Break/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 26/84/38/74/11/73
+Current Exp: 128853 (88.59%)
+[KILL]: Got 1188 Exp for killing Pachirisu (Lv. 44) @(None) (Ability: Pickup) (Nature: Jolly) (Moves: Charm/Spark/Nuzzle/Dig) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
 EV yield: {"spd":1}
-Gallade (Lv. 47) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psycho Cut/Brick Break/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 26/34/38/74/11/74
-Current Exp: 134618 (57.20%)
+[LEVELUP] Now level 47
+47	26	84	38	74	11	74
+Gallade (Lv. 47) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psycho Cut/Brick Break/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 26/84/38/74/11/74
+Current Exp: 130041 (3.11%)
 [KILL]: Got 1036 Exp for killing Luxio (Lv. 44) @(None) (Ability: Intimidate) (Nature: Jolly) (Moves: Leer/Bite/Spark/Iron Tail) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
 EV yield: {"atk":2}
-Gallade (Lv. 47) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psycho Cut/Brick Break/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 26/36/38/74/11/74
-Current Exp: 135654 (69.44%)
+Gallade (Lv. 47) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psycho Cut/Brick Break/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 26/86/38/74/11/74
+Current Exp: 131077 (15.35%)
 [KILL]: Got 1314 Exp for killing Mr. Mime (Lv. 44) @(None) (Ability: Filter) (Nature: Timid) (Moves: Reflect/Dazzling Gleam/Thunderbolt/Energy Ball) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
 EV yield: {"spDef":2}
-Gallade (Lv. 47) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psycho Cut/Brick Break/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 26/36/38/74/13/74
-Current Exp: 136968 (84.97%)
+Gallade (Lv. 47) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psycho Cut/Brick Break/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 26/86/38/74/13/74
+Current Exp: 132391 (30.88%)
 [KILL]: Got 1143 Exp for killing Kadabra (Lv. 44) @(None) (Ability: Inner Focus) (Nature: Timid) (Moves: Reflect/Psychic/Shock Wave/Energy Ball) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
 EV yield: {"spAtk":2}
-Gallade (Lv. 47) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psycho Cut/Brick Break/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 26/36/38/76/13/74
-Current Exp: 138111 (98.48%)
+Gallade (Lv. 47) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psycho Cut/Brick Break/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 26/86/38/76/13/74
+Current Exp: 133534 (44.39%)
 [KILL]: Got 1779 Exp for killing Raichu (Lv. 44) @(None) (Ability: Static) (Nature: Jolly) (Moves: Thunder Punch/Thunderbolt/Light Screen/Quick Attack) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
 EV yield: {"spd":3}
-[LEVELUP] Now level 48
-48	26	36	38	76	13	77
-Gallade (Lv. 48) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psycho Cut/Brick Break/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 26/36/38/76/13/77
-Current Exp: 139890 (18.71%)
-[KILL]: Got 914 Exp for killing Luxio (Lv. 42) @(None) (Ability: Intimidate) (Nature: Jolly) (Moves: Bite/Volt Switch/Thunder Wave/Iron Tail) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+Gallade (Lv. 47) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psycho Cut/Brick Break/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 26/86/38/76/13/77
+Current Exp: 135313 (65.41%)
+[KILL]: Got 937 Exp for killing Luxio (Lv. 42) @(None) (Ability: Intimidate) (Nature: Jolly) (Moves: Bite/Volt Switch/Thunder Wave/Iron Tail) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
 EV yield: {"atk":2}
-Gallade (Lv. 48) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psycho Cut/Brick Break/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 26/38/38/76/13/77
-Current Exp: 140804 (29.07%)
-[KILL]: Got 1036 Exp for killing Bibarel (Lv. 42) @(None) (Ability: Simple) (Nature: Jolly) (Moves: Yawn/Thunderbolt/Bulldoze/Waterfall) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+Gallade (Lv. 47) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psycho Cut/Brick Break/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 26/88/38/76/13/77
+Current Exp: 136250 (76.48%)
+[KILL]: Got 1063 Exp for killing Bibarel (Lv. 42) @(None) (Ability: Simple) (Nature: Jolly) (Moves: Yawn/Thunderbolt/Bulldoze/Waterfall) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
 EV yield: {"atk":2}
-Gallade (Lv. 48) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psycho Cut/Brick Break/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 26/40/38/76/13/77
-Current Exp: 141840 (40.81%)
-[KILL]: Got 1426 Exp for killing Steelix (Lv. 44) @(None) (Ability: Sturdy) (Nature: Relaxed) (Moves: Thunder Fang/Screech/Iron Tail/Bulldoze) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+Gallade (Lv. 47) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psycho Cut/Brick Break/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 26/90/38/76/13/77
+Current Exp: 137313 (89.05%)
+[KILL]: Got 1461 Exp for killing Steelix (Lv. 44) @(None) (Ability: Sturdy) (Nature: Relaxed) (Moves: Thunder Fang/Screech/Iron Tail/Bulldoze) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
 EV yield: {"def":2}
-Gallade (Lv. 48) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psycho Cut/Brick Break/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 26/40/40/76/13/77
-Current Exp: 143266 (56.98%)
+[LEVELUP] Now level 48
+48	26	90	40	76	13	77
+Gallade (Lv. 48) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psycho Cut/Brick Break/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 26/90/40/76/13/77
+Current Exp: 138774 (6.05%)
 [KILL]: Got 1147 Exp for killing Medicham (Lv. 44) @(None) (Ability: Pure Power) (Nature: Jolly) (Moves: Zen Headbutt/Thunder Punch/Reversal/Rock Tomb) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
 EV yield: {"spd":2}
-Gallade (Lv. 48) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psycho Cut/Brick Break/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 26/40/40/76/13/79
-Current Exp: 144413 (69.98%)
+Gallade (Lv. 48) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psycho Cut/Brick Break/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 26/90/40/76/13/79
+Current Exp: 139921 (19.06%)
 [KILL]: Got 1911 Exp for killing Raichu (Lv. 46) @Shuca Berry (Ability: Static) (Nature: Timid) (Moves: Nuzzle/Volt Switch/Surf/Charge Beam) IVs: 11/0/11/28/11/28 EVs: 12/0/12/160/12/160
 EV yield: {"spd":3}
-Gallade (Lv. 48) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psycho Cut/Brick Break/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 26/40/40/76/13/82
-Current Exp: 146324 (91.64%)
+Gallade (Lv. 48) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psycho Cut/Brick Break/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 26/90/40/76/13/82
+Current Exp: 141832 (40.72%)
 [KILL]: Got 1551 Exp for killing Ambipom (Lv. 47) @Chople Berry (Ability: Technician) (Nature: Naive) (Moves: Fake Out/Thunderbolt/Double Hit/Last Resort) IVs: 11/20/11/20/11/28 EVs: 12/80/12/80/12/160
 EV yield: {"spd":2}
-[LEVELUP] Now level 49
-49	26	40	40	76	13	84
-Gallade (Lv. 49) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psycho Cut/Brick Break/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 26/40/40/76/13/84
-Current Exp: 147875 (8.86%)
-[KILL]: Got 1506 Exp for killing Octillery (Lv. 47) @Expert Belt (Ability: Sniper) (Nature: Modest) (Moves: Octazooka/Focus Energy/Aurora Beam/Charge Beam) IVs: 11/0/11/28/11/28 EVs: 12/0/12/160/12/160
+Gallade (Lv. 48) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psycho Cut/Brick Break/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 26/90/40/76/13/84
+Current Exp: 143383 (58.30%)
+[KILL]: Got 1542 Exp for killing Octillery (Lv. 47) @Expert Belt (Ability: Sniper) (Nature: Modest) (Moves: Octazooka/Focus Energy/Aurora Beam/Charge Beam) IVs: 11/0/11/28/11/28 EVs: 12/0/12/160/12/160
 EV yield: {"atk":1,"spAtk":1}
-Gallade (Lv. 49) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psycho Cut/Brick Break/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 26/41/40/77/13/84
-Current Exp: 149381 (25.25%)
-[KILL]: Got 2568 Exp for killing Luxray (Lv. 49) @Sitrus Berry (Ability: Intimidate) (Nature: Jolly) (Moves: Thunder Fang/Ice Fang/Crunch/Iron Tail) IVs: 15/28/15/0/0/30 EVs: 28/160/28/0/0/200
+Gallade (Lv. 48) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psycho Cut/Brick Break/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 26/91/40/77/13/84
+Current Exp: 144925 (75.79%)
+[KILL]: Got 2628 Exp for killing Luxray (Lv. 49) @Sitrus Berry (Ability: Intimidate) (Nature: Jolly) (Moves: Thunder Fang/Ice Fang/Crunch/Iron Tail) IVs: 15/28/15/0/0/30 EVs: 28/160/28/0/0/200
 EV yield: {"atk":3}
-Gallade (Lv. 49) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psycho Cut/Brick Break/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 26/44/40/77/13/84
-Current Exp: 151949 (53.19%)
+[LEVELUP] Now level 49
+49	26	94	40	77	13	84
+Gallade (Lv. 49) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psycho Cut/Brick Break/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 26/94/40/77/13/84
+Current Exp: 147553 (5.35%)
 [KILL]: Got 388 Exp for killing Mantyke (Lv. 38) @(None) (Ability: Water Absorb) (Nature: Sassy) (Moves: Supersonic/Bubble Beam/Air Slash/Aqua Ring) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
 EV yield: {"spDef":1}
-Gallade (Lv. 49) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psycho Cut/Brick Break/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 26/44/40/77/14/84
-Current Exp: 152337 (57.42%)
+Gallade (Lv. 49) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psycho Cut/Brick Break/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 26/94/40/77/14/84
+Current Exp: 147941 (9.58%)
 [KILL]: Got 379 Exp for killing Remoraid (Lv. 40) @(None) (Ability: Hustle) (Nature: Hardy) (Moves: Lock-On/Bullet Seed/Ice Beam/Hydro Pump) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
 EV yield: {"spAtk":1}
-Gallade (Lv. 49) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psycho Cut/Brick Break/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 26/44/40/78/14/84
-Current Exp: 152716 (61.54%)
+Gallade (Lv. 49) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psycho Cut/Brick Break/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 26/94/40/78/14/84
+Current Exp: 148320 (13.70%)
 [KILL]: Got 1194 Exp for killing Mantine (Lv. 42) @(None) (Ability: Water Absorb) (Nature: Sassy) (Moves: Bullet Seed/Bubble Beam/Aqua Ring/Bounce) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
 EV yield: {"spDef":2}
-Gallade (Lv. 49) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psycho Cut/Brick Break/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 26/44/40/78/16/84
-Current Exp: 153910 (74.53%)
+Gallade (Lv. 49) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psycho Cut/Brick Break/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 26/94/40/78/16/84
+Current Exp: 149514 (26.69%)
 [KILL]: Got 1498 Exp for killing Golduck (Lv. 46) @(None) (Ability: Cloud Nine) (Nature: Calm) (Moves: Zen Headbutt/Aqua Jet/Tail Whip/Aqua Tail) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
 EV yield: {"spAtk":2}
-Gallade (Lv. 49) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psycho Cut/Brick Break/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 26/44/40/80/16/84
-Current Exp: 155408 (90.84%)
+Gallade (Lv. 49) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psycho Cut/Brick Break/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 26/94/40/80/16/84
+Current Exp: 151012 (43.00%)
 [KILL]: Got 5955 Exp for killing Blissey (Lv. 48) @(None) (Ability: Serene Grace) (Nature: Calm) (Moves: Disarming Voice/Double-Edge/Soft-Boiled/Last Resort) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
 EV yield: {"hp":3}
 [LEVELUP] Now level 50
-50	29	44	40	80	16	84
-Gallade (Lv. 50) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psycho Cut/Brick Break/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 29/44/40/80/16/84
-Current Exp: 161363 (53.47%)
+50	29	94	40	80	16	84
+Gallade (Lv. 50) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psycho Cut/Brick Break/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 29/94/40/80/16/84
+Current Exp: 156967 (7.50%)
 [KILL]: Got 1395 Exp for killing Rapidash (Lv. 45) @(None) (Ability: Run Away) (Nature: Sassy) (Moves: Smart Strike/Poison Jab/Tail Whip/Flame Wheel) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
 EV yield: {"spd":2}
-Gallade (Lv. 50) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psycho Cut/Brick Break/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 29/44/40/80/16/86
-Current Exp: 162758 (68.05%)
+Gallade (Lv. 50) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psycho Cut/Brick Break/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 29/94/40/80/16/86
+Current Exp: 158362 (22.09%)
 [KILL]: Got 1267 Exp for killing Carnivine (Lv. 45) @(None) (Ability: Levitate) (Nature: Hardy) (Moves: Bind/Growth/Leaf Tornado/Crunch) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
 EV yield: {"atk":2}
-Gallade (Lv. 50) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psycho Cut/Brick Break/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 29/46/40/80/16/86
-Current Exp: 164025 (81.30%)
+Gallade (Lv. 50) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psycho Cut/Brick Break/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 29/96/40/80/16/86
+Current Exp: 159629 (35.33%)
 [KILL]: Got 1585 Exp for killing Rampardos (Lv. 48) @(None) (Ability: Mold Breaker) (Nature: Relaxed) (Moves: Headbutt/Zen Headbutt/Assurance/Swords Dance) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
 EV yield: {"atk":2}
-Gallade (Lv. 50) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psycho Cut/Brick Break/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 29/48/40/80/16/86
-Current Exp: 165610 (97.88%)
+Gallade (Lv. 50) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psycho Cut/Brick Break/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 29/98/40/80/16/86
+Current Exp: 161214 (51.91%)
 [KILL]: Got 2022 Exp for killing Clefable (Lv. 46) @(None) (Ability: Cute Charm) (Nature: Calm) (Moves: Moonlight/Meteor Mash/Cosmic Power/Moonblast) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
 EV yield: {"hp":3}
-[LEVELUP] Now level 51
-51	32	48	40	80	16	86
-Gallade (Lv. 51) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psycho Cut/Brick Break/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 32/48/40/80/16/86
-Current Exp: 167632 (18.29%)
-[KILL]: Got 2354 Exp for killing Torterra (Lv. 48) @(None) (Ability: Overgrow) (Nature: Impish) (Moves: Earthquake/Wood Hammer/Crunch/Synthesis) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+Gallade (Lv. 50) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psycho Cut/Brick Break/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 32/98/40/80/16/86
+Current Exp: 163236 (73.05%)
+[KILL]: Got 2409 Exp for killing Torterra (Lv. 48) @(None) (Ability: Overgrow) (Nature: Impish) (Moves: Earthquake/Wood Hammer/Crunch/Synthesis) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
 EV yield: {"atk":2,"def":1}
-Gallade (Lv. 51) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psycho Cut/Brick Break/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 32/50/41/80/16/86
-Current Exp: 169986 (41.95%)
-[KILL]: Got 2079 Exp for killing Staraptor (Lv. 47) @(None) (Ability: Intimidate) (Nature: Relaxed) (Moves: Quick Attack/Endeavor/Aerial Ace/Take Down) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+Gallade (Lv. 50) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psycho Cut/Brick Break/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 32/100/41/80/16/86
+Current Exp: 165645 (98.24%)
+[KILL]: Got 2128 Exp for killing Staraptor (Lv. 47) @(None) (Ability: Intimidate) (Nature: Relaxed) (Moves: Quick Attack/Endeavor/Aerial Ace/Take Down) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
 EV yield: {"atk":3}
-Gallade (Lv. 51) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psycho Cut/Brick Break/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 32/53/41/80/16/86
-Current Exp: 172065 (62.85%)
+[LEVELUP] Now level 51
+51	32	103	41	80	16	86
+Gallade (Lv. 51) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psycho Cut/Brick Break/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 32/103/41/80/16/86
+Current Exp: 167773 (19.70%)
 [KILL]: Got 1574 Exp for killing Hippowdon (Lv. 47) @(None) (Ability: Sand Stream) (Nature: Relaxed) (Moves: Earthquake/Crunch/Ice Fang/Yawn) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
 EV yield: {"def":2}
-Gallade (Lv. 51) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psycho Cut/Brick Break/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 32/53/43/80/16/86
-Current Exp: 173639 (78.68%)
+Gallade (Lv. 51) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psycho Cut/Brick Break/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 32/103/43/80/16/86
+Current Exp: 169347 (35.53%)
 [KILL]: Got 2368 Exp for killing Machamp (Lv. 49) @(None) (Ability: No Guard) (Nature: Relaxed) (Moves: Low Sweep/Knock Off/Dual Chop/Bulk Up) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
 EV yield: {"atk":3}
-[LEVELUP] Now level 52
-52	32	56	43	80	16	86
-Gallade (Lv. 52) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psycho Cut/Brick Break/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 32/56/43/80/16/86
-Current Exp: 176007 (2.39%)
-[KILL]: Got 412 Exp for killing Chingling (Lv. 44) @(None) (Ability: Levitate) (Nature: Bashful) (Moves: Wrap/Astonish/Confusion/Yawn) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+Gallade (Lv. 51) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psycho Cut/Brick Break/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 32/106/43/80/16/86
+Current Exp: 171715 (59.33%)
+[KILL]: Got 422 Exp for killing Chingling (Lv. 44) @(None) (Ability: Levitate) (Nature: Bashful) (Moves: Wrap/Astonish/Confusion/Yawn) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
 EV yield: {"spAtk":1}
-Gallade (Lv. 52) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psycho Cut/Brick Break/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 32/56/43/81/16/86
-Current Exp: 176419 (6.38%)
-[KILL]: Got 1392 Exp for killing Chimecho (Lv. 48) @(None) (Ability: Levitate) (Nature: Calm) (Moves: Wrap/Yawn/Extrasensory/Heal Pulse) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+Gallade (Lv. 51) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psycho Cut/Brick Break/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 32/106/43/81/16/86
+Current Exp: 172137 (63.58%)
+[KILL]: Got 1424 Exp for killing Chimecho (Lv. 48) @(None) (Ability: Levitate) (Nature: Calm) (Moves: Wrap/Yawn/Extrasensory/Heal Pulse) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
 EV yield: {"spAtk":1,"spDef":1}
-Gallade (Lv. 52) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psycho Cut/Brick Break/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 32/56/43/82/17/86
-Current Exp: 177811 (19.84%)
-[KILL]: Got 1318 Exp for killing Gabite (Lv. 49) @(None) (Ability: Sand Veil) (Nature: Relaxed) (Moves: Sand Tomb/Sand Attack/Bite/Dragon Claw) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+Gallade (Lv. 51) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psycho Cut/Brick Break/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 32/106/43/82/17/86
+Current Exp: 173561 (77.89%)
+[KILL]: Got 1348 Exp for killing Gabite (Lv. 49) @(None) (Ability: Sand Veil) (Nature: Relaxed) (Moves: Sand Tomb/Sand Attack/Bite/Dragon Claw) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
 EV yield: {"atk":2}
-Gallade (Lv. 52) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psycho Cut/Brick Break/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 32/58/43/82/17/86
-Current Exp: 179129 (32.59%)
-[KILL]: Got 1368 Exp for killing Tentacruel (Lv. 45) @(None) (Ability: Clear Body) (Nature: Sassy) (Moves: Reflect Type/Bubble Beam/Acid Armor/Poison Jab) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+Gallade (Lv. 51) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psycho Cut/Brick Break/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 32/108/43/82/17/86
+Current Exp: 174909 (91.44%)
+[KILL]: Got 1401 Exp for killing Tentacruel (Lv. 45) @(None) (Ability: Clear Body) (Nature: Sassy) (Moves: Reflect Type/Bubble Beam/Acid Armor/Poison Jab) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
 EV yield: {"spDef":2}
-Gallade (Lv. 52) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psycho Cut/Brick Break/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 32/58/43/82/19/86
-Current Exp: 180497 (45.83%)
+[LEVELUP] Now level 52
+52	32	108	43	82	19	86
+Gallade (Lv. 52) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psycho Cut/Brick Break/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 32/108/43/82/19/86
+Current Exp: 176310 (5.32%)
 [KILL]: Got 1885 Exp for killing Golem (Lv. 45) @(None) (Ability: Sturdy) (Nature: Relaxed) (Moves: Earthquake/Sandstorm/Smack Down/Heavy Slam) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
 EV yield: {"def":3}
-Gallade (Lv. 52) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psycho Cut/Brick Break/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 32/58/46/82/19/86
-Current Exp: 182382 (64.07%)
+Gallade (Lv. 52) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psycho Cut/Brick Break/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 32/108/46/82/19/86
+Current Exp: 178195 (23.56%)
 [KILL]: Got 2320 Exp for killing Empoleon (Lv. 48) @(None) (Ability: Torrent) (Nature: Sassy) (Moves: Brine/Aqua Jet/Metal Claw/Swords Dance) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
 EV yield: {"spAtk":3}
-Gallade (Lv. 52) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psycho Cut/Brick Break/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 32/58/46/85/19/86
-Current Exp: 184702 (86.51%)
+Gallade (Lv. 52) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psycho Cut/Brick Break/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 32/108/46/85/19/86
+Current Exp: 180515 (46.00%)
 [KILL]: Got 479 Exp for killing Gible (Lv. 46) @(None) (Ability: Sand Veil) (Nature: Hardy) (Moves: Sand Tomb/Sand Attack/Bulldoze/Dragon Claw) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
 EV yield: {"atk":1}
-Gallade (Lv. 52) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psycho Cut/Brick Break/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 32/59/46/85/19/86
-Current Exp: 185181 (91.15%)
+Gallade (Lv. 52) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psycho Cut/Brick Break/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 32/109/46/85/19/86
+Current Exp: 180994 (50.64%)
 [KILL]: Got 1730 Exp for killing Gyarados (Lv. 49) @(None) (Ability: Intimidate) (Nature: Sassy) (Moves: Ice Fang/Waterfall/Crunch/Dragon Dance) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
 EV yield: {"atk":2}
-[LEVELUP] Now level 53
-53	32	61	46	85	19	86
-Gallade (Lv. 53) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psycho Cut/Brick Break/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 32/61/46/85/19/86
-Current Exp: 186911 (7.59%)
-[KILL]: Got 468 Exp for killing Gible (Lv. 46) @(None) (Ability: Sand Veil) (Nature: Hardy) (Moves: Bite/Slash/Dragon Claw/Dig) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+Gallade (Lv. 52) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psycho Cut/Brick Break/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 32/111/46/85/19/86
+Current Exp: 182724 (67.38%)
+[KILL]: Got 479 Exp for killing Gible (Lv. 46) @(None) (Ability: Sand Veil) (Nature: Hardy) (Moves: Bite/Slash/Dragon Claw/Dig) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
 EV yield: {"atk":1}
-Gallade (Lv. 53) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psycho Cut/Brick Break/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 32/62/46/85/19/86
-Current Exp: 187379 (11.95%)
-[KILL]: Got 2175 Exp for killing Staraptor (Lv. 49) @Focus Sash (Ability: Intimidate) (Nature: Jolly) (Moves: Close Combat/Pluck/Sunny Day/U-turn) IVs: 5/5/5/5/5/5 EVs: 56/148/36/0/36/148
+Gallade (Lv. 52) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psycho Cut/Brick Break/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 32/112/46/85/19/86
+Current Exp: 183203 (72.01%)
+[KILL]: Got 2224 Exp for killing Staraptor (Lv. 49) @Focus Sash (Ability: Intimidate) (Nature: Jolly) (Moves: Close Combat/Pluck/Sunny Day/U-turn) IVs: 5/5/5/5/5/5 EVs: 56/148/36/0/36/148
 EV yield: {"atk":3}
-Gallade (Lv. 53) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psycho Cut/Brick Break/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 32/65/46/85/19/86
-Current Exp: 189554 (32.22%)
-[KILL]: Got 1548 Exp for killing Floatzel (Lv. 49) @Quick Claw (Ability: Swift Swim) (Nature: Jolly) (Moves: Ice Fang/Crunch/Swift/Brine) IVs: 6/6/6/6/6/6 EVs: 40/104/40/0/40/160
+Gallade (Lv. 52) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psycho Cut/Brick Break/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 32/115/46/85/19/86
+Current Exp: 185427 (93.53%)
+[KILL]: Got 1583 Exp for killing Floatzel (Lv. 49) @Quick Claw (Ability: Swift Swim) (Nature: Jolly) (Moves: Ice Fang/Crunch/Swift/Brine) IVs: 6/6/6/6/6/6 EVs: 40/104/40/0/40/160
 EV yield: {"spd":2}
-Gallade (Lv. 53) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psycho Cut/Brick Break/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 32/65/46/85/19/88
-Current Exp: 191102 (46.64%)
+[LEVELUP] Now level 53
+53	32	115	46	85	19	88
+Gallade (Lv. 53) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psycho Cut/Brick Break/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 32/115/46/85/19/88
+Current Exp: 187010 (8.51%)
 [KILL]: Got 1708 Exp for killing Heracross (Lv. 51) @(None) (Ability: Swarm) (Nature: Jolly) (Moves: Pin Missile/Swords Dance/Rock Slide/Thief) IVs: 9/9/9/9/9/9 EVs: 44/104/44/0/44/156
 EV yield: {"atk":2}
-Gallade (Lv. 53) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psycho Cut/Brick Break/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 32/67/46/85/19/88
-Current Exp: 192810 (62.55%)
+Gallade (Lv. 53) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psycho Cut/Brick Break/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 32/117/46/85/19/88
+Current Exp: 188718 (24.43%)
 [KILL]: Got 2309 Exp for killing Roserade (Lv. 49) @Big Root (Ability: Poison Point) (Nature: Timid) (Moves: Grassy Terrain/Giga Drain/Toxic/Grass Knot) IVs: 7/7/7/7/7/7 EVs: 48/0/48/116/48/172
 EV yield: {"spAtk":3}
-Gallade (Lv. 53) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psycho Cut/Brick Break/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 32/67/46/88/19/88
-Current Exp: 195119 (84.06%)
+Gallade (Lv. 53) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psycho Cut/Brick Break/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 32/117/46/88/19/88
+Current Exp: 191027 (45.94%)
 [KILL]: Got 1923 Exp for killing Snorlax (Lv. 52) @(None) (Ability: Thick Fat) (Nature: Adamant) (Moves: Covet/Yawn/Crunch/High Horsepower) IVs: 9/9/9/9/9/9 EVs: 96/120/96/0/88/0
 EV yield: {"hp":2}
-[LEVELUP] Now level 54
-54	34	67	46	88	19	88
-Gallade (Lv. 54) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psycho Cut/Brick Break/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 34/67/46/88/19/88
-Current Exp: 197042 (1.90%)
-[KILL]: Got 3000 Exp for killing Infernape (Lv. 55) @Expert Belt (Ability: Blaze) (Nature: Jolly) (Moves: Close Combat/Flame Wheel/U-turn/Shadow Claw) IVs: 11/11/11/11/11/11 EVs: 52/156/52/0/52/164
+Gallade (Lv. 53) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psycho Cut/Brick Break/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 34/117/46/88/19/88
+Current Exp: 192950 (63.85%)
+[KILL]: Got 3064 Exp for killing Infernape (Lv. 55) @Expert Belt (Ability: Blaze) (Nature: Jolly) (Moves: Close Combat/Flame Wheel/U-turn/Shadow Claw) IVs: 11/11/11/11/11/11 EVs: 52/156/52/0/52/164
 EV yield: {"atk":1,"spAtk":1,"spd":1}
-Gallade (Lv. 54) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psycho Cut/Brick Break/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 34/68/46/89/19/89
-Current Exp: 200042 (28.84%)
-[KILL]: Got 2002 Exp for killing Dustox (Lv. 53) @Black Sludge (Ability: Shield Dust) (Nature: Bold) (Moves: Toxic/Bug Buzz/Moonlight/Light Screen) IVs: 31/0/21/21/21/21 EVs: 252/0/12/12/12/12
+Gallade (Lv. 53) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psycho Cut/Brick Break/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 34/118/46/89/19/89
+Current Exp: 196014 (92.40%)
+[KILL]: Got 2046 Exp for killing Dustox (Lv. 53) @Black Sludge (Ability: Shield Dust) (Nature: Bold) (Moves: Toxic/Bug Buzz/Moonlight/Light Screen) IVs: 31/0/21/21/21/21 EVs: 252/0/12/12/12/12
 EV yield: {"spDef":3}
-Gallade (Lv. 54) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psycho Cut/Brick Break/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 34/68/46/89/22/89
-Current Exp: 202044 (46.81%)
+[LEVELUP] Now level 54
+54	34	118	46	89	22	89
+Gallade (Lv. 54) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psycho Cut/Brick Break/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 34/118/46/89/22/89
+Current Exp: 198060 (11.04%)
 [KILL]: Got 2054 Exp for killing Beautifly (Lv. 53) @Black Glasses (Ability: Swarm) (Nature: Modest) (Moves: Bug Buzz/Shadow Ball/Psychic/Quiver Dance) IVs: 21/0/21/31/21/31 EVs: 12/0/12/60/12/204
 EV yield: {"spAtk":3}
-Gallade (Lv. 54) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psycho Cut/Brick Break/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 34/68/46/92/22/89
-Current Exp: 204098 (65.25%)
+Gallade (Lv. 54) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psycho Cut/Brick Break/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 34/118/46/92/22/89
+Current Exp: 200114 (29.48%)
 [KILL]: Got 1793 Exp for killing Vespiquen (Lv. 54) @Sitrus Berry (Ability: Unnerve) (Nature: Adamant) (Moves: Acrobatics/Attack Order/Aerial Ace/Defend Order) IVs: 31/31/31/0/31/31 EVs: 252/0/0/0/0/0
 EV yield: {"def":1,"spDef":1}
-Gallade (Lv. 54) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psycho Cut/Brick Break/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 34/68/47/92/23/89
-Current Exp: 205891 (81.35%)
+Gallade (Lv. 54) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psycho Cut/Brick Break/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 34/118/47/92/23/89
+Current Exp: 201907 (45.58%)
 [KILL]: Got 1891 Exp for killing Heracross (Lv. 54) @Flame Orb (Ability: Guts) (Nature: Jolly) (Moves: Earthquake/Rock Slide/Facade/Brick Break) IVs: 21/31/21/0/21/31 EVs: 12/60/12/0/12/204
 EV yield: {"atk":2}
-Gallade (Lv. 54) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psycho Cut/Brick Break/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 34/70/47/92/23/89
-Current Exp: 207782 (98.33%)
+Gallade (Lv. 54) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psycho Cut/Brick Break/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 34/120/47/92/23/89
+Current Exp: 203798 (62.56%)
 [KILL]: Got 2121 Exp for killing Drapion (Lv. 57) @Scope Lens (Ability: Sniper) (Nature: Jolly) (Moves: Cross Poison/Night Slash/Earthquake/X-Scissor) IVs: 31/31/31/0/31/31 EVs: 12/60/0/0/0/204
 EV yield: {"def":2}
-[LEVELUP] Now level 55
-55	34	70	49	92	23	89
-Gallade (Lv. 55) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psycho Cut/Brick Break/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 34/70/49/92/23/89
-Current Exp: 209903 (16.75%)
-[KILL]: Got 1662 Exp for killing Quagsire (Lv. 55) @Leftovers (Ability: Water Absorb) (Nature: Impish) (Moves: Recover/Toxic/Earthquake/Surf) IVs: 23/31/31/0/13/31 EVs: 12/0/252/12/12/12
+Gallade (Lv. 54) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psycho Cut/Brick Break/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 34/120/49/92/23/89
+Current Exp: 205919 (81.60%)
+[KILL]: Got 1697 Exp for killing Quagsire (Lv. 55) @Leftovers (Ability: Water Absorb) (Nature: Impish) (Moves: Recover/Toxic/Earthquake/Surf) IVs: 23/31/31/0/13/31 EVs: 12/0/252/12/12/12
 EV yield: {"hp":2}
-Gallade (Lv. 55) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psycho Cut/Brick Break/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 36/70/49/92/23/89
-Current Exp: 211565 (31.14%)
-[KILL]: Got 1646 Exp for killing Sudowoodo (Lv. 56) @Sitrus Berry (Ability: Rock Head) (Nature: Adamant) (Moves: Double-Edge/Head Smash/Sucker Punch/Low Kick) IVs: 21/31/31/0/11/31 EVs: 0/252/12/0/12/12
+Gallade (Lv. 54) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psycho Cut/Brick Break/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 36/120/49/92/23/89
+Current Exp: 207616 (96.84%)
+[KILL]: Got 1681 Exp for killing Sudowoodo (Lv. 56) @Sitrus Berry (Ability: Rock Head) (Nature: Adamant) (Moves: Double-Edge/Head Smash/Sucker Punch/Low Kick) IVs: 21/31/31/0/11/31 EVs: 0/252/12/0/12/12
 EV yield: {"def":2}
-Gallade (Lv. 55) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psycho Cut/Brick Break/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 36/70/51/92/23/89
-Current Exp: 213211 (45.39%)
+[LEVELUP] Now level 55
+55	36	120	51	92	23	89
+Gallade (Lv. 55) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psycho Cut/Brick Break/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 36/120/51/92/23/89
+Current Exp: 209297 (11.50%)
 [KILL]: Got 2835 Exp for killing Golem (Lv. 56) @Soft Sand (Ability: Sturdy) (Nature: Jolly) (Moves: Rock Polish/Heavy Slam/Earthquake/Stone Edge) IVs: 21/31/31/0/21/31 EVs: 12/60/12/0/12/204
 EV yield: {"def":3}
-Gallade (Lv. 55) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psycho Cut/Brick Break/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 36/70/54/92/23/89
-Current Exp: 216046 (69.93%)
+Gallade (Lv. 55) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psycho Cut/Brick Break/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 36/120/54/92/23/89
+Current Exp: 212132 (36.05%)
 [KILL]: Got 1805 Exp for killing Whiscash (Lv. 55) @Rindo Berry (Ability: Hydration) (Nature: Modest) (Moves: Bulldoze/Ice Beam/Belch/Hydro Pump) IVs: 21/31/21/31/21/0 EVs: 12/12/12/252/12/0
 EV yield: {"hp":2}
-Gallade (Lv. 55) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psycho Cut/Brick Break/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 38/70/54/92/23/89
-Current Exp: 217851 (85.55%)
+Gallade (Lv. 55) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psycho Cut/Brick Break/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 38/120/54/92/23/89
+Current Exp: 213937 (51.67%)
 [KILL]: Got 2351 Exp for killing Hippowdon (Lv. 59) @Chesto Berry (Ability: Sand Stream) (Nature: Adamant) (Moves: Ice Fang/Earthquake/Crunch/Rest) IVs: 31/31/31/0/31/31 EVs: 12/252/0/0/0/0
 EV yield: {"def":2}
-[LEVELUP] Now level 56
-56	38	70	56	92	23	89
-Gallade (Lv. 56) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psycho Cut/Brick Break/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 38/70/56/92/23/89
-Current Exp: 220202 (5.70%)
-[KILL]: Got 2113 Exp for killing Rapidash (Lv. 58) @Wide Lens (Ability: Flame Body) (Nature: Jolly) (Moves: Flame Charge/Iron Tail/Poison Jab/Hypnosis) IVs: 25/31/25/0/25/31 EVs: 12/60/12/0/12/204
+Gallade (Lv. 55) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psycho Cut/Brick Break/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 38/120/56/92/23/89
+Current Exp: 216288 (72.02%)
+[KILL]: Got 2157 Exp for killing Rapidash (Lv. 58) @Wide Lens (Ability: Flame Body) (Nature: Jolly) (Moves: Flame Charge/Iron Tail/Poison Jab/Hypnosis) IVs: 25/31/25/0/25/31 EVs: 12/60/12/0/12/204
 EV yield: {"spd":2}
-Gallade (Lv. 56) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psycho Cut/Brick Break/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 38/70/56/92/23/91
-Current Exp: 222315 (23.35%)
-[KILL]: Got 2082 Exp for killing Steelix (Lv. 57) @Life Orb (Ability: Sheer Force) (Nature: Adamant) (Moves: Thunder Fang/Fire Fang/Iron Tail/Crunch) IVs: 31/31/31/0/31/31 EVs: 12/252/0/12/12/0
+Gallade (Lv. 55) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psycho Cut/Brick Break/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 38/120/56/92/23/91
+Current Exp: 218445 (90.69%)
+[KILL]: Got 2125 Exp for killing Steelix (Lv. 57) @Life Orb (Ability: Sheer Force) (Nature: Adamant) (Moves: Thunder Fang/Fire Fang/Iron Tail/Crunch) IVs: 31/31/31/0/31/31 EVs: 12/252/0/12/12/0
 EV yield: {"def":2}
-Gallade (Lv. 56) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psycho Cut/Brick Break/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 38/70/58/92/23/91
-Current Exp: 224397 (40.74%)
+[LEVELUP] Now level 56
+56	38	120	58	92	23	91
+Gallade (Lv. 56) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psycho Cut/Brick Break/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 38/120/58/92/23/91
+Current Exp: 220570 (8.77%)
 [KILL]: Got 2101 Exp for killing Drifblim (Lv. 58) @Sitrus Berry (Ability: Unburden) (Nature: Timid) (Moves: Strength Sap/Minimize/Baton Pass/Will-O-Wisp) IVs: 31/0/31/0/31/31 EVs: 12/60/12/0/12/204
 EV yield: {"hp":2}
-Gallade (Lv. 56) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psycho Cut/Brick Break/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 40/70/58/92/23/91
-Current Exp: 226498 (58.29%)
+Gallade (Lv. 56) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psycho Cut/Brick Break/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 40/120/58/92/23/91
+Current Exp: 222671 (26.32%)
 [KILL]: Got 1955 Exp for killing Lopunny (Lv. 57) @Leftovers (Ability: Cute Charm) (Nature: Jolly) (Moves: Mirror Coat/High Jump Kick/Quick Attack/Fire Punch) IVs: 31/31/31/0/31/31 EVs: 252/0/0/0/0/0
 EV yield: {"spd":2}
-Gallade (Lv. 56) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psycho Cut/Brick Break/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 40/70/58/92/23/93
-Current Exp: 228453 (74.62%)
+Gallade (Lv. 56) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psycho Cut/Brick Break/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 40/120/58/92/23/93
+Current Exp: 224626 (42.65%)
 [KILL]: Got 3588 Exp for killing Infernape (Lv. 61) @Focus Sash (Ability: Iron Fist) (Nature: Jolly) (Moves: Fire Punch/Thunder Punch/Close Combat/Mach Punch) IVs: 31/31/31/0/31/31 EVs: 12/60/0/0/0/204
 EV yield: {"atk":1,"spAtk":1,"spd":1}
-[LEVELUP] Now level 57
-57	40	71	58	93	23	94
-Gallade (Lv. 57) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psycho Cut/Brick Break/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 40/71/58/93/23/94
-Current Exp: 232041 (4.44%)
-[KILL]: Got 1976 Exp for killing Mr. Mime (Lv. 59) @Light Clay (Ability: Filter) (Nature: Bold) (Moves: Light Screen/Reflect/Psychic/Dazzling Gleam) IVs: 31/0/31/31/31/31 EVs: 252/0/12/12/12/12
+Gallade (Lv. 56) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psycho Cut/Brick Break/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 40/121/58/93/23/94
+Current Exp: 228214 (72.63%)
+[KILL]: Got 2015 Exp for killing Mr. Mime (Lv. 59) @Light Clay (Ability: Filter) (Nature: Bold) (Moves: Light Screen/Reflect/Psychic/Dazzling Gleam) IVs: 31/0/31/31/31/31 EVs: 252/0/12/12/12/12
 EV yield: {"spDef":2}
-Gallade (Lv. 57) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psycho Cut/Brick Break/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 40/71/58/93/25/94
-Current Exp: 234017 (20.37%)
-[KILL]: Got 1952 Exp for killing Girafarig (Lv. 59) @Mental Herb (Ability: Sap Sipper) (Nature: Calm) (Moves: Light Screen/Psychic/Thunderbolt/Trick Room) IVs: 31/0/31/31/31/0 EVs: 252/0/12/12/12/0
+Gallade (Lv. 56) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psycho Cut/Brick Break/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 40/121/58/93/25/94
+Current Exp: 230229 (89.46%)
+[KILL]: Got 1991 Exp for killing Girafarig (Lv. 59) @Mental Herb (Ability: Sap Sipper) (Nature: Calm) (Moves: Light Screen/Psychic/Thunderbolt/Trick Room) IVs: 31/0/31/31/31/0 EVs: 252/0/12/12/12/0
 EV yield: {"spAtk":2}
-Gallade (Lv. 57) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psycho Cut/Brick Break/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 40/71/58/95/25/94
-Current Exp: 235969 (36.12%)
+[LEVELUP] Now level 57
+57	40	121	58	95	25	94
+Gallade (Lv. 57) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psycho Cut/Brick Break/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 40/121/58/95/25/94
+Current Exp: 232220 (5.88%)
 [KILL]: Got 1832 Exp for killing Medicham (Lv. 60) @Muscle Band (Ability: Pure Power) (Nature: Brave) (Moves: Zen Headbutt/High Jump Kick/Thunder Punch/Ice Punch) IVs: 31/31/31/0/31/0 EVs: 0/252/0/0/0/0
 EV yield: {"spd":2}
-Gallade (Lv. 57) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psycho Cut/Brick Break/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 40/71/58/95/25/96
-Current Exp: 237801 (50.89%)
+Gallade (Lv. 57) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psycho Cut/Brick Break/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 40/121/58/95/25/96
+Current Exp: 234052 (20.65%)
 [KILL]: Got 3181 Exp for killing Alakazam (Lv. 60) @Life Orb (Ability: Magic Guard) (Nature: Timid) (Moves: Nasty Plot/Psychic/Future Sight/Shock Wave) IVs: 31/0/31/31/31/31 EVs: 0/0/0/0/0/252
 EV yield: {"spAtk":3}
-Gallade (Lv. 57) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psycho Cut/Brick Break/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 40/71/58/98/25/96
-Current Exp: 240982 (76.55%)
+Gallade (Lv. 57) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psycho Cut/Brick Break/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 40/121/58/98/25/96
+Current Exp: 237233 (46.31%)
 [KILL]: Got 2469 Exp for killing Bronzong (Lv. 63) @Sitrus Berry (Ability: Levitate) (Nature: Brave) (Moves: Gyro Ball/Earthquake/Payback/Trick Room) IVs: 31/31/31/0/31/0 EVs: 12/252/0/0/0/0
 EV yield: {"def":1,"spDef":1}
-Gallade (Lv. 57) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psycho Cut/Brick Break/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 40/71/59/98/26/96
-Current Exp: 243451 (96.46%)
+Gallade (Lv. 57) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psycho Cut/Brick Break/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 40/121/59/98/26/96
+Current Exp: 239702 (66.22%)
 [ITEM EQUIP] Metronome
-Current Exp: 243451 (96.46%)
+Current Exp: 239702 (66.22%)
 [KILL]: Got 2240 Exp for killing Spiritomb (Lv. 61) @Sitrus Berry (Ability: Pressure) (Nature: Quiet) (Moves: Shadow Ball/Dark Pulse/Psychic/Sucker Punch) IVs: 31/31/31/31/31/31 EVs: 252/6/0/252/0/0
 EV yield: {"def":1,"spDef":1}
-[LEVELUP] Now level 58
-58	40	71	60	98	27	96
-Gallade (Lv. 58) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psycho Cut/Brick Break/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 40/71/60/98/27/96
-Current Exp: 245691 (14.03%)
-[KILL]: Got 3219 Exp for killing Roserade (Lv. 60) @Expert Belt (Ability: Poison Point) (Nature: Timid) (Moves: Dazzling Gleam/Shadow Ball/Sludge Bomb/Energy Ball) IVs: 31/0/31/0/31/31 EVs: 52/0/0/252/0/204
+Gallade (Lv. 57) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psycho Cut/Brick Break/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 40/121/60/98/27/96
+Current Exp: 241942 (84.29%)
+[KILL]: Got 3283 Exp for killing Roserade (Lv. 60) @Expert Belt (Ability: Poison Point) (Nature: Timid) (Moves: Dazzling Gleam/Shadow Ball/Sludge Bomb/Energy Ball) IVs: 31/0/31/0/31/31 EVs: 52/0/0/252/0/204
 EV yield: {"spAtk":3}
-Gallade (Lv. 58) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psycho Cut/Brick Break/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 40/71/60/101/27/96
-Current Exp: 248910 (39.12%)
+[LEVELUP] Now level 58
+58	40	121	60	101	27	96
+Gallade (Lv. 58) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psycho Cut/Brick Break/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 40/121/60/101/27/96
+Current Exp: 245225 (10.40%)
 [KILL]: Got 2071 Exp for killing Gastrodon (Lv. 60) @Leftovers (Ability: Storm Drain) (Nature: Relaxed) (Moves: Scald/Earthquake/Sludge Bomb/Rock Tomb) IVs: 31/31/31/31/31/0 EVs: 252/0/252/0/6/0
 EV yield: {"hp":2}
-Gallade (Lv. 58) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psycho Cut/Brick Break/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 42/71/60/101/27/96
-Current Exp: 250981 (55.26%)
+Gallade (Lv. 58) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psycho Cut/Brick Break/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 42/121/60/101/27/96
+Current Exp: 247296 (26.54%)
 [KILL]: Got 2546 Exp for killing Lucario (Lv. 63) @Wise Glasses (Ability: Inner Focus) (Nature: Timid) (Moves: Aura Sphere/Dragon Pulse/Flash Cannon/Nasty Plot) IVs: 31/0/31/31/31/31 EVs: 52/0/0/252/0/204
 EV yield: {"atk":1,"spAtk":1}
-Gallade (Lv. 58) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psycho Cut/Brick Break/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 42/72/60/102/27/96
-Current Exp: 253527 (75.10%)
+Gallade (Lv. 58) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psycho Cut/Brick Break/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 42/122/60/102/27/96
+Current Exp: 249842 (46.38%)
 [KILL]: Got 2615 Exp for killing Milotic (Lv. 63) @Flame Orb (Ability: Marvel Scale) (Nature: Bold) (Moves: Recover/Mirror Coat/Ice Beam/Scald) IVs: 31/0/31/31/31/31 EVs: 252/0/252/6/0/0
 EV yield: {"spDef":2}
-Gallade (Lv. 58) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psycho Cut/Brick Break/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 42/72/60/102/29/96
-Current Exp: 256142 (95.47%)
+Gallade (Lv. 58) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psycho Cut/Brick Break/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 42/122/60/102/29/96
+Current Exp: 252457 (66.76%)
 [KILL]: Got 4578 Exp for killing Garchomp (Lv. 66) @Yache Berry (Ability: Rough Skin) (Nature: Jolly) (Moves: Dragon Claw/Earthquake/Swords Dance/Poison Jab) IVs: 31/31/31/0/31/31 EVs: 52/252/0/0/0/204
 EV yield: {"atk":3}
 [LEVELUP] Now level 59
-59	42	75	60	102	29	96
-Gallade (Lv. 59) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psycho Cut/Brick Break/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 42/75/60/102/29/96
-Current Exp: 260720 (30.10%)
+59	42	125	60	102	29	96
+Gallade (Lv. 59) @Metronome (Ability: Synchronize) (Nature: Hardy) (Moves: Psycho Cut/Brick Break/Aerial Ace/Thief) IVs: 0/0/0/0/0/0 EVs: 42/125/60/102/29/96
+Current Exp: 257035 (2.35%)
