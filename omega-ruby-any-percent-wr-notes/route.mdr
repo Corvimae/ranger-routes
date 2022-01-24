@@ -1069,7 +1069,7 @@ Catch Groudon with the Master Ball.
   :::::pokemon[Milotic]
      - Swords Dance
      - Earthquake
-     ::damage[Ice Beam does]{source="Groudon" offensive=false movePower=90 level=45 special=true opponentLevel=46 opponentStat=97 stab=false}  
+     ::damage[Ice Beam does]{source="Groudon" offensive=false movePower=90 level=45 special=true effectiveness=2 opponentLevel=46 opponentStat=97 stab=false}  
   :::::
   :::::pokemon[Whiscash]{info="Faster at 80+ Speed (7+/#/#)" infoColor=blue}
      - Earthquake
