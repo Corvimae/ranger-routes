@@ -283,7 +283,7 @@
       59 -> 40, 125, 60, 102, 29, 96
 :::
 
-## Gallade Alt Main v1.0.0
+## Gallade Alt Main v1.0.2
 Routed by GreenLightn1ng#2156
 
 _This route is unpolished (and also untested), use at your own risk. If you have any queries, complaints, or criticism, feel free to message me on Discord._
@@ -926,7 +926,7 @@ Head upstairs twice.
   	- Calm Mind + Psybeam
   :::::::
   :::::if{source="Ralts" condition="startingLevel=18"}
-  ::level{source="Ralts" value=21"}
+  ::level{source="Ralts" value=21}
   :::::
   :::::::pokemon[Skuntank]{baseStats="[103, 93, 67, 71, 61, 84]" ivs="[15,0,15,0,15,0]" evs="[68,0,68,0,68,0]" nature="Modest" type="Poison/Dark" level=20}
   - _If Kirlia took damage, switch to Grotle + Heal Kirlia to full._
@@ -1105,9 +1105,9 @@ Just before the Rival battle trigger:
   :::if{source="Ralts" condition="startingLevel=17"}
 ::level{source="Ralts" value=22}
 :::
-:::::if{source="Ralts" condition="startingLevel=19"}
-  ::level{source="Ralts" value=23"}
-  :::::
+:::if{source="Ralts" condition="startingLevel=19"}
+  ::level{source="Ralts" value=23}
+  :::
 :::::::
 
 After leaving town:
@@ -1134,7 +1134,7 @@ Head east.
   :::
   :::if{source="Ralts" condition="$eggMove!='Knock Off'"}
   - Thief x3-5
-  :::::
+  :::
   :::::pokemon[Shieldon]{baseStats="[30, 42, 118, 42, 88, 30]" nature="Hardy" type="Steel/Rock" level=23}
   - Switch to Grotle
   - Razor Leaf spam
@@ -1176,9 +1176,9 @@ Fight this as a double battle:
   :::if{source="Ralts" condition="startingLevel=17 || startingLevel=18"}
 ::level{source="Ralts" value=23}
 :::
-:::::if{source="Ralts" condition="startingLevel=19"}
-  ::level{source="Ralts" value=24"}
-  :::::
+:::if{source="Ralts" condition="startingLevel=19"}
+  ::level{source="Ralts" value=24}
+  :::
   :::::pokemon[Gyarados & Kadabra]
     - Shock Wave Gyarados / Razor Leaf
     :::if{source="Ralts" condition="$eggMove=='Knock Off'"}
@@ -1258,10 +1258,10 @@ Head to the gym. There is only 1 mandatory gym trainer, on the right.
   :::if{source="Ralts" condition="((startingLevel=16 || startingLevel=17 || startingLevel=18) && spe=(x/22+/10+)) || ((startingLevel=19 || startingLevel=20) && spe=(x/17+/5+))"}
   - X Speed
   :::
-  :::if{source="Ralts" condition="((startingLevel=16 || startingLevel=17 || startingLevel=18) || ((startingLevel=19 || startingLevel=20) && spa=(x/x/18-))"}
+  :::if{source="Ralts" condition="(startingLevel=16 || startingLevel=17 || startingLevel=18) || ((startingLevel=19 || startingLevel=20) && spa=(x/x/18-))"}
   - X SpAttack x2
   :::
-  :::if{source="Ralts" condition="(startingLevel=19 || startingLevel=20) && spa=(x/x/19+)}
+  :::if{source="Ralts" condition="(startingLevel=19 || startingLevel=20) && spa=(x/x/19+)"}
   - X SpAttack
   :::
   - (X Accuracy if Flash'd)
@@ -1277,10 +1277,10 @@ Head to the gym. There is only 1 mandatory gym trainer, on the right.
   :::::
   :::if{source="Ralts" condition="startingLevel=16"}
     ::level{source="Ralts" value=24}
-    :::
-    :::::if{source="Ralts" condition="startingLevel=19"}
-  ::level{source="Ralts" value=25"}
-  :::::
+  :::
+  :::if{source="Ralts" condition="startingLevel=19"}
+  ::level{source="Ralts" value=25}
+  :::
   :::::pokemon[Lucario]{baseStats="[70, 110, 70, 115, 70, 90]" ivs="[0,15,15,0,0,15]" evs="[0,68,68,0,0,68]" nature="Adamant" type="Steel/Fighting" level=30}
     - Heal to full until Light Screen fades. _It shouldn't go for Bulk Up_
   - Psychic
@@ -1302,33 +1302,33 @@ Head back to the north-west of Veilstone and talk to Lucas.
 _Could consider Reflect here I guess_
 
 :::::trainer[Team Galactic Double]
-:::pokemon[Dustox]{baseStats="[60, 50, 70, 50, 90, 65]" nature="Serious" type="Bug/Poison" level=25}
-  - X Defense + X SpAttack + Psychic 
-:::
-:::if{source="Ralts" condition="startingLevel=16"}
+  :::pokemon[Dustox]{baseStats="[60, 50, 70, 50, 90, 65]" nature="Serious" type="Bug/Poison" level=25}
+    - X Defense + X SpAttack + Psychic 
+  :::
+  :::if{source="Ralts" condition="startingLevel=16"}
     ::level{source="Ralts" value=25}
-:::
-:::::if{source="Ralts" condition="startingLevel=19"}
-  ::level{source="Ralts" value=26"}
-  :::::
-:::pokemon[Croagunk]{baseStats="[48, 61, 40, 61, 40, 50]" nature="Bashful" type="Fighting/Poison" level=25}
-  - Psychic
-:::
-:::pokemon[Beautifly]{baseStats="[60, 70, 50, 100, 50, 65]" nature="Hardy" type="Bug/Flying" level=25}
-  - Psychic
-:::
-:::if{source="Ralts" condition="startingLevel=20"}
-::level{source="Ralts" value=27}
-:::
-:::if{source="Ralts" condition="startingLevel=18"}
-::level{source="Ralts" value=26}
-:::
-:::pokemon[Stunky]{baseStats="[63, 63, 47, 41, 41, 74]" nature="Docile" type="Dark/Poison" level=25}
-  - Dazzling Gleam
-:::
-:::if{source="Ralts" condition="startingLevel=17"}
-::level{source="Ralts" value=26}
-:::
+  :::
+  :::if{source="Ralts" condition="startingLevel=19"}
+    ::level{source="Ralts" value=26}
+  :::
+  :::pokemon[Croagunk]{baseStats="[48, 61, 40, 61, 40, 50]" nature="Bashful" type="Fighting/Poison" level=25}
+    - Psychic
+  :::
+  :::pokemon[Beautifly]{baseStats="[60, 70, 50, 100, 50, 65]" nature="Hardy" type="Bug/Flying" level=25}
+    - Psychic
+  :::
+  :::if{source="Ralts" condition="startingLevel=20"}
+    ::level{source="Ralts" value=27}
+  :::
+  :::if{source="Ralts" condition="startingLevel=18"}
+    ::level{source="Ralts" value=26}
+  :::
+  :::pokemon[Stunky]{baseStats="[63, 63, 47, 41, 41, 74]" nature="Docile" type="Dark/Poison" level=25}
+    - Dazzling Gleam
+  :::
+  :::if{source="Ralts" condition="startingLevel=17"}
+  ::level{source="Ralts" value=26}
+  :::
 :::::
 
 Get Fly from the warehouse on the hill, then leave Veilstone through the south gate.
@@ -1346,9 +1346,9 @@ Get Fly from the warehouse on the hill, then leave Veilstone through the south g
   :::pokemon[Kadabra]{baseStats="[40, 35, 30, 120, 70, 105]" nature="Timid" type="Psychic" level=24}
     - (Heal +) Dazzling Gleam
   :::
-  :::::if{source="Ralts" condition="startingLevel=19"}
-  ::level{source="Ralts" value=27"}
-  :::::
+  :::if{source="Ralts" condition="startingLevel=19"}
+  ::level{source="Ralts" value=27}
+  :::
 :::::
 
 At the fences:
@@ -1445,9 +1445,9 @@ Press the last blue button, then talk to Crasher Wake.
     :damage[Gyarados' Crunch vs +4 Defense Kirlia through Reflect]{source="Ralts" evolution=1 offensive=false combatStages=4 movePower=80 type="Dark" theme=error screen=true}
     :damage[Gyarados' Crunch vs +4 Defense Kirlia]{source="Ralts" evolution=1 offensive=false combatStages=2 movePower=80 type="Dark" theme=error}
   :::::
-  :::::if{source="Ralts" condition="startingLevel=19"}
-  ::level{source="Ralts" value=28"}
-  :::::
+  :::if{source="Ralts" condition="startingLevel=19"}
+  ::level{source="Ralts" value=28}
+  :::
   :::::pokemon[Quagsire]{baseStats="[95, 85, 85, 65, 65, 35]" ivs="[0, 16, 16, 5, 16, 5]" evs="[40, 40, 4, 56, 4, 0]" nature="Quiet" type="Water/Ground" level=27}
     - Psychic
   :::::
@@ -1485,9 +1485,9 @@ Talk to the Team Galactic grunt at the east gate.
   - Shock Wave
   :damage[Buizel's Aqua Jet vs +2 Defense Kirlia]{source="Ralts" evolution=1 offensive=false movePower=40 combatStages=2 type="Water" theme=error}
   :::
-  :::::if{source="Ralts" condition="startingLevel=19"}
-  ::level{source="Ralts" value=29"}
-  :::::
+  :::if{source="Ralts" condition="startingLevel=19"}
+  ::level{source="Ralts" value=29}
+  :::
   :::pokemon[Monferno]{baseStats="[64, 78, 52, 78, 52, 81]" ivs="[11, 11, 11, 11, 11, 11]" evs="[52,4,12,4,52,0]" nature="Careful" type="Grass" level=31}
   - Psychic
   :damage[Monferno's Mach Punch vs +2 Defense Kirlia]{source="Ralts" evolution=1 offensive=false movePower=40 combatStages=2 type="Fighting" theme=error}
@@ -1545,10 +1545,10 @@ _If the Psychic Range is bad, switch Grotle to Slot 1._
     ::damage[Kirlia's Metronome-0 Psychic vs Machoke]{source="Ralts" evolution=1 type="Psychic" movePower=90 healthThreshold=auto special=true}
     ::damage[Machoke's Knock Off vs Kirlia]{source="Ralts" evolution=1 type="Dark" movePower=90 offensive=false theme=error}
   :::
-  :::::if{source="Ralts" condition="startingLevel=19"}
-  ::level{source="Ralts" value=30"}
+  :::if{source="Ralts" condition="startingLevel=19"}
+  ::level{source="Ralts" value=30}
   - Cancel the evolution.
-  :::::
+  :::
 :::::
 
 :::::trainer[Bird Keeper Brianna]
@@ -1636,8 +1636,8 @@ Enter the:
 :::::
 :::::pokemon[Mismagius]{baseStats="[60, 60, 60, 105, 105, 105]" ivs="[19,0,5,19,5,19]" evs="[44,0,4,92,4,68]" nature="Timid" type="Ghost" level=36}
   - Shadow Ball
-:damage[Kirlia's +6 Shadow Ball vs Mismagius]{source="Ralts" offensive=true movePower=80 type="Ghost" healthThreshold=auto special=true}
-:damage[Kirlia's +6 Shadow Ball vs Mismagius after Stealth Rock]{source="Ralts" offensive=true movePower=80 type="Ghost" healthThreshold=87 special=true}
+:damage[Kirlia's +6 Shadow Ball vs Mismagius]{source="Ralts" offensive=true combatStages=6 movePower=80 type="Ghost" healthThreshold=auto special=true}
+:damage[Kirlia's +6 Shadow Ball vs Mismagius after Stealth Rock]{source="Ralts" offensive=true combatStages=6 movePower=80 type="Ghost" healthThreshold=87 special=true}
 :::::
 ::level{source="Ralts" value=33}
 - Cancel the evolution.
@@ -1667,6 +1667,7 @@ At Canalave, cross the bridge.
 :::::::trainer[Pokemon Trainer Barry]
   :::::pokemon[Staravia]{baseStats="[55, 75, 50, 40, 40, 80]" ivs="[5, 5, 5, 5, 5, 5]" evs="[40, 72, 16, 0, 16, 56]" nature="Jolly" level=32}
   - X Defense + X Speed + X Attack + Drain Punch
+  :::::
   :::::pokemon[Monferno]{baseStats="[ 64, 78, 52, 78, 52, 81]" ivs="[11, 11, 11, 11, 11, 11]" evs="[80,24,48,24,80,0]" nature="Careful" type="Fire/Fighting" level=37}
   - Drain Punch 
   :::::
@@ -1746,7 +1747,6 @@ At the fork, go up, then take the lift near the trainer.
 	:damage[Torterra's Overgrow +0 Razor Leaf vs Azumarill]{source="Turtwig" evolution=2 type="Grass" level=32 healthThreshold=auto movePower=55 torrent=true}
 	:damage[Azumarill's Play Rough vs Gallade]{source="Ralts" evolution=2 type="Fairy" movePower=90 otherStatModifier=2 offensive=false theme="error"}
   :damage[Azumarill's Play Rough vs Torterra]{source="Turtwig" evolution=2 type="Fairy" level=32 movePower=90 otherStatModifier=2 offensive=false theme="error"}
-  :damage[Gallade's Psychic vs Azumarill]{source="Turtwig" evolution=2 type="Psychic" healthThreshold=auto movePower=90}
   :::
 :::::
 
@@ -2044,7 +2044,7 @@ Take the left-most teleporter, and head up the stairs.
   :::::
   :::::pokemon[Sneasel]{baseStats="[55, 95, 55, 35, 75, 115]" ivs="[15, 0, 15, 0, 15, 0]" evs="[68, 0, 68, 0, 68, 0]" nature="Jolly" type="Ice/Dark" level=43}
     - Drain Punch
-  :damage[Sneasel's Metal Claw vs +2 Defense Gallade]{source="Ralts" evolution=2 offensive=false effectiveness=1 combatStages=2 movePower=50 type="Steel" theme="error"}  
+  :damage[Sneasel's Metal Claw vs +2 Defense Gallade]{source="Ralts" evolution=2 offensive=false effectiveness=1 combatStages=2 movePower=50 type="Steel" theme="error"}
   :damage[Sneasel's Metal Claw vs +0 Defense Gallade]{source="Ralts" evolution=2 offensive=false effectiveness=1 combatStages=0 movePower=50 type="Steel" theme="error"}
   :::::
   ::level{source="Ralts" value=41}
@@ -2142,7 +2142,7 @@ Before the forced double battle:
 - Teach TM 31 Brick Break to Gallade over Drain Punch (Slot 4)
 :::
 - Rare Candy Gallade to Lv. 44 (x2)
-level{source="Ralts" value=44}
+::level{source="Ralts" value=44}
 
 :::::trainer[Team Galactic Double]
 :::pokemon[Turn 1]
@@ -2195,7 +2195,7 @@ level{source="Ralts" value=44}
   :::if{source="Ralts" condition="atk=(x/x/25+)"}
   - X Speed + X Attack + Psycho Cut
   :::
-  :::if{source="Ralts" condition="atk=(31-/31-/26-)"}
+  :::if{source="Ralts" condition="atk=(31-/31-/24-)"}
   - X Speed + X Attack x2 + Psycho Cut
   :::
   :::::
@@ -2471,7 +2471,7 @@ Head north up the waterfall.
 :::::
 
 **Elite 4 Shopping:**
-  - 0-2 Revives (RR). _You need at least y for the Elite Four_
+  - 0-1 Revives (RR). _You need at least 1 for the Elite Four_
   - Max Full Restores (^)  
 
 - Heal Gallade to full.
@@ -2479,7 +2479,7 @@ Head north up the waterfall.
 :::::::trainer[Pokemon Trainer Barry]
  :::::pokemon[Staraptor]{baseStats="[85, 120, 70, 50, 60, 100]" ivs="[5, 5, 5, 5, 5, 5]" evs="[56, 148, 36, 0, 36, 148]" nature="Jolly" type="Normal/Flying" level=49}
     - X Defense x2 + Heal to full + X Attack + X Speed + Psycho Cut x2
-  :damage[Staraptor's Pluck vs +2 Defense Gallade]{source="Ralts" evolution=2 offensive=false movePower=60 combatStages=2 special=false type="Flying" theme=error}  
+  :damage[Staraptor's Pluck vs +2 Defense Gallade]{source="Ralts" evolution=2 offensive=false movePower=60 combatStages=2 special=false type="Flying" theme=error}
   :damage[Staraptor's Pluck vs +4 Defense Gallade]{source="Ralts" evolution=2 offensive=false movePower=60 combatStages=4 special=false type="Flying" theme=error}
   :::::  
   :::::pokemon[Infernape]{baseStats="[76, 104, 71, 104, 71, 108]" ivs="[11, 11, 11, 11, 11, 11]" evs="[52, 156, 52, 0, 52, 164]" nature="Careful" type="Fire/Fighting" level=55}
@@ -2487,6 +2487,7 @@ Head north up the waterfall.
   :::::
   :::::pokemon[Snorlax]{baseStats="[160, 110, 65, 65, 110, 30]" ivs="[9, 9, 9, 9, 9, 9]" evs="[96, 120, 96, 0, 88, 0]" nature="Adamant" type="Normal" level=52}
   - Brick Break x1-2
+  :::::
   :::::pokemon[Roserade]{baseStats="[60, 70, 65, 125, 105, 90]" ivs="[7,7,7,7,7,7]" evs="[48, 116, 48, 0, 48, 172]" nature="Jolly" type="Grass/Poison" level=49}
   - Psycho Cut
   :::::
@@ -2529,7 +2530,7 @@ Head north up the waterfall.
   - Stealth Rock + Reflect + Razor Leaf --> Swap in Gallade
   :::if{source="Ralts" condition="spe=(x/13+/0+)"}
 	- X Attack x2 + (Heal Poison +) Brick Break
-  :damage[Quagsire's Earthquake vs Gallade through Reflect]{source="Ralts" evolution=2 offensive=false movePower=100 special=false type="Ground" theme=success screen=true}  
+  :damage[Quagsire's Earthquake vs Gallade through Reflect]{source="Ralts" evolution=2 offensive=false movePower=100 special=false type="Ground" theme=success screen=true}
   :damage[Quagsire's Earthquake vs Gallade]{source="Ralts" evolution=2 offensive=false movePower=100 special=false type="Ground" theme=error}
   :::
   :::if{source="Ralts" condition="spe=(31-/12-/x)"}
@@ -2567,8 +2568,8 @@ Head north up the waterfall.
   :::::
   :::::pokemon[Steelix]{baseStats="[75, 85, 200, 55, 65, 30]" ivs="[31, 31, 31, 0, 31, 31]" evs="[12, 252, 0, 12, 12, 0]" nature="Adamant" type="Steel/Ground" level=57}
     - Brick Break
-	:damage[Ralts's +2 Metronome-1 Brick Break vs Steelix after Stealth Rock]{source="Ralts" evolution=2 offensive=true movePower=75 type="Fighting" combatStages=2 healthThreshold=166}
-	:damage[Ralts's +4 Metronome-1 Brick Break vs Steelix after Stealth Rock]{source="Ralts" evolution=2 offensive=true movePower=75 type="Fighting" combatStages=4 healthThreshold=166}
+	:damage[Gallade's +2 Metronome-1 Brick Break vs Steelix after Stealth Rock]{source="Ralts" evolution=2 offensive=true movePower=75 type="Fighting" stab=true combatStages=2 healthThreshold=166}
+	:damage[Gallade's +4 Metronome-1 Brick Break vs Steelix after Stealth Rock]{source="Ralts" evolution=2 offensive=true movePower=75 type="Fighting" stab=true combatStages=4 healthThreshold=166}
   :::::
   :level{source="Ralts" value=56}
   :::::pokemon[Lopunny]{baseStats="[65, 76, 84, 54, 96, 105]" ivs="[31, 31, 31, 0, 31, 31]" evs="[252, 0, 0, 0, 0, 0]" nature="Jolly" type="Normal" level=57}
@@ -2587,8 +2588,8 @@ Head north up the waterfall.
   :::::
 :::::::
 
-- _Swap Ralts to Slot 1 if Empoleon is alive_.
-- Heal Ralts to full.
+- _Swap Gallade to Slot 1 if Torterra is alive_.
+- Heal Gallade to full.
 
 :::::::trainer[Elite Four Lucian]{info="Heal as needed." infoColor="green"}
   :::::pokemon[Mr. Mime]{baseStats="[40, 45, 65, 100, 120, 90]" ivs="[31, 0, 31, 31, 31, 31]" evs="[252, 0, 12, 12, 12, 12]" nature="Bold" type="Psychic/Fairy" level=59}
@@ -2643,10 +2644,10 @@ Head north up the waterfall.
   :::::
   :level{source="Ralts" value=58}
   :::::pokemon[Gastrodon]{baseStats="[111, 83, 68, 92, 82, 39]" ivs="[31, 31, 31, 31, 31, 0]" evs="[252, 0, 252, 0, 6, 0]" type="Water/Ground" level=60 nature="Relaxed"}
-  :::if{source="Ralts" condition="atk=(31-/26-/x)"}
+  :::if{source="Ralts" condition="atk=(31-/25-/x)"}
   - X Defense + X Speed + Psycho Cut x1-2
   :::
-  :::if{source="Ralts" condition="atk=(x/27+/0+)"}
+  :::if{source="Ralts" condition="atk=(x/26+/0+)"}
   - Psycho Cut x1-2
   :::
   :damage[Gallade's Metronome-1 +6 Psycho Cut vs Gastrodon]{source="Ralts" evolution=2 movePower=70 type="Psychic" healthThreshold=auto combatStages=6 otherModifier=1.2}

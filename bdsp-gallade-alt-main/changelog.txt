@@ -1,17 +1,31 @@
 Gallade Alt Main
 
 Version 0.0.1
-Route started
+    Route started
 
 Version 0.1.0
-Switched to using Turtwig in an attempt to save the X Defense for Gardenia
+    Switched to using Turtwig in an attempt to save the X Defense for Gardenia
 
 Version 0.1.1
-Bibarel actually kinda good though...
+    Bibarel actually kinda good though...
 
 Version 1.0.0
-First draft completed
+    First draft completed
 
 Version 1.0.1
-Fixed a level up location
-Added text to return to Route 207 after Brick Break
+    Fixed level up locations - specifically ones for startingLevel 19, with stray "s
+    Added text to return to Route 207 after Brick Break
+
+Version 1.0.2
+    Fixed Canalave Rival syntax
+    Fixed level up to 44
+    Fixed Cyrus syntax
+    Fixed "Ralts" text in E4
+    Fixed "Empoleon" text in E4
+    Added number of revives for E4
+    Fixed E4 Barry syntax
+    Fixed Bertha syntax
+    Fixed Flint syntax
+    Fixed Cynthia conditional statements
+    Fixed any outlying ::'s appearing in the route
+    Fixed Maylene conditional statements
