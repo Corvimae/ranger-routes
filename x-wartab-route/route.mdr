@@ -1,4 +1,4 @@
-:::tracker{species="Quacklin" nature="jolly" generation=6 baseStats="[[52, 65, 55, 58, 62, 60]]"}
+:::tracker{species="Quacklin" nature="jolly" generation=6 speedIV=31 baseStats="[[52, 65, 55, 58, 62, 60]]"}
 10:
    10 -> 0,   0,   0,   0,   0,   0,
    11 -> 0,   0,   2,   0,   0,   2,  # Zigzagoon (1 Spd), Kakuna (2 Def), Combee (1 Spd)

@@ -1,0 +1,1577 @@
+:::tracker{species="Chimchar" baseStats="[[44, 58, 44, 58, 44, 61], [64, 78, 52, 78, 52, 81]]" type="Fire" generation=8}
+  5:
+    6 ->	0, 0, 0, 0, 0, 2
+    7 ->	2, 0, 0, 0, 0, 2
+    8 ->	2, 1, 0, 0, 0, 3
+    9 ->	2, 1, 0, 1, 0, 3
+    10 ->	2, 2, 2, 1, 0, 3
+    11 ->	2, 2, 4, 1, 0, 3
+    12 ->	3, 3, 4, 1, 0, 3
+    13 ->	4, 3, 6, 3, 0, 4
+    14 ->	5, 3, 6, 3, 0, 6
+    15 ->	5, 3, 6, 3, 0, 10
+    16 ->	6, 3, 6, 6, 0, 10
+    17 ->	6, 3, 8, 6, 0, 11
+    18 ->	6, 3, 8, 9, 0, 11
+    19 ->	6, 3, 8, 14, 0,	11
+    20 ->	6, 4, 8, 17, 0,	11
+    21 ->	6, 5, 8, 20, 0,	11
+    22 ->	8, 5, 12, 20, 0, 14
+    23 ->	10, 5, 12, 24, 0, 16
+    24 ->	10, 5, 14, 26, 0, 17
+    25 ->	10, 7, 14, 29, 0, 21
+    26 ->	10, 10, 14, 33,	0, 21
+    27 ->	10, 11,	14, 33, 3, 22
+    28 ->	15, 11,	14, 36,	4, 27
+:::
+
+:::tracker{species="Kadabra" baseStats="[[40, 35, 30, 120, 70, 105]]" hpIV=28 attackIV=10 defenseIV=9 spAttackIV=11 spDefenseIV=3 speedIV=31 nature="Quiet" type="Psychic" generation=8 directInput=true}
+:::
+
+:::tracker{species="Dialga" baseStats="[[100, 120, 120, 150, 100, 90]]" type="Steel/Dragon" nature="Quiet" generation=8}
+  47:
+     48 -> 2, 9, 2, 3, 2, 12
+     49 -> 5, 16, 2, 6, 5, 14
+     50 -> 8, 26, 8, 8, 8, 14
+     51 -> 10, 33, 8, 11, 8, 14
+     52 -> 10, 35, 8, 17, 8, 16
+     53 -> 12, 37, 11, 20, 12, 16
+     54 -> 14, 37, 18, 20, 12, 18
+     55 -> 16, 38, 20, 21, 12, 21
+     56 -> 16, 38, 21, 26, 15, 23
+     57 -> 18, 39, 22, 30, 18, 23
+:::
+
+**This is a port of Wartab's Route into Ranger! Please give all the credit to him!**
+
+Optimal mashing is to switch between pressing A, ZL, and ZR. You must continue mashing throughout the textbox, unlike previous games. :info[Or buy a turbo controller because mashing in this game sucks.]{color=gray}
+
+If you know where all the items are, you can turn off images by clicking the options button at the top of these notes.
+
+If the route does not say to learn a move explicitly, do not learn it.
+
+Set your console to 9 June 18:30 (works for roughly 20 minutes of resets)
+
+Pick the female character and name the character 1.
+
+Select Barry as the rival's name.
+
+Options:
+  - Text Speed: Fast
+  - Battle Effects: Off (vv)
+  - Battle Style: Set (v)
+  - Send to Boxes: Automatic (v)
+  - Give Nicknames: Don't Give (v)
+  - Autosave: Off (vv)
+  - Background Music: 0 (vv)
+
+Head to Barry's House (top left). Enter Barry's house and go upstairs, then leave.
+
+Leave the town from the north, then head west to the lake.
+
+Select Chimchar (middle ball).
+
+:::trainer[Starly]
+  - Scratch spam
+:::
+
+Check stats, Attack needs to be 11+ (neutral or positive) and Special Attack needs to be 10+ (neutral or positive).
+
+Run north, then east to Sandgem Town.
+
+Do not nickname Chimchar (say No). Say Yes to Rowan's second prompt. Run back to your house.
+
+Talk to your mom.
+
+Run back to Sandgem. On the way, talk to the Pokemart clerk at the top of the second grass patch to get 10 potions.
+
+Head north to Route 202 and learn how to catch Bidoof.
+
+:::::trainer[Youngster Tristan]
+  :::pokemon[Starly]
+    - Scratch spam
+    ::damage[Starly's Quick Attack]{source="Chimchar" offensive=false movePower=40 level=5 evs=0 opponentLevel=5 opponentStat=10 special=false stab=true}
+  :::
+:::::
+
+:::::trainer[Lass Natalie]
+  :::pokemon[Bidoof]
+    - Ember x2
+    ::damage[Bidoof's Tackle]{source="Chimchar" offensive=false movePower=40 level=6 evs=0 opponentLevel=3 opponentStat=7 special=false stab=true}
+  :::
+  :::pokemon[Bidoof]
+    - Ember x2
+    ::damage[Bidoof's Tackle]{source="Chimchar" offensive=false movePower=40 level=6 evs=0 opponentLevel=3 opponentStat=7 special=false stab=true}
+  :::
+:::::
+
+:::::trainer[Youngster Logan]
+  :::pokemon[Shinx]
+    - Ember x2/3
+    ::damage[Shinx's Thunder Shock]{source="Chimchar" offensive=false movePower=40 level=7 evs=0 opponentLevel=5 opponentStat=8 special=true stab=true}
+  :::
+:::::
+
+Head to the Trainer School and talk to Barry. Leave the trainer school.
+
+Talk to the three Poketch Clowns and get the Poketch from the Poketch inventor.
+
+:::::trainer[Pokemon Trainer Barry]
+  :::pokemon[Starly]{baseStats="[40, 55, 30, 30, 30, 60]" ivs="[5, 5, 5, 5, 5, 5]" nature="Bashful" type="Normal/Flying" level=7 nature="Jolly"}
+    - Ember x3/x4
+    :damage[Starly's Tackle/Quick Attack]{source="Chimchar" offensive=false movePower=40 opponentLevel=7 special=false type="Normal"}
+  :::  
+  :::pokemon[Piplup]
+    - Ember x8-x11
+  :::
+:::::
+
+Head East to Oreburgh Gate. Watch out for the trainer at the top of the stairs (hug the top-most stairs tile).
+
+Run behind both of the trainers in Oreburgh Gate.
+
+Catch Machop (weaken with Scratch, unless low HP) north of Oreburgh.
+
+Head south to Oreburgh Mine.
+
+Grab the X Defense from the right side of the first room in Oreburgh Mine (run down the first set of stairs, head right, then head up).
+
+Head to the left and down in the second room of Oreburgh Mine, grab the Escape Rope, then talk to Roark.
+
+- Heal Machop to full and switch it to Slot 1.
+- Use the Escape Rope.
+ 
+Head to the gym and fight the second trainer.
+
+:::::trainer[Youngster Darius]
+  :::pokemon[Geodude]
+    - Focus Energy + Low Kick spam
+  :::
+  :::pokemon[Onix]
+    - Low Kick spam
+  :::
+:::::
+
+Heal to full.
+
+:::::trainer[Gym Leader Roark]
+  :::pokemon[Geodude]
+    - Revenge spam
+    - Focus Energy if Geodude used Defense Curl too much.
+  :::
+  :::pokemon[Onix]
+    - X-Defense + Low Kick x2/x3
+  :::
+  :::pokemon[Cranidos]
+    - Revenge (x2)
+  :::
+:::::
+
+Head north to the mart.
+
+**Oreburgh Shopping:**
+  - 3 Super Potions (R)
+  - 2 Antidotes (v)
+  - 3 Paralyze Heals (v)
+  - 14 Repels (R)
+  - 2 Escape Ropes (^)
+
+Trade Machop for Abra
+
+**UNDER NO CIRCUMSTANCES GET MORE EXPERIENCE ON ABRA THAN NEEDED!**
+
+Head west back to Oreburgh Mine.
+
+- Repel (keep refreshing until Floaroma Town).
+- Swap Abra and Chimchar
+
+At the crossing in Jubilife, head north to Rowan.
+
+:::::trainer[Team Galactic Double]
+  :::pokemon[Wurmple]
+    - Ember (x2)
+    - Teach Power-Up Punch over Scratch (Slot 1) if not done so yet.
+  :::
+  :::pokemon[Zubat]
+    - Ember x2
+  :::
+:::::
+
+Head north to Ravaged Path.
+
+Fight the Aroma Lady spinner.
+
+:::::trainer[Aroma Lady Teighler]
+  :::pokemon[Budew]
+    - Ember (x2)
+  :::
+  :::pokemon[Cherubi]
+    - Ember
+  :::
+:::::
+
+Head north, dodging the roamer. Hug the trees to avoid the double battle.
+
+Head to the east and talk to the girl on the path to Valley Windworks.
+
+Grab the Pecha Berries (right tree) on the way back to Floaroma.
+
+Head to the north-west and enter the meadow.
+
+:::::trainer[Team Galactic Grunt]
+  :::pokemon[Wurmple]{baseStats="[45, 45, 35, 20, 30, 20]" nature="Bashful" type="Bug" level=9}
+    - Ember
+  :::
+  :::pokemon[Silcoon]{baseStats="[50, 35, 55, 25, 25, 15]" nature="Bashful" type="Bug" level=9}
+    - Ember
+  :::
+:::::
+
+:::::trainer[Team Galactic Grunt]
+  :::pokemon[Zubat]
+    - (Taunt +) Ember x2
+  :::
+:::::
+
+Grab the Cheri Berries from the right side of the flower shop in Floaroma.
+
+Head east to Valley Windworks and fight the grunt outside.
+
+:::::::trainer[Team Galactic Grunt]
+  :::::pokemon[Glameow]{baseStats="[49, 55, 42, 42, 37, 85]" nature="Bashful" type="Normal" level=11}
+    - Power-Up Punch x2
+    ::damage[Glameow's Fake Out/Scratch]{source="Chimchar" offensive=false movePower=40 level=13 evs=0 special=false type="Normal"}
+  :::::
+:::::::
+
+Heal to full.
+
+Fight the spinner grunt.
+
+:::::trainer[Galactic Grunt]
+  :::pokemon[Cascoon]
+    - Ember
+    - Teach Mach Punch over Leer (Slot 2)
+  :::
+:::::
+
+:::::trainer[Commander Mars]{info="Heal as needed. This fight is bad."}
+  :::pokemon[Zubat]
+    - Taunt + Ember spam
+  :::
+  :::pokemon[Purugly]
+    - Power-Up Punch x2 + Mach Punch (x2)
+    ::damage[Purugly's Scratch at -0]{source="Chimchar" offensive=false movePower=40 level=14 evs=0 opponentLevel=16 opponentStat=31 special=false stab=true}
+  :::
+:::::
+
+At the grass:
+- Repel (refresh until Eterna City)
+- Equip the Cheri Berry.
+- Heal to full-ish unless in Blaze.
+
+Head north to Eterna Forest, avoiding all the trainers.
+
+Head to the north-east and fight the left trainer by talking to him diagonally first if in Blaze.
+
+:::::trainer[Bug Catcher Jack]
+  :::pokemon[Wurmple]
+    - Ember
+  :::
+  :::pokemon[Beautifly]
+    - Ember (x2)
+  :::
+  :::pokemon[Silcoon]{baseStats="[50, 35, 55, 25, 25, 15]" nature="Naive" type="Bug" level=11}
+    - Ember
+  :::
+:::::
+
+:::::trainer[Lass Briana]
+  :::pokemon[Pachirisu]{baseStats="[60, 45, 70, 45, 90, 95]" nature="Bashful" type="Electric" level=14}
+    - Mach Punch x3 / x4
+    - Ember once your attack is dropped
+    :damage[+0 Spark]{source="Chimchar" evolution=1 offensive=false movePower=65 level=14 evs=0 stab=true type="Electric"}
+  :::
+:::::
+
+Fight the Abra trainers as a double battle.
+
+:::::trainer[Psychic Lindsey and Psychic Elijah]
+  :::pokemon[Abra]
+    - Power-Up Punch **RIGHT Abra**
+    - Power-Up Punch **RIGHT Abra**
+  :::
+  :::pokemon[Abra]
+    - Mach Punch (x2) **LEFT Abra**
+:::::
+
+Avoid the rest of the trainers and leave Eterna Forest.
+
+Head to the Eterna Gym.
+
+Head to the north-west fight the first trainer.
+
+:::::trainer[Lass Caroline]
+  :::pokemon[Cherubi]
+    - Ember (x2)
+  :::
+  :::pokemon[Roselia]
+    - Ember (x2)
+  :::
+:::::
+
+Head to the south-west and fight the second trainer.
+If paralyzed:
+  - Heal paralysis
+  - Equip Pecha Berry
+
+:::::trainer[Armoa Lady Jenna]
+  :::pokemon[Budew]
+    - Ember (x2)
+  :::
+  :::pokemon[Budew]
+    - Ember (x2)
+  :::
+  :::pokemon[Budew]
+    - Ember (x2)
+  :::
+:::::
+
+Head back to the middle, fight the trainer in the second-to-bottom most path.
+
+:::::trainer[Aroma Lady Angela]
+  :::pokemon[Turtwig]
+    - Ember x2
+    - Teach Flame Wheel over Ember (Slot 3).
+  :::
+:::::
+
+Head to the bottom-most path, head east then north to the last trainer.
+
+:::::trainer[Beauty Lindsay]
+  :::pokemon[Roselia]
+    - Flame Wheel
+  :::
+:::::
+
+Heal to full-ish and cure poison if necessary.
+Equip Cheri Berry.
+
+:::::trainer[Gym Leader Gardenia]
+  :::pokemon[Cherubi]
+    :::if{source="Chimchar" condition="atk=(x/ 0-22/ 0-7)"}
+    - Power-Up Punch x2
+    - Flame Wheel
+    :::
+    :info[If cannot live grass knot from range below, Heal to full]{color=blue}
+    - Otherwise:
+      - Power-Up Punch + Flame Wheel
+  :::
+  :::pokemon[Turtwig]
+    - Flame Wheel
+  :::
+  :::pokemon[Roserade]
+    - Flame Wheel
+      ::damage[Grass Knot]{source="Chimchar" evolution=1 offensive=false special=true opponentLevel=22 opponentStat=65 movePower=40 level=20 evs=0 otherPowerModifier=1.5 stab=true type="Grass"}
+  :::
+:::::
+
+Head to the building directly to the right of the Galactic Eterna building.
+
+**Eterna Shopping:**
+- 15 Energy Roots (vv)
+- 1 Revival Herb (R)
+- 7 Heal Powders (v)
+
+Cure any status.
+
+:::::trainer[Team Galactic Double]
+  - Flame Wheel Wurmple / Confusion Wurmple
+  - Flame Wheel Cascoon / Confusion Cascoon
+  - Flame Wheel Glameow / Heal Monferno
+:::::
+
+Equip Pecha Berry.
+
+Heal Monferno to full.
+
+Teach Grass Knot to Kadabra.
+
+Head upstairs twice.
+
+:::::Trainer[Team Galactic Grunt]
+  :::pokemon[Wurmple]
+    - Flame Wheel
+  :::
+  :::pokemon[Silcoon]
+    - Flame Wheel
+  :::
+  :::pokemon[Zubat]
+    - Flame Wheel
+  :::
+:::::
+
+:::::trainer[Scientist Travon]
+  :::pokemon[Kadabra]
+    - Flame Wheel
+  :::
+:::::
+
+:::::trainer[Commander Jupiter]
+  :::pokemon[Zubat]
+    :::if{source="Chimchar" condition="atk=(x/ 0-24/ 0-11)"}
+      - Power-Up Punch x2 + Flame Wheel
+    :::
+    - Othwerise: 
+      - Power Up Punch + Flame Wheel
+  :::
+  :::pokemon[Skuntank]
+    - At +1:
+      - Power Up Punch + Flame Wheel x2
+    - Otherwise:  
+      - Flame Wheel x3
+  :::
+:::::
+
+Get the Explorer Kit and then leave immediately by pressing Y for the menu.
+
+Get the bike from the Cycle shop. Head south to Cycling Road and avoid all the trainers.
+
+:info[_Start down the left side, cut to the far right after the first trainer, cut back to the far left after the third trainer. At the bottom of the lane, cut to the far right, head right past the trainer, then cut to the middle._]{color=gray}
+
+After the VS Seeker cutscene with Lucas, get the hidden revive to the right. ![](https://media.discordapp.net/attachments/735229809420009516/914237966472339506/unknown.png?width=819&height=447)
+
+Head through the gap in the rocks, then go right. Watch out for the roamers. Head past the hiker spinner into the cave. 
+
+After entered Mt. Coronet
+  - Switch Kadabra to Slot 1.
+  - Use a Repel (keep refreshing until Hearthome, drop when you get there).
+  - Heal Kadabra and Monferno to full.
+  - Equip a Cheri Berry to Monferno if you have one left.
+  - Register the Bike.
+  - Use the Bike.
+
+Grab the Ether in the Rock right above the Cyrus cutscene trigger.
+
+Head through the cave then avoid the bridge hiker spinners and head to Hearthome.
+
+Head to the contest hall and talk to Fantina. 
+
+Enter the contest hall, watch the cutscene, then head to the far south-east of Hearthome.
+
+:::::::trainer[Pokemon Trainer Barry]
+  :::::pokemon[Starly]{info="Has Quick Claw" infoColor=blue}
+    - Confusion
+  :::::
+  :::::pokemon[Prinplup]{info="Bubblebeam does 31-36(37)" infoColor=blue}
+    - (safe fight: Grass Knot + heal until Stealth Rock + Grass Knot x2)
+    - Grass Knot
+    - **If Grass Knot crit:** Grass Knot again 
+    :info[94.9% Range]{color=red}
+    - **If Stealth Rock:** Grass Knot x2
+    - **Otherwise:** Psycho Cut + Grass Knot 
+    :info[94.5% range]{color=red}
+  :::::
+  :::::pokemon[Roselia]
+    :info[Magical Leaf does 21-24(25)]{color=blue}
+    - Teleport / Switch (if low HP)
+    - **If holding Cheri Berry:** Power-Up Punch + Flame Wheel
+    - **Otherwise:** (Heal Paralysis +) Flame Wheel
+  :::::  
+  :::::pokemon[Ponyta]
+    - Power-Up Punch x2 / x3 + Mach Punch
+  :::::
+:::::::
+
+After leaving town:
+- Deposit Kadabra
+- Repel (refresh until Veilstone)
+- Pickup the Calcium past the hiker and left of the trees. Use the bike to go up the slope and it is kind of hidden but its a normal item at the end of that path.
+
+Before reaching Solaceon Town, enter the Lost Tower. Talk to the left person on the top floor to get Strength.
+
+Heal Kadabra to full.
+
+Heal Monferno to full.
+
+Withdraw Kadabra to Slot 2.
+
+Escape Rope out and continue heading north.
+
+You can ignore the doubles. Avoid the spinner by going through the grass.
+
+At the milk house, head east.
+
+:::::::trainer[Ruin Maniac Calvin]
+  :::::pokemon[Bronzor]
+    - Taunt + Power-Up Punch + Flame Wheel + Mach Punch
+    :damage[Confusion damage does]{source="Chimchar" evolution=1 offensive=false special=true movePower=50 opponentLevel=21 level=23 effectiveness=2 opponentStat=15 evs=0 stab=true type="Psychic"}
+  :::::
+  :::::pokemon[Shieldon]
+    - Mach Punch + Flame Wheel
+    :damage[Take Down does]{source="Chimchar" evolution=1 offensive=false movePower=90 opponentStat=24 opponentLevel=23 level=23 evs=0 type="Normal"}
+  :::::
+:::::::
+
+Pick up the Ether in the pokeball by the jogger.
+
+Pick up Shock Wave.
+  - Switch Kadabra to the front. 
+  - Teach Shock Wave to Kadabra over Psycho Cut (Slot 3).
+
+Fight the top Ace Trainer first.
+
+:::::trainer[Ace Trainer Maya]
+  :::pokemon[Glameow]
+    - Confusion (x2) 
+    :info[1/16 range]{color=red}
+  :::
+  :::pokemon[Kadabra]
+    - Grass Knot + Shock Wave
+  :::
+:::::
+
+:::::trainer[Ace Trainer Dennis]
+  :::pokemon[Monferno]
+    - Confusion
+    :info[Do not teach Recover]{color=gray}
+  :::
+  :::pokemon[Gyarados]
+    - Shock Wave[19]
+  :::
+:::::
+
+Head to the Veilstone Department Store.
+
+Take the escalator to the third floor.
+
+**Third floor, bottom vendor:**
+
+**Sell:**
+  - 3x TM98
+  - 5x TM76
+  - 4x TM86
+  - 3x TM93
+  - 3x TM96
+
+**Buy:**
+ - TM35 Flamethrower (R^)
+ - TM29 Psychic (vvvv)
+ - TM21 Dazzling Gleam (v)
+
+**Second floor, top vendor:**
+- 11 X Speed
+- 7 X Defense (vv)
+- 2 X Accuracy (vvv)
+- 5 X Sp. Defense (R)
+- 31 X Sp. Attack (^)
+
+**First floor, left vendor:**
+  - 4 Super Repels (^^)
+
+Leave the department store and get the metronome from the Girafarig trainer.
+
+- Teach Flamethrower over Power-Up Punch (Slot 1) to Monferno.
+- Teach Psychic over Teleport (Slot 1) to Kadabra.
+- Equip the Metronome on Kadabra.
+- Use the Calcium on Kadabra.
+- Heal Kadabra to full.
+
+Head to the Gym.
+
+:::::trainer[Black Belt Rafael]
+  :::pokemon[Meditite]
+    - Psychic[9]
+  :::
+:::::
+
+:::::trainer[Gym Trainer Maylene]
+  :::pokemon[Meditite]
+    - X Defense + X SpAtk x2 + X-Speed + Confusion
+      - X Accuracy to compensate for Flashes
+      - Can use X Defense a second time if needed
+      - Can skip X Speed if 39+ HP.
+  :::
+  :::pokemon[Machoke]
+    - Psychic[8]
+  :::
+  :::pokemon[Lucario]
+    -  Psychic[7]
+  :::
+:::::
+After Maylene:
+  - Heal Kadabra to full.
+  - Swap Metronome to Monferno.
+  - Heal Monferno to about half HP.
+  - **Deposit Kadabra.**
+
+Head back to the north-west of Veilstone and talk to Lucas. 
+
+:::::trainer[Team Galactic Double]
+  :::pokemon[Beautifly]
+    - Flamethrower
+  :::
+  :::if{source="Chimchar" condition="spatk=(x/13+/0+)"}
+    - Flamethrower **Stunky**
+    - Flamethrower **Dustox**
+    - Flamethrower **Croagunk**
+  :::
+  - Otherwise:
+      - Flamethrower **Dustox**
+      - Flamethrower **Stunky**
+      - Flamethrower **Croagunk**
+:::::
+
+Get Fly from the warehouse on the hill, then leave Veilstone through the south gate.
+
+After Fly:
+  - Do not heal Monferno! 
+  - Move Kadabra back to the party in Slot 1.
+  - Swap Metronome to Kadabra.
+
+:::::trainer[Psychic Abigail]
+  :::pokemon[Gastly]
+    - Psychic[6]
+  :::
+  :::pokemon[Kadabra]
+    - Psychic[5] (+ Grass Knot / Shock Wave)
+    :info[9/16 range]{color=red}
+  :::
+  :::pokemon[Misdreavus]
+    - Psychic[4]
+  :::
+:::::
+
+After the fight:
+  - Super Repel (refresh once).
+
+**DO NOT GET FREE HEAL**
+
+Pick up hidden Calcium next to tuber spinner.
+
+Pick up the two Rawst Berries (The second tree from the left).
+
+Head to the gym after reaching Pastoria.
+
+Drop repel when it runs out.
+
+Press the yellow button, then the green button near Wake.
+
+:::::trainer[Sailor Damian]
+  :::pokemon[Wingull]
+    - Confusion
+  :::
+  :::pokemon[Wingull]
+    - Confusion
+  :::
+:::::
+
+Press the blue button.
+
+:::::trainer[Tuber Jacky]
+  :::pokemon[Buizel]
+    - Confusion
+  :::
+:::::
+
+:::::trainer[Tuber Caitlyn]
+  :::pokemon[Azurill]
+    - Confusion
+  :::
+  :::pokemon[Marill]
+    - Psychic[3]
+  :::
+:::::
+
+Press the green button, then head down and press the orange button.
+
+:::::trainer[Sailor Samson]
+  :::pokemon[Shellos]
+    - Shock Wave[17]
+  :::
+  :::pokemon[Wingull]
+    - Confusion
+  :::
+  :::pokemon[Shellos]
+    - Shock Wave[16]
+  :::
+:::::
+
+After this fight:
+  - Heal Kadabra to full.
+  - Use the Calcium.
+  - Set battle style to Switch.
+  - Save.
+
+:::::trainer[Gym Leader Wake]
+  :::pokemon[Gyarados]
+    - Shock Wave[15]
+    :info[15/16 range]{color=red}
+    - Switch to Monferno 
+  :::
+  :::pokemon[Quagsire]
+    - Taunt (die) + X Speed (Heal if Scald) + Grass Knot
+  :::
+  :::pokemon[Floatzel]
+    - Grass Knot
+  :::
+:::::
+
+_If you want to see in the fog at the cost of time_:
+  - Go into Great Marsh, get Defog from man to the right of the entrance.
+  - Menu and press R to retire then leave.
+
+Talk to the Team Galactic grunt outside of the Great Marsh.
+  - Heal to Kadabra to full.
+  - Super Repel x2
+  - Equip Rawst Berry on Kadabra.
+
+Talk to the Team Galactic grunt at the east gate.
+
+:::::trainer[Pokemon Trainer Barry]
+  :::pokemon[Starly]{info="Has Quick Claw" infoColor=blue}
+    - X-Sp. Atk + Shock Wave[14]
+  :::
+  :::pokemon[Ponyta]
+    - Psyshock[9]
+  :::
+  :::pokemon[Buizel]
+    - Psyshock[8]
+  :::
+  :::pokemon[Prinplup]
+    - Psyshock[7]
+  :::
+:::::
+
+Head through the gate, across the grass, and south to the beach. Talk to the grunt again.
+
+Head north through the hotel and **DO NOT get the free heal**. Head north-east and talk to the grunt again.
+
+:::::trainer[Team Galactic Grunt]
+  :::pokemon[Glameow]
+    - Psyshock[6]
+  :::
+:::::
+
+Head north and talk to Cynthia. 
+- Fly to Solaceon Town.
+- Say yes to Cynthia
+
+Head north and **walk in the grass behind the double battle**. Medicine those Psyducks up. Head north to the fog route. Head west through the grass.
+
+Use Defog from the Poketch if you got it. Otherwise, pray for spinner passes. (Hold R to make it appear/disappear, HM app is #20)
+
+:::::trainer[Ace Trainer Alyssa]
+  :::pokemon[Ponyta]
+    - Psychic[2]
+  :::
+  :::pokemon[Grotle]
+    - Psychic[1]
+  :::
+:::::
+
+- Get TM30 Shadow ball 
+- _Watch out for the ninja!_
+
+:::::trainer[Black Belt Adam]
+  :::pokemon[Machoke]
+    - Psyshock[5]
+  :::
+:::::
+
+:::::trainer[Bird Keeper Brianna]
+  :::pokemon[Hoothoot]
+    - Psyshock[4]
+  :::
+  :::pokemon[Noctowl]
+    - Psyshock[3]
+  :::
+:::::
+
+Fight the grunt in front of the cave.
+
+:::::trainer[Team Galactic Grunt]
+  :::pokemon[Beautifly]
+    - Shock Wave[12]
+  :::
+  :::pokemon[Croagunk]
+    - Shock Wave[11]
+    :info[Sucker Punch does 38-44(46)]{color=blue}
+  :::
+:::::
+
+Enter the house in the north-west of Celestic and get the Wise Glasses.
+
+Leave the House.
+
+Set your console clock to 4:(and whatever minutes) am.
+
+Get the Choice Specs from the same gentlemen.
+
+Shopping:
+  - 21 Super Repels (^)
+  - 3 Revives (L^^)
+  - Max Super Potions
+
+Enter the cave and talk to the mural. Exit the cave.
+- Heal to full if you got damaged.
+- Fly to Hearthome (red right below you). 
+
+Enter the gym.
+
+Enter the:
+- Right door
+- Middle door
+- Left door
+- Right door
+
+:::::trainer[Gym Leader Fantina]
+  :::pokemon[Drifblim]{info="Heal as needed (heal burn immediately)."}
+    - X-Sp. Def + X-Speed + X-Sp. Atk + Psyshock[2]
+      - If fly, heal to full.
+  :::
+  :::pokemon[Gengar]
+    - Psychic[0]
+  :::
+  :::pokemon[Mismagius]
+    - Psyshock[1]
+  :::
+:::::
+
+After exiting the gym:
+- Heal to full.
+- Ether Psychic.
+- Super Repel (do not refresh).
+- Equip Metronome on Kadabra.
+- Teach TM30 Shadow Ball over Shock Wave (Slot 3).
+- Fly to Jubilife City (big red, left of the map) and head west.
+
+Go fully west to the water, surf to the land with Fishermen, then surf again to fully avoid the spinner.
+
+At Canalave, cross the bridge.
+
+:::::trainer[Pokemon Trainer Barry]
+  :::pokemon[Staravia]{info="Has Quick Claw" infoColor=gray}
+    - Psychic[9]
+  :::
+  :::pokemon[Heracross]
+    - Psychic[8]
+  :::
+  :::pokemon[Ponyta]
+    - Psychic[7]
+  :::
+  :::pokemon[Buizel]
+    - Psychic[6]
+  :::
+  :::pokemon[Prinplup]
+    - Psychic[5]
+  :::
+:::::
+
+If you took damage from Staravia (otherwise delay this menu to after Ricky):
+  - Move metronome to Monferno.
+  - Heal Kadabra to full if applicable.
+  - Equip Choice Specs to Kadabra.
+
+:::::trainer[Black Belt Ricky]
+  :::pokemon[Steelix]{info=" 4/16 to die if it hits Iron Tail (random AI)" infoColor=blue}
+    - Shadow Ball x2[13]
+  :::
+:::::
+
+  - Heal to 80+ HP.
+  - Do menu from above if you have not done it yet.
+
+Take the fourth elevator.
+
+:::::trainer[Ace Trainer Cesar]
+  :::pokemon[Skorupi]
+    - Shadow Ball[12]
+  :::
+  :::pokemon[Steelix]
+    - Shadow Ball(x2)
+    :info[14/16 Range]{color=red}
+  :::
+:::::
+
+At the fork, go up, then take the lift near the trainer.
+
+:::::trainer[Worker Gerardo]
+  :::pokemon[Onix]
+    - Shadow Ball[9]
+  :::
+  :::pokemon[Onix]
+    - Shadow Ball[8]
+  :::
+:::::
+
+:::::trainer[Black Belt David]
+  :::pokemon[Onix]
+    - Shadow Ball[7]
+  :::
+  :::pokemon[Steelix]
+    - Shadow Ball[6]
+  :::
+:::::
+
+:::::trainer[Ace Trainer Breanna]
+  :::pokemon[Azumarill]
+    - Grass Knot
+  :::
+:::::
+
+- Revive Monferno.
+- Heal Kadabra to full.
+- _Optionally save before this fight_
+
+:::::trainer[Gym Leader Byron]
+  :::pokemon[Bronzor]
+    - Shadow Ball[5]
+    - Switch to Monferno
+  :::
+  :::pokemon[Steelix]
+    - Mach Punch (die) + Grass Knot
+    :info[Do not teach Role Play]{color=gray}
+  :::
+  :::pokemon[Bastiodon]{info="Stone Edge does 30-34(36)" infoColor=blue}
+    - X-Defense + Grass Knot + X-Sp. Atk + Grass knot
+      - skip X-Sp. Atk if crit first Grass knot
+      - X-Sp. Def if Sp. Def got dropped by Flash Cannon.
+  :::
+:::::
+
+Enter the library and head to the third floor. After the cutscene, exit the library.
+
+- Teach TM21 Dazzling Gleam over Grass Knot (Slot 4).
+- Change Battle Style back to Set.
+- Fly to Celestic Town (small blue, top).
+- Go left and enter Mount Coronet.
+- Refresh Super Repels until Snowpoint City.
+- Grab the Rare Candy in the defog room at the end hidden in the non-breakable rock.
+
+:::::trainer[Ace Trainer Dalton]
+  :::pokemon[Raichu]
+    - Psychic[4]
+  :::
+  :::pokemon[Pelipper]
+    - Psychic[3]
+  :::
+  :::pokemon[Hippopotas]
+    - Psychic[2]
+  :::
+:::::
+
+Head north-by-northeast and grab Rock Climb from the pokeball behind the house, then head north.
+
+:::::trainer[Ace Trainer Olivia]
+  :::pokemon[Roselia]
+    - Psychic[1]
+  :::
+  :::pokemon[Seaking]
+    - Psychic[0]
+  :::
+:::::
+
+As soon as you enter Snowpoint:
+  - Heal Kadabra to full.
+  - Equip Wise Glasses on Kadabra.
+  - Fly to Veilstone City (big red, top right).
+
+Go South to Lake Valor.
+
+:::::trainer[Commander Saturn]
+  :::pokemon[Kadabra]
+    - Shadow Ball[4]
+  :::
+  :::pokemon[Toxicroak]
+    - Psyshock[0]
+  :::
+  :::pokemon[Bronzor]
+    - Shadow Ball (x2)[2]
+    :info[13/16 Range]{color=red}
+  :::
+:::::
+
+After Saturn:
+  - Equip Choice Specs on Kadabra
+  - Fly to Twinleaf Town (far left blue).
+  - Heal at mom.
+  - Head to Lake Verity.
+
+:::::trainer[Team Galactic Double]
+  - Dazzling Gleam[9] / X-Sp. Atk Kadabra
+  - Dazzling Gleam[8] / X-Sp. Atk Kadabra
+  - Dazzling Gleam[7] / Heal
+:::::
+
+After the Double fight: 
+  - **Swap Metronome to Kadabra**
+  - **Give 1 Rare Candy to Kadabra to level 44**
+  - (Heal Kadabra to full if needed)
+  - Deposit Monferno
+
+Surf around the second double battle (avoid grass completely).
+
+:::::trainer[Commander Mars]
+  :::pokemon[Golbat]
+    - Psychic[9]
+  :::
+  :::pokemon[Purugly]
+    - Psychic (x2)[8]
+    :info[13/16 Range]{color=red}
+  :::
+  :::pokemon[Bronzor]
+    - Shadow Ball x2
+    :info[Payback does 34-38]{color=blue}
+  :::
+:::::
+
+- Heal Kadabra to full.
+- Equip Wise Glasses on Kadabra.
+- Fly to Snowpoint (far north).
+- **Check Pokétch step counter to know when repel will expire.**
+
+When you see the two grunts, head east. Head to the Snowpoint Gym.
+- This is the way if the repel isnt set up correctly.
+![](https://media.discordapp.net/attachments/735229809420009516/914430703243001886/candice-all.png?width=406&height=447)
+
+Get to Candice this way if the repel is set up correctly:
+  - https://www.twitch.tv/wartab/clip/KawaiiArtsySpiderPanicBasket-U2cvog5Jk4rfAuBa
+  - The Super Repel is effective for 200 steps.
+
+:::::trainer[Gym Leader Candice]
+  :::pokemon[Snover]
+    - X-Sp. Atk + Dazzling Gleam[6]
+  :::
+  :::pokemon[Medicham]
+    - Dazzling Gleam[5]
+  :::
+  :::pokemon[Sneasel]
+    - Dazzling Gleam[4]
+    - If Dig, heal to full.
+  :::
+  :::pokemon[Abomasnow]
+    - Psychic[7]
+  :::
+:::::
+
+  - Exit the gym by going tile to the left on Candice.
+  - Head to Lake Acuity.
+  - Fly to Veilstone City (big red, top right).
+  - Drop Repel in Veilstone.
+  - Talk to the Grunt to get the Storage Key.
+
+:::::trainer[Team Galactic Grunt]
+  :::pokemon[Dustox]
+    - Psychic[6]
+  :::
+  :::pokemon[Bronzor]
+    - Shadow Ball
+  :::
+:::::
+
+Take the left teleporter. After heading up the stairs, take the teleporter to the left.
+
+:::::trainer[Scientist Fredrick]
+  :::pokemon[Kadabra]
+    - Shadow Ball
+  :::
+  :::pokemon[Kadabra]
+    - Shadow Ball 
+  :::
+:::::
+
+Grab the Galactic Key in the pokeball behind the boxes.
+
+Exit the warehouse and head to the Galactic HQ. 
+
+Enter the middle door and head up the stairs.
+
+:::::trainer[Team Galactic Grunt(right)]
+  :::pokemon[Golbat]
+    - Psychic[5]
+  :::
+  :::pokemon[Silcoon]
+    - Psychic[4]
+  :::
+:::::
+
+After this fight:
+  - Use the teleporter in the middle room, then head up the stairs.
+  - Talk to the bed from the side for a free heal. Then up the stairs.
+  - Grab the Full Restore in the machine thing to the right, then fight the double battle.
+  - Withdraw Monferno.
+
+:::::trainer[Team Galactic Double]
+  - Dazzling Gleam[9] / Anything
+  - Dazzling Gleam[8] / Heal
+  - Dazzling Gleam[7] / Heal
+:::::
+
+- Take the middle warp.
+- Pickup the Elixer.
+- Pickup the hidden Rare Candy[2] left at the boxes.
+- Take the Left-most Warp.
+
+:::::trainer[Team Galactic Boss Cyrus]
+  :::pokemon[Murkrow]
+    - Dazzling Gleam[6]
+  :::
+  :::pokemon[Golbat]
+    - Psychic[9]
+  :::
+  :::pokemon[Sneasel]
+    - Dazzling Gleam (x2)[4]
+    :info[10/16 Range]{color=red}
+  :::
+:::::
+
+Take the teleporter in the north-east of the room.
+
+:::::trainer[Commander Saturn]
+  :::pokemon[Kadabra]
+    - Shadow Ball[14]
+  :::
+  :::pokemon[Bronzor]
+    - Shadow Ball[13]
+  :::
+  :::pokemon[Toxicroak]
+    - Psyshock[7]
+  :::
+:::::
+
+Leave the Galactic HQ and fly to Oreburgh. Head north, and once inside Mt. Coronet:
+- Heal to full.
+- Super Repel (keep refreshed).
+
+Head through the one tile path after biking up the slope and head to Mt. Coronet. 
+
+Surf across the water, then Rock Climb and head up the stairs.
+
+Pickup the Max Revive before the spinners if you had to use the Revival Herb.
+
+Grab the Ether from the rock between the two spinner grunts.
+
+Grab the Rare Candy in the last outdoor section on the rock in the grass.
+
+:::::trainer[Team Galactic Grunt]
+  :::pokemon[Bronzor]
+    - Shadow Ball[12]
+  :::
+  :::pokemon[Glameow]
+    - Psyshock[6]
+  :::
+:::::
+
+:::::trainer[Team Galactic Grunt]
+  :::pokemon[Bronzor]
+    - Shadow Ball[11]
+  :::
+  :::pokemon[Golbat]
+    - Psyshock[5]
+  :::
+:::::
+
+:::::trainer[Team Galactic Grunt]
+  :::pokemon[Golbat]
+    - Psychic[8]
+  :::
+  :::pokemon[Glameow]
+    - Psyshock[4]
+  :::
+  :::pokemon[Bronzor]
+    - Shadow Ball[10]
+  :::
+:::::
+
+:::::trainer[Team Galactic Double]
+  - Dazzling Gleam[3] / Flamethrower Dustox
+  - Dazzling Gleam[2] / Heal Kadabra
+:::::
+
+- Heal Kadabra to full.
+- Give 2 Rare Candies to Kadabra to level 51.
+
+:::::trainer[Commander Jupiter & Mars]{info="Snarl does 54-62(66)"}
+  - X-Defense + X-Sp. Atk x2 (don't technically need 2 without light screen)
+  - Full Restore if needed.
+  - **Heal to full before attacking!**
+  - Shadow Ball[9] **RIGHT BRONZOR**
+  - Psychic[7] **RIGHT Purugly + RIGHT Golbat**
+  - Shadow Ball[8] **LEFT BRONZOR**
+  - Psychic[6] **LEFT GOLBAT**
+  - Dazzling Gleam (x2 in Light Screen) **LEFT Skunktank**
+:::::
+
+:info[**Free Heal**]{color=pink}
+
+:::::trainer[Team Galactic Boss Cyrus]{info="You are slower than Crobat and Weavile, heal as needed"}
+  :::pokemon[Honchkrow]
+    - Dazzling Gleam[9]
+  :::
+  :::pokemon[Gyarados]
+    - Psyshock[9] + Revival Herb Kadabra + Psyshock[8]
+  :::
+  :::pokemon[Crobat]
+    - X-Defense (+ X-Sp. Atk (+ Dazzling Gleam))
+    :info[U-turn does (46)48-54(56)]{color=blue}
+      - Should U-turn at some point.....
+  :::
+  :::pokemon[Weavile]
+    - (X-Sp. Atk if not done so yet) Dazzling Gleam[8]
+    :info[Dig does 38-44(45)]
+  :::
+  :::pokemon[Crobat]
+    - Psychic[9]
+  :::
+:::::
+
+- Catch Dialga with the Master Ball.
+- Enter the cave again.
+- Equip Choice Specs on Kadabra.
+- Deposit Monferno.
+- Equip Metronome on Dialga.
+- Escape Rope.
+- Fly to Pastoria.
+- Get the free heal from the hotel.
+
+:::::trainer[Sailor Luther]
+  :::pokemon[Feebas]
+    - Psyshock[9]
+  :::
+  :::pokemon[Gastrodon]
+    - Psyshock[8]
+  :::
+  :::pokemon[Machoke]
+    - Psyshock[7]
+  :::
+:::::
+
+After entering Sunyshore, head to the lighthouse. Talk to Volkner, then head to the gym.
+
+Gym Puzzle: Right, Left
+:::::trainer[School Kid Tiera]
+  :::pokemon[Pachirisu]
+    - Psychic[9]
+  :::
+:::::
+
+Gym Puzzle: Left Blue x3
+:::::trainer[School Kid Forrest]
+  :::pokemon[Mr. Mime]
+    - Shadow Ball[14]
+  :::
+:::::
+
+Gym Puzzle: Blue + Green
+:::::trainer[Guitarist Jerry]
+  :::pokemon[Luxio]
+    - Shadow Ball[13]
+  :::
+:::::
+
+Gym Puzzle: Red then the next red
+:::::trainer[Ace Trainer Destiny]
+  :::pokemon[Kadabra]
+    - Shadow Ball[12]
+  :::
+  :::pokemon[Raichu]
+    - Shadow Ball (x2)[10]
+    :info[14/16 Range]{color=red}
+  :::
+:::::
+
+:::::trainer[Guitarist Preston]
+  :::pokemon[Luxio]
+    - Psyshock[6]
+  :::
+  :::pokemon[Bibarel]
+    - Psyshock[5]
+  :::
+:::::
+
+Gym Puzzle: Green x2 then Blue
+:::::::trainer[Ace Trainer Zachery]
+  :::::pokemon[Steelix]
+    - Shadow Ball x2[8]
+  :::::
+  :::::pokemon[Medicham]
+    - Shadow Ball[7]
+  :::::
+:::::::
+
+:::::trainer[Gym Leader Volkner]
+  :::pokemon[Raichu]
+    - Psychic[8]
+      - Should Volt Switch to Ambipom
+      - Heal if Raichu crit
+  :::
+  :::pokemon[Raichu]
+    - X-Speed + Psychic[7]
+    - Should Volt Switch to Octillery
+  :::
+  :::pokemon[Octillery]
+    - Psychic[6]
+  :::
+  :::pokemon[Luxray]
+    - Psychic[5]
+  :::
+:::::
+
+- Get Waterfall from Jasmine.
+- Super Repel (refresh until you get to the Pokemon League).
+- Heal Kadabra to full.
+- Head north to Victory Road.
+
+:::::trainer[Swimmer Oscar]
+  :::pokemon[Mantyke]
+    - Psyshock[4]
+  :::
+  :::pokemon[Remoraid]
+    - Psyshock[3]
+  :::
+  :::pokemon[Mantine]
+    - Psyshock[2]
+  :::
+:::::
+
+:::::trainer[Ace Trainer Mariah]
+  :::pokemon[Golduck]
+    -  Psyshock[1]
+  :::
+  :::pokemon[Blissey]
+    - Psyshock[0]
+  :::
+:::::
+
+:::::trainer[Ace Trainer Omar]
+  :::pokemon[Rapidash]
+    -  Psychic[4]
+  :::
+  :::pokemon[Carnivine]
+    - Psychic[3]
+  :::
+  :::pokemon[Rampardos]
+    - Psychic[2]
+  :::
+:::::
+
+:::::trainer[Ace Trainer Sydney]
+  :::pokemon[Clefable]
+    - Psychic[1]
+  :::
+  :::pokemon[Torterra]
+    - Psychic[0]
+  :::
+:::::
+
+- Ether Psychic on Kadabra.
+- Pickup the hidden Rare Candy after pushing the last boulder south of Clayton.
+
+:::::trainer[Veteran Clayton]
+  :::pokemon[Staraptor]
+    - Psychic[9]
+  :::
+  :::pokemon[Hippowdon]
+    - Psychic[8]
+  :::
+:::::
+
+:::::::trainer[Black Belt Miles]
+  :::::pokemon[Machamp]
+    - Psychic[7]
+  :::::
+:::::::
+
+:::::trainer[Psychic Valencia]
+  :::pokemon[Chingling]
+    - Shadow Ball[6]
+  :::
+  :::pokemon[Chimecho]
+    - Shadow Ball[5]
+  :::
+:::::
+
+Grab the Dragon Pulse TM down the waterfall before the trainer.
+
+:::::trainer[Dragon Tamer Andre]
+  :::pokemon[Gabite]
+    - Psychic[6]
+  :::
+:::::
+
+- Remove Choice Specs from Kadabra.
+- Deposit Kadabra.
+- Teach TM24 Thunderbolt over Slash (Slot 2).
+- Teach TM59 Dragon Pulse over Roar of Time (Slot 4).
+
+:::::trainer[Veteran Edgar]{info="Heal as needed"}
+  :::pokemon[Tentacruel]
+    - X-Sp. Atk + Thunderbolt[14] / Dragon Pulse[9] (if Reflect Type)
+  :::
+  :::pokemon[Golem]
+    - Ancient Power + Dragon Pulse[8]
+  :::
+  :::pokemon[Empoleon]
+    - Thunderbolt[13]
+  :::
+:::::
+
+:::::trainer[Dragon Tamer Clinton]
+  :::pokemon[Gible]
+    - Flash Cannon[9]
+  :::
+  :::pokemon[Gyarados]
+    - Thunderbolt[12]
+  :::
+  :::pokemon[Gible]
+    - Flash Cannon[8]
+  :::
+:::::
+
+**Elite 4 Shopping:**
+- Max Full Restores (RR^)
+
+:::::trainer[Pokemon Trainer Barry]
+  :::pokemon[Staraptor]
+    - X-Defense + X-Sp. Atk x2 + X-Speed + Dragon Pulse x2[6]
+  :::
+  :::pokemon[Snorlax]
+    - Dragon Pulse[4]
+  :::
+  :::pokemon[Roserade]
+    - Dragon Pulse[3]
+  :::
+  :::pokemon[Heracross]
+    - Dragon Pulse[2]
+  :::
+  :::pokemon[Rapidash]
+    - Dragon Pulse[1]
+  :::
+  :::pokemon[Empoleon]
+    :info[Has Quick Claw]{color=red}
+    - Dragon Pulse[0] / Thunderbolt[11]
+  :::
+:::::
+
+- Heal to full.
+- Ether Dragon Pulse[10].
+- Equip Choice Specs.
+- Give the Rare Candy to Dialga.
+
+:::::trainer[Elite Four Aaron]
+  :::pokemon[Dustox]
+    - X-Speed + X-Sp. Atk x2 + Dragon Pulse[9]
+    - If no Light Screen after two turns, attack immediately.
+  :::
+  :::pokemon[Heracross]
+    - Dragon Pulse[8]
+  :::
+  :::pokemon[Beautifly]
+    - Dragon Pulse[7]
+  :::
+  :::pokemon[Vespiquen]
+    - (heal if still Light Screened +) Dragon Pulse[6]
+  :::
+  :::pokemon[Drapion]
+    - Dragon Pulse[5]
+  :::
+:::::
+
+- Heal Dialga to full.
+- Equip Metronome.
+
+:::::::trainer[Elite Four Bertha]
+  :::::pokemon[Quagsire]
+    - X-Defense + X-Speed + X-Sp. Atk + Full Restore + Dragon Pulse[4]
+  :::::
+  :::::pokemon[Golem]
+    - Ancient Power + Dragon Pulse[3]
+  :::::
+  :::::pokemon[Sudowoodo]
+    - Dragon Pulse[2]
+  :::::
+  :::::pokemon[Whiscash]
+    - Dragon Pulse[1]
+  :::::
+  :::::pokemon[Hippowdon]
+    - Dragon Pulse[0]
+  :::::
+:::::::
+
+- Heal Dialga to full.
+- Equip Choice Specs.
+
+:::::::trainer[Elite Four Flint]
+  :::::pokemon[Rapidash]
+    - X-Defense x2 + X-Sp. Atk x2 + X-Speed (x2) + Flash Cannon[9] 
+    :info[Use 2 X-Speeds with 102 Speed or less at Lv55 (-15 / x / x)]
+    - Power through sleep before attacking, be out of CC + MP range
+  :::::
+  :::::pokemon[Lopunny]
+    - Flash Cannon[8]
+  :::::
+  :::::pokemon[Steelix]
+    - Flash Cannon[7]
+  :::::
+  :::::pokemon[Drifblim]
+    - Flash Cannon[6]
+  :::::
+  :::::pokemon[Infernape]{baseStats="[76, 104, 71, 104, 71, 108]" ivs="[31, 31, 31, 0, 31, 31]" evs="[12, 60, 0, 0, 0, 204]" nature="Jolly" type="Fire/Fighting" level=62}
+    - Flash Cannon x2[4]
+    :damage[Infernape's Mach Punch at +4 Defense]{source="Dialga" offensive=false movePower=40 level=57 special=false opponentCombatStages=4 type="Fighting"}
+    :damage[Infernape's Close Combat at +4 Defense]{source="Dialga" offensive=false movePower=120 level=57 special=false opponentCombatStages=4 type="Fighting"}
+  :::::
+:::::::
+
+- Heal Dialga to full.
+- Elixir Dialga.
+- Equip Metronome unless 206+ Sp.Atk on Bronzong (X / X / 22+).
+
+:::::trainer[Elite Four Lucian]
+  :::pokemon[Mr. Mime]
+    - X Speed x2 + X-Sp. Atk x3 + Flash Cannon
+  :::
+  :::pokemon[Medicham]
+    - Flash Cannon
+  :::
+  :::pokemon[Girafarig]
+    - Flash Cannon
+  :::
+  :::pokemon[Alakazam]
+    - Flash Cannon
+  :::
+  :::pokemon[Bronzong]
+    - Flash Cannon
+  :::
+:::::
+
+- Heal to full.
+
+:::::trainer[Champion Cynthia]
+  :::pokemon[Spiritomb]{baseStats="[50, 92, 108, 92, 108, 35]" ivs="[31, 31, 31, 31, 31, 31]" evs="[252, 6, 0, 252, 0, 0]" type="Ghost/Dark" level=61 nature="Quiet"}
+    - X-Sp. Defense :info[Tricks Cynthia into spamming Sucker Punch. May need to use 2 if horrible Sp. Def and good Def.]{color=gray}
+    - X-Speed (x2) :info[Only one X-Speed if 107+ Speed at Lv57 (15+ / X / X).]
+    - X Sp. Attack x2
+    - Dragon Pulse
+    :damage[Spiritomb's Shadow Ball/Dark Pulse at +2 Sp. Defense]{source="Dialga" offensive=false movePower=80 level=56 special=true combatStages=2 evs=15 type="Dark"}
+  :::
+  :::pokemon[Gastrodon]
+    - Dragon Pulse
+  :::
+  :::pokemon[Lucario]
+    - Dragon Pulse
+  :::
+  :::pokemon[Roserade]
+    - Dragon Pulse
+  :::
+  :::pokemon[Milotic]
+    - Dragon Pulse
+  :::
+  :::pokemon[Garchomp]
+    - Dragon Pulse
+  :::
+:::::
+Great game, very well played.
+
+Timing presumably ends on the first black frame of the fadeout after you are inducted to the Hall of Fame.
