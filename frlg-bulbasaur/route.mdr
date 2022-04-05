@@ -1156,7 +1156,7 @@ Take the elevator to 10F and fight the Rocket below left
 :::::trainer[Rocket Grunt]
   :::pokemon[Machoke]
     - Hyper Beam
-    - Razor Leaf* / Giga Drain* if in Overgrow
+    - Razor Leaf* if in Overgrow
   :::
 :::::
 
@@ -1176,7 +1176,7 @@ Before the Rival fight:
 - Use the Proteins
 - Use the Elixir
 - (Equip Sitrus Berry)
-- Teach Giga Drain over Razor Leaf if haven't yet
+- Teach Giga Drain over Razor Leaf
 
 *Two options for the Rival fight - Return or Hyper Beam. Pick your poison:*
 - *Return requires setting up to +3 on Pidgeot - very scary since it does a lot of damage and knows Featherdance*
@@ -1315,6 +1315,15 @@ Escape rope out, then go to the Copycat house, and teach Mimic over Secret Power
   - Teach Surf to Lapras
   - Super Repel
   - Fly to Pallet, surf south to Cinnabar
+
+Exit and fly to Fuchsia, grab HM04 from the Warden
+
+Go up to the boulder, and menu:
+- Teach Surf to Lapras and Strength to Sandshrew
+  - Teach Strength to Lapras if no Shrew/Nidoran or L12+ Shrew
+- Super Repel
+
+Grab the Warden Candy, then exit and fly to Pallet, surf south to Cinnabar
 
 Go to the mansion (approach from the left side)
 
