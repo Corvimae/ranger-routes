@@ -4,7 +4,7 @@
 
 :info[**This route is for Alpha Sapphire.**]{color=blue}
 
-**Latias stats: All 31s, Rash.*
+**Latias stats: All 31s, Rash.**
 
 Latias moves:
 1. Helping Hand
@@ -21,35 +21,36 @@ Finish the catch tutorial then save directly in front of the Petalburg center. E
 Immediately after starting:
 - Raise Latias' Affection to 2 using Pokemon Amie.
 
-#### Making Faces Method (very lighting/person dependent)
-- Feed Latias a fancy puff.
-- Feed Latias a frosted puff.
-- Win Making Faces 3 times (tilt the 3DS side to side while your face is detected to start).
-- Pet Latias on the forehead 5 times.
-- Feed Latias 2 more times.
+:::card[**Making Faces Method (very lighting/person dependent)**]{theme=info}
+  - Feed Latias a fancy puff.
+  - Feed Latias a frosted puff.
+  - Win Making Faces 3 times (tilt the 3DS side to side while your face is detected to start).
+  - Pet Latias on the forehead 5 times.
+  - Feed Latias 2 more times.
+:::
+:::card[**Puzzle Method (more consistent)**]{theme=info}
+  - Feed Latias a fancy puff.
+  - Feed Latias a frosted puff.
+  - Win the easy Tile Puzzle game three times. Aim for a sub-15s win each time. Press "Play Again" after each attempt.
+  - Feed Latias 5 frosted puffs :info[If you don't get enough frosted puffs, feed normal puffs]{color=gray}
+  - Pet Latias on the forehead twice.
+  - Win the easy Tile Puzzle another three times. :info[Again aiming for a sub-15s win and pressing "Play Again"]{color=gray}
+  - Feed Latias 5 frosted puffs. :info[If you don't get enough frosted puffs, feed normal puffs]{color=gray}
+  - Pet Latias on the forehead two times.
+  - Pet Latias anywhere except the forehead and the wings. :info[If you fed any normal puffs, pet on the forehead instead.]{color=gray}
 
-#### Puzzle Method (more consistent)
-- Feed Latias a fancy puff.
-- Feed Latias a frosted puff.
-- Win the easy Tile Puzzle game three times. Aim for a sub-15s win each time. Press "Play Again" after each attempt.
-- Feed Latias 5 frosted puffs :info[If you don't get enough frosted puffs, feed normal puffs]{color=gray}
-- Pet Latias on the forehead twice.
-- Win the easy Tile Puzzle another three times. :info[Again aiming for a sub-15s win and pressing "Play Again"]{color=gray}
-- Feed Latias 5 frosted puffs. :info[If you don't get enough frosted puffs, feed normal puffs]{color=gray}
-- Pet Latias on the forehead two times.
-- Pet Latias anywhere except the forehead and the wings. :info[If you fed any normal puffs, pet on the forehead instead.]{color=gray}
+  **If you didn't get enough frosted puffs:**
 
-**If you didn't get enough frosted puffs:**
-
-Each regular puff you feed instead of a frosted puff is -1 Affection. The above method gives 52 Affection and you need 50 to get the experience boost, so you need to do the following to adjust for each missed frosted puff beyond the second:
-- **If you're missing 3 or less Affection:**
-  - Feed a frosted puff to Latias. :info[If you don't have any frosted puffs and are missing exactly 3 Affection, do the 4 Affection backup.]{color=gray}
-- **If you're missing 4+ Affection:**
-  - Open the puzzle and win.
-  - Feed a frosted puff. :info[Or a regular puff if you don't have one]{color=gray}
-  - Pet Latias on the forehead.
-  - If you're missing 7+ Affection: :info[or 6+ if you fed a regular puff]{color=gray}
-    - Feed another frosted puff for +3 or another regular puff for +2.
+  Each regular puff you feed instead of a frosted puff is -1 Affection. The above method gives 52 Affection and you need 50 to get the experience boost, so you need to do the following to adjust for each missed frosted puff beyond the second:
+  - **If you're missing 3 or less Affection:**
+    - Feed a frosted puff to Latias. :info[If you don't have any frosted puffs and are missing exactly 3 Affection, do the 4 Affection backup.]{color=gray}
+  - **If you're missing 4+ Affection:**
+    - Open the puzzle and win.
+    - Feed a frosted puff. :info[Or a regular puff if you don't have one]{color=gray}
+    - Pet Latias on the forehead.
+    - If you're missing 7+ Affection: :info[or 6+ if you fed a regular puff]{color=gray}
+      - Feed another frosted puff for +3 or another regular puff for +2.
+:::
 
 :::::trainer[Aqua Grunt]
   :::pokemon[Poochyena]
@@ -650,7 +651,7 @@ Grab the Grass Knot TM from behind the gym.
   :::
 :::::
 
-Get the Skitty heal :info[in a flash!]{color=gray}.
+Get the Skitty heal :info[in a flash!]{color=gray}
 
 - Grab the Shadow Ball TM on the top floor of the interior of Mt. Pyre.
 
@@ -926,9 +927,10 @@ Use the Master Ball on Kyogre. Do not nickname it.
   :::pokemon[Altaria]
     - X Sp. Attack
     - Dragon Breath
+  
+    ::level{source="Latias" value=49}
   :::
-  ::level{source="Latias" value=49}
-    :::pokemon[Delcatty]
+  :::pokemon[Delcatty]
     - Mist Ball
   :::
   :::pokemon[Magneton]
@@ -958,7 +960,7 @@ Use the Master Ball on Kyogre. Do not nickname it.
 
     ::damage[Mightyena's Crunch/Sucker Punch at +0 Defense]{source="Latias" offensive=false movePower=80 evs=18 opponentLevel=50 opponentStat=89 type=Dark stab=true}
 
-    ::damage[Mightyena's Crunch/Sucker Punch at -1 Defense]{source="Latias"offensive=false movePower=80 evs=18 opponentLevel=50 opponentStat=89 type=Dark stab=true combatStages=-1}
+    ::damage[Mightyena's Crunch/Sucker Punch at -1 Defense]{source="Latias" offensive=false movePower=80 evs=18 opponentLevel=50 opponentStat=89 type=Dark stab=true combatStages=-1}
   :::
   :::pokemon[Sharpedo]
     - Dragon Breath
@@ -980,7 +982,7 @@ Use the Master Ball on Kyogre. Do not nickname it.
 
 **Save before talking to Phoebe.**
 
-:::::trainer[Elite Four Phoebe]}
+:::::trainer[Elite Four Phoebe]
   :::pokemon[Dusclops]
     - Shadow Ball x2
     
@@ -1029,9 +1031,9 @@ Use the Master Ball on Kyogre. Do not nickname it.
 
     ::damage[Glalie's Crunch at +0 Defense]{source="Latias" offensive=false movePower=80 evs=21 opponentLevel=51 opponentStat=92 type=Dark}
 
-    ::damage[Glalie's Ice Shard at +1 Defense]{source="Latias" evolution=1 offensive=false movePower=40 evs=21 opponentLevel=51 opponentStat=92 stab=true type=Ice combatStages=1}
+    ::damage[Glalie's Ice Shard at +1 Defense]{source="Latias" offensive=false movePower=40 evs=21 opponentLevel=51 opponentStat=92 stab=true type=Ice combatStages=1}
 
-    ::damage[Glalie's Ice Shard at +0 Defense]{source="Latias" evolution=1 offensive=false movePower=40  evs=21 opponentLevel=51 opponentStat=92 stab=true type=Ice}
+    ::damage[Glalie's Ice Shard at +0 Defense]{source="Latias" offensive=false movePower=40  evs=21 opponentLevel=51 opponentStat=92 stab=true type=Ice}
   :::
   :::pokemon[Froslass]
     - Shadow Ball
@@ -1041,7 +1043,7 @@ Use the Master Ball on Kyogre. Do not nickname it.
   
     ::level{source="Latias" value=54}
   :::
-  :::pokemon[Walrein]{info="If you miss, you'd better hope Walrein misses too."}
+  :::pokemon[Walrein]
     - Psychic
   :::
   :::pokemon[Glalie]
@@ -1050,7 +1052,7 @@ Use the Master Ball on Kyogre. Do not nickname it.
 :::::
 
 :::::trainer[Elite Four Drake]
-  :::pokemon[Altaria]{info="Heal as needed before using Shadow Ball."}
+  :::pokemon[Altaria]
     - X Sp. Attack
     - Dragon Breath
   
