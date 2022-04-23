@@ -16,6 +16,8 @@ Set the date to September 15, 2001.
 
 Pick Mudkip. :info[You can take any Mudkip.]{color=gray}
 
+On your way to Petalburg, catch any Pokemon.
+
 Finish the catch tutorial then save directly in front of the Petalburg center. Edit your save to have the correct Latias. Keep Mudkip in slot 1.
 
 Immediately after starting:
@@ -58,21 +60,19 @@ Immediately after starting:
   :::
 :::::
 
-- Move Latias to slot 1. :info[Can also do after the double battle]{color=gray}
 - Turn off the Exp. Share.
 
 - Pick up the Balm Mushroom.
-- Pick up the Ether.
 
 :::::trainer[Twins Gina & Mia]{info="Use Mudkip to heal as needed. This fight actually sucks."}
-  - Latias: Spam Psywave
   - Mudkip: Spam Growl
+  - Latias: Spam Psywave. Prioritize Seedot.
 
   ::level{source="Latias" value=8}
 :::::
 
 - Go to the Cut House and get the Cut HM.
-- Heal at the center.
+- Deposit your Route 101/103 catch and PC heal Latias.
 
 :::::trainer[Leader Roxanne]{info="Heal as needed."}
   :::pokemon[Geodude]
@@ -84,13 +84,16 @@ Immediately after starting:
   :::
 
 
-  :::pokemon[Nosepass]{info="Heal as needed. If you get crit, you are dead." infoColor="blue"}
-    - Charm
+  :::pokemon[Nosepass]{info="Heal as needed." infoColor="blue"}
+    - If Nosepass is slower than you: :info[You're slower at -3]{color=blue}
+      - Charm
     - Spam Psywave
   
     ::level{source="Latias" value=10}
 
     ::damage[Nosepass's -2 Rock Tomb]{source="Latias" offensive=false movePower=60 evs=1 opponentLevel=14 opponentStat=17 stab=true opponentCombatStages=-2}
+
+    ::damage[Nosepass's +0 Tackle]{source="Latias" offensive=false movePower=40 opponentLevel=14 opponentStat=17}
 
     ::damage[Nosepass's -2 Tackle]{source="Latias" offensive=false movePower=40 opponentLevel=14 opponentStat=17 opponentCombatStages=-2}
   :::
@@ -109,10 +112,8 @@ After entering Rusturf Tunnel:
 
 :::::trainer[Aqua Grunt]
   :::pokemon[Poochyena]{info="Don't get crit, heal as needed."}
-    - Charm
+    - Charm :info[Whenever Poochyena gets above -2 Attack, use Charm again.]{color=red}
     - Spam Cut.
-
-    Whenever Poochyena uses Howl, use Charm again.
 
     ::level{source="Latias" value=11}
 
@@ -178,17 +179,14 @@ Fight the blue tuber below the pacing sailor on purpose.
 
 - Grab the PP Up in the north-west of Route 109 (Slateport beach).
 
-Head to the market directly left from entering Slateport.
-
 ### Slateport Shopping
 > #### Sell
 > - Balm Mushroom
 > - Great Ball
-> - All Poke Balls
 > - PP Up
 > #### Buy (Top)
 > - 1 X Attack (v)
-> - 11 X Sp. Attack (>^) 
+> - 11 X Sp. Attack (>^^) 
 > #### Buy (Bottom)
 > - 3 Paralyze Heals (>)
 > - 2 Revives (^^)
@@ -196,16 +194,16 @@ Head to the market directly left from entering Slateport.
 > - 4 Super Potions (^^^^^)
 > - 4 Super Repels (>>^)
 
-- Heal Latias if low.
-- Equip the Silk Scarf on Latias.
+- Heal Latias to full.
+- Equip the Silk Scarf on Latias if you unequipped it before Brawly.
 
 **Save before the Aqua Grunt.**
 
 :::::trainer[Aqua Grunt]
-  :::pokemon[Carvanha]
+  :::pokemon[Carvanha]{info="Rough skin does 6 damage." infoColor=blue}
     - Cut x2
     
-    If Latias is killed, revive it with Mudkip, heal it to full, and spam Growl with Mudkip is fainted.
+    If Latias is killed, revive it with Mudkip, heal it to full, and spam Growl with Mudkip is fainted. :info[REVIVE IN SLOT 2.]{color=red}
 
     ::damage[Carvanha's Assurance (not doubled)]{source="Latias" offensive=false movePower=60 level=16 evs=5 opponentLevel=16 opponentStat=33 type=Dark stab=true}
   :::
@@ -213,18 +211,17 @@ Head to the market directly left from entering Slateport.
 
 :::::trainer[Aqua Grunt]
   :::pokemon[Zubat]
-    - Cut x2
+    - Cut x2-3
 
     ::level{source="Latias" value=15}
     
     ::damage[Zubat's Bite]{source="Latias" offensive=false movePower=60 level=17 evs=5 opponentLevel=14 opponentStat=17  type=Dark stab=true}
   :::
-  
 
   :::pokemon[Carvanha]
     - Cut x2
 
-    If Latias is killed, revive it with Mudkip and spam Growl with Mudkip is fainted.
+    If Latias is killed, revive it with Mudkip and spam Growl with Mudkip is fainted. :info[REVIVE IN SLOT 2.]{color=red}
 
     ::damage[Carvanha's Bite]{source="Latias" offensive=false movePower=60 level=17 evs=5 opponentLevel=14 opponentStat=27 type=Dark stab=true}
   :::
@@ -271,10 +268,7 @@ Head to the market directly left from entering Slateport.
 
 :info[**Free heal**]{color=pink}
 
-- Grab the hidden Revive before the first spinner.
-- Grab the Leppa Berries from two trees outside Mauville.
 - Drop Repel once it runs out.
-
 - Get the Mach Bike from the cycle shop.
 
 ## Mauville Shopping
@@ -341,14 +335,6 @@ Head to the gym.
   :::
 :::::
 
-Before leaving Mauville, bike down to the shop.
-
-### Mauville Shopping
-> #### Sell (Top)
-> - Nugget
-> #### Buy (Top)
-> - Charge Beam (vvvv)
-
 At the rocks:
 - Teach Rock Smash to Mudkip over Tackle (slot 1).
 - Use a Super Repel (keep refreshing until they run out).
@@ -364,7 +350,6 @@ At the rocks:
   :::pokemon[Makuhita]
     - X Sp. Attack
     - Stored Power 
-    - Gust
   :::
   :::pokemon[Bagon]
     - Dragon Breath
@@ -395,7 +380,7 @@ At the rocks:
 
 :::::trainer[Team Aqua Double]{info="Heal as needed."}
   - Spam Bulldoze until only Carvanha is left.
-  - Dragon Breath (x2)
+  - Spam Dragon Breath
 
   Teach Mist Ball over Bulldoze (slot 2).
   ::level{source="Latias" value=24}
@@ -410,7 +395,7 @@ Enter the Pokemon Center and deposit Mudkip.
 > - Comet Shard
 > #### Buy (Bottom)
 > - 11 Hyper Potions (>^^)
-> - 8 Full Heals (>)
+> - 5 Full Heals (>)
 > - 11 Max Repels (>^)
 
 At the grass:
@@ -448,8 +433,7 @@ At the grass:
     - X Sp. Attack x2
     - Dragon Breath
 
-    ::damage[Mightyena's Assurance]{source="Latias" evolution=1 offensive=false movePower=60 level=28 evs=7 opponentLevel=25 opponentStat=50 type=Dark stab=true}
-
+    ::damage[Mightyena's Assurance]{source="Latias" offensive=false movePower=60 level=28 evs=7 opponentLevel=25 opponentStat=50 type=Dark stab=true}
   :::
   :::pokemon[Sharpedo]
     - Dragon Breath
@@ -461,7 +445,7 @@ At the grass:
   :::
 :::::
 
-- Get the free heal.
+- Get the free heal from the lady in front of the cable car.
 
 Flannery gym puzzle:
 - Right pad
@@ -482,6 +466,7 @@ Flannery gym puzzle:
 :::::trainer[Leader Flannery]
   :::pokemon[Slugma]
     - Dragon Breath
+  :::
   :::pokemon[Numel]
     - X Sp. Attack
     - Dragon Breath
@@ -496,8 +481,6 @@ Flannery gym puzzle:
 :::::
 
 Say yes to Brendan.
-
-Retrieve Mudkip from the center and PC heal Latias.
 
 Take the right door.
 
@@ -598,7 +581,7 @@ Fight the top Aqua grunt on the first floor of the Weather Institute.
 **Save before Shelley.**
 
 :::::trainer[Aqua Admin Shelley]
-  :::pokemon[Sharpedo]{info="Sharpedo outspeeds unless Unburden kicks in."}
+  :::pokemon[Sharpedo]
     - Dragon Breath x2
 
     ::damage[Sharpedo's Ice Fang]{source="Latias" offensive=false movePower=65 evs=9 opponentLevel=32 opponentStat=89 type=Ice}
@@ -625,9 +608,7 @@ Run from Kekleon.
 
 Grab the Grass Knot TM from behind the gym.
 
-- Heal to full.
-- Teach Grass Knot over Stored Power (slot 2).
-- Use the PP Max on Mist Ball (mash A).
+- Heal if you took significant damage.
 
 :::::trainer[Leader Winona]
   :::pokemon[Swellow]{info="Swellow outspeeds" infoColor="blue"}
@@ -684,6 +665,9 @@ Get the Skitty heal :info[in a flash!]{color=gray}
 :::::
 
 - Heal if in red health.
+- Use the PP Max on Mist Ball (mash A).
+- Teach Grass Knot over Stored Power (slot 1).
+- Teach Fly to your backup Latias over Heal Pulse (slot 1).
 - Heal poison if you're poisoned.
 
 :::::trainer[Aqua Admin Matt]
@@ -694,8 +678,7 @@ Get the Skitty heal :info[in a flash!]{color=gray}
   :::
 :::::
 
-- Heal to full.
-- Teach Fly to your backup Latias over Heal Pulse (slot 1).
+- Heal if low.
 - Fly to Slateport.
 
 ### Slateport Shopping
@@ -882,7 +865,7 @@ Use the Master Ball on Kyogre. Do not nickname it.
 :::::
 
 - Teach Waterfall to the false Latias over Dragon Breath (slot 2).
-- Teach Shadow Ball to Latias over Grass Knot (slot 2).
+- Teach Shadow Ball to Latias over Grass Knot (slot 1).
 - Move the Latiasite from the bad Latias to the good Latias.
 - Fly to Route 126.
 
@@ -921,7 +904,7 @@ Use the Master Ball on Kyogre. Do not nickname it.
   :::
 :::::
 
-- Heal to full.
+- Heal if under ~2/3 HP.
 
 :::::trainer[Pokemon Trainer Wally]
   :::pokemon[Altaria]
@@ -956,6 +939,7 @@ Use the Master Ball on Kyogre. Do not nickname it.
 :::::trainer[Elite Four Sidney]
   :::pokemon[Mightyena]{info="Heal as needed. Has Sucker Punch."}
     - X Sp. Attack x2
+    - (Heal Confusion)
     - [Mega Evolve] Dragon Breath
 
     ::damage[Mightyena's Crunch/Sucker Punch at +0 Defense]{source="Latias" offensive=false movePower=80 evs=18 opponentLevel=50 opponentStat=89 type=Dark stab=true}
@@ -992,12 +976,8 @@ Use the Master Ball on Kyogre. Do not nickname it.
     - Switch to Kyogre
     - Heal Latias to full.
     - Spam Aqua Veil until Kyogre dies.
-    - Fast strat:
-      - X Sp. Attack :info[If Sableye uses Knock Off, I don't know what you do.]{color=gray}
-      - [Mega Evolve] Dragon Breath
-    - Safe strat:
-      - [Mega Evolve] Dragon Breath x3
-    -
+    - X Sp. Attack
+    - [Mega Evolve] Dragon Breath
   :::
   :::pokemon[Banette]
     - Shadow Ball
@@ -1006,9 +986,7 @@ Use the Master Ball on Kyogre. Do not nickname it.
     - Shadow Ball
   :::
   :::pokemon[Dusknoir]
-    - If you did the safe strat:
-      - Heal to full.
-    - Shadow Ball (x2)
+    - Shadow Ball
   
     ::level{source="Latias" value=53}
   :::
@@ -1051,10 +1029,12 @@ Use the Master Ball on Kyogre. Do not nickname it.
   :::
 :::::
 
+- Heal to full. :info[Or heal if under 100 HP and risk the range]{color=gray}
+
 :::::trainer[Elite Four Drake]
   :::pokemon[Altaria]
     - X Sp. Attack
-    - Dragon Breath
+    - Dragon Breath (x2) :info[11/16 range]{color=red}
   
     ::level{source="Latias" value=55}
   :::
@@ -1075,8 +1055,6 @@ Use the Master Ball on Kyogre. Do not nickname it.
 :::::
 
 - Heal to full.
-
-**Save before entering Steven's room.**
 
 :::::trainer[Champion Steven]
   :::pokemon[Skarmory]{info="Heal as needed."}
