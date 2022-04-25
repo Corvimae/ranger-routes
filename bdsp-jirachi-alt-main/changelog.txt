@@ -114,4 +114,26 @@ Version 1.4.0
 	Added Shockwave ranges from Alakazam
 	Updated Cynthia to have +0 Sucker Punch ranges, +3/+4 Dark Pulse ranges, +0 Earthquake ranges, +6 Metronome-0 Flash Cannon ranges
 
+Version 1.4.1
+	Added a heal between Natalie and Logan
+	Added Expert Belt to Fantina's Mismagius
+	Updated the Metronome bonus from 1.6 to 1.8 on Rival 4's Ponyta
 
+Version 1.4.2
+	Move Jirachi back to Slot 1 after Byron
+	Moved some menus around
+	Added the note of the Expert Belt to Fantina's Mismagius
+	Changed the menus before Jubilife the first time
+	Cleaned up some syntax
+	Updated Vespiquen to actually have correct stats
+
+Version 1.4.3
+	Added a line break after Defog note
+	Updated Jupiter & Mars' Thunderbolt to be special
+	Fixed syntax on the Grunt fight 2 fights before
+	Updated Saturn 2's Toxicroak to be a range
+	Fixed the hyperlink?
+	Added Wartab's Spinner Setup Document
+	Updated Volt Switch to be special
+	Fixed syntax on Volkner's Raichu
+	Updated Flint's Steelix's Crunch to consider Sheer Force + Life Orb (It's approximate)
