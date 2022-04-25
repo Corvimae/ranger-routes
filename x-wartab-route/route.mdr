@@ -798,20 +798,20 @@ Go right after the first climbing rope
        - Rock Tomb
   :::::     
   :::::pokemon[Gogoat]
-    :::if{source="Hawlucha" condition="atk=80+" level=33}
-      - Wing Attack
+    :::if{source="Hawlucha" condition="atk=(x/x/15+)"}
+      - Wing Attack at 80+ Attack 
     :::
-    :::if{source="Hawlucha" condition="atk=79-" level=33}
+    :::if{source="Hawlucha" condition="atk=~(x/x/15+)"}
       - Flying Press
     :::
     - If Lucario
       - Low Sweep
   :::::
   :::::pokemon[Weepinbell]
-    :::if{source="Hawlucha" condition="atk=80+" level=33}
-      - Wing Attack
+    :::if{source="Hawlucha" condition="atk=(x/x/15+)"}
+      - Wing Attack at 80+ Attack 
     :::
-    :::if{source="Hawlucha" condition="atk=79-" level=33}
+    :::if{source="Hawlucha" condition="atk=~(x/x/15+)"}
       - Flying Press
     :::
     - If Lucario
@@ -828,18 +828,18 @@ Go right after the first climbing rope
   :::::pokemon[Gogoat]
     - Switch to Hawlucha
     - Swords Dance
-    :::if{source="Hawlucha" condition="atk=80+" level=33}
-      - Wing Attack
+    :::if{source="Hawlucha" condition="atk=(x/x/15+)"}
+      - Wing Attack  at 80+ Attack 
     :::
-    :::if{source="Hawlucha" condition="atk=79-" level=33}
+    :::if{source="Hawlucha" condition="atk=~(x/x/15+)"}
       - Flying Press
     :::
   :::::
   :::::pokemon[Weepinbell]
-    :::if{source="Hawlucha" condition="atk=80+" level=33}
-      - Wing Attack
+    :::if{source="Hawlucha" condition="atk=(x/x/15+)"}
+      - Wing Attack at 80+ Attack 
     :::
-    :::if{source="Hawlucha" condition="atk=79-" level=33}
+    :::if{source="Hawlucha" condition="atk=~(x/x/15+)"}
       - Flying Press
     :::
   :::::
