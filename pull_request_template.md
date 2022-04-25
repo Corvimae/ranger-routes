@@ -2,7 +2,11 @@
 
 ## Route ID (for example, `alpha-sapphire-any-percent`)
 
+_(Write the route ID here)_
+
 ## Summary of changes
+
+_(Write the changes here)_
 
 ## Checklist
 * [ ] I have tested these changes and Ranger does not display any errors or warnings.
