@@ -755,6 +755,16 @@ Go right after the first climbing rope
     - Wing Attack
  ::::
 :::::
+:::::trainer[Pokémon Ranger Twiggy]
+ ::::pokemon[Gloom]
+    - Swords Dance (x2 if low attack)
+    - Wing Attack
+ ::::
+ ::::pokemon[Exeggutor]
+    - Wing Attack
+   ::damage[Exeggutor’s Psyshock does]{source="Hawlucha" special=true offensive=false movePower=80 level=32 opponentLevel=31 stab=true opponentStat=48}
+ ::::
+:::::
 :info[Heal to full if can not live Acrobatics from Jumpluff / Take Down from Gogoat]{color=yellow}
 
 :info[Heal status]{color=yellow}
