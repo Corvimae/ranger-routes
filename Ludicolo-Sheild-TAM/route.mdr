@@ -339,21 +339,22 @@ Surf, Energy ball and Icebeam can all OHKO
 
  Opals gym asks questions heres a link to the answers https://serebii.net/swordshield/gyms.shtml
 
- :::::trainer[Gym Trainer Annette]
-  ::::pokemon[Spritzee]
+:::::trainer[Gym Trainer Annette]
+ ::::pokemon[Spritzee]
   Surf 2x
   :::: 
   ::::pokemon[Slurpuff]
   Surf 2x
   ::::
- :::::trainer[Gym Trainer Teresa]
-  ::::pokemon[Swirlix]
+:::::
+:::::trainer[Gym Trainer Teresa]
+ ::::pokemon[Swirlix]
   Surf
   ::::
   ::::pokemon[Aromatisse]
   Surf 2x
   ::::
-
+:::::
 :::::trainer[Gym Trainer Theodora]
  ::::pokemon[Morgrem]
  surf
@@ -361,9 +362,9 @@ Surf, Energy ball and Icebeam can all OHKO
  ::::pokemon[Gardevoir]
  Surf 2x
  ::::
-
- :::::trainer[Gym Leader Opal]
-  ::::pokemon[Weezing]
+:::::
+:::::trainer[Gym Leader Opal]
+ ::::pokemon[Weezing]
 - xspecial
 - surf
  ::::
@@ -376,7 +377,7 @@ Surf, Energy ball and Icebeam can all OHKO
  ::::pokemon[Alcreamie]
  Max Geyser
  ::::
-
+:::::
 :::::trainer[Hop]
  ::::pokemon[Trevenant]
 - 2 xspecial
@@ -427,8 +428,8 @@ Surf, Energy ball and Icebeam can all OHKO
  ::::pokemon[Lapras]
  Energy Ball
  ::::
-
- :::::trainer[Hop]
+:::::
+:::::trainer[Hop]
   ::::pokemon[Dubwool]
 - 2 xspecial
 - xspeed
@@ -446,10 +447,10 @@ Surf, Energy ball and Icebeam can all OHKO
  ::::pokemon[Cinderace]
  surf
  ::::
-
+:::::
  is grunts even worth mention any more XD surf = free win :)
 
- :::::trainer[Marnie]
+:::::trainer[Marnie]
   ::::pokemon[Liepard]
 - xspeed
 - 2 xspecial
@@ -468,7 +469,7 @@ Surf, Energy ball and Icebeam can all OHKO
 
  Peirs gym is just endless fights just surf the grunts heal as neccessary
 
- :::::trainer[Gym Leader Piers]
+:::::trainer[Gym Leader Piers]
   ::::pokemon[Scrafty]
 - xspeed
 - 2 xspecial
@@ -571,11 +572,11 @@ tourney time buy as many full restores you can
  ::::pokemon[Cinderace]
  Surf
  ::::
-
+:::::
  for the Macro Cosmos fights with hop just spam surf you get healed between fights
 
- :::::trainer[Oleana]
-  ::::pokemon[Froslass]
+:::::trainer[Oleana]
+ ::::pokemon[Froslass]
 - 2 xspecial
 - Surf
  ::::
@@ -629,8 +630,8 @@ tourney time buy as many full restores you can
  ::::pokemon[Drednaw]
  Energy ball
  ::::
-
- :::::trainer[Allister]
+:::::
+:::::trainer[Allister]
   ::::pokemon[Dusknoir]
 - 2 xspecial
 - xspeed
@@ -648,7 +649,7 @@ tourney time buy as many full restores you can
  ::::pokemon[Gengar]
  Surf
  ::::
-
+:::::
 :::::trainer[Raihan]
  ::::pokemon[Torkoal]
 - 2 xspecial
