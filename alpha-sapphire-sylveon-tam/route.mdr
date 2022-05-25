@@ -4,7 +4,7 @@
 
 :info[**This route is for Alpha Sapphire.**]{color=blue}
 
-**Eevee stats: All 31s, Rash, Anticipation.**
+**Eevee stats: All 31s, Rash, Anticipation. Make sure Eevee has its base value of 50 Friendship!**
 
 Eevee moves:
 1. Tail Whip
@@ -69,38 +69,44 @@ Enter the Center and deposit everything except Eevee.
 - Pick up the Ether.
 
 - Get the Echoed Voice TM from the boy after exiting the forest.
-- Grab the Cheri Berries from the middle trees at the top-right of the pond (run past the fisher).
-
 - Teach Echoed Voice to Eevee over Tail Whip (slot 1).
 
-:::::trainer[Leader Roxanne]{info="Heal as needed."}
-  :::pokemon[Geodude]
-    - Growl x2
-    - Potion if low
-    - Echoed Voice x4-5 :info[More if you got crit and had to break the Echoed Voice chain.]{color=gray}
-    
+- Grab the Cheri Berries from the middle trees at the top-right of the pond (run past the fisher).
+
+Fight the last gym trainer on purpose.
+
+:::::trainer[Schoolkid Georgia]
+  :::pokemon[Geodude]{info="Heal as needed." infoColor=blue}
+    - Echoed Voice x4
+
     Teach Baby-Doll Eyes over Sand Attack (slot 3).
-    ::damage[Geodude's -2 Tackle]{source="Sylveon" evolution=0 offensive=false movePower=40  opponentLevel=12 opponentStat=24 opponentCombatStages=-2}
 
     ::level{source="Sylveon" value=9}
-  :::
-
-  :::pokemon[Nosepass]{info="Heal as needed." infoColor="blue"}
-    - (Potion if you cannot survive a -1 Tackle.)
-    - Baby-Doll Eyes x2
-    - Spam Echoed Voice. :info[If you run out of Echoed Voice PP, spam Tackle :(]{color=gray}
-  
-    Teach Swift over Tackle (slot 2).
-
-    ::damage[Nosepass's -1 Tackle]{source="Sylveon" evolution=0 offensive=false movePower=40 opponentLevel=14 opponentStat=17 opponentCombatStages=-1}
-
-    ::damage[Nosepass's -2 Tackle]{source="Sylveon" evolution=0 offensive=false movePower=40 opponentLevel=14 opponentStat=17 opponentCombatStages=-2}
-
-    ::level{source="Sylveon" value=10}
   :::
 :::::
 
 **If you did Amie right, Eevee should evolve to Sylveon here.**
+
+Do not teach Fairy Wind.
+
+- Heal to full.
+
+:::::trainer[Leader Roxanne]{info="Heal as needed."}
+  :::pokemon[Geodude]
+    - Echoed Voice x2
+    
+    ::level{source="Sylveon" value=10}
+
+    Teach Swift over Tackle (slot 2).
+  :::
+
+  :::pokemon[Nosepass]{info="Heal as needed." infoColor="blue"}
+    - Echoed Voice (x2)
+
+    ::level{source="Sylveon" value=11}
+  :::
+:::::
+
 
 - Pick up the Repel before the bug catcher.
 
@@ -115,7 +121,7 @@ After entering Rusturf Tunnel:
   :::pokemon[Poochyena]
     - Swift
 
-    ::level{source="Sylveon" value=11}
+    ::level{source="Sylveon" value=12}
   :::
 :::::
 
@@ -124,36 +130,36 @@ After entering Rusturf Tunnel:
 :::::trainer[Battle Girl Laura]
   :::pokemon[Meditite]
     - Swift (x2/3/4/...)
-
-    ::level{source="Sylveon" value=12}
   :::
 :::::
 
 :::::trainer[Black Belt Hideki]
   :::pokemon[Machop]
     - Swift
+
+    ::level{source="Sylveon" value=13}
   :::
 :::::
 
 :::::trainer[Battle Girl Tessa]
   :::pokemon[Meditite]
     - Swift (x2/3/4/...)
-
-    ::level{source="Sylveon" value=13}
   :::
   :::pokemon[Machop]
     - Swift
+
+    ::level{source="Sylveon" value=14}
   :::
 :::::
 
 :::::trainer[Leader Brawly]
   :::pokemon[Machop]
     - Swift
-
-    ::level{source="Sylveon" value=14}
   :::
   :::pokemon[Makuhita]
     - Swift
+
+    ::level{source="Sylveon" value=15}
   :::
 :::::
 
@@ -162,8 +168,6 @@ After entering Rusturf Tunnel:
 :::::trainer[Aqua Grunt]
   :::pokemon[Carvanha]{info="Rough skin does 6 damage." infoColor=blue}
     - Swift
-
-    ::level{source="Sylveon" value=15}
   :::
 :::::
 
@@ -176,7 +180,7 @@ After entering Rusturf Tunnel:
     - Swift
 
     ::damage[Carvanha's Aqua Jet]{source="Sylveon" evolution=1 offensive=false special=true movePower=40 opponentLevel=14 opponentStat=23 stab=true}
-
+    
     ::level{source="Sylveon" value=16}
   :::
 :::::
@@ -204,6 +208,8 @@ After entering Rusturf Tunnel:
   :::pokemon[Minun]
     - Echoed Voice
     - (Swift turn 2 if you got Paralyzed)
+
+    ::level{source="Sylveon" value=18}
   :::
 :::::
 
@@ -215,20 +221,20 @@ After entering Rusturf Tunnel:
   :::pokemon[Slugma]
     - X Sp. Attack
     - Echoed Voice x2
-    
-    ::level{source="Sylveon" value=18}
+  
   :::
 
   :::pokemon[Wailmer]
-    - Echoed Voice
-  :::
-
-  :::pokemon[Grovyle]{info="Grovyle outspeeds." infoColor=blue}
     - Echoed Voice
 
     ::level{source="Sylveon" value=19}
   :::
 
+  :::pokemon[Grovyle]{info="Grovyle outspeeds." infoColor=blue}
+    - Echoed Voice
+
+    ::level{source="Sylveon" value=20}
+  :::
 :::::
 
 :info[**Free heal**]{color=pink}
@@ -250,7 +256,6 @@ Head to the gym.
     - Swift
 
     Teach Draining Kiss over Growl (slot 4).
-    ::level{source="Sylveon" value=20}
   :::
 :::::
 
@@ -267,6 +272,8 @@ Head to the gym.
 :::::trainer[Youngster Ben]
   :::pokemon[Electrike]
     - Swift
+
+    ::level{source="Sylveon" value=21}
   :::
 :::::
 
@@ -274,7 +281,6 @@ Head to the gym.
   :::pokemon[Voltorb]
     - Swift (x2)
 
-    ::level{source="Sylveon" value=21}
   :::
   :::pokemon[Voltorb]
     - Swift (x2)
@@ -352,7 +358,7 @@ At the rocks:
 
   Do not teach Skill Swap.
 
-  ::level{source="Sylveon" value=25}
+  ::level{source="Sylveon" value=26}
 :::::
 
 Say no to Brendan.
@@ -372,8 +378,6 @@ At the grass:
 :::::trainer[Team Aqua Grunt]
   :::pokemon[Poochyena]
     - Swift
-
-    ::level{source="Sylveon" value=26}
   :::
   :::pokemon[Grimer]
     - Echoed Voice x2
@@ -391,6 +395,8 @@ At the grass:
   :::
   :::pokemon[Carvanha]
     - Swift :info[Echoed Voice if Swift is disabled.]{color=gray}
+
+    ::level{source="Sylveon" value=27}
   :::
 :::::
 
@@ -404,7 +410,6 @@ At the grass:
   :::pokemon[Mightyena]
     - Swift
 
-    ::level{source="Sylveon" value=27}
   :::
   :::pokemon[Sharpedo]{info="Sharpedo outspeeds." infoColor=blue}
     - Swift
@@ -415,6 +420,8 @@ At the grass:
     - Swift x3 :info[Good Sylveons hit through confusion :)]{color=gray}
 
     ::damage[Golbat's Wing Attack]{source="Sylveon" evolution=1 offensive=false movePower=60 opponentLevel=25 opponentStat=45 stab=true type=Flying}
+
+    ::level{source="Sylveon" value=29}
   :::
 :::::
 
@@ -433,8 +440,6 @@ Flannery gym puzzle:
     - Swift x2
 
     Do not teach Misty Terrain.
-
-    ::level{source="Sylveon" value=29}
   :::
 :::::
 
