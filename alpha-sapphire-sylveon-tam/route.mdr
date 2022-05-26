@@ -87,6 +87,9 @@ Fight the last gym trainer on purpose.
 
 **If you did Amie right, Eevee should evolve to Sylveon here.**
 
+_If Eevee didn't evolve, you probably had its friendship set to 0, which for some reason
+prevents Amie from raising affection properly._
+
 Do not teach Fairy Wind.
 
 - Heal to full.
