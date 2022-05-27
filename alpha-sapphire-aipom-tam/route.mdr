@@ -305,6 +305,7 @@ Get the Thief TM from the Aqua Grunt on the first floor on the way out.
 > - PP Up
 > #### Buy (Top)
 > - 1 X Attack (vv) 
+> - 1 Guard Spec (vvvvv) :info[i think?]{color=gray}
 > #### Buy (Bottom)
 > - 4 Super Repels (^^)
 
@@ -432,6 +433,7 @@ Puzzle: Upper-left blue switch, red switch, upper-left blue switch.
       - Power-Up Punch
     - _Otherwise:_
       - Cut
+    -
 
     ::damage[Voltorb's Volt Switch]{source="Aipom" evolution=1 offensive=false special=true movePower=70 opponentLevel=19 opponentStat=25 stab=true type=Electric}
   :::
@@ -462,7 +464,7 @@ At the rocks:
 
     ::level{source="Aipom" value=26}
   :::
-    :::pokemon[Makuhita]
+  :::pokemon[Makuhita]
     - (Heal Paralysis)
     - Fury Swipes :info[If you miss and Makuhita uses Whirlwind, swap back in and just spam Fury Swipes.]{color=gray}
   :::
@@ -610,15 +612,15 @@ Exit the gym and say yes to Brendan.
 
 Take the right door.
 
-:::::trainer[Ace Trainer Randall]
+:::::trainer[Ace Trainer Mary]
   :::pokemon[Delcatty]
-   - Power-Up Punch x2
+    - Power-Up Punch x2
   :::
 :::::
 
 Take the right door.
 
-:::::trainer[Ace Trainer Parker]
+:::::trainer[Ace Trainer George]
   :::pokemon[Linoone]{info="Linoone outspeeds." infoColor=blue}
    - Power-Up Punch x2
   
@@ -626,8 +628,9 @@ Take the right door.
   :::
 :::::
 
-:::::trainer[Ace Trainer Jody]
-   - Power-Up Punch x2
+:::::trainer[Ace Trainer Berke]
+  :::pokemon[Zangoose]
+    - Power-Up Punch x2
   :::
 :::::
 
@@ -788,7 +791,7 @@ Get the Skitty heal :info[in a flash!]{color=gray}
     - Strength
 
     Do not teach Last Resort.
-    :::
+  :::
 :::::
 
 - Use the PP Max on Strength.
@@ -850,7 +853,7 @@ Unlearn Cut at the Move Unlearner in the house at the top-right of the stairs.
 
 :::::trainer[Team Aqua Grunt]
   :::pokemon[Mightyena]
-   - Fury Swipes
+    - Fury Swipes
 
     ::level{source="Aipom" value=48}
   :::
@@ -943,7 +946,6 @@ Unlearn Cut at the Move Unlearner in the house at the top-right of the stairs.
 
   ::level{source="Aipom" value=53}
 :::
-
 
 ![Ice puzzle momement pt. 1](ice-puzzle-1.png)
 
@@ -1044,11 +1046,9 @@ Unlearn Cut at the Move Unlearner in the house at the top-right of the stairs.
 > - 11 Full Restore (>)
 > - 1 Revive :info[If you have none left.]{color=red}
 
-
 :::::trainer[Elite Four Sidney]
   :::pokemon[Mightyena]
     - Power-Up Punch x2
-
   :::
   :::pokemon[Shiftry]
     - Strength
@@ -1083,6 +1083,7 @@ Unlearn Cut at the Move Unlearner in the house at the top-right of the stairs.
       - Revive on Mudkip.
       - Heal Ambipom to full if possible.
       - Keep spamming Thief. :info[Don't miss the range!]{color=gray}
+    -
   :::
   :::pokemon[Banette]
     - Thief 
@@ -1175,6 +1176,7 @@ Unlearn Cut at the Move Unlearner in the house at the top-right of the stairs.
     - _If you miss the range:_
       - Full Restore
       - Strength
+    -
 
     ::level{source="Aipom" value=68}
   :::
