@@ -72,7 +72,7 @@ Immediately after starting:
 :::::
 
 - Go to the Cut House and get the Cut HM.
-- Deposit your Route 101/103 catch and PC heal Latias.
+- Deposit your Route 101/103 catch and PC heal Latias. Move Latias to slot 1.
 
 :::::trainer[Leader Roxanne]{info="Heal as needed."}
   :::pokemon[Geodude]
@@ -665,7 +665,7 @@ Get the Skitty heal :info[in a flash!]{color=gray}
 :::::
 
 - Heal if in red health.
-- Use the PP Max on Mist Ball (mash A).
+- Use the PP Max on Mist Ball.
 - Teach Grass Knot over Stored Power (slot 1).
 - Teach Fly to your backup Latias over Heal Pulse (slot 1).
 - Heal poison if you're poisoned.
@@ -683,9 +683,9 @@ Get the Skitty heal :info[in a flash!]{color=gray}
 
 ### Slateport Shopping
 > #### Buy (Top)
-> - 1 X Sp. Defend (^^)
-> - 21 X Sp. Attack (^) 
-> - 1 Guard Spec (^^^)
+> - 1 X Defend (vv)
+> - 21 X Sp. Attack (v) 
+> - 1 Guard Spec (vv)
 > #### Buy (Bottom)
 > - 12 Max Repels (^^)
 > - Max Full Restores (<^^^^)
@@ -705,7 +705,7 @@ Get the Skitty heal :info[in a flash!]{color=gray}
   :::
 :::::
 
-- Heal if in yellow health or if poisoned.
+- Heal if you've taken significant damage or if you're poisoned.
 
 :::::trainer[Pokemon Trainer Brendan]
   :::pokemon[Swellow]
@@ -714,7 +714,7 @@ Get the Skitty heal :info[in a flash!]{color=gray}
   
     ::level{source="Latias" value=39}
   :::
-  :::pokemon[Sceptile]{info="Grovyle outspeeds" infoColor="blue"}
+  :::pokemon[Sceptile]{info="Sceptile outspeeds" infoColor="blue"}
     - Mist Ball :info[11/16 range]{color=red}
     - (Dragon Breath)
     ::damage[Grovyle's Dual Chop (single hit)]{source="Latias" offensive=false movePower=40 evs=3 opponentLevel=39 opponentStat=78 type=Dark}
@@ -1000,7 +1000,7 @@ Use the Master Ball on Kyogre. Do not nickname it.
   :::pokemon[Glalie]{info="Ice Shard is a priority move."}
     - X Sp. Attack
     - If Glalie uses Light Screen:
-      - X Sp. Defend
+      - X Defense
       - X Sp. Attack
       - Heal to full x2
     - [Mega Evolve] Psychic
