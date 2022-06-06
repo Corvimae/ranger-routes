@@ -1,0 +1,2120 @@
+:::tracker{species="Popplio" generation=7 baseStats="[[50, 54, 54, 66, 56, 40]]"}
+5: 
+  5  -> 0,  0,  0,  0,  0,  0 
+  6  -> 0,  0,  0,  0,  0,  1     # Litten (1 Spe)
+  7  -> 0,  0,  0,  0,  0,  3     # Spearow (1 Spe), Buneary (1 Spe)
+  8  -> 0,  0,  0,  0,  0,  5     # Pichu (1 Spe), Litten (1 Spe)
+  9  -> 0,  0,  0,  1,  0,  5     # Zorua (1 SpA)
+  10 -> 1,  0,  0,  1,  0,  5     # Grimer-A (1 HP)
+  11 -> 1,  1,  3,  1,  0,  5     # Metapod (2 Def), Bonsly (1 Def), Ekans (1 Atk)
+  12 -> 2,  1,  3,  1,  0,  6     # Rowlet (1 HP), Zubat (1 Spe)
+  13 -> 2,  2,  3,  1,  1,  7     # Yungoos (1 Atk), Smeargle (1 Spe), Drowzee (1 SpD)
+:::
+
+:::tracker{species="Hawlucha" generation=7 baseStats="[[78, 92, 75, 74, 63, 118]]" attackIV=31 nature="Brave"}
+8: 
+  8  -> 0,  0,  0,  0,  0,  0 
+  9  -> 0,  0,  0,  0,  0,  2     # Rattata (1 Spe), Rattata-A (1 Spe)
+  10 -> 0,  0,  0,  0,  1,  2     # Drowzee (1 SpD)
+  11 -> 0,  0,  0,  0,  1,  4     # Raticate (2 Spe)
+  12 -> 0,  0,  0,  0,  1,  6     # Raticate (2 Spe)
+  13 -> 0,  0,  0,  0,  1,  6     # 
+  14 -> 0,  0,  0,  0,  1,  7     # Furfrou (1 Spe)
+  15 -> 0,  0,  0,  0,  1,  7     #  
+  16 -> 0,  0,  0,  0,  1,  9     # Litten (1 Spe), Noibat (1 Spe)
+  17 -> 0,  1,  0,  0,  1,  11    # Pikachu (2 Spe), Machop (1 Atk)
+  18 -> 1,  2,  0,  0,  1,  11    # Makuhita (1 HP), Crabrawler (1 Atk)
+  19 -> 1,  2,  0,  0,  1,  15    # Torracat (2 Spe), Pikachu (2 Spe)
+  20 -> 1,  2,  0,  1,  2,  16    # Noibat (1 Spe), Eevee (1 SpD), Zorua (1 SpA)
+  21 -> 4,  2,  0,  1,  2,  17    # Zubat (1 Spe), Type: Null (2 HP), Wishiwashi (1 HP)
+  22 -> 5,  2,  0,  1,  6,  17    # Wishiwashi (1 HP), Araquanid (4 SpD)
+  23 -> 5,  2,  0,  1,  8,  18    # Dewpider (2 SpD), Poipole (1 Spe)
+  24 -> 5,  2,  0,  1,  9,  18    # Drowzee (1 SpD)
+  25 -> 5,  2,  0,  1,  9,  18    # Rare Candy
+  26 -> 5,  2,  0,  1,  9,  18    # Rare Candy
+  27 -> 5,  2,  0,  1,  9,  18    # Rare Candy
+  28 -> 5,  2,  2,  3,  9,  22    # Marowak (2 Def), Magmar (2 SpA), Salazzle (4 Spe)
+  29 -> 5,  6,  6,  3,  11, 22    # Marowak (4 Def), Kecleon (2 SpD), Lurantis (4 Atk)
+  30 -> 5,  7,  6,  3,  11, 27    # Ekans (1 Atk), Salandit (1 Spe), Raticate (2 Spe), Golbat (2 Spe)
+  31 -> 5,  8,  6,  3,  12, 28    # Salandit (1 Spe), Anorith (1 Atk), Lileep (1 SpD)
+  32 -> 5,  10, 6,  4,  12, 30    # Lycanroc (2 Atk), Houndour (1 SpA), Golbat (2 Spe)
+  33 -> 5,  10, 6,  4,  12, 33    # Elekid (1 Spe), Electabuzz (2 Spe)
+  34 -> 5,  10, 16, 4,  12, 33    # Iron (10 Def), Rare Candy
+  35 -> 5,  14, 22, 4,  12, 33    # Togedemaru (4 Atk), Skarmory (4 Def), Golisopod (2 Def)
+  36 -> 5,  14, 22, 5,  13, 33    # Masquerain (1 SpA, 1 SpD)
+  37 -> 5,  17, 24, 5,  13, 33    # Bewear (2 Atk), Gible (1 Atk), Marowak (2 Def)
+  38 -> 5,  17, 24, 11, 14, 34    # Elekid (1 Spe), Drowzee (1 SpD), Gastly (1 SpA), Haunter (2 SpA), Gengar (3 SpA)
+  39 -> 5,  17, 24, 11, 14, 34    # Rare Candy
+  40 -> 5,  17, 24, 11, 14, 34    # Rare Candy
+  41 -> 5,  21, 24, 11, 18, 36    # Banette (4 Atk), Mimikyu (4 SpD), Golbat (2 Spe)
+  42 -> 5,  23, 24, 11, 20, 38    # Salazzle (2 Spe), Mantine (2 SpD), Scraggy (1 Atk), Pawniard (1 Atk)
+  43 -> 5,  24, 26, 12, 21, 39    # Spinarak (1 Atk), Trubbish (1 Spe), Golisopod (2 Def), Masquerain (1 SpA, 1 SpD)
+  44 -> 5,  27, 27, 12, 21, 39    # Pinsir (2 Atk), Sableye (1 Atk, 1 Def)
+  45 -> 5,  29, 27, 12, 23, 41    # Persian (2 Spe), Krokorok (2 Atk), Hypno (2 SpD)
+  46 -> 6,  30, 27, 16, 23, 41    # Muk (1 HP, 1 Atk), Magneton (2 SpA), Porygon2 (2 SpA)
+  47 -> 6,  31, 28, 18, 24, 41    # Gorebyss (2 SpA), Huntail (1 Atk, 1 Def), Lileep (1 SpD)
+  48 -> 6,  32, 28, 20, 24, 45    # Anorith (1 Atk), Electabuzz (2 Spe), Manectric (2 Spe), Magmar (2 SpA)
+  49 -> 6,  32, 28, 22, 28, 45    # Houndoom (2 SpA), Ledian (2 SpD), Claydol (2 SpD)
+  50 -> 6,  36, 28, 22, 30, 45    # Hypno (2 SpD), Bruxish (2 Atk), Pupitar (2 Atk)
+  51 -> 6,  36, 28, 22, 30, 45    # Rare Candy
+  52 -> 6,  36, 28, 22, 30, 45    # Rare Candy
+  53 -> 6,  36, 30, 25, 30, 49    # Golbat (2 Spe), Raticate (2 Spe), Golisopod (2 Def), Vikavolt (3 SpA)
+  54 -> 6,  40, 30, 26, 31, 50    # Masquerain (1 SpA, 1 SpD), Pinsir (2 Atk), Poipole (1 Spe), Pinsir (2 Atk)
+  55 -> 6,  46, 30, 26, 31, 52    # Pinsir (2 Atk), Pinsir (2 Atk), Ekans (1 Atk), Fomantis (1 Atk), Raticate (2 Spe)
+  56 -> 6,  48, 31, 29, 31, 55    # Houndour (1 SpA), Mareanie (1 Def), Golbat (2 Spe), Poipole (1 Spe), Beheyeem (2 SpA), Banette (2 Atk)
+  57 -> 10, 48, 33, 29, 31, 58    # Graveler (2 Def), Lapras (2 HP), Talonflame (3 Spe), Wailord (2 HP)
+  58 -> 12, 49, 33, 31, 34, 60    # Glaceon (2 SpA), Noctowl (2 HP), Slowking (3 SpD), Flygon (1 Atk, 2 Spe)
+  59 -> 12, 49, 42, 34, 34, 60    # Gengar (3 SpA), Jangmo-o (1 Def), Hakamo-o (2 Def), Kommo-o (6 Def)
+  60 -> 12, 56, 43, 37, 34, 60    # Scizor (4 Atk), Necrozma (3 SpA), Mawile (1 Atk, 1 Def), Granbull (2 Atk)
+  61 -> 14, 60, 43, 37, 34, 63    # Ribombee (2 Spe), Gumshoos (2 Atk), Smeargle (1 Spe), Komala (2 Atk), Lanturn (2 HP)
+  62 -> 14, 62, 45, 37, 36, 66    # Cloyster (2 Def), Araquanid (2 SpD), Arcanine (2 Atk), Talonflame (3 Spe)
+  63 -> 14, 65, 48, 39, 36, 68    # Marowak (2 Def), Magmar (2 SpA), Sableye (1 Atk, 1 Def), Absol (2 Atk), Persian (2 Spe)
+  64 -> 16, 68, 52, 39, 36, 74    # Ribombee (4 Spe), Pelipper (4 Def), Golurk (2 Atk), Gastrodon (2 HP), Flygon (1 Atk, 2 Spe)
+  65 -> 19, 70, 52, 41, 36, 77    # Mudsdale (2 Atk), Crobat (3 Spe), Zoroark (2 SpA), Silvally (3 HP)
+  66 -> 19, 74, 52, 45, 36, 77    # Lucario (1 Atk, 1 SpA), Scyther (1 Atk), Malamar (2 Atk), Vanilluxe (3 SpA)
+  67 -> 19, 81, 53, 46, 39, 77    # Mismagius (1 SpA, 1 SpD), Armaldo (2 Atk), Gigalith (3 Atk), Lycanroc (2 Atk), Probopass (1 Def, 2 SpD)
+  68 -> 19, 86, 53, 48, 41, 77    # Cradily (2 SpD), Braviary (2 Atk), Mandibuzz (2 SpA), Toucannon (3 Atk)
+  69 -> 19, 88, 57, 53, 41, 77    # Oricorio (2 SpA), Hawlucha (2 Atk), Klefki (1 Def), Magnezone (3 SpA), Metagross (3 Def)
+  70 -> 19, 96, 57, 53, 41, 79    # Bisharp (2 Atk), Dugtrio (2 Atk), Banette (2 Atk), Froslass (2 Spe), Dhelmise (2 Atk)
+  71 -> 21, 99, 59, 53, 41, 83    # Palossand (2 Def), Drifblim (2 HP), Raichu (3 Spe), Tauros (1 Atk, 1 Spe)
+:::
+
+Set your console time to 08:00 - this will prevent hail at Mount Lanakila.
+
+Choose Elio (the boy) and give him a single character name.
+
+After getting out of bed, open the options and set:
+- Text Speed: Fast
+- Battle Effects: Off
+- Battle Style: Set
+- Button Mode: L=A (optional)
+
+After talking to Mom run back into your room and interact with the coatrack.
+
+Leave the house and move left and then up to run up to the grass patch in Route 1. Pick Popplio as your starter.
+
+After running from the Rattata encounter, run through Route 1 until you trigger the Hau cutscene.
+
+:::::trainer[Hau]
+  :::pokemon[Litten]
+    - Water Gun x2
+  :::
+:::::
+
+Check Popplio's level 5 stats at the level up screen - if its level 5 speed is less than 9, reset. Consider resetting if level 5 Sp. Atk is 11 or below.
+
+Run up through Iki Town and Mahalo Trail to activate the bridge cutscene.
+
+  :::pokemon[Spearow]
+    - Water Gun x2 / x3
+  :::
+
+After completing all the cutscenes, follow Kukui to the right path of Route 1 for the catching tutorial.
+
+**Talking to trainers doesn't save any time in this game, so just run past all trainers to start battles.**
+
+:::::trainer[Lass Audrey]
+  :::pokemon[Buneary]
+    - Water Gun x2 / x3
+  :::
+:::::
+
+Run through the grass patches to avoid the other two Route 1 trainers and head to Iki Town.
+
+:::::trainer[Hau]
+  :::pokemon[Pichu]
+    - Water Gun x3
+  :::
+  :::pokemon[Litten]
+    - Water Gun x2
+    ::damage[Litten's Scratch]{source="Popplio" offensive=false movePower=40 level=7 evs=0 opponentLevel=7 opponentStat=15 combatStages=0--5}
+  :::
+:::::
+
+:info[**Free heal**]{color=pink}
+
+After the cutscenes end, follow Lillie to the left and south to reach the lab.
+
+Head back up and follow Lillie into the Pokemon Center.
+
+### Hau'oli Outskirts Shopping
+> #### Buy
+> - 15 Repels (^^)
+> - 1 Burn Heal (<)
+> - 1 Para Heal (^^)
+
+At the Trainers' School, head to the left and pick up the hidden Great Ball. ![Hidden Great Ball](great-ball.png)
+
+At the grass:
+- Use a Repel (do not reapply)
+- Save
+
+Run down until you get an encounter - soft reset if you encounter anything other than a Zorua (soft resetting is faster than running!)
+
+  :::pokemon[Zorua]
+    - Disarming Voice + Disarming Voice / Water Gun
+    - Throw the Great Ball - if it fails, chuck Poke Balls until it gets in.
+  :::
+
+Head south to fight the Youngster.
+
+:::::trainer[Youngster Joey]
+  :::pokemon[Grimer]
+    - Water Gun x2 / x3 / x4 :info[Heal as needed]{color=gray}
+  :::
+:::::
+
+Check Special Attack at Level 10.
+
+Head into the school and enter the first classroom to fight the preschooler in the top left.
+
+
+
+:::::::trainer[Preschooler Mia]
+  :::::pokemon[Metapod]
+    :::if{source="Popplio" condition="spatk=(7- / x / x)"}
+       - Disarming Voice
+       - Water Gun (+ Water Gun)
+    :::
+    :::if{source="Popplio" condition="spatk=(8+ / # / #)"}
+     ::variable{name="torrent" type="boolean" title="Are you currently in Torrent?"}
+    :::
+    :::if{source="Popplio" condition="spatk=(7-31 / 7- / x)  && !$torrent"}
+       - Disarming Voice
+       - Water Gun (+ Water Gun)
+    :::
+    :::if{source="Popplio" condition="spatk=(x / 8+ / #)  && !$torrent"}
+       - Pound
+       - Water Gun (+ Water Gun)
+    :::
+    :::if{source="Popplio" condition="spatk=(8+ / # / #)  && $torrent"}
+       - Water Gun (+ Water Gun)
+     ::damage[+0 Torrent Water Gun vs Metapod]{source="Popplio" special=true movePower=40 level=10 stab=true torrent=true evs=1 opponentLevel=7 opponentStat=8 healthThreshold=24 theme=error}
+    :::
+  :::::
+:::::::
+
+Talk to the teacher in the lobby to grab a Quick Claw.  
+
+Head outside and to the east of the building - don't reapply repel.
+
+:::::::trainer[Youth Athlete Hiromi]
+  :::::pokemon[Bonsly]
+    :::if{source="Popplio" condition="spatk=(7- / x / x)"}
+       - Disarming Voice
+       - Water Gun
+    :::
+    :::if{source="Popplio" condition="spatk=(8+ / # / #)"}
+       - Water Gun (x2 / x3)
+    :::
+  :::::
+:::::::
+
+If poisoned or at low HP, talk to Lillie for a free heal.
+
+Go west to fight Rising Star Joseph.
+
+
+
+:::::trainer[Rising Star Joseph]
+  :::pokemon[Ekans]{info="Faster at 16+ Speed (x / 29+ / 19+)" infoColor=blue}
+    - Water Gun x3
+    - Teach Baby-Doll Eyes over Growl (slot 3)
+   ::damage[Ekans's Bite]{source="Popplio" offensive=false movePower=60 level=10 evs=0 opponentLevel=8 opponentStat=15}
+  :::
+:::::
+
+Check Level 11 stats at level up.
+
+- Move Zorua to the front of your party. (note: Zorua has Illusion, so it will appear as if you sent out Popplio first)
+
+:::if{source="Popplio" condition="speed=(# / 18- / 9-)" theme=info}
+Talk to Lillie to get a free heal.
+:::
+
+:::if{source="Popplio" condition="speed=(x / 19+ / 10+)" theme=info}
+Talk to Lillie to get a free heal if you meet one of the following requirements:
+- You did not talk to Lillie before fighting Rising Star Joseph.
+- You are in range to die to a single Leafage.
+:::
+
+Head to the second floor of the school to fight the teacher.
+
+::damage[Rowlet's Leafage]{source="Popplio" offensive=false movePower=40 effectiveness=2 level=11 stab=true evs=3 opponentLevel=10 opponentStat=17}
+
+:::::::trainer[Teacher Emily]
+  :::::pokemon[Rowlet]{info="Faster at 16+ Speed (x / 19+ / 10+)" infoColor=blue}
+    :::if{source="Popplio" condition="def=(19- / 1- / x) && speed=(# / 18- / 9-) && spatk=(x / 5+ / #)"}
+      - Fake Tears x3 / x4
+      - Switch to Popplio 
+      - Baby Doll Eyes x2
+      - Potion
+      - Water Gun
+      - Disarming Voice
+    :::
+    :::if{source="Popplio" condition="def=(19- / 1- / x) && speed=(# / 18- / 9-) && spatk=(# / 4- / x)"}
+      - Fake Tears x3 / x4
+      - Switch to Popplio 
+      - Baby Doll Eyes x2
+      - Potion
+      - Disarming Voice x2 :info[1/16 to knock Rowlet into Overgrow at 19 Sp. Attack (23+ / 4- / x)]{color=red}
+    :::
+    :::if{source="Popplio" condition="(def=(20+ / 2+ / #) || speed=(x / 19+ / 10+)) && spatk=(x / 5+ / #)"}
+      - Fake Tears x3 / x4
+      - Switch to Popplio 
+      - Water Gun
+      - Disarming Voice
+    :::
+    :::if{source="Popplio" condition="(def=(20+ / 2+ / #) || speed=(x / 19+ / 10+)) && spatk=(# / 4- / x)"}
+      - Fake Tears x3 / x4
+      - Switch to Popplio 
+      - Disarming Voice x2 :info[1/16 to knock Rowlet into Overgrow at 19 Sp. Attack (23+ / 4- / x)]{color=red}
+    :::
+  :::::
+:::::::
+
+:info[**Free heal**]{color=pink}
+
+Head left into Hau'oli City, entering Poke Finder when prompted before immediately exiting the tutorial by pressing B.
+
+Enter the Pokemon Center and deposit Zorua.
+
+### Hau'oli Shopping
+> #### Buy (Right)
+> - 1 X Speed
+> :::if{source="Popplio" condition="atk=(# / 28- / 19-) || (atk=(x / 29+ / 20-28) && spatk=(x / 5+ / #))"}
+> - 4 X Sp. Attack (^<)
+> - 14 X Attack (<v)
+> :::
+> :::if{source="Popplio" condition="atk=(x / x / 29+) || (atk=(x / 29+ / 20-28) && spatk=(# / 4- / x))"}
+> - 3 X Sp. Attack (^<)
+> - 15 X Attack (<v)
+> :::
+> - 2 X Defense (v)
+
+Head to the Malasada Shop (red flag on Rotom Dex).
+
+:::::trainer[Team Skull Grunt]
+  :::pokemon[Zubat]
+    - Water Gun x3
+  :::
+:::::
+
+:info[**Free heal**]{color=pink}
+
+:::::trainer[Ilima]
+  :::pokemon[Yungoos]{info="Faster at 17+ Speed (x / 19+ / 11+)" infoColor=blue}
+    ::damage[Yungoos's Tackle]{source="Popplio" offensive=false movePower=40 level=12 evs=3 stab=true opponentLevel=10 opponentStat=23 combatStages=2--4}
+    - X Defense
+    - X Speed
+    - X Sp. Attack x3
+    - (Baby-Doll Eyes until in Torrent)
+    - Water Gun
+  :::
+  :::pokemon[Smeargle]
+    - Water Gun
+  :::
+:::::
+
+Run towards Route 2. When prompted, grab Tauros by the horns (option 3).
+
+Avoid the trainer before the ramp by briefly running into the grass and hugging the corner (this will take some practice to hit consistently!) 
+![Krystal Skip](krystal-skip.gif)
+
+Head to the beach and then run north until you activate the cutscene.  After the cutscene ends, attempt to leave the beach, triggering the Team Skull cutscene.
+
+Potion if you can die to two Pounds.
+
+
+::::::::::trainer[Team Skull Grunt]
+   :::::::pokemon[Drowzee]
+      ::::if{source="Popplio" condition="atk=(# / 28- / 19-) || (atk=(x / 29+ / 20-28) && spatk=(x / 5+ / #))"}
+         - X Sp. Attack
+         - Water Gun x2 (x3)
+       :::if{source="Popplio" condition="spatk=(0 - 17 / x / x)" theme=error}
+          **Water Gun x2 is a 0.4% range.**
+       :::
+       :::if{source="Popplio" condition="spatk=(18+ / 0 - 9 / x)" theme=error}
+          **Water Gun x2 is a 43.8% range.**
+       :::
+       :::if{source="Popplio" condition="spatk=(x / 10+ / #)" theme=error}
+          **Water Gun x2 is a 100% range.**
+       :::
+      ::::
+      ::::if{source="Popplio" condition="atk=(x / x / 29+) || (atk=(x / 29+ / 20-28) && spatk=(# / 4- / x))"}
+         - X Attack 
+         - Pound x2 (x3)
+       :::if{source="Popplio" condition="atk=(x / 26+ / x)" theme=error}
+          **Pound x2 is a 93.8% range.**
+       :::
+       :::if{source="Popplio" condition="atk=(x / x / 17+)" theme=error}
+          **Pound x2 is a 100% range.**
+       :::
+      ::::
+   :::::::
+::::::::::
+
+Leave the beach (for real this time) and head North, hugging the left wall to avoid the trainer.  After the Ultra Recon cutscene, branch right and avoid the grass whenever possible.
+
+Enter the Pokemon Center. While Rotom's eyes are flashing, do some quick shopping.
+
+### Route 2 Shopping
+> #### Buy (Right)
+> - 6 Super Potions
+> - 1 Nest Ball (vv)
+
+- Tap Rotom's eyes to obtain the Roto Boosts.
+- Enter the grass patch to the right of the Pokemon Center to catch a Spearow.  Save before the grass and soft reset if you encounter Cutiefly or Rattata.
+- Catch the Spearow with your Nest Ball - if it fails, use Disarming Voice or Water Gun to lower its HP and then catch it with a Great Ball.
+- Trade the Spearow for Hawlucha in the Pokemon Center.
+- Deposit Popplio
+- Enter Pokemon Refresh and give Hawlucha 3 beans and 6 rubs, swapping between belly rubs and hair rubs.
+
+:::card
+This traded Hawlucha is guaranteed to have:
+- Brave nature (+Atk, -Spe)
+- 31 IVs in Attack
+- The ability Unburden (speed is doubled when it loses a held item through any means - this will be abused a lot!)
+:::
+
+::::::trainer[Verdant Cavern Trial]
+   Head into Verdant Cavern and talk to the first hole to trigger the first fight.  Head to the right and talk to the second hole for the second fight.
+
+   :::pokemon[Both Rattata]
+     - Karate Chop
+   :::
+
+   After defeating the second Rattata, cross the bridge and make a quick detour south to grab the TM for Brick Break. Chase the last mon around the cavern until you run into Team Skull.
+
+   :::pokemon[Drowzee]
+     - Wing Attack x2 :info[75% range]{color=red}
+   :::
+   :::pokemon[Raticate]
+     - Karate Chop
+   :::
+
+   Before the Totem:
+   - Enter Refresh and give Cha 2 beans and 3 rubs.
+   - Repel and keep applied until after the Ultra Recon fight.
+   - Teach Brick Break over Tackle (slot 1).
+   :::if{source="Hawlucha" condition="speed=(26- / x / x)"}
+   - Equip an Oran Berry ONLY if you got one during the trial and you are in green HP.
+   :::
+   - Turn off Experience Share.
+  
+   :::pokemon[Totem Raticate]
+     - Brick Break
+     - Do not teach Roost.
+   :::
+
+   Take the right-side path out of the cavern to dodge the ambush encounter.
+::::::
+
+:info[**Free heal**]{color=pink}
+
+After the Z-Move tutorial, head up Route 3, taking the right path (note: the Hiker is not a trainer).  Dodge the shadows and pick up the Sharp Beak. 
+
+![Sharp Beak](sharp-beak.gif)
+
+After picking up the Sharp Beak, wait until the next shadow passes before continuing.
+
+Enter the meadow and run through the flowers to follow Nebby into the hole.
+
+:::::trainer[Ultra Recon Squad Soliera]
+  :::pokemon[Furfrou]{info="Faster at 35+ Speed (25+)" infoColor=blue}
+    - Brick Break x2 / x3 / x4 :info[Heal as needed]{color=gray}
+  :::
+:::::
+
+:info[**Free heal**]{color=pink}
+
+:::::trainer[Hau]
+  :::pokemon[Litten]
+    - Brick Break (x2) :info[11/16 range]{color=red}
+  :::
+  :::pokemon[Noibat]
+    - _If Litten used Growl:_
+      - _Hone Claws_
+    - Wing Attack
+  :::
+  :::pokemon[Pikachu]
+    - Brick Break
+  :::
+:::::
+
+:info[**Free heal**]{color=pink}
+
+Head south to Route 1, dodging the trainer immediately after the bridge.  Enter Iki Town.
+
+:::::trainer[Kahuna Hala]
+  :::pokemon[Machop]
+    - X Attack
+    - Wing Attack
+  :::
+  :::pokemon[Makuhita]
+    - Brick Break
+  :::
+  :::pokemon[Crabrawler]
+    - Wing Attack
+  :::
+:::::
+
+:info[**Free heal**]{color=pink}
+
+- Quick bind Tauros Ride Pager (use whenever possible; this is the bike equivalent).
+- Head to the photo shop in Hau'oli - exit out as soon as possible.
+- Head up Route 2, dodging Krystal again.
+- Make a brief detour to the right to gain the fly point for Hau'oli Cemetery.
+- Head to the beach.
+
+:::card
+**Mantine Surf:**
+- Lesson 1: Go twice to the top of the wave and back down.
+- Lesson 2: Go to the top of the wave and jump.
+- Lesson 3: Go to the top of the wave and back down, go back to the top of the wave, jump, and do 3 tricks.
+- Lesson 4: Go to the top of the wave and jump.
+
+After completing the four lessons, continue heading to the top of the wave and back down repeatedly, trying to maintain orange speed and avoiding obstacles until the minigame is over.
+:::
+
+Exit the beach to the south to enter Heahea City.  Head to the right, and after the Lillie cutscene, talk to the woman directly south and receive a Rare Candy.
+
+Go north at the intersection and "battle" Sina.
+
+:::::trainer[Sina]
+  :::pokemon[Smoochum]
+    - Hone Claws until you faint
+  :::
+:::::
+
+:info[**Free heal**]{color=pink}
+
+Enter Route 4 to the right. At the grass:
+- Repel (keep applied until Route 5)
+- Equip Sharp Beak
+
+Take the right path to dodge the first trainer. Wait for the tourist to look to the left before heading to their right and jumping off the ledge.
+
+Pick up the Adrenaline Orb.
+
+![Adrenaline Orb](adrenaline-orb.png)
+
+Enter Paniola Town.
+
+:::::trainer[Hau]
+  :::pokemon[Torracat]
+    - X Attack
+    - Brick Break (x2 if burnt)
+  :::
+  :::pokemon[Pikachu]
+    - Brick Break
+  :::
+  :::pokemon[Noibat]
+    - _If Paralyzed:_
+      - _Para Heal_
+    - Wing Attack
+  :::
+  :::pokemon[Eevee]
+    - _If Growled or Burnt:_
+      - Brick Break
+    - _Otherwise:_
+      - Wing Attack
+  :::
+:::::
+
+:info[**Free heal (again)**]{color=pink}
+
+Head north, hugging the left fence and hopping off Tauros when the fence is facing northeast to avoid an optional.
+
+After getting the Stoutland Ride Pager, cut through the grass, head past the day care, and then run north to enter Route 5.
+
+:::::trainer[Gladion]
+  :::pokemon["Zubat"]
+    - Hone Claws
+    - Wing Attack
+  :::
+  :::pokemon[Zubat]
+    - Wing Attack
+  :::
+  :::pokemon[Type: Null]
+    - Brick Break
+  :::
+:::::
+
+Enter Brooklet Hill and start Lana's trial.
+
+:::::trainer[Brooklet Hill Trial]
+
+  Quick bind Lapras Ride Pager at the water and surf towards the bottom whirlpool.
+
+  :::pokemon[Wishiwashi]
+    - Brick Break
+    - Check Speed stat at Level 21!
+  :::
+
+  Pick up the hidden Max Repel.
+  ![Brooklet Max Repel](brooklet-repel.png)
+
+  Head to the second pond, and surf towards the left whirlpool.
+
+  :::pokemon[Wishiwashi]
+    - Brick Break
+  :::
+
+  Head to the final pool and fight the totem.
+
+  :::pokemon[Totem Araquanid]{info="faster after Speed drop at 51+ Speed (8+)" infoColor=blue}
+    - X Attack
+    - Wing Attack Araquanid
+    - Wing Attack Dewpider
+  :::
+:::::
+Backtrack into Brooklet Hill to grab the Rare Candy in the first area.
+![Brooklet Candy](brooklet-candy.png)
+
+Head back to Route 6. Talk to the Miltank for a free heal if you are at risk of dying to Poipole.
+
+::damage[Poipole's Venoshock]{source="Hawlucha" offensive=false special=true movePower=65 stab=true level=22 evs=6 opponentLevel=20 opponentStat=40}
+
+:::::trainer[Ultra Recon Squad Soliera]
+  :::pokemon[Poipole]
+    - Wing Attack
+    - _If Charmed:_
+      - _Dire Hit_
+    - Wing Attack
+  :::
+:::::
+
+:::::trainer[Team Skull Grunt]
+  :::pokemon[Drowzee]
+    - Wing Attack
+  :::
+:::::
+
+Break the rocks using Tauros and grab the Rare Candy.
+![Route 6 Candy](route-6-candy.png)
+
+:::if{source="Hawlucha" condition="speed=(2- / x / x) || speed=(19-20 / x / x)" theme=info}
+Pick up the hidden Carbos by breaking the pair of rocks south of the Rare Candy.
+![Carbos](carbos.png)
+:::
+
+Enter Royal Avenue, heading right and picking up the Rare Candy south of the fountain.
+![Fountain Candy](fountain-candy.png)
+
+Enter the building to participate in a Battle Royal.
+
+:::::trainer[Battle Royal]
+  :::pokemon[Rockruff]
+    - Brick Break
+  :::
+:::::
+
+:info[**Free heal**]{color=pink}
+
+Head northeast until you enter Route 7. Make an immediate left into Wela Volcano Park.
+
+At the grass:
+- Equip Quick Claw
+- Use the Max Repel.
+- Rare Candy to level 27.
+- Teach Fling over Karate Chop (slot 3).
+:::if{source="Hawlucha" condition="speed=(2- / x / x) || speed=(19-20 / x / x)"}
+- Use the Carbos.
+:::
+
+:::::trainer[Wela Volcano Park Trial]
+
+  First correct answer is answer 2 (v).
+  :::pokemon[Marowak]
+    - X-Attack (X-Attack again if Growled)
+    - Wing Attack :info[potential range]{color=red}
+  :::
+
+  Second correct answer is answer 4 (^^).
+  :::pokemon[Magmar]{info="has Flame Body" infoColor=gray}
+    - Brick Break :info[14/16 range]{color=red}
+      - If missed range and not burnt, Fling
+      - If burnt, Brick Break and heal burn through Refresh when the button pops up.
+  :::
+
+  All answers are correct for the last question.
+  :::pokemon[Totem Marowak]{info="Heal as needed" infoColor=gray}
+    - X Attack
+    - Wing Attack Salazzle
+      - Teach Flying Press over Hone Claws
+    - Fling (Wing Attack x2 if Detected) :info[Fling is 15/16 range]{color=red}
+   ::damage[Marowak's Flame Wheel @ Level 27]{source="Hawlucha" offensive=false movePower=60 stab=true level=27 evs=0 opponentLevel=22 opponentStat=47 opponentCombatStages=+2}
+   ::damage[Marowak's Flame Wheel @ Level 28]{source="Hawlucha" offensive=false movePower=60 stab=true level=28 evs=2 opponentLevel=22 opponentStat=47 opponentCombatStages=+2}
+   ::damage[Salazzle's Flame Burst]{source="Hawlucha" offensive=false movePower=70 stab=true special=true level=27 evs=9 opponentLevel=20 opponentStat=52}
+  :::
+:::::
+
+Quick bind Charizard Glide and fly to Route 7 (mash A).  Head north through the tunnel.
+
+Use a Repel after the Colress cutscene and stick to the north path of the map to dodge trainers.
+
+Grab the hidden Iron.
+![Iron](iron.png)
+
+:::card
+Festival Plaza:
+- Talk to the NPC that spawns on your right.
+- Talk to Sophocles.
+- Talk to the 2 NPCs that spawned.
+- Talk to Sophocles again.
+:::
+
+:::::trainer[Lush Jungle Trial]
+
+   Puzzle 1:
+   ![Puzzle 1](lush-puzzle-1.png)
+
+   Puzzle 2:
+   Pick up the hidden Revival Herb.
+   ![Revival Herb](revival-herb.png) 
+   ![Puzzle 2](lush-puzzle-2.png)
+
+   Puzzle 3: 
+   Pick up the hidden Heal Powder.
+   ![Heal Powder](heal-powder.png)
+   ![Puzzle 3](lush-puzzle-3.png)
+
+   - Use the Iron on Hawlucha according to the following rules:
+     ![Iron Chart](iron-chart.png)
+   - Use a Super Potion if you can die to two Solar Blades.
+
+   ::damage[Lurantis's Solar Blade]{source="Hawlucha" offensive=false movePower=125 stab=true level=28 effectiveness=0.5 evs=2 opponentLevel=24 opponentStat=55}
+   ::damage[Lurantis's Solar Blade (w/ Iron)]{source="Hawlucha" offensive=false movePower=125 stab=true level=28 effectiveness=0.5 evs=16 opponentLevel=24 opponentStat=55}
+
+  :::pokemon[Totem Lurantis]
+    - X Attack
+    - Wing Attack Kecleon
+    - Wing Attack Lurantis
+  :::
+:::::
+
+Fly to Heahea City and head to the Dimensional Research Facility.
+
+While on the second floor, talk to Lillie, and then leave.
+
+Repel in Diglett's Tunnel entrance.
+
+:::if{source="Hawlucha" condition="speed=(7- / x / x)"}
+- Use a Repel at Diglett's cave entrance - do not reapply until at the grass.
+:::
+:::if{source="Hawlucha" condition="speed=(8+ / x / x)"}
+- Use a Repel at Diglett's cave entrance and keep reapplied until after the Plumeria fight.
+:::
+- Equip the Sharp Beak.
+
+Take the left path through Diglett's Tunnel.
+
+:::::trainer[Team Skull Double]
+   - Wing Attack Ekans
+   - Wing Attack Salandit
+:::::
+
+After the Looker cutscene, hug the top of the screen to avoid the optional.
+
+After entering Konikoni City, enter the building to the left with the hammer sign.
+
+### Konikoni Workshop Shopping
+> #### Buy (Top)
+> - Plume Fossil
+
+:::if{source="Hawlucha" condition="speed=(7- / x / x)" theme=info}
+- After leaving the workshop, head towards the lighthouse and pick up the Eviolite.
+![Eviolite](eviolite.png)
+:::
+
+Head towards the cemetery.  Be careful to avoid the spinner to the north of the cemetery.
+
+:::::trainer[Team Skull Grunt]
+  :::pokemon[Raticate]
+    - Brick Break
+  :::
+:::::
+
+Stick to the right path to avoid the line of sight of the Black Belt.
+
+:::::trainer[Team Skull Plumeria]
+  :::pokemon[Golbat]
+    - Roto Boost
+    - _If Confused:_
+      - X Attack
+      - Heal Powder
+      - Wing Attack
+    - _Otherwise:_
+      - Wing Attack
+      - (Heal Powder if Confused)
+      - Wing Attack
+    -
+   ::damage[Golbat's Wing Attack]{source="Hawlucha" offensive=false movePower=60 stab=true level=29 effectiveness=2 combatStages=+1 evs=6 opponentLevel=26 opponentStat=70}
+  :::
+  :::pokemon[Salandit]
+    - Wing Attack
+  :::
+:::::
+
+:info[**Free heal**]{color=pink}
+
+:::::::trainer[Kahuna Olivia]
+  :::::pokemon[Anorith]
+    :::if{source="Hawlucha" condition="speed=(18- / x / x)"}
+     - Fling
+     - X Attack
+     - Brick Break
+    :::
+    :::if{source="Hawlucha" condition="speed=(19+ / x / x)"}
+     - X Attack
+     - Brick Break
+    :::
+  :::::
+  :::::pokemon[Lileep]
+     - Brick Break
+  :::::
+  :::::pokemon[Lycanroc]
+     - Brick Break
+  :::::
+:::::::
+
+:info[**Free heal**]{color=pink}
+
+Fly to Heahea City and head east.
+
+When at the Aether Paradise Observatory, take the left path to head toward to the north of the map.  Run from Nihilego.
+
+:::::trainer[Hau]
+  :::pokemon[Torracat]
+    - Flying Press :info[13/16 range to knock into Blaze]{color=red}
+    - Faint (waste turns by using a Revive if needed)
+  :::
+:::::
+
+Repel at the grass at Malie Garden (don't reapply). Pick up the hidden Rare Bone.
+![Rare Bone](rare-bone.png)
+
+Head to the library.  While at the library talk to the lady left of the stairs to obtain the TM for Fly.
+
+Head west towards Route 10. Avoid the trees due to potential ambush encounters.  Yolo the tall grass and talk to Team Skull at the bus stop.
+![Route 10](route-10-movement.gif)
+
+:::::trainer[Team Skull Grunt]
+  :::pokemon[Houndour]
+    - Wing Attack
+  :::
+:::::
+:::::trainer[Team Skull Grunt]
+  :::pokemon[Golbat]
+    - Wing Attack x2 :info[97.3% range]{color=red}
+    - Do not teach Bounce
+  :::
+:::::
+
+Take the bus to Hokulani Observatory and enter the Pokemon Center.
+- Talk to the man at the Cafe (left side) to get a free Rare Candy.
+- PC heal Hawlucha.
+- Withdraw Popplio and Zorua.
+- _If you used Paralyze Heal_: Move Sharp Beak to Popplio.
+- _If you used Paralyze Heal_: Equip Fightinium Z.
+
+Enter the observatory and talk to the man at the desk for a Comet Shard.  Head through the first door and talk to Sophocles.
+
+Leave the observatory and interact with the three dirt mounds.  Sevenjabug is located behind the bus.
+
+
+:::::trainer[Hokulani Trial]
+
+   Puzzle 1: Top Right, Top Left
+
+  :::pokemon[Elekid]{info="has Static" infoColor=gray}
+    - _If you still have Para Heal:_
+      - Brick Break
+    - _If you equipped Fightinium Z:_ 
+      - Z-Brick Break
+  :::
+
+   If you didn't menu before the Elekid fight:
+   - Heal Paralysis (if needed)
+   - Move Sharp Beak to Popplio.
+   - Equip Fightinium Z.
+
+   Puzzle 2: Bottom Right, Bottom Left, Bottom Left
+
+  :::pokemon[Electabuzz]
+    - Z-Brick Break
+  :::
+  
+   - Heal to full.
+   - Use the Iron if you haven't already.
+   - Use the Rare Candy.
+   - Save.
+
+   Puzzle 3: Top Right, Bottom Left, Top Left, Top Left
+
+   ::damage[Togedemaru's Zing Zap]{source="Hawlucha" offensive=false movePower=80 stab=true level=34 effectiveness=2 evs=16 opponentLevel=33 opponentStat=66}
+   ::damage[Skarmory's Steel Wing]{source="Hawlucha" offensive=false movePower=70 stab=true level=34 evs=16 opponentLevel=32 opponentStat=61}
+
+  :::pokemon[Totem Togedemaru]
+    - X Attack
+    - Z-Flying Press Togedemaru
+    - _If died to Skarmory:_
+      - Revive using Zorua
+      - X Attack :info[Super Potion as needed]{color=gray}
+    - Brick Break x2 (Flying Press if Tormented)
+  :::
+:::::
+
+- Pick up Comet Shard at the desk if you did not do so already.
+- Head down Mount Hokulani to pick up the hidden Rare Candy.
+![Hokulani Rare Candy](hokulani.png)
+- Teach Fly over Brick Break (slot 1).
+- Equip Adrenaline Orb on Hawlucha.
+- Heal out of Razor Shell range.
+- Fly to Malie City.
+
+::damage[Golisopod's Razor Shell]{source="Hawlucha" offensive=false movePower=75 stab=true level=34 evs=16 opponentLevel=34 opponentStat=133}
+
+:::::trainer[Guzma]
+  :::pokemon[Golisopod]
+    - X Attack
+    - _If Razor Shell misses:_
+      - _X Attack_
+      - _Wing Attack_
+    - Fly
+  :::
+  :::pokemon[Masquerain]
+    - Wing Attack
+  :::
+:::::
+
+Right before facing the Black Belt:
+- Heal to full.
+- Repel (reapply once)
+- Equip the Rare Bone.
+
+:::::trainer[Black Belt Alvaro]
+  :::pokemon[Bewear]
+    - Flying Press
+  :::
+:::::
+
+- Quick bind Mudsdale Gallop. 
+![Route 12 Movement](route-12-movement.gif)
+
+Pick up the hidden Rare Candy.
+![Route 13 Candy](route-13-candy.png)
+
+Before entering the Aether House, fight the Ace Trainer to the west.
+
+:::::trainer[Ace Trainer Yuki]
+  :::pokemon[Gible]
+    - X Attack
+    - Wing Attack
+  :::
+  :::pokemon[Marowak]
+    - Fling
+  :::
+:::::
+
+:::::trainer[Preschooler Hunter]
+  :::pokemon[Elekid]
+    - Fling
+  :::
+:::::
+
+:::::trainer[Team Skull Grunt]
+  :::pokemon[Drowzee]
+    - Fling
+  :::
+:::::
+
+- Swap the Rare Bone for the Sharp Beak held by Popplio.
+- Heal if at low HP.
+- Revive Zorua if fainted.
+
+Go back to Tapu Village and head south to reach Acerola's Trial.
+
+:::::trainer[Thrifty Megamart Trial]
+  :::pokemon[Gastly]
+    - Wing Attack
+  :::
+  :::pokemon[Haunter]
+    - Wing Attack
+  :::
+   - Hope for good RNG with Gengar in Poke Finder.
+  :::pokemon[Gengar]
+    - Fly
+  :::
+
+  - Move Popplio to the front of the party.
+  - Swap Sharp Beak for the Rare Bone held by Popplio
+  - Heal to full.
+  - Use 2 Rare Candies on Cha.
+  - **Save.**
+
+  ::damage[Mimikyu's Play Rough]{source="Hawlucha" offensive=false movePower=90 stab=true effectiveness=2 level=40 evs=24 combatStages=0-4 opponentLevel=35 opponentStat=70}
+
+  :::pokemon[Totem Mimikyu]
+    - Baby-Doll Eyes (+ Baby-Doll Eyes if Play Rough misses)
+    - Switch to Hawlucha once Popplio faints
+    - Fling Banette
+    - _If you can live a Play Rough at +2 Defense (see combat stages):_
+      - X Defense
+      - Heal to full
+      - X Defense
+      - Wing Attack
+      - X Attack x3
+      - Fly :info[15/16 range at +5]{color=red}
+    - _Otherwise:_
+      - Wing Attack
+      - Switch to Zorua once fainted
+      - Revival Herb Hawlucha
+      - Switch in Hawlucha (you are slower now)
+      - X Defense x2
+      - X Attack x3 :info[Heal as needed]{color=gray}
+      - Fly :info[15/16 range at +5]{color=red}
+  :::
+:::::
+
+Go back to Tapu Village and enter the Pokemon Center.
+
+- Deposit Zorua.
+- PC Heal Popplio and Hawlucha.
+- Move Cha back to the front of the party.
+- Equip an Oran Berry on Hawlucha. (or a Sitrus if you have one)
+
+### Tapu Village Shopping
+> #### Sell (Right)
+> - All Balls (Poke, Great, Dive, Quick, Nest, Luxury, Dusk)
+> - Comet Shard
+> - (Thunder Stone if your total is still less than $82,400)
+> #### Buy (Right)
+> - 31 X Attack (v)
+> - 4 X Defense (v)
+> - 3 X Speed (<)
+> - 4 X Sp. Defense (^^)
+> #### Buy (Left)
+> - 11 Hyper Potions (>^^)
+> - 11 Full Heals (>v)
+> - 1 Escape Rope (v)
+> - 11 Max Repels (>)
+> - 2 Adrenaline Orbs (>^)
+
+Head back to Aether House.
+
+:::::trainer[Team Skull Plumeria]
+  :::pokemon[Golbat]
+    - X Attack
+    - _If you can live another Wing Attack:_
+      - X Attack
+      - Wing Attack
+    - _Otherwise:_
+      - Fly
+    - 
+   ::damage[Golbat's Wing Attack]{source="Hawlucha" offensive=false movePower=60 stab=true level=40 effectiveness=2 evs=24 opponentLevel=37 opponentStat=98}
+  :::
+  :::pokemon[Salazzle]
+    - _If you used 2 X Attacks:_
+      - Wing Attack
+    - _Otherwise:_
+      - Fly
+  :::
+:::::
+
+::variable{name="flymiss" type="boolean" title="Did you faint because you missed a Fly?"}
+
+:::::::if{source="Hawlucha" condition="$flymiss"}
+  - Move the Sharp Beak from Popplio to Hawlucha.
+
+     ::damage[Golbat's Wing Attack w/ +2 Defense]{source="Hawlucha" offensive=false movePower=60 stab=true level=40 effectiveness=2 evs=24 combatStages=+2 opponentLevel=37 opponentStat=98}
+
+  :::::trainer[Team Skull Plumeria]
+    :::pokemon[Golbat]
+      - X Defense
+      - X Attack
+    - _If you can live another Wing Attack:_
+      - Fling
+      - Wing Attack
+    - _Otherwise:_
+      - Hyper Potion
+      - Fling
+      - Wing Attack
+    :::
+    :::pokemon[Salazzle]
+      - Fly
+    :::
+  :::::
+:::::::
+
+Head to the beach and talk to Grimsley.  After you mount Sharpedo:
+- Heal to full.
+- Max Repel (reapply once)
+- Move Sharp Beak from Popplio to Hawlucha if you haven't done so already.
+
+![Sharpedo Movement 1](sharpedo-movement-1.gif)
+
+:::::trainer[Surfer Jennis]
+  :::pokemon[Mantine]
+    - Wing Attack x2
+  :::
+:::::
+
+Pick up the TM for Acrobatics at the top of the island.
+
+![Sharpedo Movement 2](sharpedo-movement-2.gif)
+
+Once on Route 17, go up the hill to avoid battling the Team Skull grunt.
+
+![Route 17 Movement](route-17-movement.gif)
+
+Stick to the left wall to avoid the female Grunt.
+
+:::::trainer[Team Skull Double]
+   - Fly Scraggy | Hyper Potion Hawlucha
+   - Flying Press Pawniard
+:::::
+
+- _Safer Route: (recommended)_
+  - Take off Sharp Beak.
+  - Teach Acrobatics over Fly (slot 1).
+
+- _Faster Route:_
+  - Save the menu until after the next fight.
+
+Go left through the hole in the hedge.
+
+:::::trainer[Team Skull Grunt]
+  :::pokemon[Spinarak]
+    - _Safer Route:_
+      - Acrobatics
+    - _Faster Route:_
+      - Wing Attack
+  :::
+:::::
+:::::trainer[Team Skull Grunt]
+  :::pokemon[Trubbish]
+    - _Safer Route:_
+      - Acrobatics
+    - _Faster Route:_
+      - Fly
+  :::
+:::::
+
+- If you have none left, pick up the Full Restore by cutting through the hedge on the right side (where the Grunt Double is).
+![Po Full Restore](po-full-restore.png)
+
+- _Safer Route:_
+  - Equip Oran Berry on Hawlucha.
+  - Heal if took damage outside of Pawniard's Metal Claw.
+
+- _Faster Route:_
+  - Teach Acrobatics over Fly (slot 1).
+  - Heal Poison if poisoned by Trubbish.
+  - Heal out of Razor Shell range.
+  - Equip Oran Berry on Hawlucha.
+
+::damage[Golisopod's Razor Shell]{source="Hawlucha" offensive=false movePower=75 stab=true level=42 evs=24 opponentLevel=41 opponentStat=159}
+
+![Po Movement 1](po-movement-1.gif)
+![Po Movement 2](po-movement-2.gif)
+
+- Password is 3-2-1-No!
+
+:::::trainer[Guzma]
+  :::pokemon[Golisopod]
+    - X Attack (+ Fling if Razor Shell missed)
+    - Acrobatics
+  :::
+  :::pokemon[Masquerain]
+    - Acrobatics
+  :::
+  :::pokemon[Pinsir]
+    - Acrobatics
+  :::
+:::::
+
+
+:info[**Free heal**]{color=pink}
+
+- Use the Escape Rope.
+:::if{source="Hawlucha" condition="speed=(0 / x / x) || speed=(8-12 / x / x)" theme=info}
+- Pick up the hidden Rare Candy west of the Shady House.
+![Shady Candy](shady-candy.png)
+:::
+- Fly to Tapu Village.
+- Deposit Popplio.
+
+Head to the Aether House.
+
+:::::trainer[Gladion]
+  :::pokemon[Golbat]
+    - Fling until you faint.
+  :::
+:::::
+
+:::::trainer[Kahuna Nanu]
+  :::pokemon[Sableye]
+    - X Attack
+    - Acrobatics
+      - Teach HJK over Wing Attack (slot 4).
+  :::
+  :::pokemon[Persian]
+    - X Speed
+    - Flying Press
+  :::
+  :::pokemon[Krokorok]
+    - Acrobatics
+  :::
+:::::
+
+:info[**Free heal**]{color=pink}
+
+Grab the Rare Candy in the Aether Paradise docks.
+![Aether Candy](aether-movement.gif)
+
+Head up the lift. Save if you are at risk of dying to Hypno's Psychic.
+
+::damage[Hypno's Psychic]{source="Hawlucha" offensive=false special=true movePower=90 stab=true effectiveness=2 level=44 evs=21 opponentLevel=43 opponentStat=80}
+
+:::::trainer[Faba]
+  :::pokemon[Hypno]
+    - X Attack
+    - Acrobatics
+  :::
+:::::
+
+- Teach Brick Break over Flying Press (slot 2).
+- Equip Fightinium Z.
+- Heal to full.
+
+Go to the door on the right.
+
+:::::trainer[Aether Foundation Employee]
+  :::pokemon[Muk]
+    - X Attack
+    - _If Muk used X-Defense or don't want to miss:_
+      - Z-High Jump Kick :info[14/16 range w/ X Defense]{color=red}
+    - _Otherwise:_
+      - High Jump Kick (risky)
+    - If poisoned, heal in Refresh.
+  :::
+:::::
+:::::trainer[Aether Foundation Employee]
+  :::pokemon[Magneton]
+    - _If Muk used Gunk Shot:_
+      - _X Sp. Defense_
+      - _Heal to full_
+    - Acrobatics
+    - Brick Break
+  :::
+:::::
+:::::trainer[Aether Foundation Employee]
+  :::pokemon[Porygon2]
+    - _Safe:_
+      - Z-High Jump Kick
+    - _Fast:_
+      - High Jump Kick
+  :::
+:::::
+
+Head all the way down the hallway and enter the door.
+
+:::::trainer[Aether Double 1]
+  :::pokemon[Gorebyss]
+    - Z-High Jump Kick
+  :::
+  :::pokemon[Huntail]
+    - Brick Break
+  :::
+:::::
+
+Talk to the PC.
+
+- Strongly consider picking up the Full Restore in the first laboratory room.
+
+Take the lift back to the entrance.
+
+:info[**Free heal**]{color=pink}
+
+:::::trainer[Aether Double 2]
+  :::pokemon[Lileep]
+    - Brick Break
+  :::
+  :::pokemon[Anorith]
+    - Brick Break
+  :::
+:::::
+
+:info[**Free heal**]{color=pink}
+
+:::if{source="Hawlucha" condition="speed=(12- / x / x)"}
+- Equip the Plume Fossil.
+:::
+:::if{source="Hawlucha" condition="speed=(13+ / x / x)"}
+- Optional: Equip the Plume Fossil. :info[Faster, but also riskier.]{color=gray}
+:::
+
+:::::::trainer[Aether Double 3]
+  :::::pokemon[Electabuzz]{info="has Static" infoColor=gray}
+    :::if{source="Hawlucha" condition="speed=(13+ / x / x)"}
+     - _Fightinium Z:_
+       - Z-High Jump Kick
+    :::
+     - _Plume Fossil:_
+       - High Jump Kick
+  :::::
+  :::::pokemon[Manectric]{info="has Static" infoColor=gray}
+    - High Jump Kick
+  :::::
+  :::::pokemon[Magmar]{info="has Flame Body" infoColor=gray}
+    - _If Magmar is low HP and you have Plume Fossil:_
+      - Fling
+    - _Otherwise:_
+      - Brick Break
+  :::::
+  :::::pokemon[Houndoom]
+    - _If burned:_
+      - High Jump Kick
+    - _Otherwise:_
+      - Brick Break
+  :::::
+:::::::
+
+:info[**Free heal**]{color=pink}
+
+::damage[Hypno's Psychic]{source="Hawlucha" offensive=false special=true movePower=90 stab=true effectiveness=2 level=49 evs=28 combatStages=+2 opponentLevel=45 opponentStat=84}
+::damage[Bruxish's Aqua Jet]{source="Hawlucha" offensive=false movePower=40 stab=true level=49 evs=28 opponentLevel=44 opponentStat=151}
+
+:::::trainer[Aether Double 4]{info="Heal as needed" infoColor=gray}
+   - X Sp. Defense
+  :::if{source="Hawlucha" condition="speed=(13+ / x / x)"}
+   _Fightinium Z:_
+     - X Attack x2
+   :::
+   - _Plume Fossil:_
+     - X Attack
+   - Acrobatics Ledian
+   - _If Ledian used Reflect or Hau sent out Leafeon:_
+     - Brick Break Pupitar
+   - Acrobatics (Fightinium Z) / Fling (Plume Fossil) Claydol
+   - Acrobatics Claydol
+   - Acrobatics Hypno :info[Faster at 118+ Speed (13+), heal if slower and die to Psychic]{color=gray}
+   - Acrobatics Bruxish :info[has Aqua Jet]{color=gray}
+   - Brick Break Pupitar
+:::::
+
+:info[**Free heal**]{color=pink}
+
+:::if{source="Hawlucha" condition="speed=(0 / x / x)"}
+- Use three Rare Candies.
+:::
+:::if{source="Hawlucha" condition="speed=(1+ / x / x)"}
+- Use two Rare Candies.
+:::
+- Remove Fightinium-Z/Plume Fossil.
+
+:::::trainer[Team Skull Grunt]
+  :::pokemon[Golbat]
+    - Acrobatics (x2) :info[13/16 range]{color=red}
+  :::
+:::::
+:::::trainer[Team Skull Grunt]
+  :::pokemon[Raticate]
+    - Brick Break
+  :::
+:::::
+
+- Heal to full if you took damage from Golbat.
+
+:::::trainer[Guzma]
+  :::pokemon[Golisopod]
+    - X Attack
+    - Acrobatics
+  :::
+  :::pokemon[Vikavolt]
+    - Acrobatics
+  :::
+  :::pokemon[Masquerain]
+    - Acrobatics
+  :::
+  :::pokemon[Pinsir]
+    - Acrobatics
+  :::
+:::::
+
+- Heal to full if Golisopod crit.
+
+:::::trainer[Ultra Recon Squad Soliera]
+  :::pokemon[Poipole]{info="97.5% range" infoColor=red}
+    - Brick Break
+    - Acrobatics
+  :::
+:::::
+
+:info[**Free heal**]{color=pink}
+
+:::::trainer[Lusamine]
+  :::pokemon[Clefable]
+    - Fling until you faint.
+  :::
+:::::
+
+:info[**Free heal**]{color=pink}
+
+- Go to the PC past the lift.
+- Withdraw Popplio and Zorua
+- Take the lift to the docks.
+- Run past Gladion and Lillie and head all the way down the left side to pick up the TM for Toxic.
+- Talk to Gladion to travel to Poni Island.
+- Head north out of Seaside Village.
+- Max Repel at the grass (keep applied for the rest of the game).
+![Poni Wild Movement](poni-wild-movement.gif)
+
+- Go east to the Ruins of Hope.
+- At the boulder puzzle, quick bind Machamp over Lapras.
+- Push left boulder up.
+- Push middle boulder right.
+- Push same boulder up.
+- After leaving the Ruins of Hope, fly back to Seaside Village.
+- Talk to the captain to travel to Exeggutor Island.
+
+  :::pokemon[Pinsir (x3)]
+    - Acrobatics
+  :::
+
+- Talk to the Exeggutor by the peak to climb up.
+- Interact with the Moon Flute.
+
+:::if{source="Hawlucha" condition="speed=(8+ / x / x)" theme=info}
+- Take the center path in the Poni Wilds to reach a berry tree. Save in front of the tree and reset until you find a Roseli Berry (~37% chance).
+![Roseli Tree](roseli-tree.png)
+- After getting a Roseli Berry, head back the way you entered to avoid an optional.
+:::
+
+- Head back to Ancient Poni Path.
+
+:::::trainer[Team Skull Grunt]
+  :::pokemon[Ekans]
+    - Acrobatics
+  :::
+:::::
+:::::trainer[Team Skull Grunt]
+  :::pokemon[Fomantis]
+    - X Attack
+    - Brick Break
+  :::
+  :::pokemon[Raticate]
+    - Acrobatics
+  :::
+  :::pokemon[Houndour]
+    - Acrobatics
+  :::
+  :::pokemon[Mareanie]
+    - Acrobatics
+  :::
+  :::pokemon[Golbat]
+    - Acrobatics
+  :::
+:::::
+
+:info[**Free heal**]{color=pink}
+
+- Equip the Plume Fossil.
+
+:::::trainer[Ultra Recon Squad Soliera]
+  :::pokemon[Poipole]
+    - Fling
+    - Acrobatics
+  :::
+:::::
+
+:info[**Free heal**]{color=pink}
+
+- Mount Tauros before entering the cave. The following movement is pretty tight!
+
+:::::trainer[Veteran Harry]
+  :::pokemon[Beheeyem]
+    - Fling
+  :::
+  :::pokemon[Beheeyem]
+    - Acrobatics
+  :::
+:::::
+
+- Hug the left wall as much as possible without slowing down.
+![Poni Movement 1](canyon-movement-1.gif)
+
+:info[**Free heal**]{color=pink}
+
+Boulder Puzzle:
+- Approach the first boulder from the top.
+- Mount Machamp and push the boulder down.
+- Pick up the Full Restore.
+- Push the right boulder up.
+- Climb the ladder.
+- Try to hug the ledge as much as possible w/o slowing down for the upcoming movement! This will likely take practice to get consistently!
+![Poni Movement 2](canyon-movement-2.gif)
+
+:::::trainer[Ace Trainer Hiroshi]
+  :::pokemon[Graveler]
+    - Fling
+    - Brick Break
+  :::
+  :::pokemon[Lapras]
+    - High Jump Kick
+      - If you miss, bring in Zorua and Revive.
+  :::
+:::::
+
+- Heal to full.
+
+:::::trainer[Veteran Heather]
+  :::pokemon[Talonflame]{info="has Flame Body" infoColor=gray}
+    - Fling
+    - _If burned:_ 
+      - _X Attack_
+    - Acrobatics
+  :::
+  :::pokemon[Wailord]{info="Heal as needed" infoColor=gray}
+    - _If Talonflame used Will-O-Wisp:_
+      - Full Restore
+      - _Bounce_: X Attack + Acrobatics
+      - _Heavy Slam_:
+    - _If Flame Bodied:_
+      - Full Restore
+      - X Attack (x2 if Bounce)
+      - Acrobatics (x2)
+    - _If Talonflame used Aerial Ace:_ 
+      - Hyper Potion if at any time you are at range to die to Heavy Slam.
+      - X Attack
+      - (X Attack again if Bounce)
+      - Heal out of Ice Shard range.
+      - Acrobatics (x2)
+    -
+   ::damage[Wailord's Heavy Slam]{source="Hawlucha" offensive=false movePower=120 level=56 evs=31 opponentLevel=48 opponentStat=98}
+   ::damage[Wailord's Bounce]{source="Hawlucha" offensive=false movePower=85 effectiveness=2 level=56 evs=31 opponentLevel=48 opponentStat=98}
+  :::
+  :::pokemon[Glaceon]
+    - Acrobatics
+    - (+0 HJK kills if you needed to Revive)
+   ::damage[Glaceon's Ice Shard]{source="Hawlucha" offensive=false movePower=40 stab=true effectiveness=2 level=57 evs=33 opponentLevel=48 opponentStat=62}
+  :::
+:::::
+
+- Heal if in Air Slash range.
+::damage[Noctowl's Air Slash]{source="Hawlucha" offensive=false special=true movePower=75 stab=true effectiveness=2 level=57 evs=31 opponentLevel=48 opponentStat=94}
+
+
+:::::::trainer[Ace Trainer Hiroshi]
+  :::::pokemon[Noctowl]
+     - X Attack
+     - Brick Break
+  :::::
+  :::::pokemon[Slowking]
+     - Fling
+  :::::
+  :::::pokemon[Flygon]
+    :::if{source="Hawlucha" condition="speed=(27- / x / x)"}
+      - _If Tailwind is active and in Dragon Rush range:_
+        - _Heal to full_
+      - Acrobatics
+    ::damage[Flygon's Dragon Rush]{source="Hawlucha" offensive=false movePower=100 stab=true level=57 evs=33 opponentLevel=48 opponentStat=159}
+    :::
+    :::if{source="Hawlucha" condition="speed=(28+ / x / x)"}
+      - Acrobatics
+    :::
+  :::::
+  :::::pokemon[Gengar]
+     - Acrobatics
+  :::::
+:::::::
+
+:info[**Free heal**]{color=pink}
+
+- Move Plume Fossil to Zorua.
+
+:::::trainer[Vast Poni Canyon Trial]
+  :::pokemon[Jangmo-o]
+    - Acrobatics
+  :::
+  :::pokemon[Hakamo-o]
+    - Fling until you have a low enough HP that Kommo-o's Thunder Punch will knock you into Yellow HP.
+    - Acrobatics
+  :::
+
+  ::damage[Kommo-o's Thunder Punch]{source="Hawlucha" offensive=false movePower=75 effectiveness=2 level=58 evs=33 opponentLevel=49 opponentStat=144 opponentCombatStages=+1}
+  - Use a Potion if using the Potion will still let Thunder Punch knock you into Yellow HP.
+  - Equip Oran Berry.
+  - Save.
+   
+  :::pokemon[Totem Kommo-o]{info="Heal if in Bullet Punch range" infoColor=gray}
+   - Acrobatics Kommo-o x2
+     - _If fully paralyzed turn 1, soft reset._
+     - _If paralyzed turn 1 but powered through, faint and Full Restore._
+   - High Jump Kick (risky) / Acrobatics x2 (safe) Scizor :info[HJK is 13/16 range]{color=red}
+   ::damage[Scizor's Bullet Punch]{source="Hawlucha" offensive=false movePower=60 stab=true level=59 evs=42 opponentLevel=48 opponentStat=159}
+  :::
+:::::
+
+:info[**Free heal**]{color=pink}
+
+- Move the Plume Fossil to Hawlucha.
+- Give an Adrenaline Orb to Popplio and Zorua.
+- Teach Toxic to Zorua over Scratch (slot 1).
+  :::pokemon[Necrozma]
+    - X Attack
+    - Fling
+    - _If Necrozma used Psychic:_
+      - Send out Zorua and try to Leer
+      - If successfully Leered, send out Hawlucha and use Fling.
+      - Otherwise, send out Popplio and faint.
+  :::
+
+::variable{name="necrozmadeath" type="boolean" title="Did you lose to Necrozma?"}
+
+- Talk to the Ultra Recon Team to start the Ultra Wormhole minigame.
+  - Tilt your 3DS to move Solgaleo.
+  - Collect the rings to build speed while avoiding the electric rings.
+  - Enter the first white wormhole you see - avoid wormholes of any other colour.
+  - If you enter the wrong wormhole, simply head back and try the minigame again.
+
+
+ - Swap Zorua to the front of the party.
+:::if{source="Hawlucha" condition="$necrozmadeath"}
+ - Equip Normalium Z on Zorua.
+:::
+ - Save right before battling Ultra Necrozma.
+ - Soft reset if Zorua dies before hitting Toxic.
+
+:::pokemon[Ultra Necrozma]
+  - Toxic
+  - Spam Leer while Necrozma hopefully spams Photon Geyser.
+:::
+
+:::::if{source="Hawlucha" condition="!$necrozmadeath"}
+
+::variable{name="zoruafaintturn" type="number" title="If Zorua fainted prior to Necrozma dying, on what turn did it faint?"}
+
+:::if{source="Hawlucha" condition="$zoruafaintturn == 1"}
+- Soft reset and try again.
+:::
+:::if{source="Hawlucha" condition="$zoruafaintturn == 2"}
+- Send out Popplio
+- Pound + Send out Hawlucha
+- Revive Popplio + Send out Popplio
+- Revive Zorua + Send out Zorua
+- Revive Hawlucha
+:::
+:::if{source="Hawlucha" condition="$zoruafaintturn == 3"}
+- Send out Hawlucha
+- HJK + Send out Popplio
+- Revive Zorua + Send out Zorua
+- Revive Hawlucha
+:::
+:::if{source="Hawlucha" condition="$zoruafaintturn == 4"}
+- Send out Hawlucha
+- HJK + Send out Popplio
+- Revive Hawlucha
+:::
+:::if{source="Hawlucha" condition="$zoruafaintturn == 5"}
+- Send out Popplio
+- Pound
+:::
+:::::
+
+:::::if{source="Hawlucha" condition="$necrozmadeath"}
+  :::pokemon[If Zorua dies turn 2:]
+   - Send out Popplio
+   - Pound + Send out Hawlucha
+   - Revive Popplio + Send out Popplio
+   - Revive Zorua + Send out Zorua
+   - Revive Hawlucha
+  :::
+  :::pokemon[If Zorua is alive at turn 3:]
+   - Z-Leer (if Zorua faints this turn, see the guide below this)
+   - Leer + Send out Hawlucha
+   - HJK + Send out Popplio
+   - Revive Hawlucha
+  :::
+  :::pokemon[If Zorua dies turn 3:]
+   - Send out Hawlucha
+   - HJK + Send out Popplio
+   - Revive Zorua + Send out Zorua
+   - Revive Hawlucha
+  :::
+:::::
+
+:info[**Free heal**]{color=pink}
+
+:::if{source="Hawlucha" condition="speed=(7- / x / x)"}
+- Say yes to Poipole.
+- Rearrange Pokemon in this order: Popplio -> Hawlucha -> Poipole -> Zorua
+:::
+:::if{source="Hawlucha" condition="speed=(8+ / x / x)"}
+- Say no to Poipole. (not the end of the world if you mash and hit yes)
+- Rearrange Pokemon in this order: Popplio -> Hawlucha -> Zorua
+:::
+- Move Adrenaline Orb from Popplio to Hawlucha.
+
+:::::trainer[Mina]
+  :::pokemon[Mawile]
+    - Baby-Doll Eyes
+    - Switch to Hawlucha
+    - X Attack
+    - Brick Break
+  :::
+  :::pokemon[Granbull]
+    - Acrobatics
+  :::
+  :::pokemon[Ribombee]
+    - Acrobatics
+  :::
+:::::
+
+- Fly to Hau'oli Cemetery.
+- Switch Hawlucha to the front.
+- If you are in range to die to a Smeargle Extreme Speed:
+  - Heal to full.
+  - Equip Wacan Berry (if you have one) or move Adrenaline Orb to Hawlucha.
+
+::damage[Smeargle's Extreme Speed]{source="Hawlucha" offensive=false movePower=80 stab=true level=60 evs=43 opponentLevel=51 opponentStat=72}
+:::::trainer[Ilima]
+  :::pokemon[Gumshoos]
+    - High Jump Kick
+  :::
+  :::pokemon[Smeargle]
+    - _If not holding an item:_
+      - Acrobatics
+    - Brick Break
+  :::
+  :::pokemon[Komala]
+    - Brick Break
+  :::
+:::::
+
+- Heal to full.
+- If you did not do so already:
+  - Equip Wacan Berry (if you have one) or move Adrenaline Orb to Hawlucha.
+
+:::::trainer[Lana]
+  :::pokemon[Lanturn]
+    - X Attack
+    - (heal Paralysis)
+    - Brick Break
+  :::
+  :::pokemon[Cloyster]
+    - Brick Break
+  :::
+  :::pokemon[Araquanid]
+    - Acrobatics
+  :::
+:::::
+
+- Get the free heal from the NPC to the right of the trial gates.
+- Move Adrenaline Orb to Hawlucha if you equipped Wacan Berry earlier.
+
+:::::trainer[Kiawe]
+  :::pokemon[Arcanine]{info="has Extreme Speed" infoColor=gray}
+    - _If you have 2 X Defenses:_
+      - X Defense
+      - X Attack (x2 if you want to avoid a range)
+      - Acrobatics
+    - _Otherwise:_
+      - X Attack
+      - Acrobatics
+  :::
+  :::pokemon[Talonflame]{info="has Flame Body" infoColor=gray}
+    - Acrobatics
+  :::
+  :::pokemon[Marowak]
+    - (Full Restore if burned)
+    - Acrobatics :info[5/16 range at +2 w/o burn, Revive if missed range]{color=red}
+  :::
+:::::
+:::::trainer[Hiker David]
+  :::pokemon[Magmar]{info="has Flame Body" infoColor=gray}
+    - Acrobatics
+  :::
+:::::
+
+:::if{source="Hawlucha" condition="speed=(11-12 / x / x) || speed=(16-18 / x / x)" theme=info}
+- Enter the Pokemon Center at Hokulani Observatory.
+- At the right vendor, purchase 3 Proteins and 2 Carbos.
+- Go to the left vendor and purchase Max Full Restores (>).
+- PC heal Hawlucha.
+- Deposit Popplio if you can live an Acrobatics from Crobat at level 64.
+  - This is a risky play - do it only if you absolutely want to save ~15 seconds.
+- Deposit Zorua.
+::damage[Crobat's Acrobatics]{source="Hawlucha" offensive=false movePower=110 stab=true effectiveness=2 level=64 evs=52 opponentLevel=53 opponentStat=149}
+:::
+:::if{source="Hawlucha" condition="speed=(9-10 / x / x) || speed=(14-15 / x / x)" theme=info}
+- Enter the Pokemon Center at Hokulani Observatory.
+- At the right vendor, purchase 3 Proteins and 3 Carbos.
+- Go to the left vendor and purchase Max Full Restores (>).
+- PC heal Hawlucha.
+- Deposit Popplio if you can live an Acrobatics from Crobat at level 64.
+  - This is a risky play - do it only if you absolutely want to save ~15 seconds.
+- Deposit Zorua.
+::damage[Crobat's Acrobatics]{source="Hawlucha" offensive=false movePower=110 stab=true effectiveness=2 level=64 evs=52 opponentLevel=53 opponentStat=149}
+:::
+:::if{source="Hawlucha" condition="speed=(8 / x / x) || speed=(13 / x / x)" theme=info}
+- Enter the Pokemon Center at Hokulani Observatory.
+- At the right vendor, purchase 3 Proteins and 4 Carbos.
+- Go to the left vendor and purchase Max Full Restores (>).
+- PC heal Hawlucha.
+- Deposit Popplio if you can live an Acrobatics from Crobat at level 64.
+  - This is a risky play - do it only if you absolutely want to save ~15 seconds.
+- Deposit Zorua.
+::damage[Crobat's Acrobatics]{source="Hawlucha" offensive=false movePower=110 stab=true effectiveness=2 level=64 evs=52 opponentLevel=53 opponentStat=149}
+:::
+
+Enter the observatory and talk to Molayne.
+
+After the Guzma cutscene:
+- Heal to full.
+:::if{source="Hawlucha" condition="!$necrozmadeath"}
+- Equip Grip Claw.
+:::
+:::if{source="Hawlucha" condition="$necrozmadeath"}
+- Equip Plume Fossil.
+  - If you flung your Plume Fossil in the Necrozma fight, equip Grip Claw.
+:::
+:::if{source="Hawlucha" condition="speed=(8-18 / x / x)"}
+- Use all Proteins and Carbos purchased.
+:::
+- Enter the Aether House.
+
+::damage[Smeargle's Extreme Speed]{source="Hawlucha" offensive=false movePower=80 stab=true level=60 evs=43 opponentLevel=51 opponentStat=72}
+:::::trainer[Nanu]
+  :::pokemon[Sableye]
+    - X Attack
+    - Fling :info[10/16 range at +2 w/o burn, Revive if missed range]{color=red}
+    - (Acrobatics)
+  :::
+  :::pokemon[Absol]
+    - Acrobatics
+  :::
+  :::pokemon[Persian]
+    - Brick Break
+  :::
+:::::
+
+Save before talking to Mina. 
+
+:::if{source="Hawlucha" condition="speed=(7- / x / x)"}
+- Switch Poipole to slot 1.
+- Teach Toxic to Poipole over Charm (slot 1).
+- Equip Eviolite on Poipole.
+:::
+
+:::if{source="Hawlucha" condition="speed=(8+ / x / x)"}
+- Give Grip Claw / Plume Fossil to Zorua.
+- Give Roseli Berry to Hawlucha.
+- Heal to full.
+- Use a Rare Candy if you have any left.
+:::
+
+:::::if{source="Hawlucha" condition="speed=(7- / x / x)"}
+  :::trainer[Totem Ribombee]
+   - Toxic Ribombee
+   - Toxic Pelipper
+   - Poison Jab Pelipper
+   - _Adapt, though this strategy is usually safe:_
+     - X Sp. Defense
+     - Potion (Super Potion if in Yellow HP)
+     - Hyper Potion Hawlucha (gets rid of a menu if you heal now) :info[Don't worry if Poipole dies this turn.]{color=gray}
+  :::
+:::::
+
+:::::if{source="Hawlucha" condition="speed=(8+ / x / x)"}
+  :::trainer[Totem Ribombee]{info="Max Revive as needed if Pelipper kills you" infoColor=gray}
+   - X Attack
+   - _If Ribombee used Quiver Dance:_
+     - _Risky:_ Acrobatics (x2) Ribombee, Acrobatics (x2) Pelipper :info[Only attempt if you can live a +4 Dazzling Gleam!]{color=red}
+     - _Safe:_ Roto Boost, Acrobatics Ribombee, Acrobatics Pelipper
+   - _Otherwise:_
+     - Acrobatics Ribombee
+     - Acrobatics Pelipper
+   -
+   ::damage[+4 Ribombee's Dazzling Gleam]{source="Hawlucha" offensive=false movePower=80 stab=true special=true level=63 evs=36 opponentLevel=55 opponentStat=99 opponentCombatStages=+4}
+  :::
+:::::
+
+::variable{name="usedrotoboost" type="boolean" title="Did you use a Roto Boost in the Ribombee fight?"}
+
+- Press "no" on the sheet if you did not use a Roto Boost (this is important!)
+- Equip Plume Fossil / Grip Claw.
+- Heal to full.
+- Head to the southwest pier and talk to the captain.
+
+:::::trainer[Hapu]
+  :::pokemon[Sableye]
+    - X Attack x2
+    - Fling
+  :::
+  :::pokemon[Gastrodon]
+    - Acrobatics
+  :::
+  :::pokemon[Flygon]
+    - Acrobatics
+  :::
+  :::pokemon[Mudsdale]
+    - Acrobatics
+  :::
+:::::
+
+Fly to Tapu Village.
+
+:::::if{source="Hawlucha" condition="speed=(7- / x / x) || speed=(19+ / x / x)" theme=info}
+   Enter the Pokemon Center if you meet any of these requirements:
+   - Zorua and/or Poipole is alive in your party.
+   - You can tank Acrobatics from Crobat and Popplio is in your party.
+   - You need to revive Popplio and heal Hawlucha.
+   - You still need to buy X items and you only have Hawlucha.
+
+   ::damage[Crobat's Acrobatics]{source="Hawlucha" offensive=false movePower=110 stab=true effectiveness=2 level=64 evs=52 opponentLevel=53 opponentStat=149}
+
+   If you entered the Pokemon Center:
+   - PC heal Hawlucha.
+   - Heal and move Popplio to slot 1. (unless you can live an Acrobatics - see the range above)
+     - Deposit Popplio if you can live an Acrobatics
+   - Deposit Zorua and Poipole.
+:::if{source="Hawlucha" condition="!$usedrotoboost"}
+   - Buy X items if you need more:
+     - Minimum X items needed: 1 X Speed, 8 X Attacks (v), 1 X Defense (v), 2 X Sp. Defense (>>^)
+:::
+:::if{source="Hawlucha" condition="$usedrotoboost"}
+   - Buy X items if you need more:
+     - Minimum X items needed: 2 X Speed, 8 X Attacks (v), 1 X Defense (v), 4 X Sp. Defense (>>^)
+:::
+   - Buy max full restores from the left vendor (>).
+:::::
+
+:::::trainer[Gladion]
+  :::pokemon[Crobat]
+    - (Baby-Doll Eyes)
+    - Fling
+    - Acrobatics
+   ::damage[Crobat's Acrobatics]{source="Hawlucha" offensive=false movePower=110 stab=true effectiveness=2 level=64 evs=52 opponentLevel=53 opponentStat=149}
+  :::
+  :::pokemon["Lucario"]
+    - Brick Break
+  :::
+  :::pokemon[Silvally]
+    - Acrobatics
+  :::
+  :::pokemon[Lucario]{info="has Quick Attack" infoColor=gray}
+    - Brick Break
+   ::damage[Lucario's Quick Attack]{source="Hawlucha" offensive=false movePower=40 level=65 evs=52 opponentLevel=53 opponentStat=170}
+  :::
+:::::
+
+- Move Hawlucha to the front.
+- Heal to full.
+- Unequip Grip Claw / Plume Fossil.
+
+:::::trainer[Ace Trainer Seth]
+  :::pokemon[Scyther]
+    - Acrobatics
+  :::
+  :::pokemon[Malamar]
+    - _Fast:_
+      - High Jump Kick (+ Brick Break) :info[13/16 range w/o Proteins]{color=red}
+    - _Safe:_
+      - Brick Break x2 (Brick Break + Acrobatics if uses Superpower)
+  :::
+:::::
+
+:::::trainer[Ace Trainer Jada]
+  :::pokemon[Vanilluxe]
+    - Brick Break
+  :::
+  :::pokemon[Mismagius]
+    - Acrobatics
+  :::
+:::::
+
+:::::trainer[Ace Trainer Jada]
+  :::pokemon[Vanilluxe]
+    - Brick Break
+  :::
+  :::pokemon[Mismagius]
+    - Acrobatics
+  :::
+:::::
+
+:::::card
+If you did not go to the Pokemon Centrer in Tapu Village or if you have Popplio in your party:
+- Deposit Popplio
+- Heal to full (PC heal if depositing Popplio).
+:::if{source="Hawlucha" condition="!$usedrotoboost"}
+   - Buy X items if you need more:
+     - Minimum X items needed: 1 X Speed, 8 X Attacks (v), 1 X Defense (v), 2 X Sp. Defense (>>^)
+:::
+:::if{source="Hawlucha" condition="$usedrotoboost"}
+   - Buy X items if you need more:
+     - Minimum X items needed: 2 X Speed, 8 X Attacks (v), 1 X Defense (v), 4 X Sp. Defense (>>^)
+:::
+- Buy max Full Restores at the left vendor if you have not done so yet (>).
+:::::
+
+- Enter the second door from the left.
+
+:::::trainer[Elite Four Olivia (2)]
+  :::pokemon[Armaldo]
+    - X Attack (x2 if worried about HJK miss)
+    - Acrobatics
+   ::damage[Armaldo's Crush Claw]{source="Hawlucha" offensive=false movePower=75 level=66 evs=52 opponentLevel=56 opponentStat=197}
+  :::
+  :::pokemon[Gigalith]
+    - High Jump Kick (Brick Break if X Attack x2)
+  :::
+  :::pokemon[Lycanroc]
+    - Brick Break
+  :::
+  :::pokemon[Probopass]
+    - Acrobatics
+    - Full Restore if needed
+    - Brick Break
+   ::damage[Probopass's Power Gem]{source="Hawlucha" offensive=false movePower=80 special=true stab=true level=66 evs=36 opponentLevel=56 opponentStat=105}
+  :::
+  :::pokemon[Cradily]
+    - Brick Break
+  :::
+:::::
+
+- Heal to full if you are at risk of dying to Braviary's Brave Bird.
+- Equip Grip Claw / Plume Fossil.
+- Enter the door furthest to the right.
+
+::damage[Braviary's Brave Bird]{source="Hawlucha" offensive=false movePower=120 stab=true effectiveness=2 level=67 evs=53 combatStages=+2 opponentLevel=56 opponentStat=194}
+
+:::::trainer[Elite Four Kahili (4)]
+  :::pokemon[Braviary]
+    - X Defense
+    - _If Scary Face:_
+      - _X Speed_
+    - High Jump Kick
+  :::
+  :::pokemon[Mandibuzz]
+    - Heal to full.
+    - X Attack x2
+    - (Full Restore if confused)
+    - Brick Break
+   ::damage[Mandibuzz's Brave Bird]{source="Hawlucha" offensive=false movePower=120 stab=true effectiveness=2 level=67 evs=53 combatStages=+2 opponentLevel=56 opponentStat=94}
+  :::
+  :::pokemon[Toucannon]
+    - Fling
+  :::
+  :::pokemon[Oricorio]
+    - Acrobatics
+  :::
+  :::pokemon[Hawlucha]
+    - Acrobatics
+  :::
+:::::
+
+- Enter the door furthest to the left.
+
+:::::trainer[Elite Four Molayne (1)]
+  :::pokemon[Klefki]
+    - X Sp. Defense x2
+    - X Attack x2
+     - Do not heal paralysis before attacking!
+    - Brick Break
+  :::
+  :::pokemon[Magnezone]
+    - Full Restore
+    - Acrobatics
+    - Brick Break
+  :::
+  :::pokemon[Metagross]
+    - Fling
+  :::
+  :::pokemon[Bisharp]
+    - Brick Break
+  :::
+  :::pokemon[Dugtrio]
+    - Brick Break
+  :::
+:::::
+
+- If you have not PC healed since Hapu, use a Max Elixir.
+- Enter the second door from the right.
+
+:::::trainer[Elite Four Acerola (3)]
+  :::pokemon[Banette]
+    - X Attack
+    - Fling
+  :::
+  :::pokemon[Froslass]
+    - Acrobatics
+  :::
+  :::pokemon[Dhelmise]
+    - Acrobatics
+  :::
+  :::pokemon[Palossand]
+    - Acrobatics
+  :::
+  :::pokemon[Drifblim]
+    - Acrobatics
+  :::
+:::::
+
+- Heal to full if you can die to Raichu's Thunderbolt/Psychic.
+
+::variable{name="usedrotoboost" type="boolean" title="Did you use a Roto Boost in the Ribombee fight?"}
+
+:::if{source="Hawlucha" condition="!$usedrotoboost"}
+::damage[Raichu's Thunderbolt/Psychic (+1 SpD)]{source="Hawlucha" offensive=false movePower=90 special=true stab=true effectiveness=2 level=70 evs=41 combatStages=+1 opponentLevel=59 opponentStat=171}
+:::
+
+:::if{source="Hawlucha" condition="$usedrotoboost"}
+::damage[Raichu's Thunderbolt/Psychic (+2/+4 SpD)]{source="Hawlucha" offensive=false movePower=90 special=true stab=true effectiveness=2 level=70 evs=41 combatStages=2-4 opponentLevel=59 opponentStat=171}
+:::
+
+:::::::trainer[Champion Hau]
+  :::::if{source="Hawlucha" condition="!$usedrotoboost"}
+    :::pokemon[Raichu]
+      - Roto Boost
+      - Fling
+     ::damage[Raichu's Quick Attack]{source="Hawlucha" offensive=false movePower=40 level=70 evs=57 combatStages=1 opponentLevel=59 opponentStat=123}
+    :::
+    :::pokemon[Crabominable]
+      - Brick Break
+    :::
+    :::pokemon[Tauros]
+      - Full Restore
+      - X Attack
+      - Brick Break
+    :::
+  :::::
+  :::::if{source="Hawlucha" condition="$usedrotoboost"}
+    :::pokemon[Raichu]{info="Heal as needed" infoColor=gray}
+      - X Sp. Defense (x2)
+      - X Attack
+      - X Speed
+      - Fling
+     ::damage[Raichu's Quick Attack]{source="Hawlucha" offensive=false movePower=40 level=70 evs=57 opponentLevel=59 opponentStat=123}
+    :::
+    :::pokemon[Crabominable]
+      - Brick Break
+    :::
+    :::pokemon[Tauros]
+      - Brick Break
+    :::
+  :::::
+   :::pokemon[Noivern]
+     - Acrobatics
+   :::
+   :::pokemon[Incineroar]
+     - Brick Break
+   :::
+   :::pokemon[Leafeon]
+     - Acrobatics
+   :::
+:::::::
+
+- Stop the timer at the first full black frame after the cutscene where Kukui says he'll "let Lillie know".
