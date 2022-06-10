@@ -1,0 +1,107 @@
+Version 0.0.1
+    First Draft
+
+Version 0.0.2
+    Fixed Mars 1 fight - Removed Piplup altogether
+    Reverted to setting to Set at beginning of game
+    Changed move order
+    Changed who to fight first in Eterna Forest
+    Added conditional statements to trainer school heal
+    Added Jubilife grunt double ranges
+    Removed the Ravaged Path antidote
+    Added Pluck ranges vs Roserade
+    Added Petal Blizzard ranges vs Mew
+    Moved learn Bubble Beam location
+    Fixed Shop
+    Added Pluck ranges against Travon
+    Removed Oreburgh Super Potion
+    Added Aftermath damage
+    Changed Grotle's bite syntax
+    Added Razor Leaf & Overgrow Razor Leaf ranges
+    Changed Rival 2 mon order
+    Changed the order moves are taught
+    Added Meditites ranges
+    Added Marsh candy and removed Bog Candy
+    Moved the conditional PP Up & Calcium
+    Changed Brine to calc against SpDefense instead of Defense
+    Moved the Celestic Grunt fight before Choice Specs
+    Changed menu order post Fantina
+    Fixed Flamethrower PP management
+    Changed Barry 4's mon order
+    Move Mew back to Slot 1 after Byron.
+
+Version 0.1.0
+    Fixed Shop
+    Overhauled Saturn 1 
+    and a later Grunt fight to make PP always work
+    Added conditional X Speed on Mars 2
+    North by North-West
+    Added +2 Choice Specs and combatStages to Cyrus' Sneasel
+    Updated Jupiter & Mars first Bronzor to be special
+    Jupiter & Mars mon order
+    Jupiter & Mars sucks
+    Fixed formatting on Volkner
+    Added formatting on Sydney
+    Updated Vespiquen's stats on Aaron
+    Added note to not switch off Choice Specs
+    Added Full Restore on Dustox
+    Fixed Aaron's mon order
+    Added ranges to Lucian
+
+Version 1.0.0
+    Released to public
+    Removed any outlying ":::"
+
+Version 1.0.1
+    Fixed syntax on Mars 2 Golbat
+    Added Heatproof to a Grunt after Candice
+
+Version 1.1.0
+    Modified the condition that you heal for the Trainer School fights to || from &&
+    Added +1 Charge Beam ranges
+    Moved the "Swap back to Mew" as we no longer use Switch strats
+    Added Reflect Type on Jenna to avoid Poison Point
+    Added +1 Ranges to Barry 2's Grotle
+    Fixed Spacing
+    Updated Shock Wave on Maya's Gyarados to use Mew's stats not Prinplup's
+    Updated Bubble Beam on Kadabra to include Rain boost
+    Updated Psychic on Rafael's and Maylene's Meditite to use Mew's stats not Prinplup's
+    Updated Lucario's +1 Metal Claw to actually calc +1 
+    Fixed Spacing
+    Updated the Veilstone Grunt Double to use Flamethrower on everything
+    Updated to kill Beautifly first
+    Moved Marsh Menu
+    Added Defog location
+    Added Rare Candy location
+    Added note to Heal to full before Barry 3
+    Added Grotle Bite Ranges
+    Removed Flame Charge Ranges
+    Added to use Defog, "if you need to"
+    Updated Black Belt David to say vs Steelix
+    Removed Cesar's Steelix's Iron Tail Ranges as he can never get it off
+    Added Trick Room note on Byron's Steelix
+    Removed X Speed on Mars 2 if you're x/x/18+ speed
+    Removed Fog Room Rare Candy
+    Removed the X SpAttack from Candice because it actually loses turns
+    Updated Medichams so it's Attack stat is actually doubled, on Candice and Lucian
+    Fixed Abomasnow's stats
+    Removed OHKO Range from Bronzor - with my understanding of how evs are calculated, it is impossible to OHKO Saturn 2's Bronzor as you get the EVs from Kadabra only after you finish the fight, or level up.
+    Added Thief and Payback ranges on Saturn 2
+    Changed Volt Switch to special on Volkner
+    Added ranges to Mars & Jupiter double
+    Added ranges to Barry 5
+    Cleaned up the setup instructions for Barry 5
+    Fixed +0 Choice Specs Psychic against Rapidash
+    Added conditional setup to do more early to guarantee Rapidash
+    Changed where the Max Ether gets used, from Cynthia to Volkner - it can
+
+Version 1.2.0
+    To avoid confusion with game version, skipping to Route Version 1.2.0
+    Added Mt. Coronet Fog Candy back in
+    Added Rare Candy usage before Mars & Jupiter double
+    Updated Level Up locations
+
+Version 1.2.1
+    Updated a range against Maya's Kadabra to use Prinplup's stats instead of Piplup's
+    Moved Toxicroak's Thief to be after user move
+    Moved the Max Elixir note

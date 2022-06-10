@@ -1,4 +1,4 @@
-:::tracker{species="Quacklin" nature="jolly" generation=6 baseStats="[[52, 65, 55, 58, 62, 60]]"}
+:::tracker{species="Quacklin" nature="jolly" generation=6 speedIV=31 baseStats="[[52, 65, 55, 58, 62, 60]]"}
 10:
    10 -> 0,   0,   0,   0,   0,   0,
    11 -> 0,   0,   2,   0,   0,   2,  # Zigzagoon (1 Spd), Kakuna (2 Def), Combee (1 Spd)
@@ -755,6 +755,16 @@ Go right after the first climbing rope
     - Wing Attack
  ::::
 :::::
+:::::trainer[Pokémon Ranger Twiggy]
+ ::::pokemon[Gloom]
+    - Swords Dance (x2 if low attack)
+    - Wing Attack
+ ::::
+ ::::pokemon[Exeggutor]
+    - Wing Attack
+   ::damage[Exeggutor’s Psyshock does]{source="Hawlucha" special=true offensive=false movePower=80 level=32 opponentLevel=31 stab=true opponentStat=48}
+ ::::
+:::::
 :info[Heal to full if can not live Acrobatics from Jumpluff / Take Down from Gogoat]{color=yellow}
 
 :info[Heal status]{color=yellow}
@@ -788,20 +798,20 @@ Go right after the first climbing rope
        - Rock Tomb
   :::::     
   :::::pokemon[Gogoat]
-    :::if{source="Hawlucha" condition="atk=80+" level=33}
-      - Wing Attack
+    :::if{source="Hawlucha" condition="atk=(x/x/15+)"}
+      - Wing Attack at 80+ Attack 
     :::
-    :::if{source="Hawlucha" condition="atk=79-" level=33}
+    :::if{source="Hawlucha" condition="atk=~(x/x/15+)"}
       - Flying Press
     :::
     - If Lucario
       - Low Sweep
   :::::
   :::::pokemon[Weepinbell]
-    :::if{source="Hawlucha" condition="atk=80+" level=33}
-      - Wing Attack
+    :::if{source="Hawlucha" condition="atk=(x/x/15+)"}
+      - Wing Attack at 80+ Attack 
     :::
-    :::if{source="Hawlucha" condition="atk=79-" level=33}
+    :::if{source="Hawlucha" condition="atk=~(x/x/15+)"}
       - Flying Press
     :::
     - If Lucario
@@ -818,18 +828,18 @@ Go right after the first climbing rope
   :::::pokemon[Gogoat]
     - Switch to Hawlucha
     - Swords Dance
-    :::if{source="Hawlucha" condition="atk=80+" level=33}
-      - Wing Attack
+    :::if{source="Hawlucha" condition="atk=(x/x/15+)"}
+      - Wing Attack  at 80+ Attack 
     :::
-    :::if{source="Hawlucha" condition="atk=79-" level=33}
+    :::if{source="Hawlucha" condition="atk=~(x/x/15+)"}
       - Flying Press
     :::
   :::::
   :::::pokemon[Weepinbell]
-    :::if{source="Hawlucha" condition="atk=80+" level=33}
-      - Wing Attack
+    :::if{source="Hawlucha" condition="atk=(x/x/15+)"}
+      - Wing Attack at 80+ Attack 
     :::
-    :::if{source="Hawlucha" condition="atk=79-" level=33}
+    :::if{source="Hawlucha" condition="atk=~(x/x/15+)"}
       - Flying Press
     :::
   :::::

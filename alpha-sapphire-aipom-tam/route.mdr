@@ -1,0 +1,1198 @@
+:::tracker{species="Aipom" generation=6 baseStats="[[55, 70, 55, 40, 55, 85], [75, 100, 66, 60, 66, 115]]" hpIV=31 attackIV=31 defenseIV=31 spAttackIV=31 spDefenseIV=31 speedIV=31 nature=Adamant type="Normal"}
+7:
+:::
+
+:info[**This route is for Alpha Sapphire.**]{color=blue}
+
+**Aipom stats: All 31s, Adamant, Skill Link.**
+
+Aipom moves:
+1. Scratch
+2. Tail Whip
+3. Sand Attack
+
+Set the date to September 15, 2001.
+
+Pick Mudkip. :info[You can take any Mudkip.]{color=gray}
+
+On your way to Petalburg, catch any Pokemon.
+
+Finish the catch tutorial then save directly in front of the Petalburg center. Trade in your Aipom and put it in slot 1.
+
+Immediately after starting:
+- Raise Aipom's Affection to 2 using Pokemon Amie.
+
+:::card[**Making Faces Method (very lighting/person dependent)**]{theme=info}
+  - Feed Aipom a fancy puff.
+  - Feed Aipom a frosted puff.
+  - Win Making Faces 3 times (tilt the 3DS side to side while your face is detected to start).
+  - Pet Aipom on the chest fur 5 times.
+  - Feed Aipom 2 more times.
+:::
+:::card[**Puzzle Method (more consistent)**]{theme=info}
+  - Feed Aipom a fancy puff.
+  - Feed Aipom a frosted puff.
+  - Win the easy Tile Puzzle game three times. Aim for a sub-15s win each time. Press "Play Again" after each attempt.
+  - Feed Aipom 5 frosted puffs :info[If you don't get enough frosted puffs, feed normal puffs]{color=gray}
+  - Pet Aipom on its hands twice (NOT ON THE TAIL THOUGH).
+  - Win the easy Tile Puzzle another three times. :info[Again aiming for a sub-15s win and pressing "Play Again"]{color=gray}
+  - Feed Aipom 5 frosted puffs. :info[If you don't get enough frosted puffs, feed normal puffs]{color=gray}
+  - Pet Aipom on its hands twice (NOT ON THE TAIL THOUGH).
+  - Pet Aipom anywhere except the hands and the hair on its head. :info[If you fed any normal puffs, pet on the forehead instead.]{color=gray}
+
+  **If you didn't get enough frosted puffs:**
+
+  Each regular puff you feed instead of a frosted puff is -1 Affection. The above method gives 52 Affection and you need 50 to get the experience boost, so you need to do the following to adjust for each missed frosted puff beyond the second:
+  - **If you're missing 3 or less Affection:**
+    - Feed a frosted puff to Aipom. :info[If you don't have any frosted puffs and are missing exactly 3 Affection, do the 4 Affection backup.]{color=gray}
+  - **If you're missing 4+ Affection:**
+    - Open the puzzle and win.
+    - Feed a frosted puff. :info[Or a regular puff if you don't have one]{color=gray}
+    - Pet Aipom on its hands
+    - If you're missing 7+ Affection: :info[or 6+ if you fed a regular puff]{color=gray}
+      - Feed another frosted puff for +3 or another regular puff for +2.
+:::
+
+Enter the Center and deposit everything except Aipom.
+
+:::::trainer[Aqua Grunt]
+  :::pokemon[Poochyena]
+    - Scratch x3
+
+    ::level{source="Aipom" value=8}
+  :::
+:::::
+
+- Pick up the Balm Mushroom.
+- Pick up the Ether.
+
+- Grab the Cheri Berries from the middle trees at the top-right of the pond (run past the fisher).
+- Enter the center and withdraw Mudkip into slot 1.
+
+:::::trainer[Leader Roxanne]{info="Heal as needed."}
+  :::pokemon[Geodude]
+    - Water Gun x2
+    
+    ::level{source="Aipom" value=9}
+  :::
+
+  :::pokemon[Nosepass]{info="Heal as needed." infoColor="blue"}
+    - Water Gun x3/4
+
+    ::level{source="Aipom" value=10}
+  :::
+:::::
+
+- Move Aipom to slot 1.
+
+- Pick up the Repel before the bug catcher.
+
+- Talk to Mr. Briney before entering the cave.
+
+After entering Rusturf Tunnel:
+- Use the Repel.
+- Turn off the Exp. Share.
+
+:::::trainer[Aqua Grunt]
+  :::pokemon[Poochyena]
+    - Scratch x3
+
+    Do not teach Baton Pass.
+    ::level{source="Aipom" value=11}
+  :::
+:::::
+
+Enter the center and deposit Mudkip.
+Grab the Cut HM from the house to the left of the center.
+Head to the mart.
+
+### Rustboro Shopping
+> #### Buy
+> - 2 Repels (^^)
+> - 4 Super Potions (<v)
+
+- Teach Cut over Sand Attack (slot 3).
+
+Fight the fisher at the top of the dock on purpose.
+
+:::::trainer[Fisherman Ivan]
+  :::pokemon[Magikarp]
+    - Cut (x2)
+  :::
+  :::pokemon[Magikarp]
+    - Cut (x2)
+  :::
+  :::pokemon[Magikarp]
+    - Cut (x2)
+
+    ::level{source="Aipom" value=12}
+  :::
+:::::
+
+Fight the girl at the end of the dock on purpose.
+
+:::::trainer[Lass Haley]
+  :::pokemon[Lotad]
+    - Cut
+  :::
+  :::pokemon[Shroomish]
+    - Cut x2
+  :::
+:::::
+
+- If you're paralysed, use a Cheri Berry.
+- If you're poisoned, run past the spinner to the trees in front of the flower shop and grab the Pecha Berries from the right-most tree. Use a Pecha Berry, then run back to the spinner.
+
+Fight the spinner in the hat on purpose.
+
+:::::trainer[Lady Cindy]
+  :::pokemon[Zigzagoon]
+    - Spam Scratch
+
+    ::level{source="Aipom" value=13}
+  :::
+:::::
+
+Grab the X Attack in the ball above the flower shop.
+
+![x attack location](x-attack.png)
+
+Grab the hidden Super Potion from the grass above the flower shop.
+
+![super potion location](super-potion.png)
+
+Head into the woods and fight the bug catcher spinner on purpose (take two steps into the grass and wait for him to spin towards you).
+
+:::::trainer[Bug Catcher James]
+  :::pokemon[Nincada]
+    - Scratch x2
+  :::
+:::::
+
+Fight the second bug catcher spinner in the south-west of Petalberg Woods on purpose.
+
+:::::trainer[Bug Catcher Lyle]
+  :::pokemon[Wurmple]
+     - Scratch
+  :::
+  :::pokemon[Wurmple]
+     - Scratch
+
+    ::level{source="Aipom" value=14}
+  :::
+  :::pokemon[Wurmple]
+     - Scratch
+  :::
+:::::
+
+Exit the woods and fight the rich kid on purpose.
+
+:::::trainer[Rich Boy Winston]
+  :::pokemon[Zigzagoon]
+    - Cut
+  :::
+:::::
+
+Head to Dewford Town.
+
+Grab the Silk Scarf from the Ace Trainer in the house at the end of the dock at Dewford.
+
+Head north and fight the fisherman on purpose.
+
+:::::trainer[Fisherman Ned]
+  :::pokemon[Tentacool]
+     - Scratch x2
+
+     Do not teach Tickle.
+
+    ::level{source="Aipom" value=15}
+  :::
+:::::
+
+:::::trainer[Backpacker Greene]
+  :::pokemon[Tentacool]
+     - Cut
+     - Scratch
+  :::
+:::::
+
+- Equip the Silk Scarf on Aipom.
+- Heal Aipom to full.
+
+:::::trainer[Battle Girl Laura]
+  :::pokemon[Meditite]
+    - Spam Scratch
+  :::
+:::::
+
+- **HEAL TO FULL**
+
+**Save the game.**
+
+:::::trainer[Black Belt Hideki]{info="hate it here" infoColor=gray}
+  :::pokemon[Machop]{info="You outspeed at -2" infoColor=blue}
+    - Cut x2 :info[23.83% change to 2HKO. Don't miss!]{color=red}
+    - Scratch
+  :::
+:::::
+
+- Heal to full.
+
+:::::trainer[Battle Girl Tessa]
+  :::pokemon[Meditite]
+    - Cut until you don't get Detect :info[5/16 range]{color=red}
+    - Scratch (x2/3/4/5/...)
+
+    ::level{source="Aipom" value=17}
+  :::
+  :::pokemon[Machop]
+    - Scratch x2
+  :::
+:::::
+
+- Heal to full.
+
+**Consider saving.**
+
+:::::trainer[Leader Brawly]
+  :::pokemon[Machop]
+    - X Attack
+    - Cut x2
+  :::
+  :::pokemon[Makuhita]
+    - Cut :info[Don't miss :)]{color=gray}
+
+    Teach Fury Swipes over Tail Whip (slot 2).
+    ::level{source="Aipom" value=18}
+  :::
+:::::
+
+At the entrance go Granite Cave:
+- Heal Aipom to full.
+- Use the Repel (refresh when it runs out).
+
+- Grab the PP Up in the north-west of Route 109 (Slateport beach).
+
+**Consider saving.**
+
+:::::trainer[Aqua Grunt]
+  :::pokemon[Carvanha]
+    - Cut
+  :::
+:::::
+
+:::::trainer[Aqua Grunt]
+  :::pokemon[Zubat]
+    - Cut
+
+    ::level{source="Aipom" value=19}
+  :::
+
+  :::pokemon[Carvanha]{info="Has Aqua Jet." infoColor=blue}
+    - Scratch
+
+    ::damage[Carvanha's Aqua Jet]{source="Aipom" evolution=1 offensive=false special=true movePower=40 opponentLevel=14 opponentStat=23 stab=true}
+  :::
+:::::
+
+Get the Thief TM from the Aqua Grunt on the first floor on the way out.
+
+![thief tm location](thief-tm.png)
+
+### Slateport Shopping
+> #### Sell
+> - Balm Mushroom
+> - PP Up
+> #### Buy (Top)
+> - 1 X Attack (v) 
+> - 1 Guard Spec (vv) :info[i think?]{color=gray}
+> #### Buy (Bottom)
+> - 4 Super Repels (^^)
+
+:::::trainer[Poke Fan Isabel]{info="Heal paralysis as needed" infoColor="blue"}
+  :::pokemon[Plusle]
+    - Fury Swipes
+    
+    ::level{source="Aipom" value=20}
+  :::
+  :::pokemon[Minun]
+    - Fury Swipes
+    - (Swift turn 2 if you got Paralyzed)
+
+    ::level{source="Aipom" value=21}
+  :::
+:::::
+
+- Heal to full.
+- Use a Super Repel (do not refresh).
+- Use a Paralyze Heal if paralyzed.
+
+Grab the hidden Full Heal near the roamer. :info[Can skip and risk a miss into burn]{color=gray}
+
+![full heal location](full-heal.png)
+
+**Consider saving.**
+
+:::::trainer[Pokemon Trainer Brendan]{info="Heal as needed." infoColor="blue"}
+  :::pokemon[Slugma]{info="If you miss and get burned, use the Full Heal. If you miss twice and get burned again, cry." infoColor=blue}
+    - Fury Swipes
+  :::
+
+  :::pokemon[Wailmer]
+    - Fury Swipes
+    - Scratch
+
+    Do not teach Swift.
+
+    ::level{source="Aipom" value=22}
+  :::
+
+  :::pokemon[Grovyle]
+    - Fury Swipes :info[This is a pretty good range? Calculating the exact percentage for a 5-hit crashes Ranger, so, uh, yeah.]{color=gray}
+    - (Scratch)
+
+    ::level{source="Aipom" value=20}
+  :::
+:::::
+
+:info[**Free heal**]{color=pink}
+
+Grab the hidden Revive before the spinner.
+
+Grab the Leppa Berries from one tree in front of Mauville.
+
+- Drop Repel once it runs out.
+- Get the Mach Bike from the cycle shop.
+
+Go to the mart.
+
+### Mauville Shopping
+> #### Buy (Top)
+> - Power-Up Punch (^^)
+
+Withdraw Mudkip from the center into slot 2.
+
+- Teach Power-Up Punch to Aipom over Astonish (slot 4).
+- Equip a Cheri Berry on Aipom.
+- Register the bike.
+- Use the bike.
+
+Head to the gym.
+
+:::::trainer[Pokemon Trainer Wally]
+  :::pokemon[Ralts]
+    - Cut
+  :::
+:::::
+
+
+:::::trainer[Guitarist Kirk]
+  :::pokemon[Magnemite]
+    - Power-Up Punch (x2)
+
+    ::level{source="Aipom" value=23}
+  :::
+  :::pokemon[Electrike]
+    - Cut
+  :::
+:::::
+
+Puzzle: Red switch, blue switch.
+
+:::::trainer[Youngster Ben]
+  :::pokemon[Electrike]
+    - Cut
+  :::
+:::::
+
+Puzzle: Upper-left blue switch, red switch, upper-left blue switch.
+
+:::::trainer[Guitarist Shawn]
+  :::pokemon[Voltorb]
+    - Cut
+
+    ::level{source="Aipom" value=24}
+  :::
+  :::pokemon[Voltorb]
+    - Fury Swipes
+  :::
+:::::
+
+- Heal to full.
+- Heal Paralysis, since Fury Swipes will do that to ya.
+- Equip a Cheri Berry on Aipom.
+
+:::::trainer[Leader Wattson]
+  :::pokemon[Magnemite]
+    - Power-Up Punch x2/3
+  :::
+  :::pokemon[Voltorb]
+    - _If Wattson used Volt Switch turn 1:_
+      - Power-Up Punch
+    - _Otherwise:_
+      - Cut
+    -
+
+    ::damage[Voltorb's Volt Switch]{source="Aipom" evolution=1 offensive=false special=true movePower=70 opponentLevel=19 opponentStat=25 stab=true type=Electric}
+  :::
+  :::pokemon[Magneton]{info="Speed tie." infoColor=blue}
+    - Power-Up Punch (x2)
+
+    ::damage[Magneton's Magnet Bomb]{source="Aipom" evolution=1 offensive=false movePower=60 opponentLevel=21 opponentStat=30 stab=true type=Steel}
+  :::
+
+  ::level{source="Aipom" value=25}
+  Do not teach Screech.
+:::::
+
+
+At the rocks:
+- Teach Rock Smash to Mudkip over Tackle (slot 1).
+- Equip the Silk Scarf on Aipom.
+- Use a Super Repel (keep refreshing until they run out).
+
+:info[**Free heal**]{color=pink}
+
+- Grab the Persim Berries from the middle tree after exiting the cave.
+
+:::::trainer[Ace Trainer Wilton]
+  :::pokemon[Electrike]
+    - Fury Swipes
+
+    ::level{source="Aipom" value=26}
+  :::
+  :::pokemon[Makuhita]
+    - (Heal Paralysis)
+    - Fury Swipes :info[If you miss and Makuhita uses Whirlwind, swap back in and just spam Fury Swipes.]{color=gray}
+  :::
+  :::pokemon[Bagon]
+    - Fury Swipes
+  :::
+:::::
+
+:::::trainer[Youngster Neil]
+  :::pokemon[Trapinch]
+    - Fury Swipes
+  :::
+  :::pokemon[Electrike]
+    - Cut
+    ::level{source="Aipom" value=27}
+  :::
+:::::
+
+:::::trainer[Poke Maniac Steve]
+  :::pokemon[Aron]{info="If you get Roar'd, switch Aipom back in!"}
+    - Power-Up Punch x2
+  :::
+:::::
+
+- Heal if low.
+- Teach Strength to Aipom over Scratch (slot 1).
+
+- Grab the Comet Shard in the first crater outside Meteor Falls.
+
+:::::trainer[Team Aqua Double]{info="Heal as needed."}
+  - Strength Grimer (x2)
+  - Spam Strength
+
+  ::level{source="Aipom" value=28}
+:::::
+
+Say no to Brendan. :info[unless you hate backwards movement, then say yes I guess.]{color=gray}
+
+### Fallabor Shopping
+> #### Sell (Bottom)
+> - Comet Shard
+> #### Buy (Bottom)
+> - 9 Hyper Potions (>^^)
+> - 2 Revives (v):info[Can skip if doing Dangerous Kyogre strats]{color=gray}
+> - 5 Full Heals (>^)
+> - 23 Max Repels (>^)
+
+At the grass:
+- Use a Max Repel (keep refreshing until the end of the game).
+- Heal to full.
+
+:::::trainer[Team Aqua Grunt]
+  :::pokemon[Poochyena]
+    - Power-Up Punch
+
+    Do not teach Agility.
+    ::level{source="Aipom" value=28}
+  :::
+  :::pokemon[Grimer]
+    - Strength
+  :::
+:::::
+
+:::::Trainer[Aqua Admin Shelley]
+  :::pokemon[Grimer]{info="Heal as needed." infoColor=blue}
+    - Power-Up Punch
+    - Strength
+
+    ::damage[Grimer's Sludge]{source="Aipom" evolution=1 offensive=false special=true movePower=65 opponentLevel=24 opponentStat=29 stab=true type=Poison}
+  :::
+  :::pokemon[Carvanha]
+    - Strength
+  :::
+:::::
+
+- Heal to full.
+- Use a Full Heal if poisoned.
+- Equip a Persim Berry.
+
+:::::trainer[Aqua Leader Archie]
+  :::pokemon[Mightyena]
+    - Power-Up Punch x2
+
+    ::level{source="Aipom" value=30}
+  :::
+  :::pokemon[Sharpedo]
+    - Power-Up Punch
+  
+    ::level{source="Aipom" value=31}
+  :::
+  :::pokemon[Golbat]
+    - Strength
+  :::
+:::::
+
+- Heal to full.
+
+Flannery gym puzzle:
+- Right pad
+- Top pad
+- Far left pad
+- Top-most pad
+- Far right pad
+- Bottom pad
+
+:::::trainer[Kindler Andy]
+  :::pokemon[Numel]
+    - Strength
+
+    **Teach Double Hit over Power-Up Punch (slot 4)**
+
+    :info[_big monkey woo_]{color=gray}
+
+    ::level{source="Aipom" value=32}
+  :::
+:::::
+
+- Teach Power-Up Punch over Double Hit (slot 4).
+- Equip the Silk Scarf on Ambipom.
+
+:::::trainer[Leader Flannery]
+  :::pokemon[Slugma]
+    - Strength
+  :::
+  :::pokemon[Torkoal]{info="Heal as needed."}
+    - _If burned:_
+      - Full Heal
+    - Power-Up Punch x2
+    - _If Torkoal used Curse once:_
+      - Fury Swipes
+    - _Otherwise:_
+      - Strength (x2/3/4)
+    -
+  :::
+  :::pokemon[Numel]
+    - Strength
+
+    ::level{source="Aipom" value=33}
+  :::
+:::::
+
+Exit the gym and say yes to Brendan.
+
+- Heal if below ~40 HP.
+
+Take the right door.
+
+:::::trainer[Ace Trainer Mary]
+  :::pokemon[Delcatty]
+    - Power-Up Punch x2
+  :::
+:::::
+
+Take the right door.
+
+:::::trainer[Ace Trainer George]
+  :::pokemon[Linoone]
+   - Power-Up Punch x2
+  
+    ::level{source="Aipom" value=34}
+  :::
+:::::
+
+:::::trainer[Ace Trainer Berke]
+  :::pokemon[Zangoose]
+    - Power-Up Punch x2
+  :::
+:::::
+
+- Consider healing to full.
+
+**Consider saving before Norman.**
+
+:::::trainer[Leader Norman]
+  :::pokemon[Slaking]{info="Heal as needed."}
+    - Power-Up Punch x2
+    - _If Slaking used Yawn:_
+      - (Heal if you can't survive Retaliate)
+      - Full Heal
+    - Power-Up Punch
+    
+    ::damage[Slaking's Retaliate]{source="Aipom" offensive=false movePower=70 evs=9 opponentLevel=28 opponentStat=94 type=Normal stab=true}
+    
+    ::level{source="Aipom" value=35}
+  :::
+  :::pokemon[Vigoroth]
+    - Power-Up Punch
+
+    Do not teach Fling.
+    ::level{source="Aipom" value=36}
+  :::
+  :::pokemon[Slaking]
+    - Strength
+
+    ::level{source="Aipom" value=37}
+  :::
+:::::
+
+- Teach Surf to Mudkip over Growl (slot 2).
+- Heal to full.
+
+**Consider saving before the double.**
+
+:::::trainer[Team Aqua Double]
+  - Strength Sharpedo
+  - (Strength Grimer)
+
+  ::level{source="Aipom" value=38}
+:::::
+
+:info[**Free heal**]{color=pink}
+
+Do not nickname Latias.
+
+Pick up the PP Max.
+
+Fight the top Aqua grunt on the first floor of the Weather Institute.
+
+:::::trainer[Team Aqua Grunt]
+  :::pokemon[Grimer]
+    - Strength
+  :::
+:::::
+
+:::::trainer[Team Aqua Grunt]
+  :::pokemon[Carvanha]
+    - Power-Up Punch
+  :::
+  :::pokemon[Mighyena]
+    - Strength
+  :::
+:::::
+
+:::::trainer[Aqua Admin Shelley]
+  :::pokemon[Sharpedo]
+    - Strength
+
+    Do not teach Nasty Plot.
+
+    ::level{source="Aipom" value=39}
+  :::
+:::::
+
+Do not nickname Castform.
+
+:::::trainer[Pokemon Trainer Brendan]
+  :::pokemon[Slugma]
+    - Strength
+  :::
+  :::pokemon[Grovyle]
+    - Strength
+
+    ::level{source="Aipom" value=40}
+  :::
+  :::pokemon[Wailmer]
+    - Strength
+  :::
+:::::
+
+Run from Kekleon.
+
+- Consider healing to full.
+
+:::::trainer[Leader Winona]
+  :::pokemon[Swellow]
+    - Strength
+  :::
+  :::pokemon[Altaria]
+    - Power-Up Punch x2
+    - (Heal Paralysis)
+    - Strength
+
+    ::level{source="Aipom" value=41}
+  :::
+  :::pokemon[Skarmory]{info="Heal as needed" infoColor=blue}
+    - Strength x2
+
+    ::damage[Skarmory's Steel Wing]{source="Aipom" evolution=1 offensive=false movePower=70 evs=9 opponentLevel=33 opponentStat=57 type=Steel}
+  :::
+  :::pokemon[Pelipper]
+    - Strength
+
+    ::level{source="Aipom" value=42}
+  :::
+:::::
+
+Get the Skitty heal :info[in a flash!]{color=gray}
+
+:::::trainer[Team Aqua Grunt]
+  :::pokemon[Grimer]
+    - Strength
+  :::
+:::::
+
+:::::trainer[Team Aqua Grunt]
+  :::pokemon[Carvanha]
+    - Power-Up Punch
+  :::
+  :::pokemon[Mightyena]
+    - Strength
+
+    Do not teach Last Resort.
+
+    ::level{source="Aipom" value=43}
+  :::
+:::::
+
+:::::trainer[Team Aqua Grunt]
+  :::pokemon[Mightyena]
+    - Strength
+
+  :::
+  :::pokemon[Golbat]
+    - Strength
+
+    ::level{source="Aipom" value=44}
+  :::
+:::::
+
+- Heal if below 20 HP.
+
+:::::trainer[Aqua Admin Matt]
+  :::pokemon[Sharpedo]
+    - Strength
+  :::
+:::::
+
+- Use the PP Max on Strength.
+- Teach Fly to Latias over Heal Pulse (slot 1).
+- Fly to Slateport.
+
+:::::trainer[Team Aqua Grunt]
+  :::pokemon[Mightyena]
+    - Strength x2
+  :::
+::::::
+
+:::::trainer[Team Aqua Grunt]
+  :::pokemon[Carvanha]
+    - Strength
+
+    ::level{source="Aipom" value=45}
+  :::
+  :::pokemon[Golbat]
+    - Strength
+  :::
+:::::
+
+- Heal if in yellow health or if poisoned.
+
+:::::trainer[Pokemon Trainer Brendan]
+  :::pokemon[Swellow]
+    - Strength
+  
+    ::level{source="Aipom" value=46}
+  :::
+  :::pokemon[Wailord]
+    - Power-Up Punch x2
+    - Strength
+  :::
+  :::pokemon[Magcargo]
+    - Strength (x2)
+  :::
+  :::pokemon[Sceptile]
+    - Strength
+
+    ::level{source="Aipom" value=47}
+  :::
+:::::
+
+Head to the Pokemon Center and deposit everything except Ambipom and Mudkip. PC heal Ambipom.
+
+Unlearn Cut at the Move Unlearner in the house at the top-right of the stairs.
+
+:::::trainer[Team Aqua Grunt]
+  :::pokemon[Golbat]
+    - Switch to Mudkip
+    - (Spam healing items until Mudkip faints)
+    - Strength
+  :::
+:::::
+
+**Skip grabbing the Master Ball.**
+
+:::::trainer[Team Aqua Grunt]
+  :::pokemon[Mightyena]
+    - Fury Swipes
+
+    ::level{source="Aipom" value=48}
+  :::
+:::::
+
+- Consider healing if below ~75%.
+
+:::::trainer[Team Aqua (Horde Battle)]
+  - Guard Spec
+  - Spam Power-Up Punch :info[it's in slot 3 now]{color=red}
+:::::
+
+- Heal to full if below 20 HP.
+
+:::::trainer[Aqua Admin Matt]
+  :::pokemon[Sharpedo]
+    - Strength
+  
+    ::level{source="Aipom" value=49}
+  :::
+:::::
+
+- Heal Aipom to full.
+- Revive Mudkip. :info[If you're out of Revives, take the center in Mossdeep.]{color=red}
+- Teach Thief to Ambipom.
+
+:::trainer[Tate and Liza]{info="Heal status conditions as needed." infoColor=blue}
+  - Power-Up Punch Solrock | X Attack Ambipom
+  - Thief Solrock
+  - Theif Lunatone
+
+  ::level{source="Aipom" value=50}
+:::
+
+- Teach Dive to Mudkip over Water Gun (slot 3).
+- Heal Ambipom to full.
+- Use a Leppa Berry on Strength.
+
+:::::trainer[Team Aqua Grunt]
+  :::pokemon[Mightyena]
+    - Power-Up Punch x2
+  :::
+  :::pokemon[Muk]
+    - Strength
+  :::
+:::::
+
+- Consider healing if below ~2/3 HP.
+
+:::::trainer[Aqua Admin Archie]
+  :::pokemon[Mightyena]
+    - Strength
+
+    ::level{source="Aipom" value=51}
+  :::
+  :::pokemon[Muk]
+    - Power-Up Punch
+    - Strength
+  :::
+  :::pokemon[Crobat]
+    - Strength
+
+    ::level{source="Aipom" value=52}
+  :::
+  :::pokemon[Mega Sharpedo]
+    - Strength
+  :::
+:::::
+
+:::card
+  **Safe-ish Kyogre**
+
+  - Revive Mudkip
+  - Save the game.
+
+  If Ambipom dies, send out Mudkip and revive Ambipom, then finish the fight.
+
+  Origin Pulse can pretty much always one-shot you if it hits (29+ / 0+ / 0+ guaranteed OHKO, range to kill at anything else).
+
+  Strength x2 always kills a Kyogre with (0+ / 0+ / 11-) Defense.
+:::
+
+:::trainer[Primal Kyogre]
+  - Strength
+  - _If Strength did at least 50%:_
+    - Strength (unless Kyogre used Aqua Ring and it's now in green HP.)
+  - _Otherwise_:
+    - Fury Swipes :info[Don't miss!]{color=gray}
+  -
+
+  ::level{source="Aipom" value=53}
+:::
+
+![Ice puzzle momement pt. 1](ice-puzzle-1.png)
+
+![Ice puzzle momement pt. 2](ice-puzzle-2.png)
+
+![Ice puzzle momement pt. 3](ice-puzzle-3.png)
+
+- Heal to full.
+
+**Save before Wallace.**
+
+:::::trainer[Leader Wallace]
+  :::pokemon[Luvdisc]
+    - Strength
+  :::
+  :::pokemon[Milotic]
+    - Power-Up Punch
+    - Strength
+  :::
+  :::pokemon[Whiscash]
+    - Strength
+
+    ::level{source="Aipom" value=54}
+  :::
+  :::pokemon[Sealeo]
+    - Strength
+  :::
+  :::pokemon[Seaking]
+    - Strength
+  :::
+:::::
+
+- Heal to full.
+- Use a Leppa Berry on Strength.
+- Teach Waterfall to Mudkip over Mud-Slap (slot 4).
+- Use the Eon Flute and fly to Route 126.
+
+:::::trainer[Ace Trainer Hope]
+  :::pokemon[Froslass]
+    - Thief x2
+  :::
+:::::
+
+:::::trainer[Expert Bryn]
+  :::pokemon[Hitmontop]
+    - _If Mudkip is alive:_
+      - Swap to Mudkip
+      - Stall with healing until Mudkip dies
+      - Swap back to Ambipom
+    - Strength
+  :::
+  :::pokemon[Throh]
+    - Strength
+    - Thief (x2/3/...)
+
+    ::level{source="Aipom" value=56}
+  :::
+:::::
+
+:::::trainer[Ace Trainer Edgar]
+  :::pokemon[Mawile]
+    - Power-Up Punch
+    - Strength (x2)
+  :::
+:::::
+
+:::::trainer[Export Theodore]
+  :::pokemon[Sawk]
+    - Strength
+    - (Thief)
+  :::
+:::::
+
+- Heal to full.
+
+:::::trainer[Pokemon Trainer Wally]
+  :::pokemon[Altaria]
+    - Power-Up Punch
+    - (Heal Paralysis)
+    - Strength (x2)
+
+    ::level{source="Aipom" value=57}
+  :::
+  :::pokemon[Roselia]
+    - Strength
+  :::
+  :::pokemon[Magneton]
+    - Thief
+    - Strength
+
+    ::level{source="Aipom" value=58}
+  :::
+  :::pokemon[Delcatty]
+    - Strength
+  :::
+  :::pokemon[Mega Gallade]
+    - Strength
+  :::
+:::::
+
+- Take the center.
+- Equip a Persim Berry on Ambipom.
+
+### Pokemon League Shopping
+> #### Buy
+> - 11 Full Restore (>)
+> - 1 Revive :info[If you have none left.]{color=red}
+
+:::::trainer[Elite Four Sidney]
+  :::pokemon[Mightyena]
+    - Power-Up Punch x2
+  :::
+  :::pokemon[Shiftry]
+    - Strength
+  :::
+  :::pokemon[Sharpedo]{info="Rough Skin deals 22 damage." infoColor=blue}
+    - Strength
+
+    ::level{source="Aipom" value=60}
+  :::
+  :::pokemon[Absol]
+    - Strength
+  :::
+  :::pokemon[Cacturne]
+    - Strength
+  :::
+:::::
+
+- Heal to full.
+- Equip a Persim Berry.
+
+**Save before Phoebe.**
+
+:::::trainer[Elite Four Phoebe]{info="this fight is dumb" infoColor=gray}
+  :::pokemon[Dusclops]
+    - Thief x2
+
+    **If Dusclops uses Curse, you will 100% have to revive on Sableye.**
+  :::
+  :::pokemon[Sableye]
+    - Thief x2 :info[67.19% chance to 2HKO without crits]{color=red}
+    - _If Ambipom faints:_
+      - Revive on Mudkip.
+      - Heal Ambipom to full if possible.
+      - Keep spamming Thief. :info[Don't miss the range!]{color=gray}
+    -
+  :::
+  :::pokemon[Banette]
+    - Thief 
+  :::
+  :::pokemon[Dusknoir]{info="Heal status effects as needed" infoColor="red"}
+    - Thief x2 :info[96.48% chance to 2HKO without crits]{color=red}
+    ::damage[Dusknoir's elemental punches]{source="Aipom" evolution=1 offensive=false movePower=75 evs=14 opponentLevel=53 opponentStat=103 type=Ice}
+
+    ::level{source="Aipom" value=62}
+  :::
+  :::pokemon[Banette]
+   - Thief 
+  :::
+:::::
+
+- Heal to full.
+- Equip the Silk Scarf on Ambipom.
+
+**Consider saving the game before talking to Glacia.**
+
+:::::trainer[Elite Four Glacia]
+  :::pokemon[Glalie]{info="Ice Shard is a priority move."}
+    - Power-Up Punch x2
+  :::
+  :::pokemon[Froslass]
+    - Thief
+
+    ::level{source="Aipom" value=63}
+  :::
+  :::pokemon[Froslass]
+    - Thief
+  :::
+  :::pokemon[Walrein]
+    - Strength
+
+    ::level{source="Aipom" value=64}
+  :::
+  :::pokemon[Glalie]
+    - Strength
+  :::
+:::::
+
+- Heal if you took more than Hail damage.
+
+:::::trainer[Elite Four Drake]
+  :::pokemon[Altaria]
+    - Power-Up Punch x2
+    - Strength (x2)
+    :::
+  :::pokemon[Flygon]
+    - Strength 
+    ::level{source="Aipom" value=65}
+  :::
+  :::pokemon[Flygon]
+    - Strength 
+  :::
+  :::pokemon[Salamence]
+    - Strength 
+
+    ::level{source="Aipom" value=66}
+  :::
+  :::pokemon[Kingdra]
+    - Strength
+  :::
+:::::
+
+- Heal to full.
+
+**Consider saving before entering Steven's room.**
+
+:::::trainer[Champion Steven]
+  :::pokemon[Skarmory]{info="Heal as needed."}
+    - Power-Up Punch x3
+    - Full Restore
+    - Thief
+
+    ::damage[Skarmory's Steel Wing at +0 Defense]{source="Aipom" evolution=1 offensive=false movePower=70 evs=19 opponentLevel=57 opponentStat=105 stab=true type=Steel}
+  
+    ::level{source="Aipom" value=67}
+  :::
+  :::pokemon[Aggron]
+    - Thief
+    - Power-Up Punch
+  :::
+  :::pokemon[Claydol]
+    - Thief
+  :::
+  :::pokemon[Cradily]
+    - Power-Up Punch :info[8/16 range]{color=red}
+    - _If you miss the range:_
+      - Full Restore
+      - Strength
+    -
+
+    ::level{source="Aipom" value=68}
+  :::
+  :::pokemon[Armaldo]
+    - _If you can't survive Metagross' Bullet Punch_:
+      - Full Restore
+    - Strength
+  :::
+
+  :::pokemon[Mega Metagross]
+    - Thief
+    
+    ::damage[Metagross' Bullet Punch]{source="Aipom" evolution=1 offensive=false movePower=40 stab=true evs=22 opponentLevel=59 opponentStat=185 otherModifier=1.3 type=Steel}
+  :::
+:::::
+
