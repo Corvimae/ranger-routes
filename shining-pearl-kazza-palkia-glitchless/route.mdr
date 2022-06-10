@@ -1548,7 +1548,7 @@ Before triggering the Barry fight:
     - X Speed (x2) :info[Use 2 X-Speeds with 112 Speed or less (0 - 14/ x / x)]
     - X Sp. Attack x3
     - Surf[9]
-    :damage[Mr. Mime's Dazzling Gleam]{source="Palkia" offensive=false movePower=80 level=57 evs=12 combatStages=2 special=true type="Fairy"}
+    :damage[Mr. Mime's Dazzling Gleam]{source="Palkia" offensive=false movePower=80 level=55 evs=12 combatStages=2 special=true type="Fairy"}
   :::
   :::pokemon[Medicham]{baseStats="[60, 60, 75, 60, 75, 80]" ivs="[31, 31, 31, 0, 31, 0]" evs="[0, 252, 0, 0, 0, 0]" type="Psychic/Fighting" level=60 nature="Brave"}
     - Surf[8]
