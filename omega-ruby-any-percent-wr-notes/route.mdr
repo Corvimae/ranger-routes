@@ -317,7 +317,7 @@ Grab/Skip PP UP
 > - 9 X Attack (v)
 > :::
 > - 1 X Defend (v)
-> :::if{source="Mudkip" condition="$!ppskip && spatk=(17+ / 13- / 2-)"}
+> :::if{source="Mudkip" condition="!$ppskip && spatk=(17+ / 13- / 2-)"}
 > - 7 X Sp. Attack (>^^)
 > :::
 > :::if{source="Mudkip" condition="$ppskip || spatk=~(17+ / 13- / 2-)"}
