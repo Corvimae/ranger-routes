@@ -36,7 +36,7 @@
   33 -> 1, 5, 6, 4, 2, 4
 :::
 
-:::tracker{species="Groudon" generation=6 baseStats="[[100, 150, 140, 100, 90, 90]]"}
+:::tracker{species="Groudon" generation=6 baseStats="[[100, 150, 140, 100, 90, 90], [100, 180, 160, 150, 90, 90]]"}
 45:
   45 -> 0, 0, 0, 0, 0, 0
   46 -> 4, 2, 0, 0, 2, 3
@@ -1197,8 +1197,10 @@ Catch Groudon with the Master Ball.
   :::::
   :::::pokemon[Shiftry]{info="Shiftry is faster if +1 Speed and Sun"}
    :::if{source="Groudon" condition="atk=(x/15+/#)"}
-    - Earthquake
+    - Earthquake :info[15/16 range at (x/15-18/x)]{color=gray}
+    - If Earthquake missed range, Smack Down, Overheat
    ::: 
+    :::if{source="Groudon" condition="atk=~(x/15+/#)"}
     - If +5 Attack, Earthquake
     - If Sun
       - Overheat
@@ -1211,32 +1213,43 @@ Catch Groudon with the Master Ball.
     If Overheat missed range, Smack Down, Earthquake
     
     If Earthquake missed range, Smack Down, Overheat
-
+   ::: 
     ::damage[Leaf Blade ]{source="Groudon" special=false movePower=90 stab=true level=48 opponentLevel=50 evs=0 opponentStat=109 offensive=false effectiveness=2 theme=error}
   :::::
   :::::pokemon[Cacturne]
     - Earthquake
   :::::
   :::::pokemon[Sharpedo]{info="Aqua Jet does 60 max" infoColor=blue}
+    - Heal if Aqua Jet range
     - Earthquake
+     ::damage[Aqua Jet]{source="Groudon" special=false movePower=40 stab=true level=48 opponentLevel=50 evs=1 opponentStat=141 offensive=false effectiveness=2 theme=error}
   :::::
   :::::pokemon[Absol]
     - Earthquake
   :::::
 :::::::
 
-- Open your item menu:
+
+Open your item menu:
+  :::if{source="Groudon" condition="atk=(#/x/x)"}
   - Heal to full
+  :::
+  :::if{source="Groudon" condition="atk=~(#/x/x)"}
+  - Heal to full if can't tank a Fake out + Hex
+  :::
   - Equip Red Orb on Groudon (bottom scroll)
+
+::damage[Sableye's Fakeout]{source="Groudon" evolution=1 special=false movePower=40 stab=false level=49 opponentLevel=51 opponentStat=85 offensive=false effectiveness=1 theme=error}
+::damage[Dusknoir's Hex]{source="Groudon" evolution=1 evs=4 special=true movePower=65 stab=true level=49 opponentLevel=53 opponentStat=78 offensive=false effectiveness=1 theme=error}
 
 :::::::trainer[Phoebe]
   :::::pokemon[Dusclops]
     - Overheat
        - If miss into Curse, spray and pray
   :::::
-  :::::pokemon[Sableye]
+  :::::pokemon[Sableye]{info="Foul Play can do from 91-139 depending on your attack/defense" infoColor=blue}
     :::if{source="Groudon" condition="atk=(#/x/x)"}
-      - Swords Dance
+      - Swords Dance :info[to avoid range on Sableye]{color=gray}
       - Earthquake
     :::
     :::if{source="Groudon" condition="atk=~(#/x/x)"}
@@ -1250,8 +1263,14 @@ Catch Groudon with the Master Ball.
     - Earthquake
   :::::
   :::::pokemon[Dusknoir]
-    - Swords Dance (Skip if used earlier)
+    :::if{source="Groudon" condition="atk=~(#/x/x)"}
+      - Swords Dance (Skip if used before)
+    :::
+    :::if{source="Groudon" condition="atk=(#/x/x)"}
+      - Swords Dance to avoid range below
+    :::
     - Earthquake
+    ::damage[+2 Earthquake vs Dusknoir]{source="Groudon" evolution=1 evs=16 special=false movePower=100 stab=true level=49 opponentLevel=53 opponentStat=167 offensive=true healthThreshold=114 effectiveness=1 combatStages=2 theme=error}
   :::::
 :::::::
 
