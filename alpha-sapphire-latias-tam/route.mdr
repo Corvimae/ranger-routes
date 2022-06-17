@@ -54,31 +54,25 @@ Immediately after starting:
       - Feed another frosted puff for +3 or another regular puff for +2.
 :::
 
+Deposit Latias and your Route 101/103 catch.
+
 :::::trainer[Aqua Grunt]
   :::pokemon[Poochyena]
     - Spam Tackle/Water Gun
   :::
 :::::
 
-- Turn off the Exp. Share.
-
 - Pick up the Balm Mushroom.
-
-:::::trainer[Twins Gina & Mia]{info="Use Mudkip to heal as needed. This fight actually sucks."}
-  - Mudkip: Spam Growl
-  - Latias: Spam Psywave. Prioritize Seedot.
-
-  ::level{source="Latias" value=8}
-:::::
+- :info[SAFETY STRAT: Pick up the Ether.]{color=gray}
 
 - Go to the Cut House and get the Cut HM.
-- Deposit your Route 101/103 catch and PC heal Latias. Move Latias to slot 1.
+- Go to the center and withdraw Latias into slot 1. Deposit Mudkip.
 
 :::::trainer[Leader Roxanne]{info="Heal as needed."}
   :::pokemon[Geodude]
     - Charm
     - Spam Psywave
-    ::level{source="Latias" value=9}
+    ::level{source="Latias" value=8}
 
     ::damage[Geodude's -2 Rock Tomb]{source="Latias" offensive=false movePower=60 evs=1 opponentLevel=12 opponentStat=24 stab=true opponentCombatStages=-2}
   :::
@@ -87,9 +81,9 @@ Immediately after starting:
   :::pokemon[Nosepass]{info="Heal as needed." infoColor="blue"}
     - If Nosepass is slower than you: :info[You're slower at -3]{color=blue}
       - Charm
-    - Spam Psywave
+    - Spam Psywave :info[If you run out of PP and picked up the Ether, use it as needed. Otherwise, reset.]{color=gray}
   
-    ::level{source="Latias" value=10}
+    ::level{source="Latias" value=9}
 
     ::damage[Nosepass's -2 Rock Tomb]{source="Latias" offensive=false movePower=60 evs=1 opponentLevel=14 opponentStat=17 stab=true opponentCombatStages=-2}
 
@@ -97,8 +91,6 @@ Immediately after starting:
 
     ::damage[Nosepass's -2 Tackle]{source="Latias" offensive=false movePower=40 opponentLevel=14 opponentStat=17 opponentCombatStages=-2}
   :::
-
-  - Teach Stored Power over Helping Hand (slot 1).
 :::::
 
 - Pick up the Repel before the bug catcher.
@@ -109,15 +101,18 @@ After entering Rusturf Tunnel:
 - Use the Repel.
 - Heal Latias to full.
 - Teach Cut to Latias over Water Sport (slot 3).
+- Turn off the Exp. Share.
 
 :::::trainer[Aqua Grunt]
   :::pokemon[Poochyena]{info="Don't get crit, heal as needed."}
     - Charm :info[Whenever Poochyena gets above -2 Attack, use Charm again.]{color=red}
     - Spam Cut.
 
-    ::level{source="Latias" value=11}
+     Teach Stored Power over Helping Hand (slot 1).
 
     ::damage[Poochyena's -2 Bite]{source="Latias" offensive=false movePower=60 opponentLevel=13 opponentStat=19 type=Dark stab=true opponentCombatStages=-2}
+
+    ::level{source="Latias" value=10}
   :::
 :::::
 
@@ -128,13 +123,15 @@ After entering Rusturf Tunnel:
 :::::trainer[Battle Girl Laura]
   :::pokemon[Meditite]
     - Spam Cut
+
+    ::level{source="Latias" value=11}
   :::
 :::::
 
 :::::trainer[Black Belt Hideki]
   :::pokemon[Machop]
-    - Stored Power x4
-    ::level{source="Latias" value=12}
+    - Stored Power x3
+    - Cut
   :::
 :::::
 
@@ -143,12 +140,14 @@ After entering Rusturf Tunnel:
 :::::trainer[Battle Girl Tessa]
   :::pokemon[Meditite]
     - Spam Cut
+
+    ::level{source="Latias" value=12}
   :::
   :::pokemon[Machop]
-    - Stored Power x2-3
+    - Stored Power x2
+    - (Cut)
 
     Do not teach Refresh.
-    ::level{source="Latias" value=13}
   :::
 :::::
 
@@ -157,7 +156,11 @@ After entering Rusturf Tunnel:
 
 :::::trainer[Leader Brawly]
   :::pokemon[Machop]
-    - Stored Power x2
+    - Stored Power
+    - Cut
+    - Stored Power
+
+    ::level{source="Latias" value=13}
   :::
   :::pokemon[Makuhita]
     - Stored Power
@@ -167,17 +170,25 @@ After entering Rusturf Tunnel:
   :::
 :::::
 
-Fight the blue tuber below the pacing sailor on purpose.
+- Equip the Silk Scarf on Latias if you unequipped it before Brawly.
 
-:::::trainer[Tuber Ricky]
-  :::pokemon[Zigzagoon]
-    - Cut x3
+If you got Detect spammed and don't have enough PP, take the center now I guess :<
+
+Fight the pacing sailor on purpose.
+
+:::::trainer[Sailor Edmond]
+  :::pokemon[Wingull]
+    - Cut x2
 
     ::level{source="Latias" value=14}
+  :::
+  :::pokemon[Machop]
+    - Stored Power or Cut x2 :info[Whatever you have PP for]{color=gray}
   :::
 :::::
 
 - Grab the PP Up in the north-west of Route 109 (Slateport beach).
+- PC heal Latias at the center and withdraw Mudkip into slot 2.
 
 ### Slateport Shopping
 > #### Sell
@@ -193,9 +204,6 @@ Fight the blue tuber below the pacing sailor on purpose.
 > - 2 Awakenings (vvv)
 > - 4 Super Potions (^^^^^)
 > - 4 Super Repels (>>^)
-
-- Heal Latias to full.
-- Equip the Silk Scarf on Latias if you unequipped it before Brawly.
 
 **Save before the Aqua Grunt.**
 
@@ -227,7 +235,7 @@ Fight the blue tuber below the pacing sailor on purpose.
   :::
 :::::
 
-- Heal at the center.
+- Heal to full.
 
 :::::trainer[Poke Fan Isabel]{info="Heal as needed" infoColor="blue"}
   :::pokemon[Plusle]
