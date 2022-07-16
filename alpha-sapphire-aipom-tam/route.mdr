@@ -84,21 +84,48 @@ Enter the Center and deposit everything except Aipom.
 :::::
 
 - Move Aipom to slot 1.
+- Turn off the Exp. Share.
 
 - Pick up the Repel before the bug catcher.
+
+Fight the rotating Bug Catcher on purpose.
+
+:::::trainer[Bug Catcher Jose]
+  :::pokemon[Wurmple]
+    - Scratch x2
+  :::
+  :::pokemon[Nincada]
+    - Scratch x3
+    
+    Do not teach Baton Pass.
+    ::level{source="Aipom" value=11}
+  :::
+  :::pokemon[Silcoon]
+    - Scratch x2
+  :::
+:::::
+
+Fight the girl at the start of the grass on purpose.
+
+:::::trianer[Lass Janice]
+  :::pokemon[Marill]
+    - Scratch x3
+    
+    ::level{source="Aipom" value=12}
+  :::
+:::::
 
 - Talk to Mr. Briney before entering the cave.
 
 After entering Rusturf Tunnel:
 - Use the Repel.
-- Turn off the Exp. Share.
+- Heal Aipom to full.
 
 :::::trainer[Aqua Grunt]
   :::pokemon[Poochyena]
     - Scratch x3
-
-    Do not teach Baton Pass.
-    ::level{source="Aipom" value=11}
+    
+    ::level{source="Aipom" value=13}
   :::
 :::::
 
@@ -113,43 +140,11 @@ Head to the mart.
 
 - Teach Cut over Sand Attack (slot 3).
 
-Fight the fisher at the top of the dock on purpose.
-
-:::::trainer[Fisherman Ivan]
-  :::pokemon[Magikarp]
-    - Cut (x2)
-  :::
-  :::pokemon[Magikarp]
-    - Cut (x2)
-  :::
-  :::pokemon[Magikarp]
-    - Cut (x2)
-
-    ::level{source="Aipom" value=12}
-  :::
-:::::
-
-Fight the girl at the end of the dock on purpose.
-
-:::::trainer[Lass Haley]
-  :::pokemon[Lotad]
-    - Cut
-  :::
-  :::pokemon[Shroomish]
-    - Cut x2
-  :::
-:::::
-
-- If you're paralysed, use a Cheri Berry.
-- If you're poisoned, run past the spinner to the trees in front of the flower shop and grab the Pecha Berries from the right-most tree. Use a Pecha Berry, then run back to the spinner.
-
 Fight the spinner in the hat on purpose.
 
 :::::trainer[Lady Cindy]
   :::pokemon[Zigzagoon]
     - Spam Scratch
-
-    ::level{source="Aipom" value=13}
   :::
 :::::
 
@@ -161,27 +156,13 @@ Grab the hidden Super Potion from the grass above the flower shop.
 
 ![super potion location](super-potion.png)
 
-Head into the woods and fight the bug catcher spinner on purpose (take two steps into the grass and wait for him to spin towards you).
+Head into the woods and fight the bug catcher spinner after the first ledge on purpose (take two steps into the grass and wait for him to spin towards you).
 
 :::::trainer[Bug Catcher James]
   :::pokemon[Nincada]
     - Scratch x2
-  :::
-:::::
-
-Fight the second bug catcher spinner in the south-west of Petalberg Woods on purpose.
-
-:::::trainer[Bug Catcher Lyle]
-  :::pokemon[Wurmple]
-     - Scratch
-  :::
-  :::pokemon[Wurmple]
-     - Scratch
 
     ::level{source="Aipom" value=14}
-  :::
-  :::pokemon[Wurmple]
-     - Scratch
   :::
 :::::
 
@@ -209,12 +190,15 @@ Head north and fight the fisherman on purpose.
   :::
 :::::
 
+Fight the backpacker to the right between the rocks on purpose.
+
 :::::trainer[Backpacker Greene]
-  :::pokemon[Tentacool]
-     - Cut
-     - Scratch
+  :::pokemon[Slakoth]
+     - Cut x2
   :::
 :::::
+
+Head to the gym.
 
 - Equip the Silk Scarf on Aipom.
 - Heal Aipom to full.
@@ -222,6 +206,8 @@ Head north and fight the fisherman on purpose.
 :::::trainer[Battle Girl Laura]
   :::pokemon[Meditite]
     - Spam Scratch
+
+    ::level{source="Aipom" value=16}
   :::
 :::::
 
