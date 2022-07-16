@@ -1,0 +1,681 @@
+C:\Program Files\nodejs\node.exe .\..\ORASExp\ORASExpRoute.js
+[AFFECTION BOOST] true
+Current Exp: 343 (0.00%)
+[KILL]: Got 194 Exp for killing Poochyena (Lv. 9) @(None) (Ability: Run Away) (Nature: Mild) (Moves: Tackle/Growl/Sand Attack/(No Move)) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"atk":1}
+[LEVELUP] Now level 8
+8	0	1	0	0	0	0
+Eevee (Lv. 8) (Ability: Anticipation) (Nature: Rash) (Moves: Tackle/Tail Whip/Razor Leaf/Magical Leaf) IVs: 31/31/31/31/31/31 EVs: 0/1/0/0/0/0
+Current Exp: 537 (11.52%)
+[KILL]: Got 216 Exp for killing Zigzagoon (Lv. 10) @(None) (Ability: (other)) (Nature: (None)) (Moves: (No Move)/(No Move)/(No Move)/(No Move)) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"spd":1}
+[LEVELUP] Now level 9
+9	0	1	0	0	0	1
+Eevee (Lv. 9) (Ability: Anticipation) (Nature: Rash) (Moves: Tackle/Tail Whip/Razor Leaf/Magical Leaf) IVs: 31/31/31/31/31/31 EVs: 0/1/0/0/0/1
+Current Exp: 753 (8.86%)
+[EVOLUTION]
+Sylveon (Lv. 9) (Ability: Anticipation) (Nature: Rash) (Moves: Tackle/Tail Whip/Razor Leaf/Magical Leaf) IVs: 31/31/31/31/31/31 EVs: 0/1/0/0/0/1
+Current Exp: 753 (8.86%)
+[ABILITY CHANGED] Pixilate
+Current Exp: 753 (8.86%)
+[KILL]: Got 228 Exp for killing Geodude (Lv. 10) @(None) (Ability: Rock Head) (Nature: Modest) (Moves: Tackle/Rock Throw/(No Move)/(No Move)) IVs: 8/8/8/8/8/8 EVs: 0/0/0/0/0/0
+EV yield: {"def":1}
+Sylveon (Lv. 9) (Ability: Pixilate) (Nature: Rash) (Moves: Tackle/Tail Whip/Razor Leaf/Magical Leaf) IVs: 31/31/31/31/31/31 EVs: 0/1/1/0/0/1
+Current Exp: 981 (92.99%)
+[KILL]: Got 275 Exp for killing Geodude (Lv. 12) @(None) (Ability: Sturdy) (Nature: Mild) (Moves: Tackle/Defense Curl/Rock Tomb/(No Move)) IVs: 8/8/8/8/8/8 EVs: 0/0/0/0/0/0
+EV yield: {"def":1}
+[LEVELUP] Now level 10
+10	0	1	2	0	0	1
+Sylveon (Lv. 10) (Ability: Pixilate) (Nature: Rash) (Moves: Tackle/Tail Whip/Razor Leaf/Magical Leaf) IVs: 31/31/31/31/31/31 EVs: 0/1/2/0/0/1
+Current Exp: 1256 (77.34%)
+[KILL]: Got 404 Exp for killing Nosepass (Lv. 14) @(None) (Ability: Magnet Pull) (Nature: Docile) (Moves: Tackle/Harden/Rock Tomb/(No Move)) IVs: 8/8/8/8/8/8 EVs: 0/0/0/0/0/0
+EV yield: {"def":1}
+[LEVELUP] Now level 11
+11	0	1	3	0	0	1
+Sylveon (Lv. 11) (Ability: Pixilate) (Nature: Rash) (Moves: Tackle/Tail Whip/Razor Leaf/Magical Leaf) IVs: 31/31/31/31/31/31 EVs: 0/1/3/0/0/1
+Current Exp: 1660 (82.87%)
+[KILL]: Got 281 Exp for killing Poochyena (Lv. 13) @(None) (Ability: Quick Feet) (Nature: Jolly) (Moves: Howl/Sand Attack/Bite/Odor Sleuth) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"atk":1}
+[LEVELUP] Now level 12
+12	0	2	3	0	0	1
+Sylveon (Lv. 12) (Ability: Pixilate) (Nature: Rash) (Moves: Tackle/Tail Whip/Razor Leaf/Magical Leaf) IVs: 31/31/31/31/31/31 EVs: 0/2/3/0/0/1
+Current Exp: 1941 (45.42%)
+[KILL]: Got 281 Exp for killing Meditite (Lv. 13) @(None) (Ability: Pure Power) (Nature: Lax) (Moves: Confusion/Detect/Endure/(No Move)) IVs: 24/24/24/24/24/24 EVs: 0/0/0/0/0/0
+EV yield: {"spd":1}
+[LEVELUP] Now level 13
+13	0	2	3	0	0	2
+Sylveon (Lv. 13) (Ability: Pixilate) (Nature: Rash) (Moves: Tackle/Tail Whip/Razor Leaf/Magical Leaf) IVs: 31/31/31/31/31/31 EVs: 0/2/3/0/0/2
+Current Exp: 2222 (4.57%)
+[KILL]: Got 304 Exp for killing Machop (Lv. 13) @(None) (Ability: No Guard) (Nature: Bold) (Moves: Focus Energy/Karate Chop/Foresight/Low Sweep) IVs: 24/24/24/24/24/24 EVs: 0/0/0/0/0/0
+EV yield: {"atk":1}
+Sylveon (Lv. 13) (Ability: Pixilate) (Nature: Rash) (Moves: Tackle/Tail Whip/Razor Leaf/Magical Leaf) IVs: 31/31/31/31/31/31 EVs: 0/3/3/0/0/2
+Current Exp: 2526 (60.15%)
+[KILL]: Got 238 Exp for killing Meditite (Lv. 11) @(None) (Ability: Pure Power) (Nature: Hasty) (Moves: Bide/Meditate/Confusion/Detect) IVs: 24/24/24/24/24/24 EVs: 0/0/0/0/0/0
+EV yield: {"spd":1}
+[LEVELUP] Now level 14
+14	0	3	3	0	0	3
+Sylveon (Lv. 14) (Ability: Pixilate) (Nature: Rash) (Moves: Tackle/Tail Whip/Razor Leaf/Magical Leaf) IVs: 31/31/31/31/31/31 EVs: 0/3/3/0/0/3
+Current Exp: 2764 (3.17%)
+[KILL]: Got 304 Exp for killing Machop (Lv. 13) @(None) (Ability: No Guard) (Nature: Jolly) (Moves: Leer/Focus Energy/Karate Chop/Foresight) IVs: 24/24/24/24/24/24 EVs: 0/0/0/0/0/0
+EV yield: {"atk":1}
+Sylveon (Lv. 14) (Ability: Pixilate) (Nature: Rash) (Moves: Tackle/Tail Whip/Razor Leaf/Magical Leaf) IVs: 31/31/31/31/31/31 EVs: 0/4/3/0/0/3
+Current Exp: 3068 (51.35%)
+[KILL]: Got 329 Exp for killing Machop (Lv. 14) @(None) (Ability: Guts) (Nature: Adamant) (Moves: Leer/Karate Chop/Seismic Toss/Bulk Up) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"atk":1}
+[LEVELUP] Now level 15
+15	0	5	3	0	0	3
+Sylveon (Lv. 15) (Ability: Pixilate) (Nature: Rash) (Moves: Tackle/Tail Whip/Razor Leaf/Magical Leaf) IVs: 31/31/31/31/31/31 EVs: 0/5/3/0/0/3
+Current Exp: 3397 (3.05%)
+[KILL]: Got 288 Exp for killing Makuhita (Lv. 16) @(None) (Ability: Guts) (Nature: Hardy) (Moves: Arm Thrust/Knock Off/Sand Attack/Bulk Up) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"hp":1}
+Sylveon (Lv. 15) (Ability: Pixilate) (Nature: Rash) (Moves: Tackle/Tail Whip/Razor Leaf/Magical Leaf) IVs: 31/31/31/31/31/31 EVs: 1/5/3/0/0/3
+Current Exp: 3685 (43.00%)
+[KILL]: Got 374 Exp for killing Numel (Lv. 16) @(None) (Ability: Simple) (Nature: Quirky) (Moves: Ember/Focus Energy/Magnitude/Flame Burst) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"spAtk":1}
+Sylveon (Lv. 15) (Ability: Pixilate) (Nature: Rash) (Moves: Tackle/Tail Whip/Razor Leaf/Magical Leaf) IVs: 31/31/31/31/31/31 EVs: 1/5/3/1/0/3
+Current Exp: 4059 (94.87%)
+[KILL]: Got 264 Exp for killing Zubat (Lv. 14) @(None) (Ability: Inner Focus) (Nature: Quiet) (Moves: Supersonic/Astonish/Bite/Wing Attack) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"spd":1}
+[LEVELUP] Now level 16
+16	1	5	3	1	0	4
+Sylveon (Lv. 16) (Ability: Pixilate) (Nature: Rash) (Moves: Tackle/Tail Whip/Razor Leaf/Magical Leaf) IVs: 31/31/31/31/31/31 EVs: 1/5/3/1/0/4
+Current Exp: 4323 (27.78%)
+[KILL]: Got 329 Exp for killing Numel (Lv. 14) @(None) (Ability: Oblivious) (Nature: Quiet) (Moves: Tackle/Ember/Focus Energy/Magnitude) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"spAtk":1}
+Sylveon (Lv. 16) (Ability: Pixilate) (Nature: Rash) (Moves: Tackle/Tail Whip/Razor Leaf/Magical Leaf) IVs: 31/31/31/31/31/31 EVs: 1/5/3/2/0/4
+Current Exp: 4652 (68.05%)
+[KILL]: Got 821 Exp for killing Plusle (Lv. 15) @Oran Berry (Ability: Plus) (Nature: Quiet) (Moves: Helping Hand/Spark/Encore/Bestow) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"spd":1}
+[LEVELUP] Now level 17
+17	1	5	3	2	0	5
+Sylveon (Lv. 17) (Ability: Pixilate) (Nature: Rash) (Moves: Tackle/Tail Whip/Razor Leaf/Magical Leaf) IVs: 31/31/31/31/31/31 EVs: 1/5/3/2/0/5
+Current Exp: 5473 (60.94%)
+[KILL]: Got 821 Exp for killing Minun (Lv. 15) @Oran Berry (Ability: Minus) (Nature: Naive) (Moves: Helping Hand/Spark/Encore/Bestow) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"spd":1}
+[LEVELUP] Now level 18
+18	1	5	3	2	0	6
+Sylveon (Lv. 18) (Ability: Pixilate) (Nature: Rash) (Moves: Tackle/Tail Whip/Razor Leaf/Magical Leaf) IVs: 31/31/31/31/31/31 EVs: 1/5/3/2/0/6
+Current Exp: 6294 (44.99%)
+[KILL]: Got 346 Exp for killing Slugma (Lv. 18) @(None) (Ability: Magma Armor) (Nature: Hasty) (Moves: Ember/Rock Throw/Harden/Incinerate) IVs: 24/24/24/24/24/24 EVs: 0/0/0/0/0/0
+EV yield: {"spAtk":1}
+Sylveon (Lv. 18) (Ability: Pixilate) (Nature: Rash) (Moves: Tackle/Tail Whip/Razor Leaf/Magical Leaf) IVs: 31/31/31/31/31/31 EVs: 1/5/3/3/0/6
+Current Exp: 6640 (78.68%)
+[KILL]: Got 1092 Exp for killing Grovyle (Lv. 20) @(None) (Ability: Overgrow) (Nature: Rash) (Moves: Quick Attack/Mega Drain/Fury Cutter/Pursuit) IVs: 24/24/24/24/24/24 EVs: 0/0/0/0/0/0
+EV yield: {"spd":2}
+[LEVELUP] Now level 19
+19	1	5	3	3	0	8
+Sylveon (Lv. 19) (Ability: Pixilate) (Nature: Rash) (Moves: Tackle/Tail Whip/Razor Leaf/Magical Leaf) IVs: 31/31/31/31/31/31 EVs: 1/5/3/3/0/8
+Current Exp: 7732 (76.51%)
+[KILL]: Got 552 Exp for killing Wailmer (Lv. 18) @(None) (Ability: Water Veil) (Nature: Hardy) (Moves: Water Gun/Rollout/Whirlpool/Astonish) IVs: 24/24/24/24/24/24 EVs: 0/0/0/0/0/0
+EV yield: {"hp":1}
+[LEVELUP] Now level 20
+20	2	5	3	3	0	8
+Sylveon (Lv. 20) (Ability: Pixilate) (Nature: Rash) (Moves: Tackle/Tail Whip/Razor Leaf/Magical Leaf) IVs: 31/31/31/31/31/31 EVs: 2/5/3/3/0/8
+Current Exp: 8284 (22.52%)
+[KILL]: Got 260 Exp for killing Ralts (Lv. 17) @(None) (Ability: Synchronize) (Nature: Relaxed) (Moves: Teleport/Disarming Voice/Lucky Chant/Magical Leaf) IVs: 24/24/24/24/24/24 EVs: 0/0/0/0/0/0
+EV yield: {"spAtk":1}
+Sylveon (Lv. 20) (Ability: Pixilate) (Nature: Rash) (Moves: Tackle/Tail Whip/Razor Leaf/Magical Leaf) IVs: 31/31/31/31/31/31 EVs: 2/5/3/4/0/8
+Current Exp: 8544 (43.14%)
+[KILL]: Got 400 Exp for killing Magnemite (Lv. 16) @(None) (Ability: Magnet Pull) (Nature: Bold) (Moves: Thunder Wave/Volt Switch/Tackle/(No Move)) IVs: 8/8/8/8/8/8 EVs: 0/0/0/0/0/0
+EV yield: {"spAtk":1}
+Sylveon (Lv. 20) (Ability: Pixilate) (Nature: Rash) (Moves: Tackle/Tail Whip/Razor Leaf/Magical Leaf) IVs: 31/31/31/31/31/31 EVs: 2/5/3/5/0/8
+Current Exp: 8944 (74.86%)
+[KILL]: Got 361 Exp for killing Electrike (Lv. 16) @(None) (Ability: Lightning Rod) (Nature: Sassy) (Moves: Volt Switch/Quick Attack/Odor Sleuth/(No Move)) IVs: 8/8/8/8/8/8 EVs: 0/0/0/0/0/0
+EV yield: {"spd":1}
+[LEVELUP] Now level 21
+21	2	5	3	5	0	9
+Sylveon (Lv. 21) (Ability: Pixilate) (Nature: Rash) (Moves: Tackle/Tail Whip/Razor Leaf/Magical Leaf) IVs: 31/31/31/31/31/31 EVs: 2/5/3/5/0/9
+Current Exp: 9305 (3.17%)
+[KILL]: Got 385 Exp for killing Electrike (Lv. 17) @(None) (Ability: Lightning Rod) (Nature: Quiet) (Moves: Odor Sleuth/Spark/Tackle/(No Move)) IVs: 8/8/8/8/8/8 EVs: 0/0/0/0/0/0
+EV yield: {"spd":1}
+Sylveon (Lv. 21) (Ability: Pixilate) (Nature: Rash) (Moves: Tackle/Tail Whip/Razor Leaf/Magical Leaf) IVs: 31/31/31/31/31/31 EVs: 2/5/3/5/0/10
+Current Exp: 9690 (30.93%)
+[KILL]: Got 379 Exp for killing Voltorb (Lv. 15) @(None) (Ability: Static) (Nature: Serious) (Moves: Eerie Impulse/Spark/Rollout/Screech) IVs: 8/8/8/8/8/8 EVs: 0/0/0/0/0/0
+EV yield: {"spd":1}
+Sylveon (Lv. 21) (Ability: Pixilate) (Nature: Rash) (Moves: Tackle/Tail Whip/Razor Leaf/Magical Leaf) IVs: 31/31/31/31/31/31 EVs: 2/5/3/5/0/11
+Current Exp: 10069 (58.26%)
+[KILL]: Got 432 Exp for killing Voltorb (Lv. 17) @(None) (Ability: Static) (Nature: Sassy) (Moves: Spark/Rollout/Screech/Charge Beam) IVs: 8/8/8/8/8/8 EVs: 0/0/0/0/0/0
+EV yield: {"spd":1}
+Sylveon (Lv. 21) (Ability: Pixilate) (Nature: Rash) (Moves: Tackle/Tail Whip/Razor Leaf/Magical Leaf) IVs: 31/31/31/31/31/31 EVs: 2/5/3/5/0/12
+Current Exp: 10501 (89.40%)
+[KILL]: Got 475 Exp for killing Magnemite (Lv. 19) @(None) (Ability: Sturdy) (Nature: Brave) (Moves: Thunder Wave/Tackle/Volt Switch/(No Move)) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"spAtk":1}
+[LEVELUP] Now level 22
+22	2	5	3	6	0	12
+Sylveon (Lv. 22) (Ability: Pixilate) (Nature: Rash) (Moves: Tackle/Tail Whip/Razor Leaf/Magical Leaf) IVs: 31/31/31/31/31/31 EVs: 2/5/3/6/0/12
+Current Exp: 10976 (21.59%)
+[KILL]: Got 482 Exp for killing Voltorb (Lv. 19) @(None) (Ability: Soundproof) (Nature: Quirky) (Moves: Rollout/Charge/Volt Switch/(No Move)) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"spd":1}
+Sylveon (Lv. 22) (Ability: Pixilate) (Nature: Rash) (Moves: Tackle/Tail Whip/Razor Leaf/Magical Leaf) IVs: 31/31/31/31/31/31 EVs: 2/5/3/6/0/13
+Current Exp: 11458 (53.32%)
+[KILL]: Got 1319 Exp for killing Magneton (Lv. 21) @(None) (Ability: Magnet Pull) (Nature: Naive) (Moves: Supersonic/Magnet Bomb/Volt Switch/(No Move)) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"spAtk":2}
+[LEVELUP] Now level 23
+23	2	5	3	8	0	13
+Sylveon (Lv. 23) (Ability: Pixilate) (Nature: Rash) (Moves: Tackle/Tail Whip/Razor Leaf/Magical Leaf) IVs: 31/31/31/31/31/31 EVs: 2/5/3/8/0/13
+Current Exp: 12777 (36.81%)
+[KILL]: Got 454 Exp for killing Electrike (Lv. 20) @(None) (Ability: Static) (Nature: Careful) (Moves: Quick Attack/Spark/Odor Sleuth/Thunder Fang) IVs: 24/24/24/24/24/24 EVs: 0/0/0/0/0/0
+EV yield: {"spd":1}
+Sylveon (Lv. 23) (Ability: Pixilate) (Nature: Rash) (Moves: Tackle/Tail Whip/Razor Leaf/Magical Leaf) IVs: 31/31/31/31/31/31 EVs: 2/5/3/8/0/14
+Current Exp: 13231 (64.21%)
+[KILL]: Got 461 Exp for killing Bagon (Lv. 20) @(None) (Ability: Rock Head) (Nature: Brave) (Moves: Leer/Bite/Hidden Power Dragon/Headbutt) IVs: 24/24/24/24/24/24 EVs: 0/0/0/0/0/0
+EV yield: {"atk":1}
+Sylveon (Lv. 23) (Ability: Pixilate) (Nature: Rash) (Moves: Tackle/Tail Whip/Razor Leaf/Magical Leaf) IVs: 31/31/31/31/31/31 EVs: 2/6/3/8/0/14
+Current Exp: 13692 (92.03%)
+[KILL]: Got 361 Exp for killing Makuhita (Lv. 20) @(None) (Ability: Thick Fat) (Nature: Brave) (Moves: Fake Out/Force Palm/Whirlwind/Knock Off) IVs: 24/24/24/24/24/24 EVs: 0/0/0/0/0/0
+EV yield: {"hp":1}
+[LEVELUP] Now level 24
+24	3	6	3	8	0	14
+Sylveon (Lv. 24) (Ability: Pixilate) (Nature: Rash) (Moves: Tackle/Tail Whip/Razor Leaf/Magical Leaf) IVs: 31/31/31/31/31/31 EVs: 3/6/3/8/0/14
+Current Exp: 14053 (12.72%)
+[KILL]: Got 422 Exp for killing Trapinch (Lv. 19) @(None) (Ability: Arena Trap) (Nature: Serious) (Moves: Bulldoze/Sand Tomb/Rock Slide/Dig) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"atk":1}
+Sylveon (Lv. 24) (Ability: Pixilate) (Nature: Rash) (Moves: Tackle/Tail Whip/Razor Leaf/Magical Leaf) IVs: 31/31/31/31/31/31 EVs: 3/7/3/8/0/14
+Current Exp: 14475 (36.15%)
+[KILL]: Got 432 Exp for killing Electrike (Lv. 19) @(None) (Ability: Lightning Rod) (Nature: Gentle) (Moves: Quick Attack/Spark/Odor Sleuth/Thunder Fang) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"spd":1}
+Sylveon (Lv. 24) (Ability: Pixilate) (Nature: Rash) (Moves: Tackle/Tail Whip/Razor Leaf/Magical Leaf) IVs: 31/31/31/31/31/31 EVs: 3/7/3/8/0/15
+Current Exp: 14907 (60.13%)
+[KILL]: Got 583 Exp for killing Aron (Lv. 23) @(None) (Ability: Sturdy) (Nature: Naive) (Moves: Rock Tomb/Protect/Roar/Iron Head) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"def":1}
+Sylveon (Lv. 24) (Ability: Pixilate) (Nature: Rash) (Moves: Tackle/Tail Whip/Razor Leaf/Magical Leaf) IVs: 31/31/31/31/31/31 EVs: 3/7/4/8/0/15
+Current Exp: 15490 (92.50%)
+[KILL]: Got 601 Exp for killing Koffing (Lv. 23) @(None) (Ability: Levitate) (Nature: Hardy) (Moves: Assurance/Clear Smog/Sludge/Self-Destruct) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"def":1}
+[LEVELUP] Now level 25
+25	3	7	5	8	0	15
+Sylveon (Lv. 25) (Ability: Pixilate) (Nature: Rash) (Moves: Tackle/Tail Whip/Razor Leaf/Magical Leaf) IVs: 31/31/31/31/31/31 EVs: 3/7/5/8/0/15
+Current Exp: 16091 (23.89%)
+[KILL]: Got 1303 Exp for killing Mightyena (Lv. 23) @(None) (Ability: Intimidate) (Nature: (None)) (Moves: Odor Sleuth/Roar/Snarl/Swagger) IVs: 24/24/24/24/24/24 EVs: 0/0/0/0/0/0
+EV yield: {"atk":2}
+Sylveon (Lv. 25) (Ability: Pixilate) (Nature: Rash) (Moves: Tackle/Tail Whip/Razor Leaf/Magical Leaf) IVs: 31/31/31/31/31/31 EVs: 3/9/5/8/0/15
+Current Exp: 17394 (90.67%)
+[KILL]: Got 540 Exp for killing Numel (Lv. 23) @(None) (Ability: Oblivious) (Nature: (None)) (Moves: Magnitude/Flame Burst/Amnesia/Lava Plume) IVs: 24/24/24/24/24/24 EVs: 0/0/0/0/0/0
+EV yield: {"spAtk":1}
+[LEVELUP] Now level 26
+26	3	9	5	9	0	15
+Sylveon (Lv. 26) (Ability: Pixilate) (Nature: Rash) (Moves: Tackle/Tail Whip/Razor Leaf/Magical Leaf) IVs: 31/31/31/31/31/31 EVs: 3/9/5/9/0/15
+Current Exp: 17934 (16.99%)
+[KILL]: Got 475 Exp for killing Poochyena (Lv. 22) @(None) (Ability: Quick Feet) (Nature: Hardy) (Moves: Odor Sleuth/Roar/Swagger/Assurance) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"atk":1}
+Sylveon (Lv. 26) (Ability: Pixilate) (Nature: Rash) (Moves: Tackle/Tail Whip/Razor Leaf/Magical Leaf) IVs: 31/31/31/31/31/31 EVs: 3/10/5/9/0/15
+Current Exp: 18409 (39.53%)
+[KILL]: Got 574 Exp for killing Koffing (Lv. 22) @(None) (Ability: Levitate) (Nature: Brave) (Moves: Smokescreen/Assurance/Clear Smog/Sludge) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"def":1}
+Sylveon (Lv. 26) (Ability: Pixilate) (Nature: Rash) (Moves: Tackle/Tail Whip/Razor Leaf/Magical Leaf) IVs: 31/31/31/31/31/31 EVs: 3/10/6/9/0/15
+Current Exp: 18983 (66.78%)
+[KILL]: Got 628 Exp for killing Koffing (Lv. 24) @(None) (Ability: Levitate) (Nature: Timid) (Moves: Assurance/Clear Smog/Sludge/Self-Destruct) IVs: 24/24/24/24/24/24 EVs: 0/0/0/0/0/0
+EV yield: {"def":1}
+Sylveon (Lv. 26) (Ability: Pixilate) (Nature: Rash) (Moves: Tackle/Tail Whip/Razor Leaf/Magical Leaf) IVs: 31/31/31/31/31/31 EVs: 3/10/7/9/0/15
+Current Exp: 19611 (96.58%)
+[KILL]: Got 563 Exp for killing Numel (Lv. 24) @(None) (Ability: Oblivious) (Nature: Careful) (Moves: Magnitude/Flame Burst/Amnesia/Lava Plume) IVs: 24/24/24/24/24/24 EVs: 0/0/0/0/0/0
+EV yield: {"spAtk":1}
+[LEVELUP] Now level 27
+27	3	10	7	10	0	15
+Sylveon (Lv. 27) (Ability: Pixilate) (Nature: Rash) (Moves: Tackle/Tail Whip/Razor Leaf/Magical Leaf) IVs: 31/31/31/31/31/31 EVs: 3/10/7/10/0/15
+Current Exp: 20174 (21.64%)
+[KILL]: Got 1416 Exp for killing Mightyena (Lv. 25) @(None) (Ability: Intimidate) (Nature: Calm) (Moves: Roar/Snarl/Swagger/Assurance) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"atk":2}
+Sylveon (Lv. 27) (Ability: Pixilate) (Nature: Rash) (Moves: Tackle/Tail Whip/Razor Leaf/Magical Leaf) IVs: 31/31/31/31/31/31 EVs: 3/12/7/10/0/15
+Current Exp: 21590 (84.05%)
+[KILL]: Got 1675 Exp for killing Camerupt (Lv. 27) @(None) (Ability: Solid Rock) (Nature: Jolly) (Moves: Flame Burst/Amnesia/Lava Plume/Earth Power) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"atk":1,"spAtk":1}
+[LEVELUP] Now level 28
+28	3	13	7	11	0	15
+Sylveon (Lv. 28) (Ability: Pixilate) (Nature: Rash) (Moves: Tackle/Tail Whip/Razor Leaf/Magical Leaf) IVs: 31/31/31/31/31/31 EVs: 3/13/7/11/0/15
+Current Exp: 23265 (53.88%)
+[KILL]: Got 1530 Exp for killing Golbat (Lv. 25) @(None) (Ability: Inner Focus) (Nature: Gentle) (Moves: Wing Attack/Confuse Ray/Air Cutter/Swift) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"spd":2}
+[LEVELUP] Now level 29
+29	3	13	7	11	0	17
+Sylveon (Lv. 29) (Ability: Pixilate) (Nature: Rash) (Moves: Tackle/Tail Whip/Razor Leaf/Magical Leaf) IVs: 31/31/31/31/31/31 EVs: 3/13/7/11/0/17
+Current Exp: 24795 (15.55%)
+[KILL]: Got 584 Exp for killing Numel (Lv. 25) @(None) (Ability: Oblivious) (Nature: Hasty) (Moves: Overheat/Earth Power/(No Move)/(No Move)) IVs: 16/16/16/16/16/16 EVs: 0/0/0/0/0/0
+EV yield: {"spAtk":1}
+Sylveon (Lv. 29) (Ability: Pixilate) (Nature: Rash) (Moves: Tackle/Tail Whip/Razor Leaf/Magical Leaf) IVs: 31/31/31/31/31/31 EVs: 3/13/7/12/0/17
+Current Exp: 25379 (37.92%)
+[KILL]: Got 498 Exp for killing Slugma (Lv. 26) @(None) (Ability: Flame Body) (Nature: Quirky) (Moves: Overheat/Rock Throw/Light Screen/Sunny Day) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"spAtk":1}
+Sylveon (Lv. 29) (Ability: Pixilate) (Nature: Rash) (Moves: Tackle/Tail Whip/Razor Leaf/Magical Leaf) IVs: 31/31/31/31/31/31 EVs: 3/13/7/13/0/17
+Current Exp: 25877 (56.99%)
+[KILL]: Got 610 Exp for killing Numel (Lv. 26) @(None) (Ability: Simple) (Nature: Rash) (Moves: Earth Power/Lava Plume/Amnesia/Sunny Day) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"spAtk":1}
+Sylveon (Lv. 29) (Ability: Pixilate) (Nature: Rash) (Moves: Tackle/Tail Whip/Razor Leaf/Magical Leaf) IVs: 31/31/31/31/31/31 EVs: 3/13/7/14/0/17
+Current Exp: 26487 (80.35%)
+[KILL]: Got 1782 Exp for killing Torkoal (Lv. 28) @(None) (Ability: White Smoke) (Nature: Impish) (Moves: Overheat/Body Slam/Curse/Sunny Day) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"def":2}
+[LEVELUP] Now level 30
+30	3	13	9	14	0	17
+Sylveon (Lv. 30) (Ability: Pixilate) (Nature: Rash) (Moves: Tackle/Tail Whip/Razor Leaf/Magical Leaf) IVs: 31/31/31/31/31/31 EVs: 3/13/9/14/0/17
+Current Exp: 28269 (45.47%)
+[KILL]: Got 1436 Exp for killing Delcatty (Lv. 28) @(None) (Ability: Cute Charm) (Nature: Hardy) (Moves: Fake Out/Sing/Attract/Double Slap) IVs: 24/24/24/24/24/24 EVs: 0/0/0/0/0/0
+EV yield: {"hp":1,"spd":1}
+Sylveon (Lv. 30) (Ability: Pixilate) (Nature: Rash) (Moves: Tackle/Tail Whip/Razor Leaf/Magical Leaf) IVs: 31/31/31/31/31/31 EVs: 4/13/9/14/0/18
+Current Exp: 29705 (96.92%)
+[KILL]: Got 1588 Exp for killing Linoone (Lv. 28) @(None) (Ability: Gluttony) (Nature: Sassy) (Moves: Mud Sport/Fury Swipes/Covet/Bestow) IVs: 24/24/24/24/24/24 EVs: 0/0/0/0/0/0
+EV yield: {"spd":2}
+[LEVELUP] Now level 31
+31	4	13	9	14	0	20
+Sylveon (Lv. 31) (Ability: Pixilate) (Nature: Rash) (Moves: Tackle/Tail Whip/Razor Leaf/Magical Leaf) IVs: 31/31/31/31/31/31 EVs: 4/13/9/14/0/20
+Current Exp: 31293 (50.45%)
+[KILL]: Got 1728 Exp for killing Zangoose (Lv. 28) @(None) (Ability: Immunity) (Nature: Quiet) (Moves: Hone Claws/Slash/Revenge/Crush Claw) IVs: 24/24/24/24/24/24 EVs: 0/0/0/0/0/0
+EV yield: {"atk":2}
+[LEVELUP] Now level 32
+32	4	15	9	14	0	20
+Sylveon (Lv. 32) (Ability: Pixilate) (Nature: Rash) (Moves: Tackle/Tail Whip/Razor Leaf/Magical Leaf) IVs: 31/31/31/31/31/31 EVs: 4/15/9/14/0/20
+Current Exp: 33021 (7.98%)
+[KILL]: Got 2721 Exp for killing Slaking (Lv. 28) @(None) (Ability: Truant) (Nature: Rash) (Moves: Encore/Retaliate/Yawn/Feint Attack) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"hp":3}
+Sylveon (Lv. 32) (Ability: Pixilate) (Nature: Rash) (Moves: Tackle/Tail Whip/Razor Leaf/Magical Leaf) IVs: 31/31/31/31/31/31 EVs: 7/15/9/14/0/20
+Current Exp: 35742 (93.85%)
+[KILL]: Got 1663 Exp for killing Vigoroth (Lv. 28) @(None) (Ability: Vital Spirit) (Nature: Gentle) (Moves: Fury Swipes/Feint Attack/Retaliate/Encore) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"spd":2}
+[LEVELUP] Now level 33
+33	7	15	9	14	0	22
+Sylveon (Lv. 33) (Ability: Pixilate) (Nature: Rash) (Moves: Tackle/Tail Whip/Razor Leaf/Magical Leaf) IVs: 31/31/31/31/31/31 EVs: 7/15/9/14/0/22
+Current Exp: 37405 (43.60%)
+[KILL]: Got 2916 Exp for killing Slaking (Lv. 30) @(None) (Ability: Truant) (Nature: Careful) (Moves: Chip Away/Swagger/Retaliate/Feint Attack) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"hp":3}
+[LEVELUP] Now level 34
+34	10	15	9	14	0	22
+Sylveon (Lv. 34) (Ability: Pixilate) (Nature: Rash) (Moves: Tackle/Tail Whip/Razor Leaf/Magical Leaf) IVs: 31/31/31/31/31/31 EVs: 10/15/9/14/0/22
+Current Exp: 40321 (28.48%)
+[KILL]: Got 1924 Exp for killing Camerupt (Lv. 31) @(None) (Ability: Solid Rock) (Nature: Sassy) (Moves: Lava Plume/Earth Power/Curse/Take Down) IVs: 24/24/24/24/24/24 EVs: 0/0/0/0/0/0
+EV yield: {"atk":1,"spAtk":1}
+Sylveon (Lv. 34) (Ability: Pixilate) (Nature: Rash) (Moves: Tackle/Tail Whip/Razor Leaf/Magical Leaf) IVs: 31/31/31/31/31/31 EVs: 10/16/9/15/0/22
+Current Exp: 42245 (82.36%)
+[KILL]: Got 757 Exp for killing Koffing (Lv. 29) @(None) (Ability: Levitate) (Nature: (None)) (Moves: Sludge/Self-Destruct/Haze/Gyro Ball) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"def":1}
+[LEVELUP] Now level 35
+35	10	16	10	15	0	22
+Sylveon (Lv. 35) (Ability: Pixilate) (Nature: Rash) (Moves: Tackle/Tail Whip/Razor Leaf/Magical Leaf) IVs: 31/31/31/31/31/31 EVs: 10/16/10/15/0/22
+Current Exp: 43002 (3.36%)
+[KILL]: Got 785 Exp for killing Koffing (Lv. 30) @(None) (Ability: Levitate) (Nature: Serious) (Moves: Sludge/Self-Destruct/Haze/Gyro Ball) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"def":1}
+Sylveon (Lv. 35) (Ability: Pixilate) (Nature: Rash) (Moves: Tackle/Tail Whip/Razor Leaf/Magical Leaf) IVs: 31/31/31/31/31/31 EVs: 10/16/11/15/0/22
+Current Exp: 43787 (24.12%)
+[KILL]: Got 659 Exp for killing Numel (Lv. 28) @(None) (Ability: Simple) (Nature: Timid) (Moves: Flame Burst/Amnesia/Lava Plume/Earth Power) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"spAtk":1}
+Sylveon (Lv. 35) (Ability: Pixilate) (Nature: Rash) (Moves: Tackle/Tail Whip/Razor Leaf/Magical Leaf) IVs: 31/31/31/31/31/31 EVs: 10/16/11/16/0/22
+Current Exp: 44446 (41.55%)
+[KILL]: Got 1588 Exp for killing Mightyena (Lv. 28) @(None) (Ability: Quick Feet) (Nature: Serious) (Moves: Snarl/Swagger/Assurance/Scary Face) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"atk":2}
+Sylveon (Lv. 35) (Ability: Pixilate) (Nature: Rash) (Moves: Tackle/Tail Whip/Razor Leaf/Magical Leaf) IVs: 31/31/31/31/31/31 EVs: 10/18/11/16/0/22
+Current Exp: 46034 (83.55%)
+[KILL]: Got 1987 Exp for killing Camerupt (Lv. 32) @(None) (Ability: Solid Rock) (Nature: Bashful) (Moves: Lava Plume/Earth Power/Curse/Take Down) IVs: 24/24/24/24/24/24 EVs: 0/0/0/0/0/0
+EV yield: {"atk":1,"spAtk":1}
+[LEVELUP] Now level 36
+36	10	19	11	17	0	22
+Sylveon (Lv. 36) (Ability: Pixilate) (Nature: Rash) (Moves: Tackle/Tail Whip/Razor Leaf/Magical Leaf) IVs: 31/31/31/31/31/31 EVs: 10/19/11/17/0/22
+Current Exp: 48021 (34.15%)
+[KILL]: Got 595 Exp for killing Slugma (Lv. 31) @(None) (Ability: Magma Armor) (Nature: Sassy) (Moves: Clear Smog/Ancient Power/Flame Burst/Rock Slide) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"spAtk":1}
+Sylveon (Lv. 36) (Ability: Pixilate) (Nature: Rash) (Moves: Tackle/Tail Whip/Razor Leaf/Magical Leaf) IVs: 31/31/31/31/31/31 EVs: 10/19/11/18/0/22
+Current Exp: 48616 (49.04%)
+[KILL]: Got 1805 Exp for killing Grovyle (Lv. 33) @(None) (Ability: Overgrow) (Nature: Serious) (Moves: Pursuit/Leaf Blade/Agility/Slam) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"spd":2}
+Sylveon (Lv. 36) (Ability: Pixilate) (Nature: Rash) (Moves: Tackle/Tail Whip/Razor Leaf/Magical Leaf) IVs: 31/31/31/31/31/31 EVs: 10/19/11/18/0/24
+Current Exp: 50421 (94.20%)
+[KILL]: Got 955 Exp for killing Wailmer (Lv. 31) @(None) (Ability: Water Veil) (Nature: Impish) (Moves: Water Pulse/Mist/Brine/Rest) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"hp":1}
+[LEVELUP] Now level 37
+37	11	19	11	18	0	24
+Sylveon (Lv. 37) (Ability: Pixilate) (Nature: Rash) (Moves: Tackle/Tail Whip/Razor Leaf/Magical Leaf) IVs: 31/31/31/31/31/31 EVs: 11/19/11/18/0/24
+Current Exp: 51376 (17.14%)
+[KILL]: Got 1919 Exp for killing Swellow (Lv. 33) @(None) (Ability: Guts) (Nature: Sassy) (Moves: Quick Attack/Aerial Ace/Double Team/Endeavor) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"spd":2}
+Sylveon (Lv. 37) (Ability: Pixilate) (Nature: Rash) (Moves: Tackle/Tail Whip/Razor Leaf/Magical Leaf) IVs: 31/31/31/31/31/31 EVs: 11/19/11/18/0/26
+Current Exp: 53295 (62.62%)
+[KILL]: Got 2322 Exp for killing Altaria (Lv. 35) @(None) (Ability: Natural Cure) (Nature: Rash) (Moves: Earth Power/Hidden Power Dragon/Cotton Guard/Roost) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"spDef":2}
+[LEVELUP] Now level 38
+38	11	19	11	18	2	26
+Sylveon (Lv. 38) (Ability: Pixilate) (Nature: Rash) (Moves: Tackle/Tail Whip/Razor Leaf/Magical Leaf) IVs: 31/31/31/31/31/31 EVs: 11/19/11/18/2/26
+Current Exp: 55617 (16.75%)
+[KILL]: Got 1919 Exp for killing Pelipper (Lv. 33) @(None) (Ability: Keen Eye) (Nature: Careful) (Moves: Water Pulse/Roost/Protect/Aerial Ace) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"def":2}
+Sylveon (Lv. 38) (Ability: Pixilate) (Nature: Rash) (Moves: Tackle/Tail Whip/Razor Leaf/Magical Leaf) IVs: 31/31/31/31/31/31 EVs: 11/19/13/18/2/26
+Current Exp: 57536 (59.91%)
+[KILL]: Got 2074 Exp for killing Skarmory (Lv. 33) @(None) (Ability: Keen Eye) (Nature: Sassy) (Moves: Sand Attack/Air Cutter/Steel Wing/Aerial Ace) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"def":2}
+[LEVELUP] Now level 39
+39	11	19	15	18	2	26
+Sylveon (Lv. 39) (Ability: Pixilate) (Nature: Rash) (Moves: Tackle/Tail Whip/Razor Leaf/Magical Leaf) IVs: 31/31/31/31/31/31 EVs: 11/19/15/18/2/26
+Current Exp: 59610 (6.22%)
+[KILL]: Got 941 Exp for killing Koffing (Lv. 36) @(None) (Ability: Levitate) (Nature: Serious) (Moves: Self-Destruct/Haze/Gyro Ball/Sludge Bomb) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"def":1}
+Sylveon (Lv. 39) (Ability: Pixilate) (Nature: Rash) (Moves: Tackle/Tail Whip/Razor Leaf/Magical Leaf) IVs: 31/31/31/31/31/31 EVs: 11/19/16/18/2/26
+Current Exp: 60551 (26.32%)
+[KILL]: Got 774 Exp for killing Numel (Lv. 33) @(None) (Ability: Simple) (Nature: Quiet) (Moves: Lava Plume/Earth Power/Curse/Take Down) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"spAtk":1}
+Sylveon (Lv. 39) (Ability: Pixilate) (Nature: Rash) (Moves: Tackle/Tail Whip/Razor Leaf/Magical Leaf) IVs: 31/31/31/31/31/31 EVs: 11/19/16/19/2/26
+Current Exp: 61325 (42.85%)
+[KILL]: Got 1984 Exp for killing Mightyena (Lv. 35) @(None) (Ability: Quick Feet) (Nature: Rash) (Moves: Swagger/Assurance/Scary Face/Embargo) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"atk":2}
+Sylveon (Lv. 39) (Ability: Pixilate) (Nature: Rash) (Moves: Tackle/Tail Whip/Razor Leaf/Magical Leaf) IVs: 31/31/31/31/31/31 EVs: 11/21/16/19/2/26
+Current Exp: 63309 (85.24%)
+[KILL]: Got 1927 Exp for killing Mightyena (Lv. 34) @(None) (Ability: Quick Feet) (Nature: Docile) (Moves: Swagger/Assurance/Scary Face/Embargo) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"atk":2}
+[LEVELUP] Now level 40
+40	11	23	16	19	2	26
+Sylveon (Lv. 40) (Ability: Pixilate) (Nature: Rash) (Moves: Tackle/Tail Whip/Razor Leaf/Magical Leaf) IVs: 31/31/31/31/31/31 EVs: 11/23/16/19/2/26
+Current Exp: 65236 (25.12%)
+[KILL]: Got 2084 Exp for killing Golbat (Lv. 34) @(None) (Ability: Inner Focus) (Nature: Brave) (Moves: Air Cutter/Swift/Poison Fang/Mean Look) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"spd":2}
+Sylveon (Lv. 40) (Ability: Pixilate) (Nature: Rash) (Moves: Tackle/Tail Whip/Razor Leaf/Magical Leaf) IVs: 31/31/31/31/31/31 EVs: 11/23/16/19/2/28
+Current Exp: 67320 (67.47%)
+[KILL]: Got 2359 Exp for killing Camerupt (Lv. 38) @(None) (Ability: Magma Armor) (Nature: Gentle) (Moves: Earth Power/Curse/Take Down/Rock Slide) IVs: 24/24/24/24/24/24 EVs: 0/0/0/0/0/0
+EV yield: {"atk":1,"spAtk":1}
+[LEVELUP] Now level 41
+41	11	24	16	20	2	28
+Sylveon (Lv. 41) (Ability: Pixilate) (Nature: Rash) (Moves: Tackle/Tail Whip/Razor Leaf/Magical Leaf) IVs: 31/31/31/31/31/31 EVs: 11/24/16/20/2/28
+Current Exp: 69679 (14.67%)
+[KILL]: Got 2041 Exp for killing Mightyena (Lv. 36) @(None) (Ability: Intimidate) (Nature: Careful) (Moves: Assurance/Scary Face/Embargo/Taunt) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"atk":2}
+Sylveon (Lv. 41) (Ability: Pixilate) (Nature: Rash) (Moves: Tackle/Tail Whip/Razor Leaf/Magical Leaf) IVs: 31/31/31/31/31/31 EVs: 11/26/16/20/2/28
+Current Exp: 71720 (54.17%)
+[KILL]: Got 799 Exp for killing Numel (Lv. 34) @(None) (Ability: Simple) (Nature: Gentle) (Moves: Lava Plume/Earth Power/Curse/Take Down) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"spAtk":1}
+Sylveon (Lv. 41) (Ability: Pixilate) (Nature: Rash) (Moves: Tackle/Tail Whip/Razor Leaf/Magical Leaf) IVs: 31/31/31/31/31/31 EVs: 11/26/16/21/2/28
+Current Exp: 72519 (69.63%)
+[KILL]: Got 2084 Exp for killing Golbat (Lv. 34) @(None) (Ability: Inner Focus) (Nature: Quirky) (Moves: Air Cutter/Swift/Poison Fang/Mean Look) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"spd":2}
+[LEVELUP] Now level 42
+42	11	26	16	21	2	30
+Sylveon (Lv. 42) (Ability: Pixilate) (Nature: Rash) (Moves: Tackle/Tail Whip/Razor Leaf/Magical Leaf) IVs: 31/31/31/31/31/31 EVs: 11/26/16/21/2/30
+Current Exp: 74603 (9.50%)
+[KILL]: Got 2154 Exp for killing Swellow (Lv. 37) @(None) (Ability: Guts) (Nature: Naughty) (Moves: Double Team/Aerial Ace/Quick Guard/Agility) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"spd":2}
+Sylveon (Lv. 42) (Ability: Pixilate) (Nature: Rash) (Moves: Tackle/Tail Whip/Razor Leaf/Magical Leaf) IVs: 31/31/31/31/31/31 EVs: 11/26/16/21/2/32
+Current Exp: 76757 (49.25%)
+[KILL]: Got 3593 Exp for killing Sceptile (Lv. 39) @(None) (Ability: Overgrow) (Nature: Brave) (Moves: Agility/Slam/Dual Chop/Detect) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"spd":3}
+[LEVELUP] Now level 43
+43	11	26	16	21	2	35
+Sylveon (Lv. 43) (Ability: Pixilate) (Nature: Rash) (Moves: Tackle/Tail Whip/Razor Leaf/Magical Leaf) IVs: 31/31/31/31/31/31 EVs: 11/26/16/21/2/35
+Current Exp: 80350 (14.85%)
+[KILL]: Got 2053 Exp for killing Magcargo (Lv. 37) @(None) (Ability: Magma Armor) (Nature: Hasty) (Moves: Flame Burst/Rock Slide/Lava Plume/Amnesia) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"def":2}
+Sylveon (Lv. 43) (Ability: Pixilate) (Nature: Rash) (Moves: Tackle/Tail Whip/Razor Leaf/Magical Leaf) IVs: 31/31/31/31/31/31 EVs: 11/26/18/21/2/35
+Current Exp: 82403 (51.01%)
+[KILL]: Got 2496 Exp for killing Wailord (Lv. 37) @(None) (Ability: Water Veil) (Nature: Docile) (Moves: Rest/Brine/Water Spout/Amnesia) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"hp":2}
+Sylveon (Lv. 43) (Ability: Pixilate) (Nature: Rash) (Moves: Tackle/Tail Whip/Razor Leaf/Magical Leaf) IVs: 31/31/31/31/31/31 EVs: 13/26/18/21/2/35
+Current Exp: 84899 (94.98%)
+[KILL]: Got 2096 Exp for killing Mightyena (Lv. 37) @(None) (Ability: Quick Feet) (Nature: Hasty) (Moves: Assurance/Scary Face/Embargo/Taunt) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"atk":2}
+[LEVELUP] Now level 44
+44	13	28	18	21	2	35
+Sylveon (Lv. 44) (Ability: Pixilate) (Nature: Rash) (Moves: Tackle/Tail Whip/Razor Leaf/Magical Leaf) IVs: 31/31/31/31/31/31 EVs: 13/28/18/21/2/35
+Current Exp: 86995 (30.48%)
+[KILL]: Got 869 Exp for killing Numel (Lv. 37) @(None) (Ability: Quiet) (Nature: Quiet) (Moves: Earth Power/Curse/Take Down/Yawn) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"spAtk":1}
+Sylveon (Lv. 44) (Ability: Pixilate) (Nature: Rash) (Moves: Tackle/Tail Whip/Razor Leaf/Magical Leaf) IVs: 31/31/31/31/31/31 EVs: 13/28/18/22/2/35
+Current Exp: 87864 (45.11%)
+[KILL]: Got 389 Exp for killing Poochyena (Lv. 18) @(None) (Ability: Quick Feet) (Nature: Hasty) (Moves: Sand Attack/Bite/Odor Sleuth/Roar) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"atk":1}
+Sylveon (Lv. 44) (Ability: Pixilate) (Nature: Rash) (Moves: Tackle/Tail Whip/Razor Leaf/Magical Leaf) IVs: 31/31/31/31/31/31 EVs: 13/29/18/22/2/35
+Current Exp: 88253 (51.66%)
+[KILL]: Got 389 Exp for killing Poochyena (Lv. 18) @(None) (Ability: Quick Feet) (Nature: Hasty) (Moves: Sand Attack/Bite/Odor Sleuth/Roar) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"atk":1}
+Sylveon (Lv. 44) (Ability: Pixilate) (Nature: Rash) (Moves: Tackle/Tail Whip/Razor Leaf/Magical Leaf) IVs: 31/31/31/31/31/31 EVs: 13/30/18/22/2/35
+Current Exp: 88642 (58.21%)
+[KILL]: Got 389 Exp for killing Poochyena (Lv. 18) @(None) (Ability: Quick Feet) (Nature: Hasty) (Moves: Sand Attack/Bite/Odor Sleuth/Roar) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"atk":1}
+Sylveon (Lv. 44) (Ability: Pixilate) (Nature: Rash) (Moves: Tackle/Tail Whip/Razor Leaf/Magical Leaf) IVs: 31/31/31/31/31/31 EVs: 13/31/18/22/2/35
+Current Exp: 89031 (64.75%)
+[KILL]: Got 389 Exp for killing Poochyena (Lv. 18) @(None) (Ability: Quick Feet) (Nature: Hasty) (Moves: Sand Attack/Bite/Odor Sleuth/Roar) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"atk":1}
+Sylveon (Lv. 44) (Ability: Pixilate) (Nature: Rash) (Moves: Tackle/Tail Whip/Razor Leaf/Magical Leaf) IVs: 31/31/31/31/31/31 EVs: 13/32/18/22/2/35
+Current Exp: 89420 (71.30%)
+[KILL]: Got 389 Exp for killing Poochyena (Lv. 18) @(None) (Ability: Quick Feet) (Nature: Hasty) (Moves: Sand Attack/Bite/Odor Sleuth/Roar) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"atk":1}
+Sylveon (Lv. 44) (Ability: Pixilate) (Nature: Rash) (Moves: Tackle/Tail Whip/Razor Leaf/Magical Leaf) IVs: 31/31/31/31/31/31 EVs: 13/33/18/22/2/35
+Current Exp: 89809 (77.85%)
+[KILL]: Got 2420 Exp for killing Camerupt (Lv. 39) @(None) (Ability: Magma Armor) (Nature: Gentle) (Moves: Curse/Take Down/Rock Slide/Yawn) IVs: 24/24/24/24/24/24 EVs: 0/0/0/0/0/0
+EV yield: {"atk":1,"spAtk":1}
+[LEVELUP] Now level 45
+45	13	34	18	23	2	35
+Sylveon (Lv. 45) (Ability: Pixilate) (Nature: Rash) (Moves: Tackle/Tail Whip/Razor Leaf/Magical Leaf) IVs: 31/31/31/31/31/31 EVs: 13/34/18/23/2/35
+Current Exp: 92229 (17.77%)
+[KILL]: Got 2672 Exp for killing Lunatone (Lv. 45) @(None) (Ability: Levitate) (Nature: Relaxed) (Moves: Curse/Take Down/Rock Slide/Yawn) IVs: 16/16/16/16/16/16 EVs: 0/0/0/0/0/0
+EV yield: {"spAtk":2}
+Sylveon (Lv. 45) (Ability: Pixilate) (Nature: Rash) (Moves: Tackle/Tail Whip/Razor Leaf/Magical Leaf) IVs: 31/31/31/31/31/31 EVs: 13/34/18/25/2/35
+Current Exp: 94901 (60.80%)
+[KILL]: Got 2672 Exp for killing Solrock (Lv. 45) @(None) (Ability: Levitate) (Nature: Careful) (Moves: Sunny Day/Rock Slide/Psychic/Solar Beam) IVs: 16/16/16/16/16/16 EVs: 0/0/0/0/0/0
+EV yield: {"atk":2}
+[LEVELUP] Now level 46
+46	13	36	18	25	2	35
+Sylveon (Lv. 46) (Ability: Pixilate) (Nature: Rash) (Moves: Tackle/Tail Whip/Razor Leaf/Magical Leaf) IVs: 31/31/31/31/31/31 EVs: 13/36/18/25/2/35
+Current Exp: 97573 (3.65%)
+[KILL]: Got 2154 Exp for killing Mightyena (Lv. 38) @(None) (Ability: Intimidate) (Nature: Quirky) (Moves: Assurance/Scary Face/Embargo/Taunt) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"atk":2}
+Sylveon (Lv. 46) (Ability: Pixilate) (Nature: Rash) (Moves: Tackle/Tail Whip/Razor Leaf/Magical Leaf) IVs: 31/31/31/31/31/31 EVs: 13/38/18/25/2/35
+Current Exp: 99727 (36.86%)
+[KILL]: Got 2651 Exp for killing Weezing (Lv. 40) @(None) (Ability: Levitate) (Nature: Modest) (Moves: Haze/Double Hit/Sludge Bomb/Explosion) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"def":2}
+Sylveon (Lv. 46) (Ability: Pixilate) (Nature: Rash) (Moves: Tackle/Tail Whip/Razor Leaf/Magical Leaf) IVs: 31/31/31/31/31/31 EVs: 13/38/20/25/2/35
+Current Exp: 102378 (77.72%)
+[KILL]: Got 2323 Exp for killing Mightyena (Lv. 41) @(None) (Ability: Quick Feet) (Nature: Mild) (Moves: Scary Face/Embargo/Taunt/Take Down) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"atk":2}
+[LEVELUP] Now level 47
+47	13	40	20	25	2	35
+Sylveon (Lv. 47) (Ability: Pixilate) (Nature: Rash) (Moves: Tackle/Tail Whip/Razor Leaf/Magical Leaf) IVs: 31/31/31/31/31/31 EVs: 13/40/20/25/2/35
+Current Exp: 104701 (12.97%)
+[KILL]: Got 2718 Exp for killing Weezing (Lv. 41) @(None) (Ability: Levitate) (Nature: Adamant) (Moves: Haze/Double Hit/Sludge Bomb/Explosion) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"def":2}
+Sylveon (Lv. 47) (Ability: Pixilate) (Nature: Rash) (Moves: Tackle/Tail Whip/Razor Leaf/Magical Leaf) IVs: 31/31/31/31/31/31 EVs: 13/40/22/25/2/35
+Current Exp: 107419 (53.12%)
+[KILL]: Got 3809 Exp for killing Crobat (Lv. 41) @(None) (Ability: Inner Focus) (Nature: Sassy) (Moves: Poison Fang/Mean Look/Acrobatics/Haze) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"spd":3}
+[LEVELUP] Now level 48
+48	13	40	22	25	2	38
+Sylveon (Lv. 48) (Ability: Pixilate) (Nature: Rash) (Moves: Tackle/Tail Whip/Razor Leaf/Magical Leaf) IVs: 31/31/31/31/31/31 EVs: 13/40/22/25/2/38
+Current Exp: 111228 (9.01%)
+[KILL]: Got 2669 Exp for killing Camerupt-Mega (Lv. 43) @Cameruptite (Ability: Sheer Force) (Nature: Rash) (Moves: Curse/Take Down/Rock Slide/Yawn) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"atk":1,"spAtk":1}
+Sylveon (Lv. 48) (Ability: Pixilate) (Nature: Rash) (Moves: Tackle/Tail Whip/Razor Leaf/Magical Leaf) IVs: 31/31/31/31/31/31 EVs: 13/41/22/26/2/38
+Current Exp: 113897 (46.83%)
+[CATCH]: Got 4011 Exp for catching Lv. 45 Groudon-Primal
+EV yield: {"atk":3}
+[LEVELUP] Now level 49
+49	13	44	22	26	2	38
+Sylveon (Lv. 49) (Ability: Pixilate) (Nature: Rash) (Moves: Tackle/Tail Whip/Razor Leaf/Magical Leaf) IVs: 31/31/31/31/31/31 EVs: 13/44/22/26/2/38
+Current Exp: 117908 (3.52%)
+[EXP CANDY] Added 2 Exp
+Sylveon (Lv. 49) (Ability: Pixilate) (Nature: Rash) (Moves: Tackle/Tail Whip/Razor Leaf/Magical Leaf) IVs: 31/31/31/31/31/31 EVs: 13/44/22/26/2/38
+Current Exp: 117910 (3.55%)
+[KILL]: Got 1967 Exp for killing Luvdisc (Lv. 44) @(None) (Ability: Swift Swim) (Nature: Hasty) (Moves: Water Pulse/Attract/Sweet Kiss/Draining Kiss) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"spd":1}
+Sylveon (Lv. 49) (Ability: Pixilate) (Nature: Rash) (Moves: Tackle/Tail Whip/Razor Leaf/Magical Leaf) IVs: 31/31/31/31/31/31 EVs: 13/44/22/26/2/39
+Current Exp: 119877 (30.31%)
+[KILL]: Got 3353 Exp for killing Milotic (Lv. 46) @(None) (Ability: Marvel Scale) (Nature: Bold) (Moves: Hydro Pump/Disarming Voice/Recover/Ice Beam) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"spDef":2}
+Sylveon (Lv. 49) (Ability: Pixilate) (Nature: Rash) (Moves: Tackle/Tail Whip/Razor Leaf/Magical Leaf) IVs: 31/31/31/31/31/31 EVs: 13/44/22/26/4/39
+Current Exp: 123230 (75.92%)
+[KILL]: Got 2780 Exp for killing Whiscash (Lv. 44) @(None) (Ability: Oblivious) (Nature: Sassy) (Moves: Mud Sport/Waterfall/Zen Headbutt/Earthquake) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"hp":2}
+[LEVELUP] Now level 50
+50	15	44	22	26	4	39
+Sylveon (Lv. 50) (Ability: Pixilate) (Nature: Rash) (Moves: Tackle/Tail Whip/Razor Leaf/Magical Leaf) IVs: 31/31/31/31/31/31 EVs: 15/44/22/26/4/39
+Current Exp: 126010 (13.20%)
+[KILL]: Got 2442 Exp for killing Sealeo (Lv. 44) @(None) (Ability: Thick Fat) (Nature: Rash) (Moves: Encore/Body Slam/Aurora Beam/Waterfall) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"hp":2}
+Sylveon (Lv. 50) (Ability: Pixilate) (Nature: Rash) (Moves: Tackle/Tail Whip/Razor Leaf/Magical Leaf) IVs: 31/31/31/31/31/31 EVs: 17/44/22/26/4/39
+Current Exp: 128452 (45.12%)
+[KILL]: Got 2679 Exp for killing Seaking (Lv. 44) @(None) (Ability: Swift Swim) (Nature: Jolly) (Moves: Aqua Ring/Rain Dance/Waterfall/Horn Drill) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"atk":2}
+Sylveon (Lv. 50) (Ability: Pixilate) (Nature: Rash) (Moves: Tackle/Tail Whip/Razor Leaf/Magical Leaf) IVs: 31/31/31/31/31/31 EVs: 17/46/22/26/4/39
+Current Exp: 131131 (80.13%)
+[KILL]: Got 3045 Exp for killing Froslass (Lv. 47) @(None) (Ability: Snow Cloak) (Nature: Serious) (Moves: Confuse Ray/Wake-Up Slap/Captivate/Shadow Ball) IVs: 24/24/24/24/24/24 EVs: 0/0/0/0/0/0
+EV yield: {"spd":2}
+[LEVELUP] Now level 51
+51	17	46	22	26	4	41
+Sylveon (Lv. 51) (Ability: Pixilate) (Nature: Rash) (Moves: Tackle/Tail Whip/Razor Leaf/Magical Leaf) IVs: 31/31/31/31/31/31 EVs: 17/46/22/26/4/41
+Current Exp: 134176 (19.17%)
+[KILL]: Got 2759 Exp for killing Hitmontop (Lv. 45) @(None) (Ability: Technician) (Nature: Hardy) (Moves: Counter/Feint/Agility/Gyro Ball) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"spDef":2}
+Sylveon (Lv. 51) (Ability: Pixilate) (Nature: Rash) (Moves: Tackle/Tail Whip/Razor Leaf/Magical Leaf) IVs: 31/31/31/31/31/31 EVs: 17/46/22/26/6/41
+Current Exp: 136935 (53.84%)
+[KILL]: Got 2826 Exp for killing Throh (Lv. 45) @(None) (Ability: Guts) (Nature: Naive) (Moves: Bulk Up/Circle Throw/Endure/Wide Guard) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"hp":2}
+Sylveon (Lv. 51) (Ability: Pixilate) (Nature: Rash) (Moves: Tackle/Tail Whip/Razor Leaf/Magical Leaf) IVs: 31/31/31/31/31/31 EVs: 19/46/22/26/6/41
+Current Exp: 139761 (89.36%)
+[KILL]: Got 2410 Exp for killing Mawile (Lv. 47) @(None) (Ability: Hyper Cutter) (Nature: Serious) (Moves: Stockpile/Swallow/Spit Up/Iron Head) IVs: 24/24/24/24/24/24 EVs: 0/0/0/0/0/0
+EV yield: {"atk":1,"def":1}
+[LEVELUP] Now level 52
+52	19	47	23	26	6	41
+Sylveon (Lv. 52) (Ability: Pixilate) (Nature: Rash) (Moves: Tackle/Tail Whip/Razor Leaf/Magical Leaf) IVs: 31/31/31/31/31/31 EVs: 19/47/23/26/6/41
+Current Exp: 142171 (18.90%)
+[KILL]: Got 2953 Exp for killing Sawk (Lv. 47) @(None) (Ability: Inner Focus) (Nature: Bold) (Moves: Bulk Up/Retaliate/Endure/Quick Guard) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"atk":2}
+Sylveon (Lv. 52) (Ability: Pixilate) (Nature: Rash) (Moves: Tackle/Tail Whip/Razor Leaf/Magical Leaf) IVs: 31/31/31/31/31/31 EVs: 19/49/23/26/6/41
+Current Exp: 145124 (54.61%)
+[KILL]: Got 3050 Exp for killing Altaria (Lv. 46) @(None) (Ability: Natural Cure) (Nature: Brave) (Moves: Aerial Ace/Safeguard/Dragon Pulse/Cotton Guard) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"spDef":2}
+Sylveon (Lv. 52) (Ability: Pixilate) (Nature: Rash) (Moves: Tackle/Tail Whip/Razor Leaf/Magical Leaf) IVs: 31/31/31/31/31/31 EVs: 19/49/23/26/8/41
+Current Exp: 148174 (91.50%)
+[KILL]: Got 2484 Exp for killing Roselia (Lv. 46) @(None) (Ability: Poison Point) (Nature: Hasty) (Moves: Synthesis/Leech Seed/Petal Blizzard/Toxic) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"spAtk":2}
+[LEVELUP] Now level 53
+53	19	49	23	28	8	41
+Sylveon (Lv. 53) (Ability: Pixilate) (Nature: Rash) (Moves: Tackle/Tail Whip/Razor Leaf/Magical Leaf) IVs: 31/31/31/31/31/31 EVs: 19/49/23/28/8/41
+Current Exp: 150658 (20.74%)
+[KILL]: Got 2891 Exp for killing Magneton (Lv. 46) @(None) (Ability: Sturdy) (Nature: Naive) (Moves: Screech/Discharge/Tri Attack/Flash Cannon) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"spAtk":2}
+Sylveon (Lv. 53) (Ability: Pixilate) (Nature: Rash) (Moves: Tackle/Tail Whip/Razor Leaf/Magical Leaf) IVs: 31/31/31/31/31/31 EVs: 19/49/23/30/8/41
+Current Exp: 153549 (54.41%)
+[KILL]: Got 2359 Exp for killing Delcatty (Lv. 46) @(None) (Ability: Cute Charm) (Nature: Calm) (Moves: Sing/Disarming Voice/Charm/Feint Attack) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"hp":1,"spd":1}
+Sylveon (Lv. 53) (Ability: Pixilate) (Nature: Rash) (Moves: Tackle/Tail Whip/Razor Leaf/Magical Leaf) IVs: 31/31/31/31/31/31 EVs: 20/49/23/30/8/42
+Current Exp: 155908 (81.88%)
+[KILL]: Got 4310 Exp for killing Gallade-Mega (Lv. 48) @Galladite (Ability: Inner Focus) (Nature: Gentle) (Moves: Psycho Cut/Close Combat/Slash/Swords Dance) IVs: 0/0/0/0/0/0 EVs: 0/0/0/0/0/0
+EV yield: {"atk":3}
+[LEVELUP] Now level 54
+54	20	52	23	30	8	42
+Sylveon (Lv. 54) (Ability: Pixilate) (Nature: Rash) (Moves: Tackle/Tail Whip/Razor Leaf/Magical Leaf) IVs: 31/31/31/31/31/31 EVs: 20/52/23/30/8/42
+Current Exp: 160218 (30.91%)
+[KILL]: Got 2834 Exp for killing Mightyena (Lv. 50) @(None) (Ability: Intimidate) (Nature: Modest) (Moves: Swagger/Take Down/Sucker Punch/Crunch) IVs: 8/8/8/8/8/8 EVs: 0/0/0/0/0/0
+EV yield: {"atk":2}
+Sylveon (Lv. 54) (Ability: Pixilate) (Nature: Rash) (Moves: Tackle/Tail Whip/Razor Leaf/Magical Leaf) IVs: 31/31/31/31/31/31 EVs: 20/54/23/30/8/42
+Current Exp: 163052 (62.71%)
+[KILL]: Got 4163 Exp for killing Shiftry (Lv. 50) @(None) (Ability: Chlorophyll) (Nature: Bashful) (Moves: Fake Out/Feint Attack/Extrasensory/Leaf Blade) IVs: 8/8/8/8/8/8 EVs: 0/0/0/0/0/0
+EV yield: {"atk":3}
+[LEVELUP] Now level 55
+55	20	57	23	30	8	42
+Sylveon (Lv. 55) (Ability: Pixilate) (Nature: Rash) (Moves: Tackle/Tail Whip/Razor Leaf/Magical Leaf) IVs: 31/31/31/31/31/31 EVs: 20/57/23/30/8/42
+Current Exp: 167215 (9.09%)
+[KILL]: Got 3198 Exp for killing Cacturne (Lv. 50) @(None) (Ability: Sand Veil) (Nature: Modest) (Moves: Leech Seed/Payback/Needle Arm/Spiky Shield) IVs: 8/8/8/8/8/8 EVs: 0/0/0/0/0/0
+EV yield: {"atk":1,"spAtk":1}
+Sylveon (Lv. 55) (Ability: Pixilate) (Nature: Rash) (Moves: Tackle/Tail Whip/Razor Leaf/Magical Leaf) IVs: 31/31/31/31/31/31 EVs: 20/58/23/31/8/42
+Current Exp: 170413 (43.70%)
+[KILL]: Got 3104 Exp for killing Sharpedo (Lv. 50) @(None) (Ability: Rough Skin) (Nature: Lonely) (Moves: Crunch/Poison Fang/Aqua Jet/Slash) IVs: 8/8/8/8/8/8 EVs: 0/0/0/0/0/0
+EV yield: {"atk":2}
+Sylveon (Lv. 55) (Ability: Pixilate) (Nature: Rash) (Moves: Tackle/Tail Whip/Razor Leaf/Magical Leaf) IVs: 31/31/31/31/31/31 EVs: 20/60/23/31/8/42
+Current Exp: 173517 (77.29%)
+[KILL]: Got 3266 Exp for killing Absol (Lv. 52) @(None) (Ability: Super Luck) (Nature: Hasty) (Moves: Aerial Ace/Night Slash/Psycho Cut/Slash) IVs: 8/8/8/8/8/8 EVs: 0/0/0/0/0/0
+EV yield: {"atk":2}
+[LEVELUP] Now level 56
+56	20	62	23	31	8	42
+Sylveon (Lv. 56) (Ability: Pixilate) (Nature: Rash) (Moves: Tackle/Tail Whip/Razor Leaf/Magical Leaf) IVs: 31/31/31/31/31/31 EVs: 20/62/23/31/8/42
+Current Exp: 176783 (12.19%)
+[KILL]: Got 3126 Exp for killing Dusclops (Lv. 51) @(None) (Ability: Pressure) (Nature: Rash) (Moves: Shadow Punch/Confuse Ray/Curse/Future Sight) IVs: 8/8/8/8/8/8 EVs: 0/0/0/0/0/0
+EV yield: {"def":1,"spDef":1}
+Sylveon (Lv. 56) (Ability: Pixilate) (Nature: Rash) (Moves: Tackle/Tail Whip/Razor Leaf/Magical Leaf) IVs: 31/31/31/31/31/31 EVs: 20/62/24/31/9/42
+Current Exp: 179909 (44.83%)
+[KILL]: Got 2615 Exp for killing Sableye (Lv. 51) @(None) (Ability: Prankster) (Nature: Serious) (Moves: Shadow Claw/Foul Play/Power Gem/Fake Out) IVs: 8/8/8/8/8/8 EVs: 0/0/0/0/0/0
+EV yield: {"atk":1,"def":1}
+Sylveon (Lv. 56) (Ability: Pixilate) (Nature: Rash) (Moves: Tackle/Tail Whip/Razor Leaf/Magical Leaf) IVs: 31/31/31/31/31/31 EVs: 20/63/25/31/9/42
+Current Exp: 182524 (72.13%)
+[KILL]: Got 3126 Exp for killing Banette (Lv. 51) @(None) (Ability: Insomnia) (Nature: Hasty) (Moves: Shadow Ball/Grudge/Toxic/Psychic) IVs: 8/8/8/8/8/8 EVs: 0/0/0/0/0/0
+EV yield: {"atk":2}
+[LEVELUP] Now level 57
+57	20	65	25	31	9	42
+Sylveon (Lv. 57) (Ability: Pixilate) (Nature: Rash) (Moves: Tackle/Tail Whip/Razor Leaf/Magical Leaf) IVs: 31/31/31/31/31/31 EVs: 20/65/25/31/9/42
+Current Exp: 185650 (4.61%)
+[KILL]: Got 3126 Exp for killing Banette (Lv. 51) @(None) (Ability: Insomnia) (Nature: Hasty) (Moves: Shadow Ball/Spite/Will-O-Wisp/Feint Attack) IVs: 8/8/8/8/8/8 EVs: 0/0/0/0/0/0
+EV yield: {"atk":2}
+Sylveon (Lv. 57) (Ability: Pixilate) (Nature: Rash) (Moves: Tackle/Tail Whip/Razor Leaf/Magical Leaf) IVs: 31/31/31/31/31/31 EVs: 20/67/25/31/9/42
+Current Exp: 188776 (36.12%)
+[KILL]: Got 4821 Exp for killing Dusknoir (Lv. 53) @(None) (Ability: Pressure) (Nature: Bold) (Moves: Hex/Fire Punch/Ice Punch/Thunder Punch) IVs: 8/8/8/8/8/8 EVs: 0/0/0/0/0/0
+EV yield: {"def":1,"spDef":2}
+Sylveon (Lv. 57) (Ability: Pixilate) (Nature: Rash) (Moves: Tackle/Tail Whip/Razor Leaf/Magical Leaf) IVs: 31/31/31/31/31/31 EVs: 20/67/26/31/11/42
+Current Exp: 193597 (84.73%)
+[KILL]: Got 3369 Exp for killing Glalie (Lv. 52) @(None) (Ability: Inner Focus) (Nature: Impish) (Moves: Light Screen/Ice Shard/Hail/Crunch) IVs: 8/8/8/8/8/8 EVs: 0/0/0/0/0/0
+EV yield: {"hp":2}
+[LEVELUP] Now level 58
+58	22	67	26	31	11	42
+Sylveon (Lv. 58) (Ability: Pixilate) (Nature: Rash) (Moves: Tackle/Tail Whip/Razor Leaf/Magical Leaf) IVs: 31/31/31/31/31/31 EVs: 22/67/26/31/11/42
+Current Exp: 196966 (18.06%)
+[KILL]: Got 3369 Exp for killing Froslass (Lv. 52) @(None) (Ability: Snow Cloak) (Nature: Sassy) (Moves: Confuse Ray/Blizzard/Hail/Ominous Wind) IVs: 8/8/8/8/8/8 EVs: 0/0/0/0/0/0
+EV yield: {"spd":2}
+Sylveon (Lv. 58) (Ability: Pixilate) (Nature: Rash) (Moves: Tackle/Tail Whip/Razor Leaf/Magical Leaf) IVs: 31/31/31/31/31/31 EVs: 22/67/26/31/11/44
+Current Exp: 200335 (50.87%)
+[KILL]: Got 3369 Exp for killing Froslass (Lv. 52) @(None) (Ability: Snow Cloak) (Nature: Sassy) (Moves: Draining Kiss/Blizzard/Hail/Shadow Ball) IVs: 8/8/8/8/8/8 EVs: 0/0/0/0/0/0
+EV yield: {"spd":2}
+Sylveon (Lv. 58) (Ability: Pixilate) (Nature: Rash) (Moves: Tackle/Tail Whip/Razor Leaf/Magical Leaf) IVs: 31/31/31/31/31/31 EVs: 22/67/26/31/11/46
+Current Exp: 203704 (83.69%)
+[KILL]: Got 4975 Exp for killing Walrein (Lv. 54) @(None) (Ability: Thick Fat) (Nature: Rash) (Moves: Surf/Body Slam/Blizzard/Sheer Cold) IVs: 8/8/8/8/8/8 EVs: 0/0/0/0/0/0
+EV yield: {"hp":3}
+[LEVELUP] Now level 59
+59	25	67	26	31	11	46
+Sylveon (Lv. 59) (Ability: Pixilate) (Nature: Rash) (Moves: Tackle/Tail Whip/Razor Leaf/Magical Leaf) IVs: 31/31/31/31/31/31 EVs: 25/67/26/31/11/46
+Current Exp: 208679 (31.07%)
+[KILL]: Got 3369 Exp for killing Glalie (Lv. 52) @(None) (Ability: Inner Focus) (Nature: Hasty) (Moves: Protect/Ice Shard/Hail/Freeze-Dry) IVs: 8/8/8/8/8/8 EVs: 0/0/0/0/0/0
+EV yield: {"hp":2}
+Sylveon (Lv. 59) (Ability: Pixilate) (Nature: Rash) (Moves: Tackle/Tail Whip/Razor Leaf/Magical Leaf) IVs: 31/31/31/31/31/31 EVs: 27/67/26/31/11/46
+Current Exp: 212048 (62.79%)
+[KILL]: Got 3515 Exp for killing Altaria (Lv. 53) @(None) (Ability: Natural Cure) (Nature: Serious) (Moves: Aerial Ace/Cotton Guard/Dragon Pulse/Moonblast) IVs: 8/8/8/8/8/8 EVs: 0/0/0/0/0/0
+EV yield: {"spDef":2}
+Sylveon (Lv. 59) (Ability: Pixilate) (Nature: Rash) (Moves: Tackle/Tail Whip/Razor Leaf/Magical Leaf) IVs: 31/31/31/31/31/31 EVs: 27/67/26/31/13/46
+Current Exp: 215563 (95.89%)
+[KILL]: Got 4781 Exp for killing Flygon (Lv. 53) @(None) (Ability: Levitate) (Nature: Brave) (Moves: Flamethrower/Boomburst/Dragon Pulse/Screech) IVs: 8/8/8/8/8/8 EVs: 0/0/0/0/0/0
+EV yield: {"atk":1,"spd":2}
+[LEVELUP] Now level 60
+60	27	68	26	31	13	48
+Sylveon (Lv. 60) (Ability: Pixilate) (Nature: Rash) (Moves: Tackle/Tail Whip/Razor Leaf/Magical Leaf) IVs: 31/31/31/31/31/31 EVs: 27/68/26/31/13/48
+Current Exp: 220344 (39.56%)
+[KILL]: Got 4781 Exp for killing Flygon (Lv. 53) @(None) (Ability: Levitate) (Nature: Brave) (Moves: Earthquake/Dragon Claw/Rock Slide/Supersonic) IVs: 8/8/8/8/8/8 EVs: 0/0/0/0/0/0
+EV yield: {"atk":1,"spd":2}
+Sylveon (Lv. 60) (Ability: Pixilate) (Nature: Rash) (Moves: Tackle/Tail Whip/Razor Leaf/Magical Leaf) IVs: 31/31/31/31/31/31 EVs: 27/69/26/31/13/50
+Current Exp: 225125 (83.10%)
+[KILL]: Got 4964 Exp for killing Kingdra (Lv. 53) @(None) (Ability: Sniper) (Nature: Quiet) (Moves: Dragon Pulse/Surf/Yawn/Ice Beam) IVs: 8/8/8/8/8/8 EVs: 0/0/0/0/0/0
+EV yield: {"atk":1,"def":1,"spAtk":1}
+[LEVELUP] Now level 61
+61	27	70	27	32	13	50
+Sylveon (Lv. 61) (Ability: Pixilate) (Nature: Rash) (Moves: Tackle/Tail Whip/Razor Leaf/Magical Leaf) IVs: 31/31/31/31/31/31 EVs: 27/70/27/32/13/50
+Current Exp: 230089 (27.39%)
+[KILL]: Got 5725 Exp for killing Salamence (Lv. 55) @(None) (Ability: Intimidate) (Nature: Rash) (Moves: Dragon Rush/Zen Headbutt/Crunch/Thunder Fang) IVs: 8/8/8/8/8/8 EVs: 0/0/0/0/0/0
+EV yield: {"atk":3}
+Sylveon (Lv. 61) (Ability: Pixilate) (Nature: Rash) (Moves: Tackle/Tail Whip/Razor Leaf/Magical Leaf) IVs: 31/31/31/31/31/31 EVs: 27/73/27/32/13/50
+Current Exp: 235814 (77.84%)
+[KILL]: Got 3582 Exp for killing Skarmory (Lv. 57) @(None) (Ability: Sturdy) (Nature: Impish) (Moves: Toxic/Aerial Ace/Spikes/Steel Wing) IVs: 16/16/16/16/16/16 EVs: 0/0/0/0/0/0
+EV yield: {"def":2}
+[LEVELUP] Now level 62
+62	27	73	29	32	13	50
+Sylveon (Lv. 62) (Ability: Pixilate) (Nature: Rash) (Moves: Tackle/Tail Whip/Razor Leaf/Magical Leaf) IVs: 31/31/31/31/31/31 EVs: 27/73/29/32/13/50
+Current Exp: 239396 (9.11%)
+[KILL]: Got 3801 Exp for killing Cradily (Lv. 57) @(None) (Ability: Suction Cups) (Nature: Relaxed) (Moves: Giga Drain/Ancient Power/Sludge Bomb/Confuse Ray) IVs: 16/16/16/16/16/16 EVs: 0/0/0/0/0/0
+EV yield: {"spDef":2}
+Sylveon (Lv. 62) (Ability: Pixilate) (Nature: Rash) (Moves: Tackle/Tail Whip/Razor Leaf/Magical Leaf) IVs: 31/31/31/31/31/31 EVs: 27/73/29/32/15/50
+Current Exp: 243197 (41.55%)
+[KILL]: Got 5253 Exp for killing Aggron (Lv. 57) @(None) (Ability: Sturdy) (Nature: Timid) (Moves: Stone Edge/Earthquake/Iron Tail/Dragon Claw) IVs: 16/16/16/16/16/16 EVs: 0/0/0/0/0/0
+EV yield: {"def":3}
+Sylveon (Lv. 62) (Ability: Pixilate) (Nature: Rash) (Moves: Tackle/Tail Whip/Razor Leaf/Magical Leaf) IVs: 31/31/31/31/31/31 EVs: 27/73/32/32/15/50
+Current Exp: 248450 (86.37%)
+[KILL]: Got 3846 Exp for killing Claydol (Lv. 57) @(None) (Ability: Levitate) (Nature: Relaxed) (Moves: Reflect/Light Screen/Extrasensory/Earth Power) IVs: 16/16/16/16/16/16 EVs: 0/0/0/0/0/0
+EV yield: {"spDef":2}
+[LEVELUP] Now level 63
+63	27	73	32	32	17	50
+Sylveon (Lv. 63) (Ability: Pixilate) (Nature: Rash) (Moves: Tackle/Tail Whip/Razor Leaf/Magical Leaf) IVs: 31/31/31/31/31/31 EVs: 27/73/32/32/17/50
+Current Exp: 252296 (18.59%)
+[KILL]: Got 3801 Exp for killing Armaldo (Lv. 57) @(None) (Ability: Battle Armor) (Nature: Jolly) (Moves: X-Scissor/Rock Blast/Metal Claw/Crush Claw) IVs: 16/16/16/16/16/16 EVs: 0/0/0/0/0/0
+EV yield: {"atk":2}
+Sylveon (Lv. 63) (Ability: Pixilate) (Nature: Rash) (Moves: Tackle/Tail Whip/Razor Leaf/Magical Leaf) IVs: 31/31/31/31/31/31 EVs: 27/75/32/32/17/50
+Current Exp: 256097 (50.01%)
+[KILL]: Got 6141 Exp for killing Metagross-Mega (Lv. 59) @Metagrossite (Ability: Tough Claws) (Nature: Impish) (Moves: Bullet Punch/Zen Headbutt/Meteor Mash/Giga Impact) IVs: 16/16/16/16/16/16 EVs: 0/0/0/0/0/0
+EV yield: {"def":3}
+[LEVELUP] Now level 64
+64	27	75	35	32	17	50
+Sylveon (Lv. 64) (Ability: Pixilate) (Nature: Rash) (Moves: Tackle/Tail Whip/Razor Leaf/Magical Leaf) IVs: 31/31/31/31/31/31 EVs: 27/75/35/32/17/50
+Current Exp: 262238 (0.75%)
