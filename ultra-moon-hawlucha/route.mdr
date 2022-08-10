@@ -103,7 +103,15 @@ After running from the Rattata encounter, run through Route 1 until you trigger 
   :::
 :::::
 
-Check Popplio's level 5 stats at the level up screen - if its level 5 speed is less than 9, reset. Consider resetting if level 5 Sp. Atk is 11 or below.
+Check Popplio's level 5 stats at the level up screen.
+
+:::if{source="Popplio" condition="speed=(19- / x / x)" theme=info}
+Your Popplio's speed is low. This may cause the run to be more difficult; consider resetting.
+:::
+
+:::if{source="Popplio" condition="spa=(# / 7- / x)" theme=info}
+Your Popplio's special attack is low. This may cause the run to be more difficult; consider resetting.
+:::
 
 Run up through Iki Town and Mahalo Trail to activate the bridge cutscene.
 
@@ -283,7 +291,12 @@ Enter the Pokemon Center and deposit Zorua.
 
 ### Hau'oli Shopping
 > #### Buy (Right)
+> :::if{source="Popplio" condition="speed=(19- / x / x)"}
+> - 2 X Speed
+> :::
+> :::if{source="Popplio" condition="speed=(20+ / # / #)"}
 > - 1 X Speed
+> :::
 > :::if{source="Popplio" condition="atk=(# / 28- / 19-) || (atk=(x / 29+ / 20-28) && spatk=(x / 5+ / #))"}
 > - 4 X Sp. Attack (^<)
 > - 14 X Attack (<v)
@@ -292,7 +305,7 @@ Enter the Pokemon Center and deposit Zorua.
 > - 3 X Sp. Attack (^<)
 > - 15 X Attack (<v)
 > :::
-> - 2 X Defense (v)
+> - 3 X Defense (v)
 
 Head to the Malasada Shop (red flag on Rotom Dex).
 
@@ -308,7 +321,7 @@ Head to the Malasada Shop (red flag on Rotom Dex).
   :::pokemon[Yungoos]{info="Faster at 17+ Speed (x / 19+ / 11+)" infoColor=blue}
     ::damage[Yungoos's Tackle]{source="Popplio" offensive=false movePower=40 level=12 evs=3 stab=true opponentLevel=10 opponentStat=23 combatStages=2--4}
     - X Defense
-    - X Speed
+    - X Speed (x2 if low speed)
     - X Sp. Attack x3
     - (Baby-Doll Eyes until in Torrent)
     - Water Gun
@@ -327,6 +340,7 @@ Head to the beach and then run north until you activate the cutscene.  After the
 
 Potion if you can die to two Pounds.
 
+::damage[Drowzee's Pound]{source="Popplio" offensive=false movePower=40 level=12 evs=3 opponentLevel=9 opponentStat=13}
 
 ::::::::::trainer[Team Skull Grunt]
    :::::::pokemon[Drowzee]
@@ -356,7 +370,7 @@ Potion if you can die to two Pounds.
    :::::::
 ::::::::::
 
-Leave the beach (for real this time) and head North, hugging the left wall to avoid the trainer.  After the Ultra Recon cutscene, branch right and avoid the grass whenever possible.
+Leave the beach (for real this time) and head north, hugging the left wall to avoid the trainer.  After the Ultra Recon cutscene, branch right and avoid the grass whenever possible.
 
 Enter the Pokemon Center. While Rotom's eyes are flashing, do some quick shopping.
 
@@ -425,6 +439,7 @@ Enter the meadow and run through the flowers to follow Nebby into the hole.
 :::::trainer[Ultra Recon Squad Soliera]
   :::pokemon[Furfrou]{info="Faster at 35+ Speed (25+)" infoColor=blue}
     - Brick Break x2 / x3 / x4 :info[Heal as needed]{color=gray}
+   ::damage[Furfrou's Headbutt]{source="Hawlucha" offensive=false stab=true movePower=70 level=13 evs=0 opponentLevel=13 opponentStat=28}
   :::
 :::::
 
@@ -654,7 +669,7 @@ At the grass:
 
 Quick bind Charizard Glide and fly to Route 7 (mash A).  Head north through the tunnel.
 
-Use a Repel after the Colress cutscene and stick to the north path of the map to dodge trainers.
+Stick to the north path of the route to avoid trainers.
 
 Grab the hidden Iron.
 ![Iron](iron.png)
@@ -709,6 +724,9 @@ Repel in Diglett's Tunnel entrance.
 - Use a Repel at Diglett's cave entrance and keep reapplied until after the Plumeria fight.
 :::
 - Equip the Sharp Beak.
+- Potion if you can die to Salandit's Ember (+ burn damage (~5 HP)). 
+
+::damage[Salandit's Ember]{source="Hawlucha" offensive=false special=true movePower=40 stab=true level=29 evs=11 opponentLevel=23 opponentStat=41}
 
 Take the left path through Diglett's Tunnel.
 
@@ -818,7 +836,7 @@ Take the bus to Hokulani Observatory and enter the Pokemon Center.
 - Talk to the man at the Cafe (left side) to get a free Rare Candy.
 - PC heal Hawlucha.
 - Withdraw Popplio and Zorua.
-- _If you used Paralyze Heal_: Move Sharp Beak to Popplio.
+- _If you used Paralyze Heal_: Move Sharp Beak to Zorua.
 - _If you used Paralyze Heal_: Equip Fightinium Z.
 
 Enter the observatory and talk to the man at the desk for a Comet Shard.  Head through the first door and talk to Sophocles.
@@ -839,7 +857,7 @@ Leave the observatory and interact with the three dirt mounds.  Sevenjabug is lo
 
    If you didn't menu before the Elekid fight:
    - Heal Paralysis (if needed)
-   - Move Sharp Beak to Popplio.
+   - Move Sharp Beak to Zorua.
    - Equip Fightinium Z.
 
    Puzzle 2: Bottom Right, Bottom Left, Bottom Left
@@ -932,7 +950,7 @@ Before entering the Aether House, fight the Ace Trainer to the west.
   :::
 :::::
 
-- Swap the Rare Bone for the Sharp Beak held by Popplio.
+- Swap the Rare Bone for the Sharp Beak held by Zorua.
 - Heal if at low HP.
 - Revive Zorua if fainted.
 
@@ -951,7 +969,7 @@ Go back to Tapu Village and head south to reach Acerola's Trial.
   :::
 
   - Move Popplio to the front of the party.
-  - Swap Sharp Beak for the Rare Bone held by Popplio
+  - Swap Sharp Beak for the Rare Bone held by Zorua.
   - Heal to full.
   - Use 2 Rare Candies on Cha.
   - **Save.**
@@ -982,19 +1000,22 @@ Go back to Tapu Village and head south to reach Acerola's Trial.
 
 Go back to Tapu Village and enter the Pokemon Center.
 
-- Deposit Zorua.
-- PC Heal Popplio and Hawlucha.
+- Deposit Popplio.
+- PC Heal Zorua and Hawlucha.
 - Move Cha back to the front of the party.
 - Equip an Oran Berry on Hawlucha. (or a Sitrus if you have one)
 
 ### Tapu Village Shopping
 > #### Sell (Right)
-> - All Balls (Poke, Great, Dive, Quick, Nest, Luxury, Dusk)
-> - Comet Shard
-> - (Thunder Stone if your total is still less than $82,400)
+> :::if{source="Popplio" condition="speed=(19- / x / x)"}
+> - Dusk Balls, Comet Shard, Thunder Stone, Nest Balls, Quick Balls, Dive Balls 
+> :::
+> :::if{source="Popplio" condition="speed=(20+ / # / #)"}
+> - Dusk Balls, Comet Shard, Nest Balls, Quick Balls, Dive Balls 
+> :::
 > #### Buy (Right)
 > - 31 X Attack (v)
-> - 4 X Defense (v)
+> - 3 X Defense (v)
 > - 3 X Speed (<)
 > - 4 X Sp. Defense (^^)
 > #### Buy (Left)
@@ -1028,7 +1049,7 @@ Head back to Aether House.
 ::variable{name="flymiss" type="boolean" title="Did you faint because you missed a Fly?"}
 
 :::::::if{source="Hawlucha" condition="$flymiss"}
-  - Move the Sharp Beak from Popplio to Hawlucha.
+  - Move the Sharp Beak from Zorua to Hawlucha.
 
      ::damage[Golbat's Wing Attack w/ +2 Defense]{source="Hawlucha" offensive=false movePower=60 stab=true level=40 effectiveness=2 evs=24 combatStages=+2 opponentLevel=37 opponentStat=98}
 
@@ -1053,7 +1074,7 @@ Head back to Aether House.
 Head to the beach and talk to Grimsley.  After you mount Sharpedo:
 - Heal to full.
 - Max Repel (reapply once)
-- Move Sharp Beak from Popplio to Hawlucha if you haven't done so already.
+- Move Sharp Beak from Zorua to Hawlucha if you haven't done so already.
 
 ![Sharpedo Movement 1](sharpedo-movement-1.gif)
 
@@ -1071,7 +1092,7 @@ Once on Route 17, go up the hill to avoid battling the Team Skull grunt.
 
 ![Route 17 Movement](route-17-movement.gif)
 
-Stick to the left wall to avoid the female Grunt.
+Stick to the right to avoid the female grunt's vision.
 
 :::::trainer[Team Skull Double]
    - Fly Scraggy | Hyper Potion Hawlucha
@@ -1146,7 +1167,7 @@ Go left through the hole in the hedge.
 ![Shady Candy](shady-candy.png)
 :::
 - Fly to Tapu Village.
-- Deposit Popplio.
+- Deposit Zorua.
 
 Head to the Aether House.
 
@@ -1366,7 +1387,7 @@ Take the lift back to the entrance.
 :info[**Free heal**]{color=pink}
 
 - Go to the PC past the lift.
-- Withdraw Popplio and Zorua
+- Withdraw Popplio and Zorua.
 - Take the lift to the docks.
 - Run past Gladion and Lillie and head all the way down the left side to pick up the TM for Toxic.
 - Talk to Gladion to travel to Poni Island.
@@ -1440,7 +1461,7 @@ Take the lift back to the entrance.
   :::pokemon[Beheeyem]
     - Fling
   :::
-  :::pokemon[Beheeyem]
+  :::pokemon[Banette]
     - Acrobatics
   :::
 :::::
@@ -1483,7 +1504,7 @@ Boulder Puzzle:
     - _If Talonflame used Will-O-Wisp:_
       - Full Restore
       - _Bounce_: X Attack + Acrobatics
-      - _Heavy Slam_:
+      - _Heavy Slam_: Acrobatics x2
     - _If Flame Bodied:_
       - Full Restore
       - X Attack (x2 if Bounce)
@@ -1546,7 +1567,7 @@ Boulder Puzzle:
     - Acrobatics
   :::
 
-  ::damage[Kommo-o's Thunder Punch]{source="Hawlucha" offensive=false movePower=75 effectiveness=2 level=58 evs=33 opponentLevel=49 opponentStat=144 opponentCombatStages=+1}
+  ::damage[Kommo-o's Thunder Punch]{source="Hawlucha" offensive=false movePower=75 effectiveness=2 level=58 evs=33 opponentLevel=49 opponentStat=101 opponentCombatStages=+1}
   - Use a Potion if using the Potion will still let Thunder Punch knock you into Yellow HP.
   - Equip Oran Berry.
   - Save.
@@ -1719,6 +1740,7 @@ Boulder Puzzle:
 
 :::::trainer[Kiawe]
   :::pokemon[Arcanine]{info="has Extreme Speed" infoColor=gray}
+   ::damage[Arcanine's Extreme Speed]{source="Hawlucha" offensive=false movePower=80 level=61 evs=43 opponentLevel=51 opponentStat=164}
     - _If you have 2 X Defenses:_
       - X Defense
       - X Attack (x2 if you want to avoid a range)
@@ -1788,11 +1810,10 @@ After the Guzma cutscene:
 :::
 - Enter the Aether House.
 
-::damage[Smeargle's Extreme Speed]{source="Hawlucha" offensive=false movePower=80 stab=true level=60 evs=43 opponentLevel=51 opponentStat=72}
 :::::trainer[Nanu]
   :::pokemon[Sableye]
     - X Attack
-    - Fling :info[10/16 range at +2 w/o burn, Revive if missed range]{color=red}
+    - Fling :info[10/16 range]{color=red}
     - (Acrobatics)
   :::
   :::pokemon[Absol]
@@ -1803,7 +1824,7 @@ After the Guzma cutscene:
   :::
 :::::
 
-Save before talking to Mina. 
+- Fly back to Seafolk Village.
 
 :::if{source="Hawlucha" condition="speed=(7- / x / x)"}
 - Switch Poipole to slot 1.
@@ -1812,11 +1833,13 @@ Save before talking to Mina.
 :::
 
 :::if{source="Hawlucha" condition="speed=(8+ / x / x)"}
-- Give Grip Claw / Plume Fossil to Zorua.
+- Give Grip Claw / Plume Fossil to Popplio.
 - Give Roseli Berry to Hawlucha.
 - Heal to full.
 - Use a Rare Candy if you have any left.
 :::
+
+**Save before talking to Mina!** 
 
 :::::if{source="Hawlucha" condition="speed=(7- / x / x)"}
   :::trainer[Totem Ribombee]
@@ -1852,7 +1875,7 @@ Save before talking to Mina.
 - Head to the southwest pier and talk to the captain.
 
 :::::trainer[Hapu]
-  :::pokemon[Sableye]
+  :::pokemon[Golurk]
     - X Attack x2
     - Fling
   :::
@@ -1867,7 +1890,8 @@ Save before talking to Mina.
   :::
 :::::
 
-Fly to Tapu Village.
+- Fly to Tapu Village. 
+- Heal to full.
 
 :::::if{source="Hawlucha" condition="speed=(7- / x / x) || speed=(19+ / x / x)" theme=info}
    Enter the Pokemon Center if you meet any of these requirements:
@@ -1893,6 +1917,8 @@ Fly to Tapu Village.
 :::
    - Buy max full restores from the left vendor (>).
 :::::
+
+- Move Popplio to the front of your party if you cannot tank an Acrobatics from Crobat.
 
 :::::trainer[Gladion]
   :::pokemon[Crobat]
@@ -1938,17 +1964,8 @@ Fly to Tapu Village.
   :::
 :::::
 
-:::::trainer[Ace Trainer Jada]
-  :::pokemon[Vanilluxe]
-    - Brick Break
-  :::
-  :::pokemon[Mismagius]
-    - Acrobatics
-  :::
-:::::
-
 :::::card
-If you did not go to the Pokemon Centrer in Tapu Village or if you have Popplio in your party:
+If you did not go to the Pokemon Center in Tapu Village or if you have Popplio in your party:
 - Deposit Popplio
 - Heal to full (PC heal if depositing Popplio).
 :::if{source="Hawlucha" condition="!$usedrotoboost"}
@@ -2092,6 +2109,15 @@ If you did not go to the Pokemon Centrer in Tapu Village or if you have Popplio 
       - X Attack
       - Brick Break
     :::
+    :::pokemon[Noivern]
+      - Acrobatics
+    :::
+    :::pokemon[Incineroar]
+     - Brick Break
+    :::
+    :::pokemon[Leafeon]
+      - Acrobatics
+    :::
   :::::
   :::::if{source="Hawlucha" condition="$usedrotoboost"}
     :::pokemon[Raichu]{info="Heal as needed" infoColor=gray}
@@ -2107,16 +2133,16 @@ If you did not go to the Pokemon Centrer in Tapu Village or if you have Popplio 
     :::pokemon[Tauros]
       - Brick Break
     :::
-  :::::
-   :::pokemon[Noivern]
-     - Acrobatics
-   :::
-   :::pokemon[Incineroar]
+    :::pokemon[Noivern]
+      - Acrobatics
+    :::
+    :::pokemon[Incineroar]
      - Brick Break
-   :::
-   :::pokemon[Leafeon]
-     - Acrobatics
-   :::
+    :::
+    :::pokemon[Leafeon]
+      - Acrobatics
+    :::
+  :::::
 :::::::
 
 - Stop the timer at the first full black frame after the cutscene where Kukui says he'll "let Lillie know".
