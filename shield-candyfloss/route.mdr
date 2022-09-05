@@ -1,7 +1,3 @@
-:::tracker{species="Scorbunny" baseStats="[[50, 71, 40, 40, 40, 69]]"}
-5:
-:::
-
 :::tracker{species="Arcanine" baseStats="[[90, 110, 80, 100, 80, 95]]"}
 7:
   8 -> 0, 0, 0, 0, 1, 1
@@ -50,7 +46,9 @@
 :::tracker{species="Candyfloss" baseStats="[[60, 67, 85, 77, 75, 116]]" hpIV=15 attackIV=15 defenseIV=15 spAttackIV=15 spDefenseIV=15 speedIV=15 nature="Modest" type="Grass/Fairy" generation=8 directInput=true}
 :::
 
-**Credits**: *Route by* ringo777 | *Translated by* New_Amber | *Edited by* knoxconary | *Template by* Jordan97
+**Source**: [Google Doc](https://docs.google.com/document/d/17iHx88iso4Z0hMTTKtndA1MgUptrxQOSQqCKGpcj-Rk/edit)
+
+**Disclaimer**: The notes below are designed to be *beginner-friendly*. See the Google Doc linked above for more advanced notes and riskier strategies.
 
 :::card{theme=info}
 **Before the run starts**
@@ -58,12 +56,12 @@
 - Make sure to have the game closed when setting the time.
 
 **Starting the run**
-- Choose your player (any choice).
-- Make your name a single character.
+- Choose your player (any).
+- Make your name a single character (any).
 - Timing starts after saying "Yes" to character options.
 
 **Setting up run**
-- Mash through the intro cutscene in the Stadium. 
+- Mash A through the intro cutscene. When Rose says "exhibition match", you can stop mashing.
 - Once you gain control of your character, open your menu (x) and go to Options (<). 
 
 **Options**
@@ -71,13 +69,13 @@
 - Battle Effects:	Off (v>)
 - Battle Style:		Set (v>)
 - Give Nicknames:	Don't Give (vv>) 
-- Autosave:		    Off (R>)
+- Autosave:         Off (R>)
 - Skip Movies:		On (R<)
 :::
 
 Confirm your options and then grab your bag in your bedroom (farthest right room).
-- Go outside and follow Hop. 
-- Pick Scorbunny.
+- Go outside and follow Hop into his house. Exit his house and head north (Route 1).
+- Once you mash through all the dialogue, pick **Scorbunny**.
 
 :::::::trainer[Hop 1]
   :::::pokemon[Wooloo]
@@ -89,101 +87,111 @@ Confirm your options and then grab your bag in your bedroom (farthest right room
 :::::::
 
 Follow Hop into the Slumbering Weald. 
-- Run from all 3 encounters.
+- Continue forward, and Run from all 3 scripted encounters.
 - Spam Tackle vs ??? (Zamazenta). 
+- Once out of the Weald, :info[**go inside and talk to mum**]{color=red}
 
-:info[**Go inside and talk to mum**]{color=red}
-- Head for Route 1
-- Catch a Wooloo (or Skwovet if no Wooloo appear) on Route 1 (just throw PokeBalls).
-- Head to Sonia's Lab and go through the cutscene. 
-- Upon exit, go right and pick up the Rare Candy.
-- Go with Hop into the Pokemon Center and choose "Of course not" (second option).
-- Leave the Pokemon Center and head to Route 2.
+Head back to Route 1, this time taking the right-side path.
+- **Run into a Wooloo** (or Skwovet if no Wooloo appear). Last resorts are Rookidee and Nickit.
+- Catch the Pokemon by just throwing PokeBalls (X,A). 
+- Continue through Route 1, then head directly right to Sonia's Lab. 
+
+Mash through dialogue and exit the lab. Then head right and pick up the Rare Candy.
+- Go to the center of town where Hop will take you into the Pokemon Center.
+- When talking to Hop, choose "Of course not" (second option).
+- Leave the Pokemon Center and take the northern path to Route 2.
+- Follow the path and avoid Pokemon in the grass patches (Zigzagoons are tricky).
 
 :::::::trainer[Youngster Jake]
   :::::pokemon[Skwovet]
-    :::if{source="Scorbunny" condition="(atk=(x / 30+ / 16+))"}
-      - Tackle x4
-    :::
-    :::if{source="Scorbunny" condition="(atk=(# / 29- / 15-))"}
-      - Ember x4
-    :::    
+     - Ember x4
   :::::
 :::::::
 
+Continue dodging Pokemon. Go behind the Lass trainer to skip her.
 
 :::::::trainer[Youngster Benjamin]
   :::::pokemon[Blipbug]
-    - Ember (+ Quick Attack)
+     - Ember x1 + Quick Attack x1
   :::::
   :::::pokemon[Nickit]
-    :::if{source="Scorbunny" condition="(spa=(x / 8+ / #))"}
-      - If in Blaze: Ember x2
-      - If not Blaze: Quick Attack x3
-    :::
-    :::if{source="Scorbunny" condition="(spa=(# / 7- / x))"}
-      - Quick Attack x3
-    :::
+     - Quick Attack x3
   :::::
 :::::::
 
 :info[**FREE HEAL**]{color=pink}
+
+Once you regain control of your character, exit Magnolia's Lab and head south.
+- Hop will call you over. Talk to him to start the next fight.
 
 :::::::trainer[Hop 2]
   :::::pokemon[Wooloo]
-    - Ember x3
+     - Ember x3
   :::::
   :::::pokemon[Grookey]
-    - Ember x2-3
+     - Ember x2-3
   :::::
   :::::pokemon[Rookidee]
-    - Ember x2
+     - Quick Attack x2-3
+     - *If ever Growled:* Ember x2-3
   :::::
 :::::::
 
 :info[**FREE HEAL**]{color=pink}
 
-Walk back through Route 2, avoiding all encounters, and follow Hop into the Train Station. 
-Once in the Wild Area, head toward the Onix on your left.
-- If the Den behind the Onix is active, interact with it to collect Watts.
-- Go into the grass patch to the right of that den to find a Growlithe.
-- When you find one (without Intimidate), Tackle x1-2 then PokeBalls.
+Backtrack through Route 2, avoiding all encounters and the Lass again. Some wild Pokemon will be in the middle of the road as you go.
+- Once you return to town, follow Hop into the Train Station. 
+- After traveling on the train, exit the station and proceed forward into the Wild Area.
+
+Once in the Wild Area, mash through the dialogue and head toward the Onix on your left.
+- If the den behind the Onix is active, interact with it to collect Watts. (see below)
+- Go into the grass patch to the right of that den to find a Growlithe. (see below)
+- When you find one **without Intimidate**, use Tackle x1-2 and then throw PokeBalls.
 
 ![Wild Area Den](https://raw.githubusercontent.com/gav-antula/ranger-routes/main/shield-candyfloss/assets/wildarea-beam.png)
 
 ![Growlithe Patch](https://raw.githubusercontent.com/gav-antula/ranger-routes/main/shield-candyfloss/assets/wildarea-growlpatch1.png)
 
-Once you've caught your Growlithe, walk north-northeast of the grass patch a few steps to spawn the wandering Diggersby. 
-- Hit the Home button and change your date to August 23. Re-enter the game.
-- Go to the same grass patch you found the Growlithe and find a random encounter. Do NOT go too far south that you de-spawn the Diggersby. [see image]
-- Farm wild encounters until you get a Minccino and toss PokeBalls at it.
+Once you've caught your Growlithe, walk north of the grass patch a few steps to spawn the wandering Diggersby. 
+- Hit the HOME button, select *Settings > System* (very bottom) to change your date to August 23.
+- Press HOME again and re-enter the game.
+- Go to the same grass patch you found the Growlithe.
+- Do NOT stray too far from the Diggersby that you de-spawn it. (see below)
+- Run in circles to trigger a random encounter (exclamation point icon) and interact with it.
+- Continue getting random encounters until you find a Minccino. Just throw PokeBalls at it.
 
 ![Growlithe Patch Threshold](https://raw.githubusercontent.com/gav-antula/ranger-routes/main/shield-candyfloss/assets/wildarea-growlpatch2.png)
 
 Once you've caught your Minccino, deposit all Pokemon except Growlithe.
 - Run into the Diggersby and spam Leer until it KOs you.
 - Mash A to be teleported to Motostoke.
-- Go eastward and head to grab the Fire Stone. 
-- If you didn't collect Watts before, grab Watts from one active den or three inactive den along the way.
+- Go eastward and head to grab the Fire Stone. (see below)
+- If you didn't collect Watts before, grab Watts from three inactive dens along the way.
+
+![Fire Stone Location](https://raw.githubusercontent.com/gav-antula/ranger-routes/main/shield-candyfloss/assets/firestone.png)
 
 Once you've grabbed the Fire Stone, run into a wild Skorupi or Koffing. 
-- Mash A to be teleported to Motostoke.
-- Go west slightly and speak to the Watt Trader. Buy maximum amount of Quick Balls.
-- Enter Motostoke and get taken into the Pokemon Center for a cutscene.
+- Mash A until KO'd, and then to be teleported to Motostoke again.
+- Go west slightly and speak to the Watt Trader (NPC dressed in white and black). 
+- Buy the maximum amount of Quick Balls (need at least 3).
+- Walk up the giant staircase into Motstoke and get taken into the Pokemon Center for a cutscene.
 
-Shopping (rightside clerk):
+Shopping (right-side clerk):
 - 31 X-SpAtk 	(^^)
 
-Open your bag and use the Fire Stone on Growlithe. Upon evolution, teach ExtremeSpeed over Bite.
+Open your bag and use the Fire Stone on Growlithe. 
+- Evolution: teach **Extreme Speed** over Bite in Slot 4.
+- If your Growlithe didn't know Bite, it'll learn Extreme Speed automatically. 
 
-Visit the Move Reminder and teach: 
-- Burn Up over Howl.
-- Flamethrower over Ember.
+Visit the Move Reminder to remember moves on Arcanine. 
+- While picking moves, you can see your stats on the right and enter them into the IV calculator.
+- Move Reminder: teach **Burn Up** over Howl in Slot 3.
+- Move Reminder: teach **Flamethrower** over Ember in Slot 1.
 
 Exit the Pokemon Center and head north for cutscenes with Sonia and Leon.
-- If your Arcanine is Level 7, equip the Charcoal you receive from Leon.
-- Enter the stadium and choose a jersey number (A then +). 
-- Exit the stadium and follow the staff member to the Budew Drop Inn.
+- If your Arcanine is Level 7, **equip the Charcoal** once you receive from Leon.
+- Enter the stadium and choose jersey #1 (A then +). 
+- Exit the stadium and follow the staff member west to the Budew Drop Inn.
 - Enter the Inn and talk to the team Yell Grunts (select Yes). 
 
 :::::::trainer[Team Yell Grunt 1]
@@ -244,34 +252,37 @@ Exit the Pokemon Center and head north for cutscenes with Sonia and Leon.
     :::
   :::::
   :::::pokemon[Nickit]
-    - ExtremeSpeed x1 (if Wooloo already damaged it), otherwise Burn Up x1
+     - If Nickit is already damaged: ExtremeSpeed x1
+     - If you already used Burn Up: ExtremeSpeed x1
+     - Otherwise: Burn Up x1
   :::::
 :::::::
 
-Once the fights are over, talk to the front desk to rest for the night.
+Once the fights are over, talk to the front desk clerk to rest for the night.
 
 :info[**FREE HEAL**]{color=pink}
 
 Exit the building in the morning and mash A to be transported to the stadium.
 - Go inside the stadium and talk to the front desk, then mash through cutscenes.
 - Go outside to recieve Flying Taxi. 
-- Equip the Charcoal (if you haven't already).
-- Fly to West Motostoke to face off versus Hop.
+- Enter your Bag and equip the Charcoal (if you haven't already). Exit the bag.
+- While in the main menu, press + to immediately select the Map.
+- Fly to West Motostoke. Walk directly west.
 
 :::::::trainer[Hop 3]
   :::::pokemon[Wooloo]
     :::if{source="Arcanine" condition="(startingLevel=7-8)"}
-      - X SpAtk + Flamethrower x1
+      - X-SpAtk + Flamethrower x1
     :::
     :::if{source="Arcanine" condition="(spa=(19- / x / x) && startingLevel=9-10)"}
-      - X SpAtk + Flamethrower x1
+      - X-SpAtk + Flamethrower x1
     :::
     :::if{source="Arcanine" condition="(spa=(20+ / # / #) && startingLevel=9-10)"}
       - ExtremeSpeed x1 + Flamethrower x1
     :::
   :::::
   :::::pokemon[Grookey]
-    - Flamethrower x1
+     - Flamethrower x1
   :::::
   :::::pokemon[Rookidee]
     :::if{source="Arcanine" condition="(startingLevel=7-8)"}
@@ -286,19 +297,22 @@ Exit the building in the morning and mash A to be transported to the stadium.
   :::::
 :::::::
 
-Proceed forward to Route 3. Walk around the first Lass, then skip the Schoolgirl by slightly hugging the wall, but not too much [see gif below].
+Proceed left to Route 3. 
+- Walk behind the first Lass, then get ready to skip the Schoolgirl.
+- You want to slightly hug the wall (but not *too* much) until you're in the grass (see below).
+- You can also wait until she looks to the right where she won't see you if you hug the wall at all.
+- If you mess up and get spotted, just use Burn Up x1 + Extreme Speed x1 on her Pancham.
 
-![schoolgirl Skip Route 3](https://raw.githubusercontent.com/Corvimae/ranger-Routes/main/drifblim-alt-main-sword/assets/Route3TrainerDodge.gif)
-
-You can also wait until she looks to the right where she won't see you if you hug the wall at all.
+![Route 3 Schoolgirl Skip](https://raw.githubusercontent.com/gav-antula/ranger-routes/main/shield-candyfloss/assets/route3TrainerDodge.gif)
 
 :info[**FREE HEAL**]{color=pink}
 
-After talking to Sonia, watch out for the Postman trainer walking in a circle.
+After talking to Sonia, continue west. 
+- Watch out for the Postman trainer walking in a circle after the Carkol grass patch.
 
 :::::::trainer[Schoolboy Peter]
   :::::pokemon[Sizzlipede]
-    - ExtremeSpeed x2-3
+     - Extreme Speed x2-3
   :::::
   :::::pokemon[Dottler]
     :::if{source="Arcanine" condition="(startingLevel=7)"}
@@ -319,7 +333,9 @@ After talking to Sonia, watch out for the Postman trainer walking in a circle.
   :::::
 :::::::
 
-If you're low on HP, talk to the NPC by the mine entrance for a FREE HEAL.
+Continue along the path and enter Galar Mine.
+- If you're low on HP, talk to the NPC before the mine entrance for a FREE HEAL.
+- Once in the mine, follow the main pathway all the way through the mine.
 
 :::::::trainer[Worker Sandra]
   :::::pokemon[Diglett]
@@ -337,13 +353,13 @@ If you're low on HP, talk to the NPC by the mine entrance for a FREE HEAL.
     :::
   :::::
   :::::pokemon[Drilbur]
-    - Burn Up x1 (+ ExtremeSpeed x1)
+     - Burn Up x1 + ExtremeSpeed x1
   :::::
 :::::::
 
 :::::::trainer[Bede 1]
   :::::pokemon[Solosis]
-    - X SpAtk + Flamethrower x1
+    - X-SpAtk, Flamethrower x1
   :::::
   :::::pokemon[Gothita]
     - Flamethrower x1
@@ -353,15 +369,26 @@ If you're low on HP, talk to the NPC by the mine entrance for a FREE HEAL.
   :::::
 :::::::
 
-Leave the mine and head right to pick up the hidden **Rare Candy** at south-east most rock.
+Exit the mine and enter the first walled grass patch on your right. 
+- Head all the way to the right to pick up the hidden **Rare Candy**. (see below)
 
 ![Rare Candy Route 4](https://raw.githubusercontent.com/gav-antula/ranger-routes/main/shield-candyfloss/assets/route4-rarecandy.png)
 
-Walk north (avoid Breeder trainer) for cutscene with Milo, then follow Yamper.
+Walk north (avoid Breeder trainer) out of the grass patch, then west.
+- Take the path going north (with Milo and Hop cutscenes) along the way. 
+- After talking to Hop, follow Yamper to Sonia.
 - After talking to Sonia, fly to Turffield (x, +, A) 
-- Head into the Turffield Stadium and begin the Gym Challenge
+- Head north into the Turffield Stadium, then talk to the central attendant to start the Gym Challenge.
+- *You can stop tracking Arcanine's IVs now.*
 
 :info[**FREE HEAL**]{color=pink}
+
+:::card{theme=info}
+Wooloo Herding Tips
+- **Don't get too close to the Wooloo.** You can "push" them from a distance and getting closer doesn't make them go any faster. Getting *too* close to them can cause them to scatter wildly.
+- **Use the walls.** Herding Wooloo along the walls will keep them mostly together. Once the Wooloo hit the slanted walls at the end of each section, they'll typically herd themselves in.
+- **Don't panic.** If some Wooloo get away from you, focus on getting your main horde to the goal. Then go back and scoop up the stragglers.
+:::
 
 :::::::trainer[Gym Trainer Samuel]
   :::::pokemon[Gossifleur]
@@ -369,39 +396,46 @@ Walk north (avoid Breeder trainer) for cutscene with Milo, then follow Yamper.
   :::::
 :::::::
 
+Final Wooloo Herding Puzzle:
+![Final Herding Challenge](https://raw.githubusercontent.com/gav-antula/ranger-routes/main/shield-candyfloss/assets/WoolooHerding.gif)
+
 :::::::trainer[Milo]
   :::::pokemon[Gossifleur]
-    - X SpAtk x2 + Flamethrower x1
+    - X-SpAtk x2, Flamethrower x1
   :::::
   :::::pokemon[Eldegoss]
-    - Burn Up x1 (range at 7- / x / x)
+    - Burn Up x1 
+    - *Range if SpAtk is (7- / x / x)*
   :::::
 :::::::
 
 :info[**FREE HEAL**]{color=pink}
 
-Exit the gym and fly to Turffield again. Head east and onto Route 5. 
+Exit the gym and fly to Turffield again. 
+- Head east to Route 5 and continue on the path.
 
 :::::::trainer[Team Yell Grunt]
   :::::pokemon[Zigzagoon]
     - Flamethrower x1
   :::::
   :::::pokemon[Thievul]
-    - Flamethrower x1 + Burn Up x1 (+ ExtremeSpeed x1)
+    - Flamethrower x1, Burn Up x1 + ExtremeSpeed x1
   :::::
 :::::::
 
 :::::::trainer[Team Yell Grunt]
   :::::pokemon[Sableye]
-    - Burn Up x1 (+ Flamethrower x1)
+    - Burn Up x1 + Flamethrower x1
   :::::
 :::::::
 
-**Heal to full**
+Hop on the bike (+) and bike forward to Hop.
+- You'll want to use the bike at every opportunity you can going forward.
+- Before fighting Hop, **HEAL if low HP**.
 
 :::::::trainer[Hop 4]
   :::::pokemon[Wooloo]
-    - X SpAtk + Flamethrower x1
+    - X-SpAtk, Flamethrower x1
   :::::
   :::::pokemon[Corvisquire]
     - Flamethrower x1
@@ -411,27 +445,31 @@ Exit the gym and fly to Turffield again. Head east and onto Route 5.
   :::::
 :::::::
 
-Make your way east into Hulbury and trigger the Rose cutscene.
+Make your way east along the main path (going above the Breeder and below the Office Worker).
+- Head into the tunnel and continue forward to trigger the Rose cutscene.
 
-After the Rose cutscene, head to the market area:
+After the Rose cutscene, bike south down the stairway to the Market Area:
 - Enter Pokemon Box and swap Mincinno into Slot 2 of your party.
-- Swap Mincinno with Arcanine.
-- Talk to the NPC sitting at the picnic table to trade Minccino for Candyfloss.
-- Buy a **Rose Incense** from the Incense Seller.
-- Buy **Energy Root x5** and **Heal Powder x4** from the Herb Seller.
+- Swap Mincinno with Arcanine, then exit the menu.
+- Talk to the Backpacker NPC sitting at the left-most picnic table to trade Minccino for Candyfloss.
+- Talk to the Incense Seller (blonde woman by stall) to buy a **Rose Incense**.
+- Head to the next stall on the right to buy **Energy Root x5** and **Heal Powder x4**.
 
-Fly to the Wild Area and get on your bike:
-- Bike north toward Hammerlocke [see gif below].
-- Pick up the Sun Stone.
+Fly to the Wild Area:
+- Bike north toward Hammerlocke, following the path in the image below.
+
+![Sun Stone Location](https://raw.githubusercontent.com/gav-antula/ranger-routes/main/shield-candyfloss/assets/SunStone.png)
+
+Pick up the Sun Stone underneath the rock formation.
 - Give the Rose Incense to Candyfloss.
-- Evolve Candyfloss with the Rose Incense.
+- Evolve Candyfloss with the Sun Stone.
 - Fly back to Hulbury (use Y to jump cursor to Hulbury).
 
 Enter the Hulbury PokeCenter and visit the Move Reminder. Teach:
-- Moonblast over Mega Drain
-- Hurricane over Growth
-- Giga Drain over Poison Powder
-- Energy Ball over Razor Leaf
+- Moonblast over Mega Drain (Slot 1)
+- Hurricane over Razor Leaf (Slot 2)
+- Giga Drain over Growth (Slot 3)
+- Energy Ball over Poison Powder (Slot 4)
 
 Exit the PokeCenter, bike to the Lighthouse, talk to Nessa, and enter the gym.
 
@@ -441,7 +479,7 @@ Exit the PokeCenter, bike to the Lighthouse, talk to Nessa, and enter the gym.
   :::::
 :::::::
 
-Red > Yellow > Red
+Button Puzzle #1: Red > Yellow > Red
 
 :::::::trainer[Gym Trainer Heather]
   :::::pokemon[Krabby]
@@ -452,9 +490,10 @@ Red > Yellow > Red
   :::::
 :::::::
 
-Yellow > Red
+Button Puzzle #2: Yellow > Red
 
-Yellow > Red > Blue
+Button Puzzle #3: Yellow > Red > Blue
+- You can pass the thrid gym trainer when she's looking left.
 
 :::::::trainer[Nessa 1]
   :::::pokemon[Goldeen]
@@ -470,11 +509,12 @@ Yellow > Red > Blue
 
 :info[**FREE HEAL**]{color=pink}
 
-Fly to Hulbury and head into the restaurant. Once the cutscene is over, exit the restaurant and head east into Galar Mine 2. 
+Fly to Hulbury and head into the restaurant next door. 
+- Once the cutscene is over, exit the restaurant and bike east into Galar Mine 2. 
 
 :::::::trainer[Bede 2]
   :::::pokemon[Solosis]
-    - X-SpAtk + Moonblast x1
+    - X-SpAtk, Moonblast x1
   :::::
   :::::pokemon[Gothita]
     - Moonblast x1
@@ -494,29 +534,32 @@ Fly to Hulbury and head into the restaurant. Once the cutscene is over, exit the
 :::::::
 
 Watch out for female Worker trainer who spins 180 degrees.
+- Move quickly over or around the hidden Stunfisk on the ground.
 
 :::::::trainer[Team Yell Grunt]
   :::::pokemon[Thievul]
-    - Moonblast x1
+     - Moonblast x1
   :::::
   :::::pokemon[Liepard]
-    - Energy Ball x1
+     - Energy Ball x1
   :::::
   :::::pokemon[Linoone]
-    - Energy Ball x1
+     - If Linoone = full HP: Moonblast x1
+     - If Linoone < full HP: Energy Ball x1
   :::::
   :::::pokemon[Pancham]
-    - Energy Ball x1
+     - Energy Ball x1
   :::::
 :::::::
 
 :info[**FREE HEAL**]{color=pink}
 
-Branch right and go down after the rotating trainer; wait for him to look away if needed.
+Branch down and right, then stop and wait for the rotating trainer to look away. 
+- Continue down to meet up with Hop and Kabu.
 
-Exit the mine and fly to Lower Motostoke (Y to auto-cursor) and enter the PokeCenter. 
-- Purchase X SpAtk x21
-- Exit and fly to Upper Motostoke to enter the Budew Inn.
+Exit the mine and fly to Lower/East Motostoke (Y to auto-cursor) and enter the PokeCenter. 
+- Purchase **X-SpAtk x21**
+- Exit and fly to Upper/West Motostoke to enter the Budew Inn.
 
 :::::::trainer[Marnie 1]
   :::::pokemon[Croagunk]
@@ -532,23 +575,23 @@ Exit the mine and fly to Lower Motostoke (Y to auto-cursor) and enter the PokeCe
 
 :info[**FREE HEAL**]{color=pink}
 
-Head for the stadium and begin the gym Challenge.
+Head west to the stadium and begin the gym Challenge.
 
 :::::::trainer[Puzzle]
-  :::::pokemon[Vulpix: Left Grass]
-    - Catch (Quick Ball)
-  :::::
   :::::pokemon[Litwick: Top Grass]
     - Catch (Quick Ball)
   :::::
   :::::pokemon[Vulpix: Left Grass]
     - Catch (Quick Ball)
   :::::
+  :::::pokemon[Litwick: Top Grass]
+    - Catch (Quick Ball)
+  :::::
 :::::::
 
 :::::::trainer[Kabu]
   :::::pokemon[Ninetales]
-    - X SpAtk x2 + Max Airstream x1
+    - X-SpAtk x2, Max Airstream x1
   :::::
   :::::pokemon[Arcanine]
     - Max Airstream x1
@@ -561,109 +604,110 @@ Head for the stadium and begin the gym Challenge.
 :info[**FREE HEAL**]{color=pink}
 
 Wild Area to Hammerlocke
-- Swap Candyfloss with Wooloo/Skwovet, and deposit all other Pokemon in your party.
+- Swap Candyfloss with your Route 1 catch, and deposit all other Pokemon in your party.
 - Bike east and run into the Mudsdale. Spam Tackle until you are knocked out. 
 - When teleported to the Meet Up Spot, **choose option 2** (Hammerlocke).
 - Enter Hammerlocke, enter the Hammerlocke Gym, then exit the Gym.
 
-Hammerlocke PokeCenter Shopping
-- 2 Guard Spec.  (^^)
-- 5 X Accuracy   (^)
-- 3 X Speed      (^)
+Enter the Hammerlocke Central PokeCenter to buy:
+- Guard Spec. x2  (^^)
+- X-Accuracy  x5  (^)
+- X-Speed     x4  (^)
 
 After shopping, exit the PokeCenter:
 - Head west to activate the Leon cutscene (choose option 2 in conversation). 
-- Head back east and up the stairs toward the PokeBall statue to pick up the Rare Candy and Wise Glasses.
-- Open your menu and swap Candyfloss with your Wooloo/Skwovet. Withdraw Arcanine.
-- Give Rare Candy x3 to Candyfloss.
-- Fly to West Hammerlocke.
-- Talk to Raihan, go upstairs, talk to Sonia, then exit the building. 
+- Head back east and up the staircase toward the PokeBall statue to pick up the **Rare Candy** and **Wise Glasses**.
+- Open your menu and **swap Candyfloss** with your current Pokemon. **Withdraw Arcanine**.
+- Fly to West Hammerlocke and go through the Raihan scene.
 
 :::::::trainer[Team Yell Grunt]
   :::::pokemon[Stunky]
-    - Moonblast
+    - Moonblast x1
   :::::
   :::::pokemon[Linoone]
-    - Moonblast
+    - Moonblast x1
   :::::
 :::::::
 
 :::::::trainer[Team Yell Grunt]
   :::::pokemon[Liepard]
-    - Energy Ball
+    - Moonblast x1
   :::::
 :::::::
 
 :::::::trainer[Beauty Anita]
   :::::pokemon[Clefairy]
-    - X-SpAtk + Energy Ball (Giga Drain if HP is low)
+    - X-SpAtk x2, Moonblast x1
+    - *If HP is low:* Giga Drain instead
   :::::
   :::::pokemon[Clefable]
-    - Energy Ball (15/16 OHKO)
+    - Moonblast x1
   :::::
 :::::::
 
-Go up the first ladder and then the ladder straight ahead.
-- Avoid the spinner at the top of the cliff.
+Go up the second ladder (before the Doctor Duo) and then the ladder straight ahead.
+- Avoid the spinner at the top of the cliff and continue forward.
 
 :::::::trainer[Artist Duncan]
   :::::pokemon[Koffing]
-    - Moonblast x2
-    - If Smokescreened, use an X Accuracy on Sudowoodo
+    - Giga Drain x2
+    - *If Smokescreen,* use an X-Acc on Sudowoodo
   :::::
   :::::pokemon[Sudowoodo]
-    - Giga Drain x1, Moonblast x1
+    - If 79+ HP: Moonlbast x2
+    - If 78- HP: Giga Drain x1, Moonblast x1
   :::::
 :::::::
 
-Enter Stow-on-Side, then:
-- Backtrack past Artist Duncan and down the eastern ladder. 
-- Jump down the ledge to pick up a Rare Candy.
-- Heal if Candyfloss at 62 HP or less.
-- Fly back to Stow-on-Side.
+**Heal** if Candyfloss at 44 HP or less.
 
 :::::::trainer[Hop 5]
   :::::pokemon[Cramorant]
-    - X SpAtk + Moonblast x1
-  :::::
-  :::::pokemon[Silicobra]
-    - Moonblast x1
-  :::::
-  :::::pokemon[Thwackey]
-    - Moonblast x1
+    - X-SpAtk, then:
+      - If Dive: X-SpAtk, Energy Ball x1
+      - Otherwize: Energy Ball x1-2
+    - 
   :::::
   :::::pokemon[Toxel]
     - Moonblast x1
   :::::
+  :::::pokemon[Thwackey]
+    - Moonblast x1-2
+  :::::
+  :::::pokemon[Silicobra]
+    - Moonblast x1
+  :::::
 :::::::
 
-Before beginning the Gym Challenge,
-- Equip the Wise Glasses on Candyfloss.
-- Use a Rare Candy on Candyfloss to reach Level 37.
+Continue forward to enter the Gym. Use the control stick to spin the teacups.
 
 :info[**FREE HEAL**]{color=pink}
 
 :::::::trainer[Gym Trainer Clive]
   :::::pokemon[Pumpkaboo-Avg]
-    - Moonblast
+    - X-SpAtk, Moonblast x1
   :::::
   :::::pokemon[Phantump]
-    - Moonblast
+    - Moonblast x1
   :::::
   :::::pokemon[Pumpkaboo-Lrg]
-    - Moonblast
+    - Moonblast x1
   :::::
 :::::::
 
+Equip the **Wise Glasses** on Candyfloss.
+- Use **Rare Candy x3** on Candyfloss to reach Level 37.
+
 :::::::trainer[Gym Trainer Lynne]
   :::::pokemon[Corsola]
-    - Moonblast x2 (Energy Ball if Disabled)
+    - Moonblast x2
+    - *If Disabled:* Energy Ball x1
   :::::
 :::::::
 
 :::::::trainer[Gym Trainer Roy]
   :::::pokemon[Haunter]
-    - X SpAtk + Moonblast x1
+    - X-SpAtk, Moonblast x1
   :::::
   :::::pokemon[Drifblim]
     - Moonblast x1
@@ -672,7 +716,10 @@ Before beginning the Gym Challenge,
 
 :::::::trainer[Allister 1]
   :::::pokemon[Yamask]
-    - X SpAtk x3 + X Acc + Moonblast x1
+    - X-SpAtk x3, X Acc, then:
+      - If 41- HP: Giga Drain x1
+      - If 42+ HP: Moonblast x1
+    - 
   :::::
   :::::pokemon[Mimikyu]
     - Energy Ball x2
@@ -687,36 +734,39 @@ Before beginning the Gym Challenge,
 
 :info[**FREE HEAL**]{color=pink}
 
-After exiting the gym, give the Rose Incense back to Candyfloss.
+After exiting the gym, equip the **Rose Incense** back on Candyfloss.
 - Head up the stairs on the left to fight Bede.
 
 :::::::trainer[Bede 3]
   :::::pokemon[Duosion]
-    - X SpAtk + Energy Ball x1
-    - If Light Screen, use another X SpAtk
+    - X-SpAtk x1-2, Moonblast x1
+    - *Use 2nd X-SpAtk if Light Screen*
   :::::
   :::::pokemon[Hattrem]
-    - Energy Ball
+    - If Light Screen: Energy Ball x1
+    - Otherwise: Moonblast x1
   :::::
   :::::pokemon[Gothorita]
-    - Energy Ball
+    - If Light Screen: Energy Ball x1
+    - Otherwise: Moonblast x1
   :::::
   :::::pokemon[Ponyta]
-    - Energy Ball
+    - If Light Screen: Energy Ball x1
+    - Otherwise: Moonblast x1
   :::::
 :::::::
 
 :info[**FREE HEAL**]{color=pink}
 
-Head down the stairs and right into the Glimwood Tangle. 
-- Before the double battle trainers, go slightly left to take the path around them.
-- Enter Ballonlea and begin the Gym Challenge.
+Head down the stairs and then right into the Glimwood Tangle. 
+- Take the first right in the forest and go around the bend. 
+- When you see the double battle trainers in front of you, go slightly left to take the path around them.
+- Continue north to reach Ballonlea, then enter the gym and begin the Gym Challenge.
 
 :::::::trainer[Gym Trainer Annette]
   :::::pokemon[Spritzee]
     - Energy Ball x2
-    - *Quiz: Either option correct (Offense Boost)*
-    - If confused, use Heal Powder
+    - *Quiz Answer: 1*
   :::::
   :::::pokemon[Slurpuff]
     - Energy Ball x1
@@ -725,8 +775,8 @@ Head down the stairs and right into the Glimwood Tangle.
 
 :::::::trainer[Gym Trainer Teresa]
   :::::pokemon[Swirlix]
-    - X SpAtk + Energy Ball x1
-    - *Quiz: Answer 2 (Speed Boost)*
+    - X-SpAtk, Energy Ball x1
+    - *Quiz Answer: 1* (faster than 2)
   :::::
   :::::pokemon[Aromatisse]
     - Energy Ball x1
@@ -735,63 +785,67 @@ Head down the stairs and right into the Glimwood Tangle.
 
 :::::::trainer[Gym Trainer Theodora]
   :::::pokemon[Morgrem]
-    - X SpAtk + Giga Drain x1
-    - *Quiz: Answer 2 (Defense Boost)*
-    - If confused, wait to Heal Powder on Gardevoir
+    - X-SpAtk, Giga Drain x1
+    - *Quiz Answer: 2*
   :::::
   :::::pokemon[Gardevoir]
     - Energy Ball x1
+    - *If confused, Heal Powder first*
   :::::
 :::::::
 
-Swap Arcanine to the front. Quiz Answers for Opal: 2, 2, 1.
+Swap Arcanine to the front of the party.
+- Quiz Answers for Opal: 2, 2, 1.
 
 :::::::trainer[Opal]
   :::::pokemon[Weezing]
-    - X SpAtk + Max Flare (Burn Up)
+    - X-SpAtk, Max Flare (Burn Up)
   :::::
   :::::pokemon[Togekiss]
     - Max Flare (Burn Up)
+    - *Range at (29-/1-/x)*
   :::::
   :::::pokemon[Mawile]
-    - If Poisoned and can't survive 2 turns: Heal to full
-    - X SpAtk + Flamethrower x1
+    - *If Poisoned and can't survive 2 turns:* Heal to full
+    - X-SpAtk, Flamethrower x1
   :::::
   :::::pokemon[Alcremie]
-    - If you healed on Mawile: Flamethrower + Burn Up
-    - Otherwise: Burn Up (range at 28-/1-/x)
+    - If you healed on Mawile: Flamethrower x1, Burn Up x1
+    - Otherwise: Burn Up x1 *(range at 28-/1-/x)* + Flamethrower x1
   :::::
 :::::::
 
 :info[**FREE HEAL**]{color=pink}
 
 **Mash B** outside gym to skip traveling with Opal, then:
-- Swap Candyfloss into Slot 1
-- Fly to Central Hammerlocke
-- Continue east to talk with Bede, then Sonia, then Hop
+- Swap Candyfloss into Slot 1.
+- Fly to Central Hammerlocke (Y to auto-cursor).
+- Walk east to talk with Bede, then bike east to Sonia.
+- Walk east to Hop, then bike east to Hop again.
 
 :::::::trainer[Hop 6]
   :::::pokemon[Trevenant]
-    - X SpAtk x2 + Moonblast x1
-    - If confused, Heal Powder before attacking
+    - X-SpAtk x3, Moonblast x1
+    - *If confused,* Heal Powder before attacking
   :::::
   :::::pokemon[Heatmor]
-    - Energy Ball
+    - Moonblast x1
   :::::
   :::::pokemon[Snorlax]
-    - Energy Ball 
+    - Moonblast x1
   :::::
   :::::pokemon[Rillaboom]
-    - Moonblast
+    - Moonblast x1
   :::::
   :::::pokemon[Boltund]
-    - Moonblast
+    - Moonblast x1
   :::::
 :::::::
 
 :info[**FREE HEAL**]{color=pink}
 
-Bike past the Cabbie trainer when he's turned, then proceed forward to Route 8. 
+Bike past the Cabbie trainer when he's turned all the way up or all the way down. 
+- Proceed forward to Route 8. 
 - Take your first right when the road forks and head down the ladder. 
 
 :::::::trainer[Doctor Joanna]
@@ -799,61 +853,70 @@ Bike past the Cabbie trainer when he's turned, then proceed forward to Route 8.
     - Hurricane x1
   :::::
   :::::pokemon[Hattrem]
-    - Energy Ball x1 (13/16 OHKO)
+    - Energy Ball x1-2
   :::::
 :::::::
 
-**Grab the Pixie Plate** but do not equip it yet.
+Follow the main path, take the ladder down into the pit, then up out of the pit. 
+- Continue along the path and **grab the Pixie Plate**, but do not equip it yet.
 
 ![Pixie Plate](https://raw.githubusercontent.com/gav-antula/ranger-routes/main/shield-candyfloss/assets/route8-pixieplate.png)
 
-Pass by the remaining trainers, enter Circhester, and head to the Gym.
-- You can skip all the Gym Trainers, but the first one is tricky [see gif].
+Take the next right (don't go up the stairs) and pause before the DJ trainer.
+- Wait for the trainer to look to the left, then bike past him and go down the ladder.
+- Avoid the Falinks crossings, go up the ladders, and proceed north.
+
+Keep your distance from the Police trainer, enter Circhester, and head north to the Gym.
+- You can skip all the Gym Trainers, but the first one is tricky (see below).
 - Follow the Map below to navigate around the pitfalls. 
 
-![Gym Trainer Skip](https://raw.githubusercontent.com/Corvimae/ranger-Routes/main/drifblim-alt-main-sword/assets/gordieTrainerSkipMovement.gif)
+![Gym Trainer Skip](https://raw.githubusercontent.com/gav-antula/ranger-routes/main/shield-candyfloss/assets/IceGymSkip.gif)
 
-![Gordie Gym Movement](https://raw.githubusercontent.com/Corvimae/ranger-Routes/main/drifblim-alt-main-sword/assets/gordieGymMovement.png)
+![Gym Movement](https://raw.githubusercontent.com/gav-antula/ranger-routes/main/shield-candyfloss/assets/gordieGymMovement.png)
 
-Save before Melony recommended.
+Save before Melony recommended (x, then R).
 
 :::::::trainer[Melony]
   :::::pokemon[Frosmoth]
-    - X SpAtk + Max Airstream
+    - X-SpAtk, Max Airstream x1
+    - *Getting crit by Icy Wind = KO*
   :::::
   :::::pokemon[Darmanitan]
-    - Max Overgrowth (Energy Ball)
+    - Max Overgrowth (Energy Ball) x1
   :::::
   :::::pokemon[Eiscue]
-    - Max Overgrowth (Energy Ball)
+    - Max Overgrowth (Energy Ball) x1
   :::::
   :::::pokemon[Lapras]
-    - Energy Ball (15/16 OHKO)
+    - Energy Ball x1 *(15/16 OHKO)*
+    - **WARNING:** Your cursor resets after Dynamaxing
   :::::
 :::::::
 
 :info[**FREE HEAL**]{color=pink}
 
-Go down the left side of town to reach the restaurant.
+**Equip the Pixie Plate**.
+- Exit the gym and head down the left side of town to reach the restaurant.
+- Exit the restaurant to face off versus Hop.
 
 :info[**FREE HEAL**]{color=pink}
 
-:::::::trainer[Hop 7: In theory, you do not need to heal in this fight]
+:::::::trainer[Hop 7]
   :::::pokemon[Dubwool]
-     - X SpAtk x3 + Giga Drain x1
-     - :info[Take Down = ~40 dmg; Hail = 7 dmg]{color=red}
+    - X-SpAtk x3, Giga Drain x1
+    - :info[Take Down = 34-42 dmg; Hail = 7 dmg]{color=red}
   :::::
   :::::pokemon[Corviknight]
-    - Moonblast
+    - Moonblast x1
   :::::
   :::::pokemon[Snorlax]
-    - Moonblast
+    - Moonblast x1
   :::::
   :::::pokemon[Rillaboom]
-    - Moonblast
+    - Moonblast x1
   :::::
   :::::pokemon[Pincurchin]
-    - Giga Drain
+    - Giga Drain x1
   :::::
 :::::::
 
@@ -862,74 +925,79 @@ Head east then south to Route 9.
 
 :::::::trainer[Team Yell Grunt]
   :::::pokemon[Linoone]
-    - Moonblast
+    - Moonblast x1
   :::::
   :::::pokemon[Pangoro]
-    - Moonblast
+    - Moonblast x1
     - :info[Bullet Punch = ~40 dmg; Hail = 7 dmg]{color=red}
   :::::
 :::::::
 
-Take top-right path, hug left wall, go **behind** the fisher, and down to the beach.
-- Pick up hidden **Max Elixer** on the beach in the rock triangle.
+Take top-right path, hug left wall, go **behind** the fisher, and south to the beach (see image).
+
+![Route 9 Path](https://raw.githubusercontent.com/gav-antula/ranger-routes/main/shield-candyfloss/assets/Route9.jpg)
+
+Pick up hidden **Max Elixir** on the beach in the rock triangle.
+- Continue south and approach the crowd to trigger the cutscene.
+- Walk over to Marnie to battle her.
 
 :::::::trainer[Marnie 2]
   :::::pokemon[Liepard]
-    - X SpAtk + Giga Drain x1
+    - X-SpAtk, Giga Drain x1
   :::::
   :::::pokemon[Toxicroak]
     - Moonblast x1
   :::::
   :::::pokemon[Scrafty]
-    - Mooblast x1 (if Torment, Hurricane x1)
+    - Mooblast x1
+    - *If Torment:* Hurricane x1
   :::::
   :::::pokemon[Morpeko]
-    - Moonblast x1
+    - Energy Ball x1
   :::::
 :::::::
 
-Head inside Spikemuth and into the gym challenge.
+Head inside Spikemuth and begin the gym challenge.
+- Note: You can't ride your bike in here *during* the Gym Challenge.
 
 :::::::trainer[Team Yell Grunt]
   :::::pokemon[Linoone]
-    - Moonblast
+    - Moonblast x1
   :::::
 :::::::
 
 :::::::trainer[Team Yell Grunt]
   :::::pokemon[Thievul]
-    - Moonblast
+    - Moonblast x1
   :::::
 :::::::
 
-Heal to full and revive Ninetales if needed
-
 :::::::trainer[Team Yell Grunt]
   :::::pokemon[Scrafty]
-    - Moonblast
+    - Moonblast x1
   :::::
 :::::::
 
 :::::::trainer[Team Yell Grunt]
   :::::pokemon[Weavile]
-    - Moonblast
+    - Moonblast x1
     - :info[Ice Shard = ~54 dmg]{color=red}
   :::::
 :::::::
 
 :::::::trainer[Team Yell Double]
   :::::pokemon[Drapion]
-    - Moonblast | X SpAtk on Candyfloss
+    - Moonblast x1  | X-SpAtk on Candyfloss
   :::::
   :::::pokemon[Liepard]
-    - Giga Drain | Max Elixir on Candyfloss
+    - Giga Drain x1 | Max Elixir on Candyfloss
   :::::
 :::::::
 
 :::::::trainer[Piers]
   :::::pokemon[Scrafty]
-    - X SpAtk + Moonblast x1
-    - If Sand Attack Turn 1, use X Accuracy before Moonblast
+    - X-SpAtk, Moonblast x1
+    - *If Sand Attack Turn 1,* use an X-Acc
   :::::
   :::::pokemon[Malamar]
     - Moonblast x1
@@ -944,82 +1012,88 @@ Heal to full and revive Ninetales if needed
 
 :info[**FREE HEAL**]{color=pink}
 
-Re-enter Spikemuth immediately.
-- Bike through town all the way to Piers's stage to pick up the Choice Specs.
+Get on your bike and re-enter Spikemuth immediately.
+- Bike through town all the way to Piers's stage to **pick up the Choice Specs**.
 - Bike all the way back through Spikemuth to the exit. 
-- Bike through the Route 9 Tunnel.
-- After talking to Hop, give the Choice Specs to Candyfloss.
+- Continue biking west, through the Route 9 Tunnel.
+- Navigate the crowd (path: middle, down, up) and exit the tunnel.
+
+After talking to Hop, **equip the Choice Specs** on Candyfloss.
 - Fly to Central Hammerlocke and enter the Gym.
 
 :::::::trainer[Gym Trainer Sebastian]
   :::::pokemon[Pelipper]
-    - Moonblast | Burn Up 
+    - Moonblast x1 | Burn Up  x1
   :::::
   :::::pokemon[Sliggoo]
-    - Moonblast | Heal whatever took damage
+    - Moonblast x1 | Heal whatever took damage
   :::::
 :::::::
 
 :::::::trainer[Gym Trainer Camilla]
   :::::pokemon[Turtonator]
-    - Moonblast | X SpAtk on Candyfloss
+    - Moonblast x1 | X-SpAtk on Candyfloss
   :::::
   :::::pokemon[Ninetales]
-    - Moonblast | X SpAtk on Candyfloss
-    - If Moonblast Disabled: X Spatk on Arcanine | Flamethrower, then X SpAtk on Arcanine | Burn Up
+    - Moonblast x1 | X-SpAtk on Candyfloss
+      - *If Moonblast is Disabled*: 
+      - X-SpAtk on Arcanine | Flamethrower x1
+      - X-SpAtk on Arcanine | Burn Up x1
+    - 
   :::::
 :::::::
 
 Menuing before last Gym Trainer:
-- Swap the Choice Specs from Candyfloss to Arcanine
-- Give the Pixie Plate to Candyfloss
-- If Candyfloss is burned, use a Burn Heal/Energy Powder
+- **Swap the Choice Specs** from Candyfloss to Arcanine (X to swap items).
+- **Give the Pixie Plate** to Candyfloss.
+- If Candyfloss is burned, use a Burn Heal/Heal Powder.
 
 :::::::trainer[Gym Trainer Aria]
-  :::::pokemon[Abomasnow]
-    - Flamethrower x1
-  :::::
   :::::pokemon[Hakamo-o]
     - Moonblast x1
+  :::::
+  :::::pokemon[Abomasnow]
+    - Flamethrower x1
   :::::
 :::::::
 
 :::::::trainer[Raihan]
   :::::pokemon[Gigalith]
-    - Energy Ball | X SpAtk on Candyfloss
+    - Energy Ball x1 | X-SpAtk on Candyfloss
   :::::
-  :::::pokemon[Sandaconda + Flygon + Duraludon]
-    - If Flygon used *Breaking Swipe* Turn 1:
-       - Moonblast [Sandaconda] | X SpAtk on Candyfloss
-       - Moonblast [Duraludon] | Heal Powder on Paralyzed Pokemon
-       - Energy Ball [Flygon] | Flamethrower [Flygon]
-    - If Flygon used *Steel Wing* Turn 1:
-       - Energy Ball [Flygon] | X SpAtk on Candyfloss
-       - Moonblast [Duraludon] | Heal Powder on Paralysis (if needed)
-       - Moonblast [Sandaconda] | Heal Powder on Paralysis (if needed)
+  :::::pokemon[Sandaconda]
+    - Giga Drain x1 | X-SpAtk on Candyfloss
+  :::::
+  :::::pokemon[Duraludon]
+    - Moonblast x1 | heal status on Candyfloss (or Leer)
+  :::::
+  :::::pokemon[Flygon]
+    - Energy Ball x1 | heal status on Candyfloss (or Leer)
   :::::
 :::::::
 
 :info[**FREE HEAL**]{color=pink}
 
-After the cutscene with Professor Magnolia:
-- Swap the Choice Specs onto Candyfloss
-- Fly to East Hammerlocke and enter the train station
-- Arrive at the Route 10 Station and purchase Full Restore x9 from the clerk.
+Exit the gym for cutscene with Professor Magnolia.
+- Swap the **Choice Specs** onto Candyfloss.
+- Fly to East Hammerlocke and bike left to reach the train station.
+- Arrive at the Route 10 Station and purchase **Full Restore x11** (>^) from the clerk.
+- *If you were KO'd by any trainer during the run, only buy x9.*
 
 :::::::trainer[Doctor Graham]
   :::::pokemon[Gardevoir]
-    - X SpAtk + Giga Drain (if Calm Mind, Moonblast instead)
+    - X-SpAtk, Giga Drain x1
+    - *If Gardevoir uses Calm Mind:* Moonblast x1 instead
   :::::
 :::::::
 
-Dodge the Hiker at the top of the hill and the Office Worker behind them. 
+Dodge the Hiker at the top of the hill and pass the Office Worker behind them. 
 - Go behind the rock in the path to fight the **Postman** instead of the Cabbie.
 
 :::::::trainer[Postman Harper]
   :::::pokemon[Pelipper]
-    - X SpAtk + Moonblast x1
-    - Air Slash = ~90 dmg
+    - X-SpAtk, Moonblast x1
+    - :info[Air Slash = ~90 dmg]{color=red}
   :::::
   :::::pokemon[Noctowl]
     - Moonblast x1
@@ -1035,13 +1109,15 @@ Dodge the Hiker at the top of the hill and the Office Worker behind them.
   :::::
 :::::::
 
+Follow the path west, then north. Be prepared to **STOP** after the next fight.
+
 :::::::trainer[Gentleman Glen]
   :::::pokemon[Darmanitan]
     - Moonblast x1
   :::::
   :::::pokemon[Falinks]
     - Moonblast x1
-    - First Impression = 32 dmg
+    - :info[First Impression = ~32 dmg; Hail = 7 dmg]{color=red}
   :::::
   :::::pokemon[Grapploct]
     - Moonblast x1
@@ -1050,14 +1126,21 @@ Dodge the Hiker at the top of the hill and the Office Worker behind them.
 
 **STOP IMMEDIATELY**
 - Deposit Arcanine before proceeding to skip the double battle.
-- Proceed into Wyndon and talk to Hop.
+- Proceed north into Wyndon.
+
+Talk to Hop in Wyndon, then open your menu.
 - Put Arcanine back in your party.
-- Swap the Pixie Plate back onto Candyfloss.
-- Fly to the northeast Pokemon Center (X > + > up-right)
+- **Swap the Pixie Plate** back onto Candyfloss.
+- Fly to the northeast Pokemon Center (X, +, up-right)
+
+Bike into Wyndon Stadium and talk to the front desk.
+- Walk through the tunnel onto the pitch.
 
 :::::::trainer[Marnie 3]
   :::::pokemon[Liepard]
-    - X SpAtk + Giga Drain x1
+    - X-SpAtk, then:
+      - If 38- HP, Giga Drain x1
+      - If 39+ HP, Energy Ball x1
   :::::
   :::::pokemon[Toxicroak]
     - Moonblast x1
@@ -1076,12 +1159,12 @@ Dodge the Hiker at the top of the hill and the Office Worker behind them.
 	
 :info[**FREE HEAL**]{color=pink}
 
-Swap the Choice Specs onto Candyfloss.
+**Swap the Choice Specs** from Arcanine onto Candyfloss.
 
 :::::::trainer[Hop 8]
   :::::pokemon[Dubwool]
-    - X SpAtk x2 + Moonblast x1
-    - Full Restore before attacking if Paralyzed
+    - X-SpAtk x2, Moonblast x1
+    - *If Paralyzed:* Full Restore/Heal Powder
   :::::
   :::::pokemon[Pincurchin]
     - Moonblast x1
@@ -1099,11 +1182,11 @@ Swap the Choice Specs onto Candyfloss.
 
 :info[**FREE HEAL**]{color=pink}
 
-Leave the hotel and talk to Piers
-- Say Yes to be teleported to the Plaza
-- Swap Arcanine to the front
-- Swap the Choice Specs onto Arcanine
-- Find Cosmo Eric in the three locations below.
+Leave the hotel and talk to Piers.
+- Say Yes to be teleported to the Plaza.
+- **Swap Arcanine** to the front (Y to swap).
+- **Swap the Choice Specs** onto Arcanine from Candyfloss.
+- Find Macro Cosmo Eric in the three locations below.
 
 Northeast
 
@@ -1118,15 +1201,13 @@ Northeast
   :::::
 :::::::
 
-Go into the Plaza's PokeCenter to purchase:
-- Calcium x5
-- Zinc x9
+Bike west and go into the Plaza's PokeCenter to purchase **Calcium x13**. Exit.
 
 West-Central
 
 ![Eric 2 Location](https://raw.githubusercontent.com/Corvimae/ranger-Routes/main/drifblim-alt-main-sword/assets/eric2Location.png)
 
-:::::::trainer[Macro Cosmos' Eric 2: (Defense +2)]
+:::::::trainer[Macro Cosmos' Eric 2: (Def/SpD +2)]
   :::::pokemon[Mawile]
     - Flamethrower x1
   :::::
@@ -1139,7 +1220,7 @@ Far West
 
 ![Eric 3 Location](https://raw.githubusercontent.com/Corvimae/ranger-Routes/main/drifblim-alt-main-sword/assets/eric3Location.png)
 
-:::::::trainer[Macro Cosmos' Eric 3: (Offense +2)]
+:::::::trainer[Macro Cosmos' Eric 3: (Atk/SpA +2)]
   :::::pokemon[Ferroseed]
     - Flamethrower x1
   :::::
@@ -1148,7 +1229,7 @@ Far West
   :::::
 :::::::
 
-Bike into Rose Tower
+Bike into Rose Tower.
 
 :::::::trainer[Macro Cosmos' Elijah]
   :::::pokemon[Durant]
@@ -1156,7 +1237,7 @@ Bike into Rose Tower
   :::::
 :::::::
 
-Walk into elevator
+Walk into elevator.
 
 :::::::trainer[Macro Cosmos' Double]
   :::::pokemon[Cufant]
@@ -1181,10 +1262,10 @@ Walk into elevator
 :info[**FREE HEAL**]{color=pink}
 
 :::::::trainer[Macro Cosmos' Double]
-  :::::pokemon[Steelix]
-    - Flamethrower x1
-  :::::
   :::::pokemon[Stunfisk]
+    - Flamethrower x1 + Hop x1
+  :::::
+  :::::pokemon[Steelix]
     - Flamethrower x1
   :::::
 :::::::
@@ -1192,17 +1273,17 @@ Walk into elevator
 :info[**FREE HEAL**]{color=pink}
 
 Before Oleana fight, open your menu and:
-- Give Candyfloss the Wise Glasses
-- Give Candyfloss all of your Calcium & Zinc
-- Swap the Choice Specs onto Candyfloss
-- Swap Candyfloss to the front of the party
-- Save.
+- Give Candyfloss the Wise Glasses.
+- Give Candyfloss all of your Calcium.
+- Swap the Choice Specs onto Candyfloss from Arcanine.
+- Swap Candyfloss to the front of the party.
 
 :::::::trainer[Oleana]
   :::::pokemon[Froslass]
-    - X SpAtk + X Acc + Hurricane x1
-    - If Speed dropped: use an X-Speed before attacking
-    - Hex (when burned) = 78 dmg
+    - X-SpAtk, X-Acc, Hurricane x1
+      - If Speed dropped: X-Speed x1
+      - If BRN & 69- HP: Full Restore
+    - 
   :::::
   :::::pokemon[Salazzle]
     - Hurricane x1
@@ -1211,7 +1292,8 @@ Before Oleana fight, open your menu and:
     - Hurricane x1
   :::::
   :::::pokemon[Milotic]
-    - X SpAtk + Hurricane x1
+    - X-SpAtk, Hurricane x1
+    - :info[Surf = 27-33 dmg]{color=red}
   :::::
   :::::pokemon[Garbodor]
     - Hurricane x1
@@ -1224,16 +1306,16 @@ Mash A to fast travel, then head inside stadium.
 
 :::::::trainer[Bede 4]
   :::::pokemon[Mawile]
-    - X-SpAtk + Giga Drain x1
+    - X-SpAtk, Moonblast x1
   :::::
   :::::pokemon[Gardevoir]
-    - X-SpAtk + Giga Drain x1
+    - Moonblast x1
   :::::
   :::::pokemon[Rapidash]
-    - Giga Drain x1
+    - Moonblast x1
   :::::
   :::::pokemon[Hatterene]
-    - Giga Drain x1
+    - Moonblast x1
   :::::
 :::::::
 
@@ -1241,7 +1323,7 @@ Mash A to fast travel, then head inside stadium.
 
 :::::::trainer[Nessa 2]
   :::::pokemon[Golisopod]
-    - X-SpAtk + X Speed + Energy Ball x1
+    - X-SpAtk, X Speed, Energy Ball x1
   :::::
   :::::pokemon[Pelipper]
     - Energy Ball x1
@@ -1261,7 +1343,7 @@ Mash A to fast travel, then head inside stadium.
 
 :::::::trainer[Allister 2]
   :::::pokemon[Dusknoir]
-    - Guard Spec. + X Acc + X SpAtk x2 + Hurricane x1
+    - Guard Spec, X-Acc, X-SpAtk x2, Hurricane x1
   :::::
   :::::pokemon[Chandelure]
     - Hurricane x1
@@ -1281,11 +1363,11 @@ Mash A to fast travel, then head inside stadium.
 
 :::::::trainer[Raihan 2]
   :::::pokemon[Torkoal]
-    - X SpAtk + Moonblast x1
+    - X-SpAtk, Moonblast x1
   :::::
   :::::pokemon[Turtonator]
-    - Full Restore if asleep (usually safe because Shell Trap)
     - Moonblast x1
+    - *If asleep:* Full Restore/Heal Powder
   :::::
   :::::pokemon[Goodra]
     - Moonblast x1
@@ -1299,27 +1381,26 @@ Mash A to fast travel, then head inside stadium.
 :::::::
 
 Swap Arcanine back into Slot 1 and run onto the pitch.
-Make your way through the Slumbering Weald [see gif].
+- Make your way through the Slumbering Weald by staying to the left (but NOT going under the log).
+- See gif for more direction. *Source: wsopboy91's 4:07:06 run*
 
-![wsopboy91's 4:07:06 Slumbering Weald Movement](https://raw.githubusercontent.com/Corvimae/ranger-Routes/main/drifblim-alt-main-sword/assets/slumberingWealdMovement.gif)
-
-Movement from wsopboy91's 4:07:06 run
+![Slumbering Weald Movement](https://raw.githubusercontent.com/Corvimae/ranger-Routes/main/drifblim-alt-main-sword/assets/slumberingWealdMovement.gif)
 
 Pick up the Shield, then talk to Hop to leave the forest.
-- Enter the Hammerlocke Gym and take the elevator down
-- Mash B when talking to Rose
+- Enter the Hammerlocke Gym and take the elevator down.
+- Mash B when talking to Rose to choose option 2 in the conversation.
 
 :::::::trainer[Rose]
   :::::pokemon[Escavalier]
     - Flamethrower x1
   :::::
   :::::pokemon[Klinklang]
-    - X SpAtk + Flamethrower x1
-  :::::
-  :::::pokemon[Perrserker]
-    - Flamethrower x1
+    - X-SpAtk, Flamethrower x1
   :::::
   :::::pokemon[Ferrothorn]
+    - Flamethrower x1
+  :::::
+  :::::pokemon[Perrserker]
     - Flamethrower x1
   :::::
   :::::pokemon[Copperajah]
@@ -1329,53 +1410,54 @@ Pick up the Shield, then talk to Hop to leave the forest.
 
 Before talking to Hop:
 - Swap Candyfloss into Slot 1.
-- Withdraw two Pokemon from your box for safety.
-
-~1 minute cutscene
+- Heal Arcanine to full HP.
+- Go up the elevator for a 1 minute cutscene.
 
 :::::::trainer[Eternatus 1]
   :::::pokemon[Base Form]
     - Moonblast x2-3
-    - If KO'd, put in Arcanine and use Revive on Candyfloss
+    - *If Eternatus KOs Candyfloss,* Max Revive it and spam Extreme Speed.
   :::::
 :::::::
 
 :info[**FREE HEAL**]{color=pink}
 
-Spam A
-~1:20 cutscene
+Mash A through the first D-Max Eternatus "fight" sequence.
+- Wait for the legendary dogs to arrive (1:20 cutscene).
 
 :::::::trainer[Eternatus 2]
   :::::pokemon[Max Form]
-    - Guard Spec + Spam Moonblast
-    - Revive Candyfloss if needed
+    - Guard Spec, Moonblast x2-3
+    - *If Eternatus KOs Candyfloss,* Max Revive it and spam Leer with Arcanine.
   :::::
 :::::::
 
-Go outside and open the menu:
-- Swap Wise Glasses from Arcanine onto Eternatus
-- Deposit everything except Eternatus
-- Check Eternatus's Speed (press +)
-- Fly to the northeast PokeCenter and enter the Stadium
+Go outside the hotel and open the menu:
+- Swap Wise Glasses from Arcanine onto Eternatus.
+- Deposit everything except Eternatus.
+- Check if Eternatus's Speed is 194+ (press + when in the Pokemon Box).
+- Fly to the northeast PokeCenter and enter the Stadium.
 
 :::::::trainer[Leon]
   :::::pokemon[Aegislash]
-    - X-SpAtk + X-Speed + Flamethrower
-    - &#8594; If you have 194+ Speed, you can skip the X Speed
+    - X-SpAtk, X-Speed, Flamethrower x1
+    - *If you have 194+ Speed, you can skip the X-Speed.*
   :::::
   :::::pokemon[Haxorus]
-    - Dynamax Cannon
+    - Dynamax Cannon x1
   :::::
   :::::pokemon[Mr. Rime]
-    - Flamethrower
+    - Flamethrower x1
   :::::
   :::::pokemon[Dragapult]
-    - Dynamax Cannon
+    - Dynamax Cannon x1
   :::::
   :::::pokemon[Inteleon]
-    - Dynamax Cannon
+    - Dynamax Cannon x1
   :::::
   :::::pokemon[Charizard]
-    - Dynamax Cannon
+    - Dynamax Cannon x1
   :::::
 :::::::
+
+Timing ends when the screen finishes fading to black, after Leon tosses his hat.
