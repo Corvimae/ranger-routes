@@ -1,11 +1,12 @@
 {
-  "title": "Candyfloss-Shield", 
+  "title": "Candyfloss", 
   "author": [ 
     {
-      "name": "gavinNBD", 
+      "name": "moregrimm", 
+      "link": "https://www.speedrun.com/user/moregrimm"
     }
   ],
   "game": "Shield", 
   "generation": 8,
-  "version": "1.0.0"
+  "version": "1.2.0"
 }
