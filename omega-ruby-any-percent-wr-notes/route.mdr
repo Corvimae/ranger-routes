@@ -31,11 +31,17 @@
 :::tracker{species="Latios" generation=6 baseStats="[[80, 90, 80, 130, 110, 110]]"}
 30:
   30 -> 0, 0, 0, 0, 0, 0
+  31 -> 0, 3, 1, 3, 0, 2
+  32 -> 1, 3, 3, 3, 2, 4
+  33 -> 1, 5, 6, 4, 2, 4
 :::
 
-:::tracker{species="Groudon" generation=6 baseStats="[[100, 150, 140, 100, 90, 90]]"}
+:::tracker{species="Groudon" generation=6 baseStats="[[100, 150, 140, 100, 90, 90], [100, 180, 160, 150, 90, 90]]"}
 45:
   45 -> 0, 0, 0, 0, 0, 0
+  46 -> 4, 2, 0, 0, 2, 3
+  47 -> 6, 5, 1, 0, 6, 3
+  48 -> 7, 10, 1, 4, 6, 4
 ::: 
 :::card{theme=info}
 Ported by Fortunate 
@@ -117,7 +123,7 @@ Potion if in Rock Tomb range.
 :::::
 
 Talk to the sailor before Rusturf Tunnel.
-:::if{source="Mudkip" condition="speed=(24+/ 12+ / 4+)"}
+:::if{source="Mudkip" condition="speed=(24+/ 12+ / 4+) && (atk=(x/ x / 19+) || spatk=(24+/ 9+ / #))"}
  ::variable{name="rtskip" type="boolean" title="Rock Tomb Skip, only valiable at (29+ / 12+ / 4+) IV Speed" defaultValue=0}
 :::
 Immediately after entering Rusturf Tunnel:
@@ -135,20 +141,17 @@ Immediately after entering Rusturf Tunnel:
 
 :::::::trainer[Team Magma Grunt]
   :::::pokemon[Poochyena]{info="Faster before Rock Tomb hit at 15+ Speed (20+ / 4+ / 0+)" infoColor=blue}
-   :::if{source="Mudkip" condition="spatk=(24+/ 9+ / #) && speed=(24+/ 12+ / 4+)"}
+   :::if{source="Mudkip" condition="$rtskip && spatk=(24+/ 9+ / #) && speed=(24+/ 12+ / 4+) && atk=~(x/ x / 19+)"}
      - Water Gun x3
    :::
    :::if{source="Mudkip" condition="$rtskip && atk=(x/ x / 19+)"} 
      - Tackle x3
    :::  
-   :::if{source="Mudkip" condition="!$rtskip && atk=(x/ 19+ / 2-18) && speed=(24+/ 12+ / 4+)"}
-     - Rock Tomb, Tackle x2
-   :::
-   :::if{source="Mudkip" condition="!$rtskip && atk=~(x/ 19+ / 2+) && spatk=~(24+/ 9+ / #) && speed=(24+/ 12+ / 4+)"}
-     - Rock Tomb x2, Water Gun
-   :::
 
-   :::if{source="Mudkip" condition="!$rtskip && spatk=(24+/ 9+ / #)"}
+   :::if{source="Mudkip" condition="!$rtskip && spatk=(24+/ 9+ / #) && speed=(20+/ 4+ / 0+)"}
+     - Water Gun x3
+   :::
+   :::if{source="Mudkip" condition="!$rtskip && spatk=(24+/ 9+ / #) && speed=~(20+/ 4+ / 0+)"}
      - Rock Tomb, Water Gun x2
    :::
    :::if{source="Mudkip" condition="!$rtskip && spatk=~(24+/ 9+ / #)"}
@@ -259,16 +262,8 @@ Grab/Skip PP UP
 :::::trainer[Team Magma Grunt]
   :::pokemon[Numel]{info="Faster at 18+ Speed (19+ / 6+ / 0+)" infoColor=blue}
     - Water Gun (x2) Torrent is always OHKO
-    :::if{source="Mudkip" condition="atk=(0-26 / 0-6 / x)" theme=error}
-      **OHKO 1/16**
-    :::
-    :::if{source="Mudkip" condition="atk=(27+ / 7-26 / 0-13)" theme=error}
-      **OHKO 12/16**
-    :::
-    :::if{source="Mudkip" condition="atk=(x / 27+ / 14+)" theme=error}
-      **100% range.**
-    :::
 
+    ::damage[Watergun w/o Torrent vs Numel]{source="Mudkip" evolution=0 movePower=40 special=true stab=true level=15 opponentStat=19  healthThreshold=45 effectiveness=4 theme=error}
   :::
 :::::
 
@@ -288,7 +283,7 @@ Grab/Skip PP UP
       **Rock Tomb Range 15/16**
     :::
     :::if{source="Mudkip" condition="!$rtskip && atk=(x / 26+ / 13+)" theme=error}
-      **100%**
+      **Rock Tomb 100% Range**
     :::
   :::
   :::pokemon[Numel]
@@ -309,10 +304,10 @@ Grab/Skip PP UP
 > :::if{source="Mudkip" condition="$ppskip || speed=(28+ / 12+ / #) || speed=(x/0-1/x)"}
 > - 5 X Speed
 > :::
-> :::if{source="Mudkip" condition="speed=(27+ / 9 - 11 / x) || speed=(20-21 / 2-4 / x)"}
+> :::if{source="Mudkip" condition="speed=(27 / 9 - 11 / x) || speed=(20-21 / 2-4 / x)"}
 > - 6 X Speed
 > :::
-> :::if{source="Mudkip" condition="speed=(20-21 / 2 - 4/ x)"}
+> :::if{source="Mudkip" condition="speed=(22-26 / 5 - 8/ x)"}
 > - 7 X Speed
 > :::
 > :::if{source="Mudkip" condition=$ppskip}
@@ -322,7 +317,7 @@ Grab/Skip PP UP
 > - 9 X Attack (v)
 > :::
 > - 1 X Defend (v)
-> :::if{source="Mudkip" condition="spatk=(17+ / 13- / 2-)"}
+> :::if{source="Mudkip" condition="!$ppskip && spatk=(17+ / 13- / 2-)"}
 > - 7 X Sp. Attack (>^^)
 > :::
 > :::if{source="Mudkip" condition="$ppskip || spatk=~(17+ / 13- / 2-)"}
@@ -358,7 +353,7 @@ After beating Isabel:
     :::if{source="Mudkip" condition="!$ppskip && spatk=(17+ / 13- / 2-)"}
     - X Sp. Attack x4
     :::
-    :::if{source="Mudkip" condition="speed=(22-26 / 5 - 8 / x) || spatk=~(# / 18- / 2-)"}
+    :::if{source="Mudkip" condition="$ppskip || spatk=~(17+ / 13- / 2-)"}
     - X Sp. Attack x3
     ::: 
     :::if{source="Mudkip" condition="speed=(21- / 4- / x)"}
@@ -436,20 +431,21 @@ Puzzle (room 2): Top-right blue switch, red switch, top-right blue switch.
   :::
 :::::
 
-:::::trainer[Leader Wattson]
-  :::pokemon[Magnemite]
+:::::::trainer[Leader Wattson]
+  :::::pokemon[Magnemite]
     - Water Gun
-  :::if{source="Mudkip" condition="speed=(20+/2+/0+)"}
+    :::if{source="Mudkip" condition="speed=(20+/2+/0+)"}
     - X Speed
-  :::  
-  - Bulldoze
-  :::pokemon[Magneton]
+    :::  
     - Bulldoze
-  :::
-  :::pokemon[Voltorb]{info="Faster at 30+ Speed (x / 17+ / 7+)" infoColor=blue}
+  :::::
+  ::::pokemon[Magneton]
     - Bulldoze
-  :::
-:::::
+  ::::
+  ::::pokemon[Voltorb]{info="Faster at 30+ Speed (x / 17+ / 7+)" infoColor=blue}
+    - Bulldoze
+  ::::
+:::::::
 
 Exit the gym and head north. At the rocks:
 - Use a Super Repel (keep applied until they run out).
@@ -489,7 +485,7 @@ Head through the cave. After exiting, grab the Persim Berries from the middle bu
   :::::
 :::::::
 
-:info[Bulldoze count matters, Don't waste them]{color=yellow}
+:info[**Bulldoze count matters, Don't waste them**]{color=yellow}
 
 :info[**Free heal**]{color=pink}
 
@@ -512,7 +508,7 @@ Pick up the Comet Shard from the center of the first crater.
 
 If significantly damaged Heal to full.
 
-:::trainer[Team Magma Double]
+:::::trainer[Team Magma Double]
   :::pokemon[Mightyena]
     Bulldoze, Rock Smash x1-3
   :::
@@ -521,7 +517,7 @@ If significantly damaged Heal to full.
   :::
   :::pokemon[Numel]
    -  Water Gun (x2)
-:::
+:::::
 
 Say yes when Brendan asks if you want to go back to Mauville.
 
@@ -533,7 +529,7 @@ Go to the mart.
 
 ### Mauville Shopping
 > #### Sell (Bottom)
-> - Comet Shard and Nugget
+> - Comet Shard
 > #### Buy (Bottom)
 > - 11 Hyper Potions (>^^)
 > - 5 Full Heals (>)
@@ -557,6 +553,8 @@ Head north towards the cable car, and at the grass:
   :::pokemon[Koffing]
     - Heal at any point if Self-Destruct can kill
     - Strength  until Self-Destruct
+
+  ::damage[Koffing's Self-Destruct]{source="Mudkip" evolution=1 offensive=false movePower=200 level=24 opponentLevel=24 opponentStat=36 combatStages=0 stab=false}
   :::
   :::pokemon[Numel]
     - Bulldoze
@@ -574,28 +572,23 @@ Head north towards the cable car, and at the grass:
     :::if{source="Mudkip" condition="speed=~(28+ / 12+ / #)"}
     - X Speed x2
     :::
-    - (X Attack if you have not been Swagger'd)
+    - X Attack
     - If at +2/3: Strength x2
+    - If at +4: Bulldoze (+Strength)
   :::::
   :::::pokemon[Camerupt]
     - Bulldoze
   :::::
   :::::pokemon[Golbat]{info="Faster at +1 at 34+ Speed (28+ / 12+ / 0+)" infoColor=blue}
-    - Rock Tomb
-    :::if{source="Mudkip" condition="atk=(x / 19+ / 3+)"}
-     - Rock Smash
-    :::
-    :::if{source="Mudkip" condition="atk=~(x / 19+ / 3+)"}
-     - Rock Tomb
-    :::
+    - Strength (x2)
 
-    ::damage[+3 Strength vs Golbat]{source="Mudkip" evolution=1 movePower=80 level=25  opponentStat=36  healthThreshold=72 combatStages=3 effectiveness=1 theme=error}
-    ::damage[+4 Strength vs Golbat]{source="Mudkip" evolution=1 movePower=80 level=25  opponentStat=36  healthThreshold=72 combatStages=4 effectiveness=1 theme=error}
+    ::damage[+3 Strength vs Golbat]{source="Mudkip" evolution=1 movePower=80 level=25 opponentStat=36  healthThreshold=72 combatStages=3 effectiveness=1 theme=error}
+    ::damage[+4 Strength vs Golbat]{source="Mudkip" evolution=1 movePower=80 level=25 opponentStat=36  healthThreshold=72 combatStages=4 effectiveness=1 theme=error}
   :::::
 :::::::
 
-- Heal to full (unless no significant damage was taken).
 - Equip the Soft Sand.
+- Heal to full (unless no significant damage was taken).
 
 -Get TM Swords Dance from the Black Belt outside mart  (SAY NO)
 
@@ -612,7 +605,9 @@ Gym puzzle:
     - Bulldoze
   :::
 :::::
-####Keep track of Bulldoze PP need 13/14. Save them accordingly.
+
+:info[**Keep track of Bulldoze PP. Need 13/14. Save them accordingly.**]{color=green}
+
 :::::trainer[Leader Flannery]
   :::pokemon[Slugma]
     - Bulldoze/Mud Shot if need to save PP
@@ -643,7 +638,7 @@ Say Yes to Brendon.
 Heal to full. (+Equip Soft Sand)
 
 Always take the right door when there is one.
-####NEED 5 BULLDOZES FOR DAD.
+:info[**NEED 5 BULLDOZES FOR DAD.**]{color=green}
 
 :::::trainer[Ace Trainer Mary]
   :::pokemon[Delcatty]
@@ -689,7 +684,7 @@ Heal to full.
 
 :::::trainer[Ace Trainer Berke]
   :::pokemon[Zangoose]
-    - Bulldoze x2 + Strength
+    - Bulldoze x2 + Strength :info[99.6% range at (x /10-12 /x)]{color=gray}
   :::
 :::::
 
@@ -706,7 +701,19 @@ Heal to full.
     :::
     - X Attack x4 :info[_Can skip the 4th based on the ranges below._]{color=red}
     - Heal Sleep on an attacking turn (If you need to stall, use Bulldoze).
-    - Bulldoze x2
+    - Bulldoze x2/Bulldoze + Strength
+    :::if{source="Mudkip" condition="atk=(x / 10-11 / x)" theme=error}
+      **+4 Bulldoze + Strength is an 85.9% range.**
+    :::
+    :::if{source="Mudkip" condition="atk=(x / 12-15 / x)" theme=error}
+      **+4 Bulldoze + Strength is an 93.4% range.**
+    :::
+    :::if{source="Mudkip" condition="atk=(x / 16-18 / 0)" theme=error}
+      **+4 Bulldoze + Strength is an 98.4% range.**
+    :::
+    :::if{source="Mudkip" condition="atk=(x / 19+ / 1+)" theme=error}
+      **+4 Bulldoze + Strength is a 100% range.**
+    :::
 
     ::damage[Slaking's Retaliate at +1 Defense]{source="Mudkip" evolution=1 offensive=false movePower=70 level=28 evs=8 opponentLevel=28 opponentStat=94 combatStages=1 stab=true}
   :::::
@@ -755,7 +762,7 @@ Heal to full.
 - Open Latios’s Restore menu:
 - Teach Surf over Heal Pulse (slot 1)
 - Check Sp. Atk and Speed
-- Equip a Persim Berry on Latias if you have 2 or more left.
+- Equip a Persim Berry (don't have to)
 
 :::::trainer[Team Magma Grunt]{info="Top Grunt, not the bottom Grunt." infoColor=gray}
   :::pokemon[Koffing]
@@ -832,6 +839,7 @@ Gym puzzle:
     - Surf
 
     ::damage[Swellow's Aerial Ace]{source="Latios" offensive=false movePower=60 stab=true level=31 evs=0 opponentLevel=33 opponentStat=61}
+    ::damage[Swellow's Quick Attack]{source="Latios" offensive=false movePower=40 stab=true level=31 evs=0 opponentLevel=33 opponentStat=61}
   :::
   :::pokemon[Altaria]
     - Dragon Breath
@@ -839,6 +847,7 @@ Gym puzzle:
   :::pokemon[Skarmory]
     - Surf (x2)
     - Do not teach Recover.
+    ::damage[+2 Surf vs Skarmory]{source="Latios" special=true movePower=90 level=31 evs=0 opponentStat=56 healthThreshold=85 combatStages=2 otherPowerModifier=1.2 theme=error}
   :::
   :::pokemon[Pelipper]
     - Luster Purge (x2)
@@ -848,7 +857,9 @@ Gym puzzle:
     ::damage[+3 Luster Purge vs Pelliper]{source="Latios" special=true movePower=70 stab=true level=32 evs=1 opponentStat=56 healthThreshold=82 combatStages=3 theme=error}
   :::
 :::::
-Grab Persim Berries (left) Can skip w/ 2 left (Need one for Wallace and Sidney)
+
+Grab Persim Berries (left) Can skip w/ 2 left (Need one for and Sidney)
+
 Get the free heal before surfing to Mt. Pyre.
 
 :::::trainer[Team Magma Grunt]
@@ -868,8 +879,8 @@ Get the free heal before surfing to Mt. Pyre.
   :::
 :::::
 
-If you took Damage 
-  -Heal to full
+If you took Damage:
+  - Heal to full
 
 :::::trainer[Team Magma Grunt]
   :::pokemon[Mightyena]
@@ -883,7 +894,7 @@ If you took Damage
 :::::
 
 :::::::trainer[Magma Admin Courtney]
-  :::::pokemon[Camerupt]{info="Remember HP after"}
+  :::::pokemon[Camerupt]{info="Remember HP after" infoColor=gray}
     - Surf
   :::::
 :::::::
@@ -948,12 +959,11 @@ Bike to the Harbor.
    :::::
 :::::::
 
-Only need 3 Luster Purge/8 or 9 surfs  from here (Dont leppa either if you have this many)
+Only need 3 Luster Purge/8 or 9 surfs from here (Dont leppa either if you have this many)
 
 If damaged, open your item menu:
->Heal to full
-
->(Leppa if needed)
+  - Heal to full
+  - Leppa if needed
 
 
 :::::trainer[Team Magma Grunt]
@@ -995,10 +1005,10 @@ If damaged Heal to full
 :::::trainer[Liza & Tate]
   - Surf/ X Sp. Attack
   - Surf/ X Sp. Attack
-  - Surf as needed (Need 1 surf for maxie) having only 1 loses a turn
+  - Surf as needed :info[(Need 1 surf for maxie) having only 1 loses a turn]{color=gray}
 :::::
 
-- Route 128
+**Route 128**
 
 Open your item menu:
 
@@ -1015,30 +1025,30 @@ Open your item menu:
   :::
 :::::
 
-- Heal if needed
+Heal if needed
 
 :::::trainer[Magma Leader Maxie]
  ::::pokemon[Mightyena]  
   :::if{source="Latios" condition="speed=(x/27+/4+)"}
     - Guard Spec
-    - X Sp. Attack x2
-    - Surf (Dragon Breath)
-     - Can Dragon Breath (x2) if only one Surf left
-   ::damage[Take Down]{source="Latios" offensive=false movePower=90 stab=false level=37 evs=0 opponentLevel=41 opponentStat=78}   
+    - X Sp. Attack (x2) :info[If Crobat is guaranteed at +1, you should go for +1 always]{color=gray}
+    - Surf (Dragon Breath) :info[Can Dragon Breath (x2) if only one Surf left]{color=gray}
+   ::damage[Take Down]{source="Latios" offensive=false movePower=90 stab=false level=37 evs=16 opponentLevel=41 opponentStat=78}   
   :::  
   :::if{source="Latios" condition="speed=~(x/27+/4+)"}
     - Guard Spec
     - X Speed
-    - X Sp. Attack x2
+    - X Sp. Attack (x2) :info[If Crobat is guaranteed at +1, you should go for +1 always]{color=gray}
     - Surf (Dragon Breath)
      - Can Dragon Breath (x2) if only one Surf left
-   ::damage[Take Down]{source="Latios" offensive=false movePower=90 stab=false level=37 evs=0 opponentLevel=41 opponentStat=78}  
+   ::damage[Take Down]{source="Latios" offensive=false movePower=90 stab=false level=37 evs=16 opponentLevel=41 opponentStat=78}  
  ::::
  ::::pokemon[Weezing]
     -  Luster Purge
  ::::
  ::::pokemon[Crobat]
     - Luster Purge
+    ::damage[+1 Luster Purge vs Crobat]{source="Latios" special=true movePower=70 stab=true level=38 evs=8 opponentStat=77 healthThreshold=120 combatStages=1 effectiveness=2 theme=error}
  ::::
  ::::pokemon[Camerupt]
     - Surf
@@ -1051,8 +1061,8 @@ Catch Groudon with the Master Ball.
   - Move Groudon to Slot 1
   - Open Groudon’s Restore menu
     - Equip Persim Berry
-    - Teach Swords Dance over Lava Plume (Slot 1) 
     - Teach Smack Down over Rest (Slot 2) 
+    - Teach Swords Dance over Lava Plume (Slot 1) 
     - Teach Overheat over Precipice Blades (slot 4)
 
 
@@ -1064,13 +1074,17 @@ Catch Groudon with the Master Ball.
 
 :::::::trainer[Leader Wallace]
   :::::pokemon[Luvdisc]{info="Faster at 100+ Speed (x/x/12+)" infoColor=blue}
+    :::if{source="Groudon" condition="speed=(6-/x/x)"}
+      - X-Speed
+    :::
      - Earthquake
   :::::
   :::::pokemon[Milotic]
+     - Swords Dance
      - Earthquake
+     ::damage[Ice Beam does]{source="Groudon" offensive=false movePower=90 level=45 special=true effectiveness=2 opponentLevel=46 opponentStat=97 stab=false}  
   :::::
   :::::pokemon[Whiscash]{info="Faster at 80+ Speed (7+/#/#)" infoColor=blue}
-     - Swords Dance
      - Earthquake
   :::::
   :::::pokemon[Sealeo]
@@ -1080,10 +1094,11 @@ Catch Groudon with the Master Ball.
      - Earthquake
   :::::
 :::::::
+
 - Fly to Route 126.
-  - Menu:
-    - Equip a Persim Berry on Groudon if it was used on Luvdisc
-    - Teach Waterfall over Dragon Breath to Latios (Slot 2)
+- Menu:
+  - Equip a Persim Berry if have one extra :info[(NEED ONE FOR SIDNEY)]{color=yellow}
+  - Teach Waterfall over Dragon Breath to Latios (Slot 2)
 
 
 - At the Pokémon Center
@@ -1093,7 +1108,7 @@ Catch Groudon with the Master Ball.
     - Deposit Castform
     - Swap Marshtomp and Groudon
 
-
+**Try and not waste EQs**
 
 :::::trainer[Ace Trainer Hope]
   :::pokemon[Froslass]
@@ -1104,7 +1119,7 @@ Catch Groudon with the Master Ball.
 :::::trainer[Expert Bryn]
   :::pokemon[Hitmontop]
     - Swords Dance 
-    - Earthquake
+    - Earthquake (+ Smack Down)
 
   :::
   :::pokemon[Throh]
@@ -1138,7 +1153,7 @@ Catch Groudon with the Master Ball.
     - Smack Down
     - Earthquake (x2) (Smack Down)
 
-    ::damage[Dragon Pulse]{source="Groudon" special=true movePower=85 stab=true level=46 opponentLevel=46 evs=0 opponentStat=69 offensive=false effectiveness=1 theme=error}
+    ::damage[Dragon Pulse]{source="Groudon" special=true movePower=85 stab=true level=46 opponentLevel=46 evs=4 opponentStat=69 offensive=false effectiveness=1 theme=error}
   :::::
   :::::pokemon[Roselia]
     - Earthquake
@@ -1153,7 +1168,7 @@ Catch Groudon with the Master Ball.
     - Smack Down
     - Earthquake (Overhaet if less than 3 Earthquakes) 
     :::
-     ::damage[Flash Cannon]{source="Groudon" special=true movePower=80 stab=true level=47 opponentLevel=46 evs=0 opponentStat=115 offensive=false effectiveness=1 theme=error}
+     ::damage[Flash Cannon]{source="Groudon" special=true movePower=80 stab=true level=47 opponentLevel=46 evs=4 opponentStat=115 offensive=false effectiveness=1 theme=error}
   :::::
   :::::pokemon[Delcatty]
     - Earthquake
@@ -1169,19 +1184,23 @@ Catch Groudon with the Master Ball.
 
 :::::::trainer[Elite Four Sidney]
   :::::pokemon[Mightyena]{info="Only KO Mightyena at +3 Attack"}
-      -If good Atk +speed+ good def
-         - Fast sidney: Swords,(get swagger) if no swagger then swords again, (get swagger)
-         - Earthquake All
-
-    :::if{source="Groudon" condition="speed=(0-16/x/x)"}
-      - Swords Dance
-      - X Speed
+    :::if{source="Groudon" condition="speed=~(#/8-/x)"}
+      - Swords Dance (get swagger)
+      - Earthquake
+    :::
+    :::if{source="Groudon" condition="speed=(#/8-/x)"}
+      - Swords Dance x2
+      - X Speed x2
+      - Full Heal
+      - Earthquake
     :::
   :::::
   :::::pokemon[Shiftry]{info="Shiftry is faster if +1 Speed and Sun"}
    :::if{source="Groudon" condition="atk=(x/15+/#)"}
-    - Earthquake
+    - Earthquake :info[15/16 range at (x/15-18/x)]{color=gray}
+    - If Earthquake missed range, Smack Down, Overheat
    ::: 
+    :::if{source="Groudon" condition="atk=~(x/15+/#)"}
     - If +5 Attack, Earthquake
     - If Sun
       - Overheat
@@ -1189,37 +1208,48 @@ Catch Groudon with the Master Ball.
     
     ![shftrychart](shiftrychart.png)  
 
-    -If miss Overheat, just Overheat again
+    If miss Overheat, just Overheat again
     
-    -If Overheat missed range, Smack Down, Earthquake
+    If Overheat missed range, Smack Down, Earthquake
     
-    -If Earthquake missed range, Smack Down, Overheat
-
-    ::damage[Leaf Blade ]{source="Groudon" special=false movePower=90 stab=true level=48 opponentLevel=50 evs=0 opponentStat=109 offensive=false effectiveness=2 theme=error}
+    If Earthquake missed range, Smack Down, Overheat
+   ::: 
+    ::damage[Shiftry's Leaf Blade ]{source="Groudon" special=false movePower=90 stab=true level=48 opponentLevel=50 evs=0 opponentStat=109 offensive=false effectiveness=2 theme=error}
   :::::
   :::::pokemon[Cacturne]
     - Earthquake
   :::::
   :::::pokemon[Sharpedo]{info="Aqua Jet does 60 max" infoColor=blue}
+    - Heal if Aqua Jet range
     - Earthquake
+     ::damage[Sharpedo's Aqua Jet]{source="Groudon" special=false movePower=40 stab=true level=48 opponentLevel=50 evs=1 opponentStat=141 offensive=false effectiveness=2 theme=error}
   :::::
   :::::pokemon[Absol]
     - Earthquake
   :::::
 :::::::
 
-- Open your item menu:
+
+Open your item menu:
+  :::if{source="Groudon" condition="atk=(#/x/x)"}
   - Heal to full
+  :::
+  :::if{source="Groudon" condition="atk=~(#/x/x)"}
+  - Heal to full if can't tank a Fake out + Hex
+  :::
   - Equip Red Orb on Groudon (bottom scroll)
+
+::damage[Sableye's Fakeout]{source="Groudon" evolution=1 special=false movePower=40 stab=false level=49 opponentLevel=51 opponentStat=85 offensive=false effectiveness=1 theme=error}
+::damage[Dusknoir's Hex]{source="Groudon" evolution=1 evs=4 special=true movePower=65 stab=true level=49 opponentLevel=53 opponentStat=78 offensive=false effectiveness=1 theme=error}
 
 :::::::trainer[Phoebe]
   :::::pokemon[Dusclops]
     - Overheat
        - If miss into Curse, spray and pray
   :::::
-  :::::pokemon[Sableye]
+  :::::pokemon[Sableye]{info="Foul Play can do from 91-139 depending on your attack/defense" infoColor=blue}
     :::if{source="Groudon" condition="atk=(#/x/x)"}
-      - Swords Dance
+      - Swords Dance :info[to avoid range on Sableye]{color=gray}
       - Earthquake
     :::
     :::if{source="Groudon" condition="atk=~(#/x/x)"}
@@ -1233,8 +1263,14 @@ Catch Groudon with the Master Ball.
     - Earthquake
   :::::
   :::::pokemon[Dusknoir]
-    - Swords Dance (Skip if used earlier)
+    :::if{source="Groudon" condition="atk=~(#/x/x)"}
+      - Swords Dance (Skip if used before)
+    :::
+    :::if{source="Groudon" condition="atk=(#/x/x)"}
+      - Swords Dance to avoid range below
+    :::
     - Earthquake
+    ::damage[+2 Earthquake vs Dusknoir]{source="Groudon" evolution=1 evs=16 special=false movePower=100 stab=true level=49 opponentLevel=53 opponentStat=167 offensive=true healthThreshold=114 effectiveness=1 combatStages=2 theme=error}
   :::::
 :::::::
 
@@ -1246,19 +1282,17 @@ Catch Groudon with the Master Ball.
 
 
 :::::::trainer[Glacia]
-  :::::pokemon[Glalie]
+  :::::pokemon[Glalie]{info="Make sure to set 30 vs 31 IV speed" infoColor=blue}
     :::if{source="Groudon" condition="speed=(#/30-/10-)"}
-      - X Speed
-      - Swords Dance
-      - Earthquake
+    - X Speed
     :::
-    :::if{source="Groudon" condition="speed=~(#/30-/10-)"}
-      - Swords Dance
-      - Earthquake
-    :::
+
+    - Swords Dance
+    - Earthquake
   :::::
   :::::pokemon[Walrein]
-      - Earthquake (x2)
+    - Earthquake (x2)
+      ::damage[+2 Earthquake vs Walrein]{source="Groudon" evolution=1 evs=16 special=false movePower=100 stab=true level=50 opponentLevel=54 opponentStat=106 offensive=true healthThreshold=187 effectiveness=1 combatStages=2 theme=error}
   :::::
   :::::pokemon[Froslass]
     - Smack Down
@@ -1277,7 +1311,7 @@ Catch Groudon with the Master Ball.
 
 :::::::trainer[Elite Four Drake]
   :::::pokemon[Altaria]{info="Heal when Dragon Pulse KOs" infoColor=blue}
-    :::if{source="Groudon" condition="speed=(16-/x/x)"}
+    :::if{source="Groudon" condition="speed=(16-/x/x) && atk=~(#/11-/x)"}
     - X Speed
     - Swords Dance x2
     - If Cotton Guard used twice already
@@ -1302,14 +1336,16 @@ Catch Groudon with the Master Ball.
     :::if{source="Groudon" condition="speed=(x/x/24+) && atk=(#/11-/x)"}
     - Swords Dance x3
     - Smack Down (+Earthquake)
+    - Skip X-Speed on Flygon
     :::
     :::if{source="Groudon" condition="speed=(x/x/24+) && atk=~(#/11-/x)"}
     - Swords Dance x2
     - 2 Cotton Guards used
       - Swords Dance again
     - Smack Down (+Earthquake)
+    - Skip X-Speed on Flygon
     :::
-     ::damage[Dragon Pulse does]{source="Groudon" special=true offensive=false movePower=85 level=51 opponentLevel=53 stab=true opponentStat=126}
+     ::damage[Altaria's Dragon Pulse]{source="Groudon" special=true offensive=false evs=8 movePower=85 level=51 opponentLevel=53 stab=true opponentStat=83}
   :::::
   :::::pokemon[Kingdra]
     - Earthquake
@@ -1317,7 +1353,7 @@ Catch Groudon with the Master Ball.
   :::::pokemon[Flygon]{info="Boomburst does 71 max" infoColor=blue}
     - (X Speed if haven't)
     - Strength
-     ::damage[Boomburst does]{source="Groudon" special=true offensive=false movePower=140 level=51 opponentLevel=53 stab=false opponentStat=94}
+     ::damage[Flygon's Boomburst]{source="Groudon" special=true offensive=false movePower=140 level=51 opponentLevel=53 stab=false opponentStat=94}
   :::::
   :::::pokemon[Flygon]
     - Strength
@@ -1333,7 +1369,7 @@ Catch Groudon with the Master Ball.
 
 :::::::trainer[Champion Steven]
   :::::pokemon[Skarmory]{info="Heal as needed but can toxic again"}
-    - Swords Dance x2
+    - Swords Dance x2 :info[If not going for +4 range: Swords Dance again]{color=gray}
     :::if{source="Groudon" condition="speed=(13- / x / x)"}
     - X Speed
     :::
@@ -1354,8 +1390,8 @@ Catch Groudon with the Master Ball.
         - 22 Damage turn 2
         - 33 Damage turn 3
     :::
-     ::damage[Steel Wing Does]{source="Groudon" special=false offensive=false movePower=70 level=52 opponentLevel=57 stab=true opponentStat=105}
-     ::damage[Aerial Ace Does]{source="Groudon" special=false offensive=false movePower=60 level=52 opponentLevel=57 stab=true opponentStat=105}
+     ::damage[Steel Wing Does]{source="Groudon" special=false evs=4 offensive=false movePower=70 level=52 opponentLevel=57 stab=true opponentStat=105}
+     ::damage[Aerial Ace Does]{source="Groudon" special=false evs=4 offensive=false movePower=60 level=52 opponentLevel=57 stab=true opponentStat=105}
   :::::
   :::::pokemon[Cradily]
     - Earthquake
@@ -1393,25 +1429,17 @@ Catch Groudon with the Master Ball.
     :::if{source="Groudon" condition="def=(x/x/30+)" theme=error}
      - Bullet Punch does (33) 34-39 (40)
     :::
-    ::damage[Metagross' Bullet Punch -1]{source="Groudon" offensive=false movePower=40 stab=true level=53 evs=9 opponentLevel=59 opponentStat=185 combatStages=-1 effectiveness=1 otherModifier=1.3}
+    ::damage[Metagross' Bullet Punch -1 Def]{source="Groudon" offensive=false movePower=40 stab=true level=53 evs=9 opponentLevel=59 opponentStat=185 combatStages=-1 effectiveness=1 otherModifier=1.3}
     - Earthquake
   :::::
   :::::pokemon[Claydol]{info="Earth Power does 76 max, has Reflect" infoColor=blue}
     - Strength
+      ::damage[+4 Strength vs Claydol]{source="Groudon" evolution=0 evs=29 special=false movePower=80 stab=false level=53 opponentLevel=57 opponentStat=146 offensive=true healthThreshold=144 otherPowerModifier=1.2 effectiveness=1 combatStages=4 theme=error}
   :::::
   :::::pokemon[Armaldo]
     - Earthquake
   :::::
   :::::pokemon[Mega Metagross]
     - Earthquake
-  :::::
-:::::::
-
-:::::::trainer[Brendan 5]
-  :::::pokemon[Swellow]
-    -  Smack Down (x2)
-  :::::
-  :::::pokemon[Wailord]
-    -  Swords Dance x4 - 5
   :::::
 :::::::

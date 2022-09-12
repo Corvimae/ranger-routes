@@ -105,5 +105,3 @@ Version 1.2.1
     Updated a range against Maya's Kadabra to use Prinplup's stats instead of Piplup's
     Moved Toxicroak's Thief to be after user move
     Moved the Max Elixir note
-=======
-    Removed any outlying ":::"

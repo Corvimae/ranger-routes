@@ -773,7 +773,7 @@ Run down to the 3rd floor.
 > - 2 X Attack (v)
 > - 2 X Defense (v) 
 > - 3 Guard Spec (v) 
-> - 3 X Accuracy (vv)
+> - 4 X Accuracy (vv)
 > - 12 X Sp. Attack (v)
 > - 1 X Sp. Defense (v)
 
@@ -885,7 +885,7 @@ Exiting the puzzle:
 :::::trainer[Aqua Admin Archie]{info="Don't miss."}
   :::pokemon[Mightyena]
     - Guard Spec
-    - X Accuracy
+    - X Accuracy x2
     - X Speed
     - Thunder x2
     If you miss Thunder, your Guard Spec runs out, and you then get Scary Face'd, reset.
