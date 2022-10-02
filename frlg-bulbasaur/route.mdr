@@ -113,7 +113,7 @@ Grab the parcel at the mart then head back to Oak’s lab
 
 Catch Pidgey if you see it (Tackle to weaken)
   - No need to leave with it, backups later
-  - Can opt to force Sandshrew/Diglett as a Cut friend to avoid buying Magikarp. Skip Rattata here if you opt for that
+  - Can opt to force Sandshrew as a Cut friend to avoid buying Magikarp. Skip Rattata here if you opt for that. Note that although it is only 25% on Route 4, it saves time since you have one less Fly.
   - Catch Rattata if you see it and if you are not doing Perish Song strats
 
 On Route 2, cut through the grass before the Viridian Forest entrance (2nd tile to the right); it is 1% to get an encounter
@@ -353,7 +353,6 @@ Praise Helix and head outside of Mt. Moon
 Grab the Great Ball if no Cut friend yet
 
 Catch a Sandshrew here (25% encounter, Tackle to weaken) if you didn’t catch a Nidoran on Route 3
-  - Can opt to catch Sandshrew at a 40% encounter rate on Route 11, or Diglett at a 95% encounter rate in the Cave after SS Anne, but these are large detours
   - Can catch a rat here if not doing Perish Song strats and don’t have a cutter yet - always camp if not doing Perish Song strats
 
 Head to Cerulean City
@@ -524,7 +523,7 @@ Pass Dan
   :::
 :::::
 
-Fight Hiker Nob
+*Fight Hiker Nob*
 
 :::::trainer[Hiker Nob]
   :::pokemon[Geodude]
@@ -541,7 +540,7 @@ Fight Hiker Nob
   :::
 :::::
 
-Fight the Camper above to get access to the TM
+*Fight the Camper above to get access to the TM*
 
 :::::trainer[Camper Flint]
   :::pokemon[Rattata]
@@ -642,8 +641,6 @@ Take the boat heal unless high HP, 1 Razor Leaf PP left
 
 Talk to the captain for HM Cut and take the bed heal on the way out if you didn’t coming in
 
-Catch a Sandshrew on Route 11 or Diglett in Diglett’s Cave if you didn’t get a cutter yet (Tackle to weaken)
-
 Press Select to teach Cut, then Cut the bush to enter the gym
 
 Save after you find the 1st Can puzzle 
@@ -738,6 +735,8 @@ Repel and use the Ether on Secret Power
   :::
 :::::
 
+Optional: Grab the Elixir before Martha (below and left of her)
+
 :::::trainer[Jr Trainer Martha]
   :::pokemon[Oddish]
     Secret Power x2
@@ -812,7 +811,7 @@ Run-Into-WALK Manip the Supernerd
 :::::
 
 Head south and grab the Return TM. Teach it over Tackle
-- Note that all ranges with Return henceforth (until the Elite Four) likely are underestimated, as they do not assume 50% steps friendship
+- Note that all ranges with Return henceforth (until the Elite Four) likely are underestimated. You are 50/50 to get +1 in friendship every 255 steps in Gen III.
 
 Return to Lavender Town and head west, fight the Lass
 
@@ -858,7 +857,7 @@ Grab the Rare Candy
 
 Head towards the elevator to floor B4
 
-Grab the Calcium
+*Grab the Calcium*
 
 Fight the left Rocket Grunt first
 
@@ -964,7 +963,7 @@ After obtaining fly:
   :::
 :::::
 
-Head to the 5th floor, grabbing the Elixir on the way 
+*Grab the Elixir*
 
 *Take the heal pad*
 
@@ -1145,6 +1144,11 @@ Heal to full for Koga on next spinner pass
   :::
 :::::
 
+**If you have Sandshrew or Nidoran:**
+  - Head to the Warden's House and grab HM04
+  - Go up to the boulder, teach Strength to Sandshrew/Nidoran, and teach Giga Drain to Venusaur over Razor Leaf
+  - Push the boulder and grab the Candy
+
 Fly to Celadon, then bike to Silph Co.
 
 Take the elevator to 10F and fight the Rocket below left
@@ -1299,6 +1303,19 @@ Tile Puzzle: Top Left, Bottom Left, Down
 
 Escape rope out, then go to the Copycat house, and teach Mimic over Secret Power
 
+**If you did not get Strength yet:**
+  - Exit and fly to Fuchsia, grab HM04 from the Warden
+  - Go up to the boulder, and teach Surf and Strength to Lapras
+  - Super Repel
+  - Push the boulder and grab the Warden Candy 
+  - Exit and fly to Pallet, surf south to Cinnabar
+
+**If you already got Strength:**
+  - Exit the house
+  - Teach Surf to Lapras
+  - Super Repel
+  - Fly to Pallet, surf south to Cinnabar
+
 Exit and fly to Fuchsia, grab HM04 from the Warden
 
 Go up to the boulder, and menu:
@@ -1339,7 +1356,7 @@ Puzzle Answers: A,B,B,B,A,B
   :::pokemon[Rapidash]
     - Return
   :::
-  :::pokemon[Alakazam]
+  :::pokemon[Arcanine]
     - Hyper Beam
     :::if{source="Bulbasaur" condition="atk=(x / x / 28-30)"}
     - 13/16 range
@@ -1514,6 +1531,7 @@ Only buy the Revive if you have no Revives in inventory AND doing Perish Song st
     - Hyper Beam
     - On Attract strats, use Return x2
       - If you used Elixir on second Onix, can use Giga Drain + Return
+      
       :::if{source="Bulbasaur" condition="atk=(x / x / 28)"}
       - 98.05% range
       :::
@@ -1725,3 +1743,5 @@ Menu:
     ::damage[Venusaur's Return (+5)]{source="Bulbasaur" offensive=true movePower=102 level=59 evolution=2 evs=89 opponentLevel=61 opponentStat=120 healthThreshold=205 combatStages=5 statModifier=1.1 special=false stab=false type=normal}
   :::
 :::::
+
+Time stops at fadeout after Hall of Fame. GG!
