@@ -1,0 +1,1717 @@
+:::tracker{species="Squirtle" baseStats="[[44, 48, 65, 50, 64, 43], [59, 63, 80, 65, 80, 58], [79, 83, 100, 85, 105, 78]]" type="Water" generation=3 directInput=true}
+  5:
+    6 ->	0, 0, 0, 1, 0, 0
+    7 ->	0, 0, 0, 1, 0, 2
+    8 ->	0, 0, 0, 1, 0, 2
+    9 ->	0, 0, 1, 1, 0, 2
+    10 ->	0, 0, 2, 1, 0, 2
+    11 ->	0, 0, 3, 1, 0, 2
+    12 ->	0, 0, 4, 1, 0, 2
+    13 ->	0, 0, 4, 1, 0, 2
+    14 ->	2, 0, 4, 1, 0, 4
+    15 ->	3, 0, 8, 1, 0, 4
+    16 ->	6, 0, 10, 1, 0, 4
+    17 ->	7, 0, 12, 1, 0, 6
+    18 ->	7, 0, 13, 1, 0, 7
+    19 ->	7, 0, 13, 1, 0, 7
+    20 ->	7, 0, 13, 1, 0, 7
+    21 ->	7, 0, 13, 1, 0, 10
+    22 ->	7, 0, 13, 3, 0, 12
+    23 ->	8, 1, 17, 4, 0, 15
+    24 ->	9, 5, 18, 4, 0, 15
+    25 ->	10, 7, 19, 5, 0, 17
+    26 ->	10, 8, 19, 6, 1, 21
+    27 ->	10, 8, 19, 6, 1, 21
+    28 ->	10, 8, 19, 9, 2, 25
+    29 ->	10, 9, 19, 10, 2, 33
+    30 ->	12, 10, 20, 11, 3, 34
+    31 ->	13, 11, 23, 13, 3, 34
+    32 ->	15, 11, 26, 13, 3, 36
+    33 ->	15, 12, 28, 14, 3, 42
+    34 ->	15, 12, 28, 14, 3, 42
+    35 ->	15, 12, 28, 14, 3, 42
+    36 ->	15, 16, 33, 14, 3, 43
+    37 ->	17, 16, 35, 15, 4, 45
+    38 ->	17, 19, 37, 21, 4, 45
+    39 ->	17, 19, 38, 21, 5, 54
+    40 ->	17, 19, 38, 21, 5, 54
+    41 ->	17, 19, 38, 21, 5, 54
+    42 ->	18, 20, 39, 23, 8, 54
+    43 ->	18, 21, 42, 23, 8, 57
+    44 ->	18, 28, 43, 23, 8, 57
+    45 ->	18, 30, 44, 28, 9, 60
+    46 ->	18, 33, 47, 31, 10, 60
+    47 ->	23, 33, 48, 33, 12, 60
+    48 ->	23, 38, 50, 37, 12, 61
+    49 ->	28, 38, 54, 37, 12, 63
+    50 ->	31, 41, 55, 39, 13, 66
+    51 ->	31, 44, 56, 42, 13, 66
+    52 ->	31, 44, 60, 44, 15, 66
+    53 ->	33, 49, 61, 44, 17, 66
+    54 ->	33, 51, 62, 50, 17, 68
+    55 ->	33, 60, 62, 52, 17, 68
+    56 ->	33, 60, 62, 54, 18, 73
+    57 ->	33, 64, 64, 57, 18, 73
+:::
+
+## Pokémon FireRed/LeafGreen Bulbasaur+ Alt Main Route
+Prepared by PulseEffects#1096
+
+Ported to Ranger by HunarPG#2786
+
+Please DM me if you have any issues!
+
+Credits for these notes:
+  - Pulse for making the route
+
+If the route does not say to learn a move explicitly, do not learn it.
+
+Before starting your run, make sure your save file has the following:
+  - Text: Fast
+  - Battle Animations: Off
+  - Style: Set
+  - Button Mode: L=A
+
+Download the RNG Manip program and set the following IV restrictions:
+  - Frame window: 4000 to 5500
+  - Natures: Rash,Mild or Modest
+  - HP: x
+  - Atk: 21 / 4 / x
+  - Def: 7 / x / x
+  - Sp. Atk: x / x / 30
+  - Sp. Def: 5 / x / X
+  - Spe: x / 21 / x
+
+Give yourself a 1 character name (manip time starts when you confirm your name)
+
+Give your rival a 1 character name
+
+Check and insert your Trainer ID into the RNG Manipulation Program
+
+Head outside then head north towards the grass have Oak stop you
+
+Mash through text until you can pick and manipulate Squirtle. Give it a one character name
+
+Head down and fight your rival
+
+:::trainer[Rival 1]
+  - Tackle spam
+  - Tail Whip turn 1 if Modest or 0-3 Atk Rash/Mild
+:::
+
+Enter your IVs into Ranger.
+  - Left-click on "SP ATK" to force plus Attack nature
+  - Shift + Left-click on either "DEF" (Mild), "SP.DEF" (Rash) or "Attack" (Modest)
+
+Exit the lab and head to Route 1
+
+Grab the potion from mart guy(optional)
+
+Kill any level 2 or 3 Pidgey/Rattata along the way
+  - Don’t kill a lv 3 Pidgey if Modest or less than 21 Attack
+  - If 31 IV speed, attempt to kill an extra Pidgey/Rattata on Route 1 
+
+Grab the parcel at the mart then head back to Oak’s lab
+
+Catch Rattata and Pidgey if you come across them (tackle once to weaken)
+  - Don’t try to force an encounter since there’s backups later
+
+On Route 2, cut through the grass before the Viridian Forest entrance (2nd tile to the right); it is 1% to get an encounter
+
+Avoid all non mandatory trainers
+  - Fight the third optional bug catcher
+
+Grab this hidden potion if necessary
+
+![](https://cdn.discordapp.com/attachments/917309676717244436/1039412148499140678/Sammy_Candy.png)
+
+:::::trainer[Bug Catcher Sammy]
+  :::pokemon[Weedle]
+    Tail Whip x1-2, Tackle x4-6
+    - Swap Tail Whip with Tackle turn 1 before using it (Right + Select, A + A)
+    - Bubble spam if level 7 for Bug Catcher
+    - Poison Sting does: 3(4)
+    - Poison always does 2 every turn at lv 6, 3 at lv 7 if 12 HP IV or higher 
+  :::
+:::::
+
+If poisoned, Antidote on the HP in the chart below
+
+![](https://cdn.discordapp.com/attachments/917309676717244436/1039413257242419200/Antidote_HP.png)
+
+Head straight to the gym
+
+Fight the minion
+
+:::::trainer[Camper Liam]
+  :::pokemon[Geodude]
+    Bubble* (x2)
+  :::
+  :::pokemon[Sandshrew]
+    Bubble* x2-4
+    ::damage[Sandshrew's Scratch]{source="Squirtle" offensive=false movePower=40 level=9 opponentLevel=11 opponentStat=21 special=false stab=false}
+  :::
+:::::
+
+:::::trainer[Leader Brock]
+  :::pokemon[Geodude]
+    Bubble* (x2)
+    - Consider Withdraw Turn 1 if HP is too high for Torrent
+    - 87.5% (14/16) to OHKO at Lv 11
+    ::damage[Geodude's Tackle]{source="Squirtle" offensive=false movePower=35 level=10 opponentLevel=12 opponentStat=24 special=false stab=false}
+    ::damage[Geodude's Tackle (+1)]{source="Squirtle" offensive=false movePower=35 level=10 opponentLevel=12 opponentStat=24 combatStages=1 special=false stab=false}
+  :::
+  :::pokemon[Onix]
+     Bubble* (x2)
+     - 56.25% (9/16) to OHKO
+     - Teach Water Gun over Tail Whip (Mash A)
+     - If you drop Onix Speed with Bubble, it will Rock Tomb you at 24+ Speed
+    ::damage[Onix's Tackle]{source="Squirtle" offensive=false movePower=35 level=11 opponentLevel=14 opponentStat=17 special=false stab=false}
+    ::damage[Onix's Tackle (+1)]{source="Squirtle" offensive=false movePower=35 level=11 opponentLevel=14 opponentStat=17 combatStages=1 special=false stab=false}
+    ::damage[Onix's Rock Tomb]{source="Squirtle" offensive=false movePower=50 level=11 opponentLevel=14 opponentStat=17 special=false stab=true}
+    ::damage[Onix's Rock Tomb (+1)]{source="Squirtle" offensive=false movePower=50 level=11 opponentLevel=14 opponentStat=17 combatStages=1 special=false stab=true}
+  :::
+:::::
+
+Exit and head straight to the mart
+
+LEAF GREEN Buy:	
+  - 8 Potions           (v)
+  - 3 Antidote          (v)
+  - 3 Awakening         (vv)
+  - 3 Repels            (vvv)
+
+FIRE RED Buy: (If you need Paras)
+  - 7 Potions           (v)
+  - 3 Antidote          (v)
+  - 1 Parlyz Heal       (v)
+  - 3 Awakening         (v)
+  - 3 Repels            (vv)
+
+Head to Route 3 to get your running shoes
+
+Attempt to get torrent in as little turns as possible on this route
+ - If no torrent for level 14, get it off the 2nd lv 10 Caterpie
+ - 27 IV HP = +3 upon level up, every other HP IV = +2 upon level up
+ - If no torrent for level 15, get it off the lv 11 Caterpie
+ - 19 or 26 IV HP = +3, 5 IV HP = +1 , everything else = +2 upon level up
+
+
+:::::trainer[Bug Catcher Colton]
+  :::pokemon[Caterpie]
+    Water Gun*(x2)
+    - Both Caterpie are 93.75% (15/16) to OHKO at 28-30 SPA in Torrent
+  :::
+  :::pokemon[Weedle]
+    Water Gun*(x2)
+  :::
+  :::pokemon[Weedle]
+    Water Gun*(x2)
+  :::
+:::::
+
+Go above shorts guy and fight the next bug catcher
+
+:::::trainer[Bug Catcher Greg]
+  :::pokemon[Weedle]
+    Water Gun*
+    :::if{source="Squirtle" condition="speed=(x / 14-29 / x)"}
+    - Ties at -1 Speed
+  :::
+  :::pokemon[Caterpie]
+    Water Gun (x2)
+    :::if{source="Squirtle" condition="speed=(x / 21-31 / x)"}
+    - Ties at -1 Speed
+  :::
+  :::pokemon[Kakuna]
+    Water Gun* (x2)
+  :::
+  :::pokemon[Kakuna]
+    Water Gun* (x2)	
+    :::if{source="Squirtle" condition="speed=(x / 21-31 / x)"}
+    - Ties at -2 Speed
+  :::
+:::::
+
+:::::trainer[Bug Catcher James]
+  :::pokemon[Caterpie]
+    Water Gun (x2)
+    :::if{source="Squirtle" condition="speed=(x / 20-31 / x)"}
+    - Ties at -1 Speed
+  :::
+  :::pokemon[Metapod]
+    Water Gun* (x2)	
+    :::if{source="Squirtle" condition="speed=(x / 27-31 / x)"}
+    - Ties at -2 Speed
+    :::
+  :::
+:::::
+
+If you didn’t catch Pidgey on route 1, catch a Spearow/Pidgey now in the grass below the lass (Bubble to weaken, Tackle if in torrent)
+  - If no HM Slaves, can catch Nidoran F/M for Cut + Strength
+  - Can Bag Manip the Lass for a free pass
+
+![](https://cdn.discordapp.com/attachments/917309676717244436/1039429533180370964/Persim_Location.png)
+
+Grab this Persim Berry if 28-29 SPA or the chart below says to “Grab Persim” 
+
+![](https://cdn.discordapp.com/attachments/917309676717244436/1039428835688579113/Persim_Grab.png)
+
+Run up 8 tiles in Mount Moon then::
+  - Register TM Case
+  - Equip Persim Berry from the Berry Case if you got it
+  - Use a repel
+
+Grab this Rare Candy near the Bug Catcher (after fighting him if you’re fighting him)
+
+![](https://cdn.discordapp.com/attachments/917309676717244436/1039429908369260564/Moon_Candy.png)
+
+Fight ONE of these optional trainers for exp depending on the situation 
+
+![](https://cdn.discordapp.com/attachments/917309676717244436/1039430465737719808/Moon_Trainers.png)
+
+::variable{name="fight" type="select" title="Which trainer will you fight?" options='["Robby", "Josh", "Marcos", "Grunt"]'}
+
+::::::if{source="Squirtle" condition="$fight == 'Robby'"}
+:::::trainer[Bug Catcher Robby]
+  Water Gun* x3
+  - 0-23 HP and 26-29 HP IV = + 2 HP upon level up
+  - 24 HP, 25 HP and 30, 31 HP IV = +3 HP upon level up
+:::::
+::::::
+
+::::::if{source="Squirtle" condition="$fight == 'Josh'"}
+:::::trainer[Youngster Josh]
+  :::pokemon[Rattata]
+    Water Gun*
+    ::damage[Rattata's Tackle]{source="Squirtle" offensive=false movePower=35 level=15 opponentLevel=10 opponentStat=14 special=false stab=true}
+    :::if{source="Squirtle" condition="speed=(x / 16-20 / x)"}
+    - Speed Ties
+  :::
+  :::pokemon[Rattata]
+    Water Gun*
+    :damage[Rattata's Tackle]{source="Squirtle" offensive=false movePower=35 level=16 opponentLevel=10 opponentStat=16 special=false stab=true}
+  :::
+  :::pokemon[Zubat]
+    Water Gun* (x2)
+    - Zubat is 62.5% (10/16) to OHKO in torrent
+  :::
+:::::
+::::::
+
+::::::if{source="Squirtle" condition="$fight == 'Marcos'"}
+:::::trainer[Hiker Marcos]
+  Bubble x3
+:::::
+::::::
+
+::::::if{source="Squirtle" condition="$fight == 'Grunt'"}
+:::::trainer[Rocket Spinner]
+  :::pokemon[Water Gun (x2)]
+    Water Gun*
+    - Rattata is 62.5% (10/16) to OHKO in torrent
+    ::damage[Rattata's Tackle]{source="Squirtle" offensive=false movePower=35 level=15 opponentLevel=13 opponentStat=19 special=false stab=true}
+    ::damage[Rattata's Hyper Fang]{source="Squirtle" offensive=false movePower=80 level=15 opponentLevel=13 opponentStat=19 special=false stab=true}
+  :::
+  :::pokemon[Sandshrew]
+    Water Gun
+  :::
+:::::
+::::::
+
+Force the Rocket Grunt to walk up to you to save repel steps by running.
+
+:::::trainer[Rocket Grunt]
+  :::pokemon[Rattata]
+    Water Gun* (x2)
+  :::
+  :::pokemon[Zubat]
+    Water Gun* (x2)
+  :::
+:::::
+
+:::::trainer[Super Nerd Miguel]
+  :::pokemon[Grimer]
+    Water Gun x2
+    - If you can survive 2 turns of Poison + Voltorb Tackle, Antidote on Voltorb
+  :::
+  :::pokemon[Voltorb]
+    Water Gun* (x2)
+    - 56.25% (9/16) to OHKO in Torrent
+    :::if{source="Squirtle" condition="$fight == 'Josh'"}
+     - 24-29 Speed Ties
+    :::
+    :::if{source="Squirtle" condition="$fight == 'Robby'"}
+    - 25-30 Speed Ties
+    :::
+    :::if{source="Squirtle" condition="$fight == 'Grunt'"}
+    - 25-30 Speed Ties
+    :::
+    :::if{source="Squirtle" condition="$fight == 'Marcos'"}
+    - 25-30 Speed Ties
+    :::
+  :::
+  :::pokemon[Koffing]
+    Water Gun* (x2)
+    - Swap Water Gun to Slot 2 (Select + A + A)
+    - 87.5% (14/16) to OHKO in Torrent
+  :::
+:::::
+
+Praise Helix then head outside of Mt. Moon
+- If poisoned on Koffing, Antidote immediately if you need a Rat/Shrew/Paras, otherwise SKIP Antidote and revive with a Rare Candy
+
+Grab the Great Ball if no Cut friend yet
+
+Talk to the Karate Man on the right and teach Mega Kick over Withdraw (Slot 4)
+
+If no cut slave, catch a Sandshrew/Rattata in the grass (Tackle to weaken)
+  - Can teach Strength to Sandshrew later if caught
+  - If you die to Rat/Shrew using a Rare Candy will revive Wartortle
+
+Head to Cerulean City
+
+Grab this hidden Rare Candy
+
+![](https://cdn.discordapp.com/attachments/917309676717244436/1039436488556957789/Cerulean_Candy.png)
+
+Menu:
+- Potion Twice
+- Rare Candy to Level 20
+- Teach Bite over Bubble (Slot 3)
+
+Skip both gym trainers and talk to Misty from the right side
+
+:::::trainer[Leader Misty]
+  :::pokemon[Staryu]{info="Always outspeeds" infoColor=blue}
+    Bite + Bite
+    :::if{source="Squirtle" condition="spatk=(x / x / 28-29)"}
+    - 59.4% to 2HKO
+    :::
+    :::if{source="Squirtle" condition="spatk=(x / x / 30)"}
+    - 93% to 2HKO
+    :::
+  :::
+  :::pokemon[Starmie]{info="Always outspeeds" infoColor=blue}
+    Bite (+Tackle) + Bite
+    - Tackle if low roll on the first bite on Starmie
+    ::damage[Starmie's Swift]{source="Squirtle" offensive=false movePower=60 level=20 evolution=1 opponentLevel=21 opponentStat=39 special=false stab=false type=normal}
+    ::damage[Starmie's Water Pulse]{source="Squirtle" offensive=false movePower=60 level=20 evolution=1 opponentLevel=21 opponentStat=47 special=true stab=true type=water}
+  :::
+:::::
+
+After the fight:
+- Teach Water Pulse over Tackle (Mash A)
+- Heal for Rival so you can survive a QA + Vine Whip
+
+Use a Super Potion before Rival
+
+:::::trainer[Rival 2]
+  :::pokemon[Pidgeotto]
+    Bite + Water Pulse
+    - 25% (4/16) to OHKO with Water Pulse Torrent
+    :::
+    ::damage[Pidgeotto's Quick Attack]{source="Squirtle" offensive=false movePower=40 level=21 evolution=1 opponentLevel=17 opponentStat=26 special=false stab=true type=flying}
+  :::
+  :::pokemon[Bulbasaur]
+    Bite + Mega Kick
+    ::damage[Bulbasaur's Vine Whip]{source="Squirtle" offensive=false movePower=35 level=21 evolution=1 opponentLevel=18 opponentStat=30 special=true stab=true type=Grass}
+  :::
+  :::pokemon[Abra]
+    Water Pulse	
+    - 81.25% (13/16) to OHKO
+    :::if{source="Squirtle" condition="$fight == 'Josh'"}
+    - 20-23 Speed Ties
+    :::
+    :::if{source="Squirtle" condition="$fight == 'Robby'"}
+    - 21-24 Speed Ties
+    :::
+    :::if{source="Squirtle" condition="$fight == 'Grunt'"}
+    - 21-24 Speed Ties
+    :::
+    :::if{source="Squirtle" condition="$fight == 'Marcos'"}
+    - 21-24 Speed Ties
+    :::
+  :::
+  :::pokemon[Rattata]
+    - Water Pulse
+    ::damage[Rattata's Quick Attack]{source="Squirtle" offensive=false movePower=40 level=22 evolution=1 opponentLevel=15 opponentStat=24 special=false stab=true type=normal}
+  :::
+:::::
+
+:::::trainer[Bug Catcher Cale]
+  Bite x4
+:::::
+
+:::::trainer[Lass Ali]
+  :::pokemon[Pidgey]
+    Bite
+  :::
+  :::pokemon[Oddish]
+    Mega Kick
+  :::
+  :::pokemon[Bellsprout]
+    Bite
+  :::
+:::::
+
+:::::trainer[Youngster Timmy]
+  :::pokemon[Sandshrew]
+    Bite
+  :::
+  :::pokemon[Ekans]
+    Water Pulse
+  :::
+:::::
+
+*Can Water Gun everything from here in Torrent*
+
+:::::trainer[Lass Reli]
+  :::pokemon[Nidoran M]
+    Water Pulse
+  :::
+  :::pokemon[Nidoran F]
+    Water Pulse
+  :::
+:::::
+
+:::::trainer[Camper Ethan]
+  :::pokemon[Mankey]
+    Water Pulse
+  :::
+:::::
+
+:::::trainer[Rocket Grunt]
+  :::pokemon[Ekans]
+    Water Pulse
+  :::
+  :::pokemon[Zubat]
+    Water Pulse
+  :::
+:::::
+
+Go above the Hiker and grab this Hidden Elixir
+
+![](https://cdn.discordapp.com/attachments/917309676717244436/1039450232703942658/Elixir.png)
+
+Fight the bottom hiker
+
+:::::trainer[Hiker Wayne]
+  :::pokemon[Onix]
+    Water Gun	
+  :::
+:::::
+
+Yolo the camper spinner and fight the Lass below him
+- 1/16 to hit you with proper movement (/w Hiker Wayne)
+
+Pass Dan
+
+:::::trainer[Picknicker Kelsey]
+  :::pokemon[Nidoran M]
+    Water Pulse
+  :::
+  :::pokemon[Nidoran F]
+    Water Pulse
+  :::
+:::::
+
+:::::trainer[Camper Flint]
+  :::pokemon[Rattata]
+    Water Pulse
+  :::
+  :::pokemon[Ekans]
+    Water Pulse
+  :::
+:::::
+
+:::::trainer[Lass Haley]
+  :::pokemon[Oddish]
+    Mega Kick
+    :::if{source="Squirtle" condition="spatk=(x / x / 28)"}
+    - Water Pulse in Torrent is a 68.75% to OHKO
+    :::
+    :::if{source="Squirtle" condition="spatk=(x / x / 29-31)"}
+    - Water Pulse in Torrent is a 81.25% to OHKO
+  :::
+  :::pokemon[Oddish]
+    Mega Kick
+    :::if{source="Squirtle" condition="spatk=(x / x / 29-31)"}
+    - Water Pulse in Torrent is a 37.5% to OHKO
+  :::
+  :::pokemon[Pidgey]
+    Bite
+    - Quick Attack does 5 to 0-14 Mild, otherwise 3
+  :::
+:::::
+
+*Grab this hidden Ether (Risky but can skip if Torrent at 26 + 2 MKs left)*
+
+Get S.S. Ticket, then run back to Cerulean and enter the Dig house
+- Ether before Drowzee/Raticate if you need the Mega Kicks (Not in Torrent)
+
+Head to the Dig house
+
+:::::trainer[Rocket Grunt]
+  :::pokemon[Machop]
+    Water Pulse
+  :::
+  :::pokemon[Drowzee]
+    Mega Kick
+    - Drowzee usually does 5-7 with both Headbutt/Confusion
+    :::if{source="Squirtle" condition="spatk=(x / x / 29-31)"}
+    - Water Pulse in Torrent is a 18.75% to OHKO
+  :::
+:::::
+
+*Grab this hidden Rare Candy*
+
+![](https://cdn.discordapp.com/attachments/917309676717244436/1039455506873450516/Route6_Candy.png)
+
+*Consider this Sitrus Berry with low Sp.Def*
+
+![](https://cdn.discordapp.com/attachments/917309676717244436/1039455914706620416/Sitrus_Berry.png)
+
+Avoid the Bug Catcher and fight the Camper below the girl trainer
+
+:::::trainer[Camper Jeff]
+  :::pokemon[Spearow]
+    Water Pulse
+  :::
+  :::pokemon[Raticate]
+    Mega Kick(Water Pulse*)
+    ::damage[Raticate's Quick Attack]{source="Squirtle" offensive=false movePower=40 level=25 evolution=1 opponentLevel=16 opponentStat=30 special=false stab=true type=normal}
+  :::
+:::::
+
+Head straight to the mart
+
+Buy:
+ - 5 Super Potions (v)
+ - 3 Paralyze Heals (vv)
+ - 3 Repels (vvv)
+
+Head to the S.S. Anne
+
+Before your Rival:
+ - Rare Candy to 27(Stay level 26 if Rare Candy level up is out of torrent)
+ - Ether Mega Kick if you haven’t already
+ - Keep Torrent if you’re still in it and won’t die to a Quick Attack
+ - 3, 6, 10, 14, 18, 21, 22, 25, 26, 29 HP IV = +3 Upon Levelup, Everything Else = +2
+
+:::::trainer[Rival 3]
+  :::pokemon[Pidgeotto]
+    Water Pulse + Bite
+    - Water Pulse* if in torrent
+    ::damage[Pidgeotto's Gust(Level 27)]{source="Squirtle" offensive=false movePower=35 level=27 evolution=1 opponentLevel=19 opponentStat=28 special=false stab=true type=flying}
+    ::damage[Pidgeotto's Gust(Level 26)]{source="Squirtle" offensive=false movePower=35 level=26 evolution=1 opponentLevel=19 opponentStat=28 special=false stab=true type=flying}
+  :::
+  :::pokemon[Ivysaur]
+    Bite + Mega Kick
+    ::damage[Ivysaur's Vine Whip(Level 27)]{source="Squirtle" offensive=false movePower=35 level=27 evolution=1 opponentLevel=20 opponentStat=39 special=true stab=true type=grass}
+    ::damage[Ivysaur's Vine Whip(Level 26)]{source="Squirtle" offensive=false movePower=35 level=26 evolution=1 opponentLevel=20 opponentStat=39 special=true stab=true type=grass}
+  :::
+  :::pokemon[Raticate]
+    Bite
+    ::damage[Raticate's Quick Attack(Level 27)]{source="Squirtle" offensive=false movePower=40 level=27 evolution=1 opponentLevel=16 opponentStat=34 special=false stab=true type=normal}
+    ::damage[Raticate's Quick Attack(Level 26)]{source="Squirtle" offensive=false movePower=40 level=26 evolution=1 opponentLevel=16 opponentStat=34 special=false stab=true type=normal}
+  :::
+  :::pokemon[Kadabra]
+    Bite
+    ::damage[Kadabra's Confusion(Level 27)]{source="Squirtle" offensive=false movePower=50 level=27 evolution=1 opponentLevel=18 opponentStat=49 special=true stab=true type=psychic}
+    ::damage[Kadabra's Confusion(Level 26)]{source="Squirtle" offensive=false movePower=50 level=26 evolution=1 opponentLevel=18 opponentStat=49 special=true stab=true type=psychic}
+  :::
+:::::
+
+Ivysaur Bite+Mega Kick 2HKO tanges = 
+
+![](https://cdn.discordapp.com/attachments/917309676717244436/1039460355396616202/Ivyaur_2HKO.png)
+
+Talk to the captain for HM Cut and take the Bed Lady’s free heal on the way out
+
+Press Select to teach Cut to Rattata/Sandshrew, then Cut the bush to enter the gym
+
+Save after you find the 1st Can puzzle 
+- Make sure to use Candy before fighting Gentleman if did not used it before Rival
+- 2nd Can should be anywhere up,down,left, or right of the 1st can
+- Soft reset if you didn’t get the 2nd Can after saving
+- Optimal Can movement are the following
+
+![](https://cdn.discordapp.com/attachments/917309676717244436/1039474592852475924/Can_Order.png)
+
+:::::trainer[Gentleman Tucker]
+  :::pokemon[Pikachu]
+    Water Pulse
+    :::if{source="Squirtle" condition="$fight == 'Josh'"}
+    - 24-26 Speed Ties
+    :::
+    :::if{source="Squirtle" condition="$fight == 'Robby'"}
+    - 25-27 Speed Ties
+    :::
+    :::if{source="Squirtle" condition="$fight == 'Grunt'"}
+    - 25-27 Speed Ties
+    :::
+    :::if{source="Squirtle" condition="$fight == 'Marcos'"}
+    - 25-27 Speed Ties
+    :::
+  :::
+:::::
+
+:::if{source="Squirtle" condition="$fight == 'Marcos'"}
+    Add 1 Defense IV to your squirtle to get accurate calcs of Raichu's quick attack(reduce it back after fighting 
+    surge)
+:::
+
+:::::trainer[Leader Surge]
+  :::pokemon[Voltorb]
+    - Water Pulse (x2)	
+    :::if{source="Squirtle" condition="spatk=(x / x / 28)"}
+    - 62.5% to 2HKO
+    :::
+    :::if{source="Squirtle" condition="spatk=(x / x / 29-31)"}
+    - 81.25% to 2HKO
+    :::
+  :::
+  :::pokemon[Pikachu]
+    - Water Pulse
+  :::
+  :::pokemon[Raichu]{info="Always outspeeds" infoColor=blue}
+    - Water Pulse + Mega Kick
+    - Swap Water Pulse to Slot 2 before using it (Select + A + A)
+    - Water Pulse + Water Pulse if you can get Torrent next turn
+    ::damage[Raichu's Shock Wave]{source="Squirtle" offensive=false movePower=60 level=28 evolution=1 opponentLevel=24 opponentStat=52 special=true stab=true type=electric}
+    ::damage[Raichu's Quick Attack]{source="Squirtle" offensive=false movePower=40 level=28 evolution=1 opponentLevel=24 opponentStat=43 special=false stab=false type=normal}
+  :::
+:::::
+
+Get the Bike Voucher, then run back to Cerulean City
+
+Get the bike, then register + use it. 
+
+Head to the right towards Rock Tunnel
+
+:::::trainer[Jr. Trainer Alicia]
+  :::pokemon[Oddish]
+    - Mega Kick
+  :::
+  :::pokemon[Bellsprout]
+    - Bite
+  :::
+  :::pokemon[Oddish]
+    Mega Kick
+  :::
+  :::pokemon[Bellsprout]
+    - Bite
+  :::
+:::::
+
+Run-into-bike manip the Hiker spinner (If you mess up just use bike from the bag)
+
+:::::trainer[Bug Catcher Conner]
+  :::pokemon[Caterpie]
+    - Water Gun
+  :::
+  :::pokemon[Weedle]
+    - Water Gun
+  :::
+  :::pokemon[Venonat]
+    - Water Pulse (x2)	
+    :::if{source="Squirtle" condition="spatk=(x / x / 28-30)"}
+    - 37.5% to OHKO with Water Pulse
+    :::
+    :::if{source="Squirtle" condition="spatk=(x / x / 31)"}
+    - 43.75% to OHKO with Water Pulse
+    :::
+    :::if{source="Squirtle" condition="atk=(x / 21+ / x)"}
+    - 81.25% to OHKO with Mega Kick
+  :::
+:::::
+
+Consider these hidden Berries if no Awakenings (Chesto) or Paralyze Heals (Cheri) left
+
+![](https://cdn.discordapp.com/attachments/917309676717244436/1039516529038999602/Chesto_and_Cherri.png)
+
+Grab this hidden Rare Candy after the Hiker 
+
+![](https://cdn.discordapp.com/attachments/917309676717244436/1039516829808332910/Tunnel_Candy.png)
+
+Use Elixir on a Repel menu as necessary for Mega Kick PP
+
+:::::trainer[Pokémaniac Ashton]
+  :::pokemon[Cubone]
+    Water Gun
+  :::
+  :::pokemon[Slowpoke]
+    Bite (x2)
+    :::if{source="Squirtle" condition="spatk=(x / x / 28-30)"}
+    - 12.5% to OHKO
+    :::
+    :::if{source="Squirtle" condition="spatk=(x / x / 31)"}
+    - 25% to OHKO
+  :::
+:::::
+
+:::::trainer[Pokémaniac Winston]
+  :::pokemon[Slowpoke]
+    Bite (x2)
+    :::if{source="Squirtle" condition="spatk=(x / x / 28-30)"}
+    - 6.25% to OHKO
+    :::
+    :::if{source="Squirtle" condition="spatk=(x / x / 31)"}
+    - 18.75% to OHKO
+  :::
+:::::
+
+Optional: Grab the Elixir before Martha (below and left of her)
+
+:::::trainer[Jr Trainer Martha]
+  :::pokemon[Oddish]
+    Mega Kick/Bite x2
+  :::
+  :::pokemon[Bulbasaur]
+    Mega Kick
+  :::
+:::::
+
+Oddish 2HKO ranges =
+
+![](https://cdn.discordapp.com/attachments/917309676717244436/1039514893675671592/Oddish_Kick.png)
+
+*NEED to fight Hiker Eric on the top right instead of Hiker Allen on the bottom left*
+
+:::::trainer[Hiker Eric]
+  :::pokemon[Machop]
+    Water Pulse
+  :::
+  :::pokemon[Onix]
+    Water Pulse
+  :::
+:::::
+
+![](https://cdn.discordapp.com/attachments/917309676717244436/1039515270491947060/Top_Hiker.png)
+
+:::::trainer[Hiker Oliver]
+  :::pokemon[Onix]
+    - Bite (x2)
+    - 81.3% to OHKO
+  :::
+  :::pokemon[Onix]
+    - Water Gun
+  :::
+  :::pokemon[Geodude]
+    - Bite
+  :::
+:::::
+
+:::::trainer[Jr Trainer Sofia]
+  Water Pulse x3/Water Gun*
+:::::
+
+:::::trainer[Hiker Dudley]
+  :::pokemon[Geodude]
+    - Bite
+  :::
+  :::pokemon[Geodude]
+    - Bite
+  :::
+  :::pokemon[Graveler]
+    - Water Gun
+  :::
+:::::
+
+Run-Into-WALK Manip the Supernerd
+- Run-Into-Bike manip is slower due to lag from music transitions
+
+:::::trainer[Jr Trainer Dana]
+  :::pokemon[Meowth]
+    - Bite
+  :::
+  :::pokemon[Pidgey]
+    - Mega Kick
+    - *Check how many Mega Kicks you have here*
+  :::
+  :::pokemon[Oddish]
+    - Bite
+  :::
+:::::
+
+Head south to the mart and buy:
+- 4 Escape Ropes (7 Down)
+- 7 Super Repels (v)
+
+Head left to the next route
+
+Fight the gambler below
+
+:::::trainer[Gambler Rich]
+  :::pokemon[Growlithe]
+    - Water Gun
+  :::
+  :::pokemon[Vulpix]	
+    :::if{source="Squirtle" condition="spatk=(x / x / 28-29)"}
+    - Water Pulse
+    :::
+    :::if{source="Squirtle" condition="spatk=(x / x / 30+)"}
+    - Water Gun
+  :::
+:::::
+
+Avoid all the trainers and head into the building above the bikers
+
+Head straight to the game corner
+
+:::::trainer[Rocket Grunt]
+  :::pokemon[Raticate]
+    - Mega Kick/Water Pulse*
+  ::damage[Raticate's Quick Attack]{source="Squirtle" offensive=false movePower=40 level=32 evolution=1 opponentLevel=20 opponentStat=37 statModifier=1.1 special=false stab=true type=normal}
+  :::
+  :::pokemon[Zubat]
+    - Water Pulse
+  :::
+:::::
+
+Talk to the poster and head into the Rocket Hideout
+
+Grab this Rare Candy before going into the Spinny Tiles 
+
+![](https://cdn.discordapp.com/attachments/917309676717244436/1039520343762686002/Game_Corner_Candy.png)
+
+Grab these Black Glasses before heading downstairs to Lift Key guy
+
+![](https://cdn.discordapp.com/attachments/917309676717244436/1039520683773919242/BlackGlasses.png)
+
+BEFORE battling the lift key guy:
+ - Rare Candy to 35
+ - Put your cursor on Escape Rope
+
+:::::trainer[Rocket Grunt]
+  :::pokemon[Koffing]
+    - Water Pulse/Water Gun*
+  :::
+  :::pokemon[Zubat]
+    - Water Pulse/Water Gun
+  :::
+:::::
+
+Head towards the elevator to floor B4 and fight the left Rocket Grunt first
+
+Fight the left Rocket Grunt first
+
+:::::trainer[Rocket Grunt]
+  :::pokemon[Sandshrew]
+    - Bite
+  :::
+  :::pokemon[Sandslash]
+    - Water Pulse
+  :::
+  :::pokemon[Ekans]
+    - Water Pulse	
+    :::if{source="Squirtle" condition="spatk=(x / x / 28-30)"}
+    - 15/16 range
+  :::
+:::::
+
+:::::trainer[Rocket Grunt]
+  :::pokemon[Ekans]
+    - Water Pulse
+  :::
+  :::pokemon[Sandshrew]
+    - Bite
+  :::
+  :::pokemon[Arbok]
+    - Bite + Water Pulse/Water Pulse*
+    - Should get either +14 or 15 HP upon evolution
+  :::
+:::::
+
+:::::trainer[Giovanni 1]
+  :::pokemon[Onix]
+    - Water Gun
+  :::
+  :::pokemon[Rhyhorn]
+    - Water Gun
+  :::
+  :::pokemon[Kangaskhan]
+    - Water Pulse x2-3
+    - 98% to 2HKO with Torrent
+    ::damage[Kangaskhan's Mega Punch]{source="Squirtle" offensive=false movePower=85 level=36 evolution=2 opponentLevel=29 opponentStat=68 statModifier=1.1 combatStages=0 special=false stab=true type=normal}
+    ::damage[Kangaskhan's Mega Punch (-1 Defense)]{source="Squirtle" offensive=false movePower=85 level=36 evolution=2 opponentLevel=29 statModifier=1.1 opponentStat=68 combatStages=-1 special=false stab=true type=normal}
+  :::
+:::::
+
+After Giovanni:
+- Grab the Silph Scope
+- Use an Escape Rope
+
+Bike straight to the mart and take the elevator to 5F (vv)
+
+**Shopping: (bottom vendor)**
+
+*Low on Mega Kicks or High HP after Giovanni:*
+- 5 X Speeds(4 if 30+IV or 29+ with Josh)	(vv)           
+- 21 X Specials (v)	
+- 4 X Accuracy (v)
+- 2 Guard Specs (v)
+
+*2-3 Mega Kicks Left:*
+- 1 X Attack
+- 5 X Speeds(4 if 30+IV or 29+ with Josh)	(vv)
+- 18 X Specials (v)
+- 5 X Accuracy (v)
+- 3 Guard Specs. (v)
+
+Take the elevator back down and bike west to get Fly
+
+After obtaining fly:
+- Teach Fly to bird
+- Heal to around 44 HP
+- Super Repel
+- Equip Black Glasses
+- Toss Moon Stone (makes for faster scrolling up and down in the menus)
+- Fly to Lavender Town
+
+**Rival 4 X-Attack Strat:**
+
+:::::trainer[Rival 4]
+  :::pokemon[Pidgeotto]
+    - Guard Spec, X Acc, X Attack, Water Pulse*/Mega Kick
+    ::damage[Pidgeotto's Quick Attack]{source="Squirtle" offensive=false movePower=40 level=36 evolution=2 opponentLevel=25 opponentStat=38 statModifier=1.1 special=false stab=true type=normal}
+  :::
+  :::pokemon[Ivysaur]
+    - Mega Kick
+  :::
+  :::pokemon[Gyarados]
+    -  Mega Kick
+    - Stall a turn on Gyarados if no Torrent
+    ::damage[Gyarados's Thrash]{source="Squirtle" offensive=false movePower=90 level=37 evolution=2 opponentLevel=23 opponentStat=65 statModifier=1.1 special=false stab=false type=normal}
+  :::
+  :::pokemon[Growlithe]
+    -  Mega Kick/Water Pulse
+  :::
+  :::pokemon[Kadabra]
+    - Water Pulse
+  :::
+:::::
+
+**Rival 4 X-Special Strat:**
+
+:::::trainer[Rival 4]
+  :::pokemon[Pidgeotto]
+    - X Special x1/2, Bite
+    - Use 1 X Special if in high enough HP to tank a Overgrow Razor Leaf + Thrash
+    - Use an X Accuracy if you get Sand Attacked (Yolo if you get Sand Attack Twice)
+    ::damage[Pidgeotto's Quick Attack]{source="Squirtle" offensive=false movePower=40 level=36 evolution=2 opponentLevel=25 opponentStat=38 statModifier=1.1 special=false stab=true type=normal}
+  :::
+  :::pokemon[Ivysaur]
+    - Water Pulse*/Bite (x2)
+    ::damage[Ivysaur's Razor Leaf]{source="Squirtle" offensive=false movePower=55 level=36 evolution=2 opponentLevel=25 opponentStat=42 special=true stab=true type=grass}
+    :::if{source="Squirtle" condition="spatk=(x / x / 28-29)"}
+    - Bite is a 62.5% to OHKO at +2
+    - Water Pulse* is a 68.75% to OHKO at +2
+    :::
+    :::if{source="Squirtle" condition="spatk=(x / x / 30-31)"}
+    - Bite is a 68.75% to OHKO at +2
+    - Water Pulse* is a 81.25% to OHKO at +2
+  :::
+  :::pokemon[Gyarados]
+    -   Bite x2
+    ::damage[Gyarados's Thrash]{source="Squirtle" offensive=false movePower=90 level=37 evolution=2 opponentLevel=23 opponentStat=65 statModifier=1.1 special=false stab=false type=normal}
+  :::
+  :::pokemon[Growlithe]
+    -  Bite
+  :::
+  :::pokemon[Kadabra]
+    - Water Pulse
+  :::
+:::::
+
+Head to the 5th floor avoiding all optional trainers along the way
+
+*Do NOT grab any items till the 6th floor or use the healing pad*
+
+:::::trainer[Channeler Tammy]
+  :::pokemon[Haunter]
+    - Water Pulse/Water Gun*
+  :::
+:::::
+
+**Backup X-Accuracy South of the staircase one floor above the Haunter Lady(if you used it on Rival)**
+
+![](https://cdn.discordapp.com/attachments/917309676717244436/1039540436517257246/Backup_X_Accuracy.png)
+
+:::::trainer[Channeler Jennifer]
+  :::pokemon[Gastly]
+    - Water Gun
+  :::
+:::::
+
+:::::trainer[Channeler Emilia]
+  :::pokemon[Gastly]
+    - Water Gun
+  :::
+:::::
+
+Grab this Rare Candy before fighting Marowak
+
+![](https://cdn.discordapp.com/attachments/917309676717244436/1039540528129265684/Tower_Candy.png)
+
+:::if{source="Squirtle" condition="$fight == 'Marcos'"}
+    Add 1 Defense IV to your squirtle to get accurate calcs of Marowak's Bonemerang(reduce it back after 
+    fighting Marowak)
+:::
+
+:::::trainer[Ghost Marowak]
+  :::pokemon[Marowak]
+    - Water Pulse*
+    - Mega Kick/Bite for one turn if not in Torrent
+    ::damage[Marowak's Bonemerang(Per Hit)]{source="Squirtle" offensive=false movePower=50 level=37 evolution=2 opponentLevel=30 opponentStat=62 statModifier=1.1 special=false stab=true type=ground}
+  :::
+:::::
+
+Head upstairs and let every Rocket Grunt walk up to you along the way
+
+:::::trainer[Rocket Grunt]
+  :::pokemon[Zubat]
+    - Water Gun*
+  :::
+  :::pokemon[Zubat]
+    - Water Gun*
+  :::
+  :::pokemon[Golbat]
+    - Water Pulse*
+    :::if{source="Squirtle" condition="spatk=(x / x / 31)"}
+    - Water Pulse is a 50% to OHKO without Torrent
+    :::
+    :::if{source="Squirtle" condition="spatk=(x / x / 28-30)"}
+    - Water Pulse is a 37.5% to OHKO without Torrent
+  :::
+:::::
+
+:::::trainer[Rocket Grunt]
+  :::pokemon[Koffing]
+    - Water Gun*
+  :::
+  :::pokemon[Drowzee]
+    - Water Pulse*/Bite
+  :::
+:::::
+
+:::::trainer[Rocket Grunt]
+  - Water Gun x4
+  - Water Pulse Raticate if no Torrent
+  ::damage[Raticate's Quick Attack]{source="Squirtle" offensive=false movePower=40 level=39 evolution=2 opponentLevel=23 opponentStat=46 statModifier=1.1 special=false stab=true type=normal}
+:::::
+
+Talk to the old man to exit, then fly to Celadon after getting the Poke Flute
+
+Grab the Tea and bike to Snorlax and run away
+
+Bag manip the spinners at the beginning of Cycling Road
+
+Grab this hidden Rare Candy (3rd sign down)
+
+![](https://cdn.discordapp.com/attachments/917309676717244436/1039542815530688542/Cycling_Candy.png)
+
+Grab this hidden Elixir
+
+![](https://cdn.discordapp.com/attachments/917309676717244436/1039542815165788180/Cycling_Elixir.png)
+
+Head through the *right* side of the gym
+
+Head straight to the Safari Zone
+
+**Before the grass in the second area**
+
+ - **Rare Candy to level 41**
+
+ - **Super Repel**
+
+Always Grab this Full Restore
+
+![](https://cdn.discordapp.com/attachments/917309676717244436/1039543389680578560/Safari_Restore.png)
+
+Can grab this hidden revive for safety
+
+![](https://cdn.discordapp.com/attachments/917309676717244436/1039543389294706758/Safari_Revive.png)
+
+**Get the Gold Teeth and HM Surf in the house** 
+
+Fly to Fuchsia and head to the gym
+
+The 1st and 3rd trainer in this gym are spinners, fight the 2nd guy
+
+**During the bag manip on the 1st spinner**
+ - **Teach Surf to Blastoise over Water Gun (Slot 1)**
+
+:::::trainer[Juggler Kirk]
+  - Surf* x4
+  - X Special turn 1 if not in Torrent
+:::::
+
+**Heal out of Weezing/Muk kill range on the 2nd spinner**
+
+:::::trainer[Leader Koga]
+  :::pokemon[Koffing]
+    - Surf
+  :::
+  :::pokemon[Muk]
+    - Surf*, (X-Special) Surf*
+    - X Special on Muk if 60+ HP or if in Weezing Kill range after level up
+    ::damage[Muk's Sludge]{source="Squirtle" offensive=false movePower=65 level=41 evolution=2 opponentLevel=39 opponentStat=77 statModifier=1.1 combatStages=0 special=false stab=true type=poison}
+  :::
+  :::pokemon[Koffing]
+    - Surf
+  :::
+  :::if{source="Squirtle" condition="$fight == 'Marcos'"}
+    - Add 1 Defense IV to your squirtle to get accurate calcs of Weezing's Sludge(reduce it back after fighting Weezing)
+  :::
+  :::pokemon[Weezing]
+    - Surf*
+    - Consider Bite + Surf if high hp or you want safety
+    - 68.75% to OHKO at 30-31
+    - Surf Turn 1 if +1 Torrent, Water Pulse + Surf if no Torrent on Weezing
+    ::damage[Weezing's Sludge]{source="Squirtle" offensive=false movePower=65 level=42 evolution=2 opponentLevel=43 opponentStat=82 statModifier=1.1 combatStages=0 special=false stab=true type=poison}
+  :::
+:::::
+
+**Grab Strength from the warden and once outside**
+ - Super Repel
+ - Heal out of Growlithe kill range if necessary
+ - Fly to Pallet and Surf south to Cinnabar Island
+
+Go to the mansion (approach from the left side)
+
+![](https://cdn.discordapp.com/attachments/917309676717244436/1039546661619380314/Carbos_Chart.png)
+
+**Grab this Carbos if “Grab Carbos” on the chart above (Can bag manip the walker downstairs)**
+
+![](https://cdn.discordapp.com/attachments/917309676717244436/1039546661275435109/Mansion_Carbos.png)
+
+Grab this hidden Elixir
+
+![](https://cdn.discordapp.com/attachments/917309676717244436/1039547193012527154/Mansion_Elixir.png)
+
+Grab this TM14 (Blizzard) and then grab secret key on table
+
+![](https://cdn.discordapp.com/attachments/917309676717244436/1039547192710545468/Mansion_Blizzard.png)
+
+**Before exiting Cinnabar Mansion:**
+- **Teach Strength to Sandshrew if you caught one**
+- **Teach Blizzard over Mega Kick (Slot 4)**
+- **Carbos now if grabbed for Blane (Delay if you grabbed for Sabrina)**
+- **Escape rope out and bike to the gym**
+
+*Puzzle Answers: A,B,B,B,A,B*
+
+:::::trainer[Leader Blaine]
+  :::pokemon[Growlithe]
+    - (X-Speed,) Surf
+    - X Speed at 21 Speed, only X-Speed at 22/23 if you skipped the Carbos
+    - Can Water Pulse both Growlithe and Ponyta in Torrent (Only if low pp on Surf)
+    ::damage[Growlithe's Take Down]{source="Squirtle" offensive=false movePower=90 level=42 evolution=2 opponentLevel=42 statModifier=1.1 opponentStat=64 special=false stab=false type=normal}
+    ::damage[Growlithe's Fire Blast]{source="Squirtle" offensive=false movePower=120 level=42 evolution=2 opponentLevel=42 opponentStat=63 special=true stab=true type=fire}
+  :::
+  :::pokemon[Ponyta]
+    -  Surf
+  :::
+  :::pokemon[Rapidash(22-23 Speed Ties)]
+    - Surf
+    ::damage[Rapidash's Bounce]{source="Squirtle" offensive=false movePower=85 level=42 evolution=2 opponentLevel=42 statModifier=1.1 opponentStat=80 special=false stab=false type=flying}
+    ::damage[Rapidash's Fire Blast]{source="Squirtle" offensive=false movePower=120 level=42 evolution=2 opponentLevel=42 opponentStat=72 special=true stab=true type=fire}
+  :::
+  :::pokemon[Arcanine]
+    - Surf*
+    - Need Torrent for Arcanine (Can also just X-Special on Growlithe or tank a Rapidash hit)
+  :::
+:::::
+
+**SAY NO TO BILL YOU IDIOT, then fly to Celadon and bike to the gym**
+
+Head through the left side of the gym
+
+:::::trainer[Picknicker Tamia]
+  :::pokemon[Bellsprout]
+    - Bite
+  :::
+  :::pokemon[Bellsprout]
+    - Bite
+  :::
+:::::
+
+:::::trainer[Beauty Lori]
+  :::pokemon[Exeggcute]
+    - Bite
+:::::
+
+:::::trainer[Leader Erika]
+  :::pokemon[Victreebel]
+    - Surf*/Blizzard
+  :::
+  :::pokemon[Tangela]
+    -  Bite
+  :::
+  :::pokemon[Vileplume]
+    - Blizzard
+  ::damage[Vileplume's Giga Drain]{source="Squirtle" offensive=false movePower=60 level=44 evolution=2 opponentLevel=29 opponentStat=63 statModifier=1.1 special=true stab=true type=grass}
+  :::
+:::::
+
+Exiting through the already cut bush, then fly to Celadon and bike to Silph Co.
+
+Take stairs to 3F and head to the Teleporter on the left
+
+Run into pause manip the Scientist
+
+Always bag manip the Rocket Spinner
+
+On spinner bag manip
+- Use the Max Elixir
+- Heal to around the HP below
+
+:::if{source="Squirtle" condition="defense=(0-11 / x / x)"}
+    - 82 HP
+:::
+:::if{source="Squirtle" condition="defense=(12-31 / 0-4 / x)"}
+    - 80 HP
+:::
+:::if{source="Squirtle" condition="defense=(x / 5-25 / x)"}
+    - 76 HP
+:::
+:::if{source="Squirtle" condition="defense=(x / 26-31 / x)"}
+    - 74 HP
+:::
+
+:::::trainer[Rival 5]
+  :::pokemon[Pidgeot]
+    - X Special (+2), X Acc, Surf
+    - Go to +2 SPA if Featherdance turn 1
+    ::damage[Pidgeot's Wing Attack]{source="Squirtle" offensive=false movePower=60 level=44 evolution=2 opponentLevel=37 opponentStat=68 statModifier=1.1 special=false stab=true type=flying}
+    ::damage[Pidgeot's Quick Attack]{source="Squirtle" offensive=false movePower=40 level=44 evolution=2 opponentLevel=37 opponentStat=68 statModifier=1.1 special=false stab=true type=normal}
+  :::
+  :::pokemon[Venusaur]
+    - Blizzard
+  :::
+  :::pokemon[Gyarados]
+    - Blizzard + Bite
+    - 68.75% to OHKO with +2 Blizzard
+  :::
+  :::pokemon[Growlithe]
+    - Bite
+  :::
+  :::pokemon[Alakazam]
+    - Water Pulse*/Surf
+  :::
+:::::
+
+:::::trainer[Rocket Grunt]
+  :::pokemon[Cubone]
+    - Bite/Water Pulse
+  :::if{source="Squirtle" condition="spatk=(x / x / 28-29)"}
+    - 75% to OHKO
+  :::
+  :::if{source="Squirtle" condition="spatk=(x / x / 30+)"}
+    - 81.25% to OHKO
+  :::
+  :::pokemon[Drowzee]
+    - Water Pulse
+  :::
+  :::pokemon[Marowak]
+    - Water Pulse*
+  :::
+:::::
+
+:::::trainer[Giovanni 2]
+  :::pokemon[Nidorino]
+    - Surf*
+  :::
+  :::pokemon[Nidoqueen]
+    -Surf*
+  :::
+  :::pokemon[Kangaskhan]
+    -  Surf*
+    ::damage[Kangaskhan's Mega Punch]{source="Squirtle" offensive=false movePower=85 level=46 evolution=2 opponentLevel=35 opponentStat=82 statModifier=1.1 special=false stab=true type=normal}
+  :::
+  :::pokemon[Rhyhorn]
+    - Giga Drain
+  :::
+:::::
+
+Escape route out and Bike to the gym
+
+Tile Puzzle: Top Left, Bottom Left, Down
+
+:::::trainer[Leader Sabrina]
+  :::pokemon[Kadabra]
+    - Surf*
+  :::
+  :::pokemon[Mr. Mime]
+    - Surf*
+  :::
+  :::pokemon[Venomoth]
+    - (X-Speed), Surf*
+    - Skip the X-Speed on Venomoth if 29+ Speed + Used Carbos
+  ::damage[Venomoth's Psybeam]{source="Squirtle" offensive=false movePower=65 level=47 evolution=2 opponentLevel=38 opponentStat=65 statModifier=1.1 special=true stab=false type=psychic}
+  :::
+  :::pokemon[Alakazam]
+    - Surf*
+  :::
+:::::
+
+Escape rope out, then Fly to Viridian and bike to the gym
+
+Take the spinny tile on the right
+
+:::::trainer[Blackbelt Takashi]
+  :::pokemon[Machoke]
+    - Surf
+    :::if{source="Squirtle" condition="spatk=(x / x / 28-29 )"}
+    - 81.25% to OHKO first Machoke
+    :::
+    :::if{source="Squirtle" condition="spatk=(x / x / 30+ )"}
+    - 87.5% to OHKO first Machoke
+  :::
+  :::pokemon[Machop]
+    - Surf
+  :::
+  :::pokemon[Machoke]
+    - Surf
+  :::
+:::::
+
+:::::trainer[Cooltrainer Warren]
+  - Water Pulse* x5
+  - Surf Nidorina and Nidoqueen w/o Torrent
+:::::
+
+:::::trainer[Leader Giovanni]
+  :::pokemon[Rhyhorn]
+    - Water Pulse
+    - Can Water Pulse everything in Torrent if less than 5 PP on Surf
+    - Nidoking and Nidoqueen DO NOT die to Water Pulse w/o Torrent
+  :::
+  :::pokemon[Dugtrio]
+    - Water Pulse
+    :::if{source="Squirtle" condition="speed=(x / 18-20 / x )"}
+    - speed tie without Carbos
+  :::
+  :::pokemon[Nidoqueen]
+    - Surf
+  :::
+  :::pokemon[Nidoking]
+    - Surf
+  :::
+  :::pokemon[Rhyhorn]
+    - Surf
+    - Water Pulse Rhyhorn if only 3 Surf PP
+  :::
+:::::
+
+After exiting, bike to Route 22
+
+Before the grass:
+- Use a Full Restore
+- Yolo the grass
+
+:::::trainer[Rival 6]
+  :::pokemon[Pidgeot]
+    - X Special x2, (X Accuracy), Surf
+    - Consider X Accuracy skip if you can live a Razor Leaf
+  :::
+  :::pokemon[Venusaur]
+    - Blizzard	 
+    ::damage[Ivysaur's Razor Leaf]{source="Squirtle" offensive=false movePower=55 level=49 evolution=2 opponentLevel=53 opponentStat=126 statModifier=1.1 special=true stab=true type=grass}
+  :::
+  :::pokemon[Rhyhorn]
+    - Bite
+  :::
+  :::pokemon[Gyarados]
+    - Bite + Blizzard/Surf
+    - If Gyarados Rain Dances you can Surf instead of Blizzard
+  :::
+  :::pokemon[Growlithe]
+    -  (X Speed,) Bite
+    - Skip X Speed if Gyarados used Rain Dance and can tank a Psychic
+  :::
+  :::pokemon[Alakazam]
+    - Surf 
+    ::damage[Alakazam's Psychic]{source="Squirtle" offensive=false movePower=90 level=50 evolution=2 opponentLevel=47 opponentStat=126 statModifier=1.1 special=true stab=true type=psychic}
+  :::
+:::::
+
+Wait to repel and yolo the grass after Rival (1% chance to encounter)
+
+As soon as you reach the water behind the 4th guard:
+- Super Repel (Keep up for the rest of the game)
+- Teach Strength over Water Pulse if you don’t have a Sandshrew
+
+Every trainer here is an optional trainer, so avoid them all
+
+*Box heal and deposit slaves (from “Move” menu)*
+
+**Buy max Full Restores (vv)**
+
+**If doing risky Lorelei Switch to Normal Lorelei if Hail turn 1 or 2**
+
+:::::trainer[Elite Four Lorelei(Risky)]
+  :::pokemon[Dewgong]
+    - X Special x2, Bite + Bite, X Special x2, Bite
+    - She will not go for Hail if below half
+    - 16% to knock into Heal Range
+  :::
+  :::pokemon[Cloyster]
+    -  Bite
+  :::
+  :::pokemon[Slowbro]
+    - Bite
+  :::
+  :::pokemon[Jynx]
+    - Surf
+    :::if{source="Squirtle" condition="speed=(x / 15-16 / x )"}
+    - speed tie without Carbos
+  :::
+  :::pokemon[Lapras]
+    - Bite x3
+    ::damage[Lapras' Body Slam]{source="Squirtle" offensive=false movePower=85 level=52 evolution=2 opponentLevel=54 opponentStat=113 statModifier=1.1 special=false stab=false type=normal}
+  :::
+:::::
+
+:::::trainer[Elite Four Lorelei(Normal)]
+  :::pokemon[Dewgong]
+    - X Special x4, Bite + Bite
+    - Surf turn 2 if low roll from Bite
+    - Check your X Speed count here
+  :::
+  :::pokemon[Cloyster]
+    -  Bite
+  :::
+  :::pokemon[Slowbro]
+    - Bite
+  :::
+  :::pokemon[Jynx]
+    - Surf
+    :::if{source="Squirtle" condition="speed=(x / 15-16 / x )"}
+    - speed tie without Carbos
+  :::
+  :::pokemon[Lapras]
+    - Bite x3
+    ::damage[Lapras' Body Slam]{source="Squirtle" offensive=false movePower=85 level=52 evolution=2 opponentLevel=54 opponentStat=113 statModifier=1.1 special=false stab=false type=normal}
+  :::
+:::::
+
+**Heal to at least 80 HP before Bruno **
+- Do High HP Bruno if 1 RT, and 2 EQ’s puts you into High Torrent
+- NEED 3 X SPEED’S IN YOUR INVENTORY FOR HIGH HP BRUNO STRATS
+- Always Do Mid HP Bruno if 31 IV Speed
+
+**Do mid HP strat if 31 Speed + Carbos or 30 Speed + Carbos + 5 Spe IVs**
+
+:::::trainer[Elite Four Bruno(High HP)]
+  :::pokemon[Onix]
+    - X Special x2, X Speed, Surf
+    - Use an Extra X Special if missed Rock Tomb
+    - Bite Both Onix at +3 or More
+    ::damage[Onix's Earthquake]{source="Squirtle" offensive=false movePower=100 level=52 evolution=2 opponentLevel=51 opponentStat=66 statModifier=1.1 special=false stab=true type=ground} 
+    ::damage[Onix's Rock Tomb]{source="Squirtle" offensive=false movePower=50 level=52 evolution=2 opponentLevel=51 opponentStat=66 statModifier=1.1 special=false stab=true type=rock}
+    :::if{source="Squirtle" condition="speed=(x / 31 / x )"}
+    - outspeed onix at -1 
+  :::
+  :::pokemon[Hitmonchan]
+    -  Surf*
+    ::damage[Hitmonchan's Mach Punch]{source="Squirtle" offensive=false movePower=40 level=52 evolution=2 opponentLevel=53 opponentStat=132 statModifier=1.1 special=false stab=true type=fighting} 
+    ::damage[Hitmonchan's Sky Uppercut]{source="Squirtle" offensive=false movePower=85 level=52 evolution=2 opponentLevel=53 opponentStat=132 statModifier=1.1 special=false stab=true type=fighting}
+    ::damage[Hitmonchan's Rock Tomb]{source="Squirtle" offensive=false movePower=50 level=52 evolution=2 opponentLevel=53 opponentStat=132 statModifier=1.1 special=false stab=false type=rock}
+  :::
+  :::pokemon[Hitmonlee]
+    -  Surf*
+  :::
+  :::pokemon[Machamp]
+    -  Surf*
+  :::
+  :::pokemon[Onix]
+    -  Surf
+  :::
+:::::
+
+:::::trainer[Elite Four Bruno(Mid HP)]
+  :::pokemon[Onix]
+    - Guard Spec., X Special x2, Surf
+    - Continue setting up X Specs until +4 or at least +2 and in Torrent (Machamp will not die otherwise)
+    - Bite Both Onix at +3 or More
+    - Can Super Potion on Hitmonlee
+    ::damage[Onix's Earthquake]{source="Squirtle" offensive=false movePower=100 level=52 evolution=2 opponentLevel=51 opponentStat=66 statModifier=1.1 special=false stab=true type=ground} 
+    ::damage[Onix's Rock Tomb]{source="Squirtle" offensive=false movePower=50 level=52 evolution=2 opponentLevel=51 opponentStat=66 statModifier=1.1 special=false stab=true type=rock} 
+  :::
+  :::pokemon[Hitmonchan]
+    -  Surf*
+    ::damage[Hitmonchan's Mach Punch]{source="Squirtle" offensive=false movePower=40 level=52 evolution=2 opponentLevel=53 opponentStat=132 statModifier=1.1 special=false stab=true type=fighting} 
+    ::damage[Hitmonchan's Sky Uppercut]{source="Squirtle" offensive=false movePower=85 level=52 evolution=2 opponentLevel=53 opponentStat=132 statModifier=1.1 special=false stab=true type=fighting}
+    ::damage[Hitmonchan's Rock Tomb]{source="Squirtle" offensive=false movePower=50 level=52 evolution=2 opponentLevel=53 opponentStat=132 statModifier=1.1 special=false stab=false type=rock}
+  :::
+  :::pokemon[Hitmonlee]
+    -  Surf*
+  :::
+  :::pokemon[Machamp]
+    -  Surf*
+    - **Need at least +2 in torrent or +4 without Torrent to OHKO**
+  :::
+  :::pokemon[Onix]
+    -  Surf
+  :::
+:::::
+
+:::::trainer[Elite Four Bruno(Low HP)]
+  :::pokemon[Onix]
+    - Full Restore, X Special x2, X Speed, Surf
+    - Use an Extra X Special if missed Rock Tomb
+    - Bite Both Onix at +3 or More
+    ::damage[Onix's Earthquake]{source="Squirtle" offensive=false movePower=100 level=52 evolution=2 opponentLevel=51 opponentStat=66 statModifier=1.1 special=false stab=true type=ground} 
+    :::damage[Onix's Rock Tomb]{source="Squirtle" offensive=false movePower=50 level=52 evolution=2 opponentLevel=51 opponentStat=66 statModifier=1.1 special=false stab=true type=rock}
+    :::if{source="Squirtle" condition="speed=(x / 31 / x )"}
+    - outspeed onix at -1 
+  :::
+  :::pokemon[Hitmonchan]
+    -  Surf*
+    ::damage[Hitmonchan's Mach Punch]{source="Squirtle" offensive=false movePower=40 level=52 evolution=2 opponentLevel=53 opponentStat=132 statModifier=1.1 special=false stab=true type=fighting} 
+    ::damage[Hitmonchan's Sky Uppercut]{source="Squirtle" offensive=false movePower=85 level=52 evolution=2 opponentLevel=53 opponentStat=132 statModifier=1.1 special=false stab=true type=fighting}
+    ::damage[Hitmonchan's Rock Tomb]{source="Squirtle" offensive=false movePower=50 level=52 evolution=2 opponentLevel=53 opponentStat=132 statModifier=1.1 special=false stab=false type=rock}
+  :::
+  :::pokemon[Hitmonlee]
+    -  Surf*
+  :::
+  :::pokemon[Machamp]
+    -  Surf*
+  :::
+  :::pokemon[Onix]
+    -  Surf
+  :::
+:::::
+
+Heal out of Agatha kill range, but keep Torrent if possible
+
+:::::trainer[Elite Four Agatha]
+  :::pokemon[Gengar]
+    - X Speed, X Spec, Surf*
+    - Need to be at least +3 from here if you don’t have Torrent
+    ::damage[Gengar's Shadow Punch]{source="Squirtle" offensive=false movePower=60 level=53 evolution=2 opponentLevel=54 opponentStat=100 statModifier=1.1 special=false stab=true type=ghost}
+  :::
+  :::pokemon[Golbat]
+    - Surf*
+  :::
+  :::pokemon[Arbok]
+    - Surf*
+  :::
+  :::pokemon[Gengar]
+    - Surf*
+  :::
+  :::pokemon[Haunter]
+    - Surf*
+  :::
+:::::
+
+Heal to Full before Lance
+
+Lance Dragon Rage x2 Hyper Beam Chart
+
+![](https://cdn.discordapp.com/attachments/917309676717244436/1039799649369858119/Gyara_Dead_Chart.png)
+
+:::::trainer[Elite Four Lance(Safe Lance)]
+  :::pokemon[Gyarados]
+    - Bite, X Accuracy, X Special, Blizzard + Blizzard
+    :::if{source="Squirtle" condition="spatk=(x / x / 30 )"}
+    - 31.25% to 2HKO with Blizzard
+    :::
+    :::if{source="Squirtle" condition="spatk=(x / x / 31 )"}
+    - 41.8% to 2HKO with Blizzard
+    ::damage[Gyarados' Hyper Beam ]{source="Squirtle" offensive=false movePower=150 level=54 evolution=2 opponentLevel=56 opponentStat=161 statModifier=1.1 special=false stab=false type=normal}
+  :::
+  :::pokemon[Dragonair]
+    - Blizzard
+    - Dragonair Hyper Beam does 45-66
+  :::
+  :::pokemon[Dragonair]
+    - Blizzard
+    - Dragonair Hyper Beam does 45-66
+  :::
+  :::pokemon[Dragonite]
+    - Blizzard
+  :::
+  :::pokemon[Aerodactyl]
+    - Blizzard
+    - If Ancient Power Boost, either spam Surf or Heal + go for the range
+    - 37.5% to ohko if Ancient Power boost + no Torrent, guaranteed /w Torrent
+    ::damage[Aerodactyl's Hyper Beam]{source="Squirtle" offensive=false movePower=150 level=55 evolution=2 opponentLevel=58 opponentStat=129 statModifier=1.1 special=false stab=false type=normal}
+  :::
+:::::
+
+**Consider Risky Lance if 2 Dragon Rages puts you into Hyper Beam range**
+
+:::::trainer[Elite Four Lance(Risky Lance)]
+  :::pokemon[Gyarados]
+    -  X Special, Bite x2, X Accuracy, Blizzard
+    ::damage[Gyarados' Hyper Beam ]{source="Squirtle" offensive=false movePower=150 level=54 evolution=2 opponentLevel=56 opponentStat=161 statModifier=1.1 special=false stab=false type=normal}
+    :::if{source="Squirtle" condition="spatk=(x / x / 31 )"}
+    - 85% to 3HKO 
+    :::
+    :::if{source="Squirtle" condition="spatk=(x / x / 28-30 )"}
+    - 72% to 3HKO 
+    :::
+    :::if{source="Squirtle" condition="spatk=(x / x / 31 )"}
+    - 83% to 2HKO with Bite Crit+Blizzard
+    :::
+    :::if{source="Squirtle" condition="spatk=(x / x / 28-30 )"}
+    - 72% to 2HKO with Bite Crit+Blizzard
+  :::
+  :::pokemon[Dragonair]
+    - Blizzard
+    - Dragonair Hyper Beam does 45-66
+  :::
+  :::pokemon[Dragonair]
+    - Blizzard
+    - Dragonair Hyper Beam does 45-66
+  :::
+  :::pokemon[Dragonite]
+    - Blizzard
+  :::
+  :::pokemon[Aerodactyl]
+    - Blizzard
+    - If Ancient Power Boost, either spam Surf or Heal + go for the range
+    - 37.5% to ohko if Ancient Power boost + no Torrent, guaranteed /w Torrent
+    ::damage[Aerodactyl's Hyper Beam]{source="Squirtle" offensive=false movePower=150 level=55 evolution=2 opponentLevel=58 opponentStat=129 statModifier=1.1 special=false stab=false type=normal}
+  :::
+:::::
+
+Heal to Full + Elixir before Champion
+
+:::::trainer[Champion]
+  :::pokemon[Pidgeot]
+    - Guard Spec., X Speed, X Special x3, Surf
+    - If Pidgeot gives you torrent, skip the third X Special, then heal on Gyarados
+    - NEED +3 without Torrent or +2 WITH Torrent to get past Alakazam
+    - Can Blizzard at +2 if Guard Spec. runs out
+    ::damage[Pidgeot's Aerial Ace]{source="Squirtle" offensive=false movePower=60 level=55 evolution=2 opponentLevel=59 opponentStat=117 statModifier=1.1 special=false stab=true type=flying}
+  :::
+  :::pokemon[Venusaur]
+    - X Accuracy + Blizzard
+    - Skip X Accuracy if feeling risky
+    - Bite + Surf instead if +3 and in Torrent on Venusaur
+  :::
+  :::pokemon[Alakazam]
+    - Surf
+  :::
+  :::pokemon[Rhydon]
+    - Surf
+  :::
+  :::pokemon[Gyarados]
+    -  Bite + Blizzard
+    - Blizzard x2 if at +2
+    ::damage[Gyarados's Thrash]{source="Squirtle" offensive=false movePower=90 level=56 evolution=2 opponentLevel=59 opponentStat=153 statModifier=1.1 special=false stab=false type=normal}
+  :::
+  :::pokemon[Arcanine]
+    - Surf
+    ::damage[Arcanine's Extremespeed]{source="Squirtle" offensive=false movePower=80 level=56 evolution=2 opponentLevel=61 opponentStat=158 statModifier=1.1 special=false stab=false type=normal}
+  ::
+:::::
+
+Ending split is on fadeout after Hall of Fame
+
+**Congrats if you made it this far into the run :)**
