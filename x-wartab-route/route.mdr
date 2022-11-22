@@ -809,10 +809,10 @@ Go right after the first climbing rope
   :::::
   :::::pokemon[Weepinbell]
     :::if{source="Hawlucha" condition="atk=(x/x/15+)"}
-      - Wing Attack at 80+ Attack 
+      - Wing Attack
     :::
     :::if{source="Hawlucha" condition="atk=~(x/x/15+)"}
-      - Flying Press
+      - Wing Attack 
     :::
     - If Lucario
       - Low Sweep
@@ -837,10 +837,10 @@ Go right after the first climbing rope
   :::::
   :::::pokemon[Weepinbell]
     :::if{source="Hawlucha" condition="atk=(x/x/15+)"}
-      - Wing Attack at 80+ Attack 
+      - Wing Attack
     :::
     :::if{source="Hawlucha" condition="atk=~(x/x/15+)"}
-      - Flying Press
+      - Wing Attack
     :::
   :::::
 :::::::
