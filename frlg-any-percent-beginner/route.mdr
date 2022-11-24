@@ -219,15 +219,15 @@ Go above shorts guy and fight the next bug catcher
     :::if{source="Squirtle" condition="speed=(x / 14-29 / x)"}
     - Ties at -1 Speed
   :::
+  :::pokemon[Kakuna]
+    Water Gun* (x2)
+  :::
   :::pokemon[Caterpie]
     Water Gun (x2)
     :::if{source="Squirtle" condition="speed=(x / 21-31 / x)"}
     - Ties at -1 Speed
   :::
-  :::pokemon[Kakuna]
-    Water Gun* (x2)
-  :::
-  :::pokemon[Kakuna]
+  :::pokemon[Metapod]
     Water Gun* (x2)	
     :::if{source="Squirtle" condition="speed=(x / 21-31 / x)"}
     - Ties at -2 Speed
@@ -260,7 +260,7 @@ Grab this Persim Berry if 28-29 SPA or the chart below says to “Grab Persim”
 
 Run up 8 tiles in Mount Moon then::
   - Register TM Case
-  - Equip Persim Berry from the Berry Case if you got it
+  - Equip Persim Berry from the Berry Pouch if you got it
   - Use a repel
 
 Grab this Rare Candy near the Bug Catcher (after fighting him if you’re fighting him)
