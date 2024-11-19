@@ -397,7 +397,7 @@ Get double massage if possible
 Deposit Farfetch’d
 :::::::trainer[Leader Korrina]
   :::::pokemon[Lucario]
-     - Swords Dance x3
+     - Swords Dance x2-3
      - Karate Chop / Rock Smash (x2)
    :::if{source="Hawlucha" condition="startingLevel=19"}
      ::damage[Rock Smash +4 Range]{source="Hawlucha" special=false offensive=true healthThreshold=75 combatStages=4 theme=error effectiveness=2 movePower=40 level=21 effectiveness=2 opponentLevel=22 stab=true  opponentStat=45 theme=error}
@@ -455,11 +455,11 @@ Use a Repel
 :::::::
 :info[Use a Soda Pop if can die to Confusion (or Super Potion on Shadow Punch if going for +0 range)]{color=yellow}
 :::if{source="Hawlucha" condition="startingLevel=19"}
-::damage[Chimecho’s Confusion does at L24)]{source="Hawlucha" special=true offensive=false movePower=50 level=24 opponentLevel=24 stab=true opponentStat=55}
+::damage[Chimecho’s Confusion does at L24]{source="Hawlucha" special=true offensive=false movePower=50 level=24 opponentLevel=24 stab=true effectiveness=2 opponentStat=55}
 ::damage[Golett’s Shadow Punch does at L24]{source="Hawlucha" special=false offensive=false movePower=60 level=24 opponentLevel=24 stab=true opponentStat=40}
 :::
 :::if{source="Hawlucha" condition="startingLevel=20"}
-::damage[Chimecho’s Confusion does at L25)]{source="Hawlucha" special=true offensive=false movePower=50 level=25 opponentLevel=24 stab=true opponentStat=55}
+::damage[Chimecho’s Confusion does at L25]{source="Hawlucha" special=true offensive=false movePower=50 level=25 opponentLevel=24 stab=true effectiveness=2 opponentStat=55}
 ::damage[Golett’s Shadow Punch does at L25]{source="Hawlucha" special=false offensive=false movePower=60 level=25 opponentLevel=24 stab=true opponentStat=40}
 :::
 :::::trainer[Psychic Franz]
@@ -490,7 +490,8 @@ Use Iron
 Use HP Up
 
 Use PP Up if only got one massage and it was bad
-:info[Heal to full with Sweet Hearts]{color=yellow}
+
+:info[Heal to full with Soda Pop]{color=yellow}
 :::::::trainer[Pokémon Trainer Calem]
   :::::pokemon[Meowstic]
     :::if{source="Hawlucha" condition="speed=~(x/x/10+) && startingLevel=19"}
@@ -650,7 +651,7 @@ Pickup **TM47 Low Sweep**
 :::::card
 #### - Say yes to getting Lucario and leave
 ####  - Get Lapras
-####  - Heal Hawlucha to full
+####  - Heal Hawlucha to full with Sweet Hearts
 ####  - Repel
 ####  - Teach Rock Smash to Lapras (Slot 1)
 ####  - Teach Surf to Lapras (Slot 2)
@@ -765,7 +766,7 @@ Go right after the first climbing rope
    ::damage[Exeggutor’s Psyshock does]{source="Hawlucha" special=true offensive=false movePower=80 level=32 opponentLevel=31 stab=true opponentStat=48}
  ::::
 :::::
-:info[Heal to full if can not live Acrobatics from Jumpluff / Take Down from Gogoat]{color=yellow}
+:info[Heal to full (use any remaining Sweet Hearts) if can not live Acrobatics from Jumpluff / Take Down from Gogoat]{color=yellow}
 
 :info[Heal status]{color=yellow}
 :::if{source="Hawlucha" condition="speed=(18-/x/x) && startingLevel=19"}
@@ -781,10 +782,10 @@ Go right after the first climbing rope
    - Teach Rock Tomb over Shadow Claw (slot 3)
 :::
 :::if{source="Hawlucha" condition="startingLevel=19"}
-::damage[Jumpluff’s Acrobatics does]{source="Hawlucha" special=false offensive=false movePower=55 level=32 opponentLevel=30 stab=true opponentStat=44}
+::damage[Jumpluff’s Acrobatics does]{source="Hawlucha" special=false offensive=false movePower=110 level=32 opponentLevel=30 stab=true effectiveness=2 opponentStat=44}
 ::::
 :::if{source="Hawlucha" condition="startingLevel=20"}
-::damage[Jumpluff’s Acrobatics does]{source="Hawlucha" special=false offensive=false movePower=55 level=33 opponentLevel=30 stab=true opponentStat=44}
+::damage[Jumpluff’s Acrobatics does]{source="Hawlucha" special=false offensive=false movePower=110 level=33 opponentLevel=30 stab=true effectiveness=2 opponentStat=44}
 :::
 ::damage[Take down does]{source="Hawlucha" special=false offensive=false movePower=90 level=33 opponentLevel=34 stab=false opponentStat=88}
 
@@ -1156,6 +1157,8 @@ GYM Puzzle
 
 Fly to the center of Lumiose City
 
+Fight Liepard first if it will give you lvl 51, then use the Rare Candies and Proteins
+
 :::::trainer[Team Flare Grunt]
  ::::pokemon[Scrafty]{info="5/16 range at L50, 14/16 at L53" infoColor=red}
     - Aura Sphere (x2)
@@ -1486,7 +1489,7 @@ Fly out of the forest
     - Aura Sphere
  ::::
  ::::pokemon[Cryogonal]
-    - lose Combat
+    - Close Combat
  ::::
  ::::pokemon[Avalugg]
     - Aura Sphere
@@ -1509,20 +1512,25 @@ Fly out of the forest
     - Aura Sphere
  ::::
 :::::
+
+:info[Heal to full]{color=yellow}
+
+Teach Shadow Claw over Aura Sphere (Slot 1)
+
 :::::trainer[Pokémon Trainer Calem]
  ::::pokemon[Meowstic]
     - If you have an X-Attack left (and 2 Close Combats)
       - X Attack
     - Otherwise
       - Swords Dance (x2 if Faked Out)
-    - Sadow Claw
+    - Shadow Claw
  ::::
  ::::pokemon[Delphox]
-    - Sadow Claw
+    - Shadow Claw
  ::::
  ::::pokemon[Jolteon]{info="Speed tie without Steadfast boost" infoColor=red}
     - With Swords Dance
-      - Sadow Claw
+      - Shadow Claw
     - With X-Attack
       - Close Combat
  ::::
@@ -1563,7 +1571,7 @@ Fly out of the forest
 :::::
 :::::trainer[Veteran Catrina]
  ::::pokemon[Glaceon]
-    - If Gigalith used Protect on Close Combat
+    - If Gigalith used Protect on Close Combat and you don't have 7 Close Combats
       - Swords Dance
       - Rock Tomb
     - Otherwise
