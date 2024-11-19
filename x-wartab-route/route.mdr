@@ -455,11 +455,11 @@ Use a Repel
 :::::::
 :info[Use a Soda Pop if can die to Confusion (or Super Potion on Shadow Punch if going for +0 range)]{color=yellow}
 :::if{source="Hawlucha" condition="startingLevel=19"}
-::damage[Chimecho’s Confusion does at L24]{source="Hawlucha" special=true offensive=false movePower=50 level=24 opponentLevel=24 stab=true opponentStat=55}
+::damage[Chimecho’s Confusion does at L24]{source="Hawlucha" special=true offensive=false movePower=50 level=24 opponentLevel=24 stab=true effectiveness=2 opponentStat=55}
 ::damage[Golett’s Shadow Punch does at L24]{source="Hawlucha" special=false offensive=false movePower=60 level=24 opponentLevel=24 stab=true opponentStat=40}
 :::
 :::if{source="Hawlucha" condition="startingLevel=20"}
-::damage[Chimecho’s Confusion does at L25]{source="Hawlucha" special=true offensive=false movePower=50 level=25 opponentLevel=24 stab=true opponentStat=55}
+::damage[Chimecho’s Confusion does at L25]{source="Hawlucha" special=true offensive=false movePower=50 level=25 opponentLevel=24 stab=true effectiveness=2 opponentStat=55}
 ::damage[Golett’s Shadow Punch does at L25]{source="Hawlucha" special=false offensive=false movePower=60 level=25 opponentLevel=24 stab=true opponentStat=40}
 :::
 :::::trainer[Psychic Franz]
@@ -782,10 +782,10 @@ Go right after the first climbing rope
    - Teach Rock Tomb over Shadow Claw (slot 3)
 :::
 :::if{source="Hawlucha" condition="startingLevel=19"}
-::damage[Jumpluff’s Acrobatics does]{source="Hawlucha" special=false offensive=false movePower=110 level=32 opponentLevel=30 stab=true opponentStat=44}
+::damage[Jumpluff’s Acrobatics does]{source="Hawlucha" special=false offensive=false movePower=110 level=32 opponentLevel=30 stab=true effectiveness=2 opponentStat=44}
 ::::
 :::if{source="Hawlucha" condition="startingLevel=20"}
-::damage[Jumpluff’s Acrobatics does]{source="Hawlucha" special=false offensive=false movePower=110 level=33 opponentLevel=30 stab=true opponentStat=44}
+::damage[Jumpluff’s Acrobatics does]{source="Hawlucha" special=false offensive=false movePower=110 level=33 opponentLevel=30 stab=true effectiveness=2 opponentStat=44}
 :::
 ::damage[Take down does]{source="Hawlucha" special=false offensive=false movePower=90 level=33 opponentLevel=34 stab=false opponentStat=88}
 
@@ -1513,7 +1513,8 @@ Fly out of the forest
  ::::
 :::::
 
-:info{Heal to full}[color=yellow]
+:info[Heal to full]{color=yellow}
+
 Teach Shadow Claw over Aura Sphere (Slot 1)
 
 :::::trainer[Pokémon Trainer Calem]
