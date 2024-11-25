@@ -110,7 +110,7 @@ Get **5 Luxury Balls**
 :::::trainer[Pokémon Professor Sycamore]
  ::::pokemon[Bulbasaur]
     -  Aerial Ace (+ Fury Cutter)
-   ::damage[Aerial Ace Ranges]{source="Quacklin" special=false offensive=true movePower=60 level=13 healthThreshold=16 opponentLevel=10 stab=true opponentStat=20 theme=error}
+   ::damage[Aerial Ace Ranges]{source="Quacklin" special=false offensive=true movePower=60 level=13 healthThreshold=31 opponentLevel=10 stab=true opponentStat=17 theme=error effectiveness=2 stab=true}
  ::::
  ::::pokemon[Squirtle]
     - If used Fury Cutter 
@@ -910,8 +910,8 @@ Pickup hidden **Power Plant Pass**
     - Low Sweep
  ::::
  ::::pokemon[Golbat]
-    - Rock Tomb
     - Swords Dance
+    - Rock Tomb
       - Give up on Me First, heal if necessary
  ::::
 :::::
@@ -920,7 +920,7 @@ Pickup hidden **Power Plant Pass**
     - Swords Dance
     - Rock Tomb
  ::::
- ::::pokemon[Golbat]
+ ::::pokemon[Mightyena]
     - Low Sweep
  ::::
 :::::
