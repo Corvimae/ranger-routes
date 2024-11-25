@@ -207,8 +207,7 @@ Run from Snorlax
 ::::::trainer[Trevor & Tierno]{info="Remember HP after" infoColor=pink}
    - Swords Dance
    :::if{source="Quacklin" condition="atk=(x/20+/x)"} 
-  - Did not get hit on turn 1
-  - Swords Dance
+  - If you didn't take any damage on Turn 1, Swords Dance again
    :::
  :::::pokemon[Corphish]
    - Aerial Ace until dead (Knock Off if Fletchling’s QA could kill Corphish)
@@ -336,9 +335,9 @@ Go to Geosenge centre and catch Hawlucha with Luxury Balls.
   :::
 :::::
 Get massage (conservative estimate 90s for menu → massage, 30s for simple swap)
-  - A little bit more friendly.
-  - Somewhat more friendl
-  - Much more friendly
+  - A little bit more friendly (74%, +5 friendship)
+  - Somewhat more friendly (20%, +10 friendship)
+  - Much more friendly (6%, +30 friendship)
 
 Swap Farfetch’d back to front
 :::::::trainer[Leader Grant]
@@ -391,6 +390,7 @@ Pickup hidden Ether
 Get double massage if possible
 :::::trainer[Swimmer Marissa]
  ::::pokemon[Masquerain]
+    - _Optionally use X-Defense_
     - Swords Dance / Encore on Gust and die
  ::::
 :::::
@@ -503,7 +503,7 @@ Use PP Up if only got one massage and it was bad
      - Wing Attack x2
     :::
     :::if{source="Hawlucha" condition="speed=(x/x/10+) && startingLevel=19"}
-     - Swords Dance
+     - Swords Dance (or X-Speed anyway for friendship gain, Fake Out is most likely outcome)
      - Encore (if no Fake Out/Light Screen, the run is over, heal until Light Screen?)
      - Swords Dance x2
      - Encore
@@ -654,8 +654,9 @@ Pickup **TM47 Low Sweep**
 ####  - Heal Hawlucha to full with Sweet Hearts
 ####  - Repel
 ####  - Teach Rock Smash to Lapras (Slot 1)
-####  - Teach Surf to Lapras (Slot 2)
-####  - Teach Strength to Lapras (Slot 3)
+####  - Teach Strength to Lapras (Slot 2)
+####  - Teach Surf to Lapras (Slot 3)
+####  - Teach Low Sweep to Lucario over Power-Up Punch (Slot 1)
 :::if{source="Hawlucha" condition="speed=(12+/#/#) && startingLevel=19"}
 #### - Teach Rock Tomb to Lucario over Metal Sound (Slot 3)
 :::
@@ -668,7 +669,6 @@ Pickup **TM47 Low Sweep**
 :::if{source="Hawlucha" condition="speed=~(3+/#/#) && startingLevel=20"}
 ####  - Teach Shadow Claw over Metal Sound
 :::
-####  - Teach Low Sweep to Lucario over Power-Up Punch (Slot 1)
 :::::
 :::::::trainer[Pokémon Trainer Calem]
   :::::pokemon[Meowstic]
@@ -792,7 +792,7 @@ Go right after the first climbing rope
 ::::::::::if{source="Hawlucha" condition="speed=~(10-/x/x) && startingLevel=20 || speed=~(18-/x/x) && startingLevel=19"}
 :::::::trainer[Leader Ramos (without Lucario)]
   :::::pokemon[Jumpluff]
-     - Swords Dnace
+     - Swords Dance
      - Wing Attack
      - If Hawlucha dies 
        - Switch to Lucario
@@ -800,49 +800,36 @@ Go right after the first climbing rope
   :::::     
   :::::pokemon[Gogoat]
     :::if{source="Hawlucha" condition="atk=(x/x/15+)"}
-      - Wing Attack at 80+ Attack 
+      - Wing Attack (Low Sweep if Lucario)
     :::
     :::if{source="Hawlucha" condition="atk=~(x/x/15+)"}
-      - Flying Press
+      - Flying Press (Low Sweep if Lucario)
     :::
-    - If Lucario
-      - Low Sweep
   :::::
   :::::pokemon[Weepinbell]
-    :::if{source="Hawlucha" condition="atk=(x/x/15+)"}
-      - Wing Attack
-    :::
-    :::if{source="Hawlucha" condition="atk=~(x/x/15+)"}
-      - Wing Attack 
-    :::
-    - If Lucario
-      - Low Sweep
+    - Wing Attack (Low Sweep if Lucario)
+
   :::::
 :::::::
 ::::::::::
 ::::::::::if{source="Hawlucha" condition="speed=(10-/x/x) && startingLevel=20 || speed=(18-/x/x) && startingLevel=19"}
 :::::::trainer[Leader Ramos (with Lucario)]
   :::::pokemon[Jumpluff]
-     - Swords Dnace
+     - Swords Dance
      - Rock Tomb
   :::::
   :::::pokemon[Gogoat]
     - Switch to Hawlucha
     - Swords Dance
     :::if{source="Hawlucha" condition="atk=(x/x/15+)"}
-      - Wing Attack  at 80+ Attack 
+      - Wing Attack
     :::
     :::if{source="Hawlucha" condition="atk=~(x/x/15+)"}
       - Flying Press
     :::
   :::::
   :::::pokemon[Weepinbell]
-    :::if{source="Hawlucha" condition="atk=(x/x/15+)"}
-      - Wing Attack
-    :::
-    :::if{source="Hawlucha" condition="atk=~(x/x/15+)"}
-      - Wing Attack
-    :::
+    - Wing Attack (Low Sweep if Lucario)
   :::::
 :::::::
 ::::::::::
@@ -862,7 +849,7 @@ Swap Hawlucha with Lucario
 
 Fly to Coumarine
 :::card
-### Shopping (right):
+### Shopping (left):
 > #### Buy
 > - 11 Max Repels (^^) (12 if unconfident in movement)
 > - 1 Escape Rope (^^^)
@@ -902,7 +889,7 @@ Pickup hidden **Power Plant Pass**
 :::::
 :::::trainer[Team Flare Grunt]
  ::::pokemon[Mightyena]{info="12/16 Range" infoColor=red}
-    - Low Sweep
+    - Low Sweep (x2)
  ::::
 :::::
 :::::trainer[Team Flare Grunt]
@@ -912,8 +899,10 @@ Pickup hidden **Power Plant Pass**
  ::::pokemon[Golbat]
     - Swords Dance
     - Rock Tomb
-      - Give up on Me First, heal if necessary
  ::::
+
+Give up on Me First, heal if necessary
+
 :::::
 :::::trainer[Team Flare Grunt]
  ::::pokemon[Golbat]{info="Wing Attack does 27(29)" infoColor=blue}
@@ -926,7 +915,8 @@ Pickup hidden **Power Plant Pass**
 :::::
 :::::trainer[Team Flare Grunt]{info="Body Slam does 10-11/(12)" infoColor=blue}
  ::::pokemon[Swalot]
-    - Bone Rush (5 hits needed)
+    - Bone Rush spam (5 hits needed)
+    - _Finish with Rock Tomb if only one hit left_
  ::::
 :::::
 :::::trainer[Team Flare Grunt]
@@ -934,7 +924,8 @@ Pickup hidden **Power Plant Pass**
     - Low Sweep
  ::::
  ::::pokemon[Swalot]
-    - Bone Rush
+    - Bone Rush spam (4 hits needed)
+    - _Finish with Rock Tomb if only one hit left_
  ::::
 :::::
 :info[Heal if 20 HP or less]{color=yellow}
@@ -950,7 +941,7 @@ Pickup hidden **Power Plant Pass**
  ::::
 :::::
 :::::trainer[Team Flare Admin]
- ::::pokemon[Houndoom]{info="Fire Fang can do 84 (86)" infoColor=blue}
+ ::::pokemon[Houndoom]
     - Low Sweep    
  ::::
 :::::
@@ -962,31 +953,34 @@ Pickup hidden **Power Plant Pass**
 
 :::::trainer[Schoolboy Finnian (Elevator 3)]
 ::::pokemon[Dedenne]
-   - Bone Rush (3 hits) (+ Rock Tomb if only 2)
+   - Bone Rush spam (3 hits needed)
+   - _Finish with Rock Tomb if only one hit left_
 ::::
 :::::
 :::::trainer[Rising Star Estel (Elevator 1)]
  ::::pokemon[Raichu]
-    - Bone Rush (3 hits) (+ Rock Tomb if only 2)
+    - Bone Rush spam (3 hits needed)
+    - _Finish with Rock Tomb if only one hit left_
  ::::
 ::::: 
 :::::trainer[Ace Trainer Rico (Elevator 3)]{info="Thunder Punch does: (33)/34-39/(40)" infoColor=blue}
  ::::pokemon[Ampharos]
-    - Bone Rush (5 hits) (+ Rock Tomb if only 4)
+    - Bone Rush spam (5 hits needed)
+    - _Finish with Rock Tomb if only one hit left_
  ::::
 :::::
 :::::trainer[Poké Fan Lydie (Elevator 2)]
  ::::pokemon[Plusle]
     - Low Sweep
       - Teach Aura Sphere over Low Sweep (Slot 1)
-      - If already taught Aura Sphere, use Bone Rush.
+    - If already taught Aura Sphere, use Bone Rush.
  ::::
 :::::
 :info[Heal if less than 40 HP]{color=yellow}
 :::::trainer[Leader Clemont]
  ::::pokemon[Emolga]
     - Swords Dance
-    - Rock Tomb
+    - _Emolga uses Volt Switch and switches out_
  ::::
  ::::pokemon[Magneton]
     - Bone Rush 
@@ -994,6 +988,8 @@ Pickup hidden **Power Plant Pass**
  ::::pokemon[Heliolisk]
     - Aura Sphere
  ::::
+ ::::pokemon[Emolga]
+    - Rock Tomb
 :::::
 :info[Heal to full]{color=yellow}
 
@@ -1016,21 +1012,21 @@ Pickup **Rare Candy**
 :::::trainer[Leader Valerie]
  ::::pokemon[Mawile]
     - Swords Dance x3
-    - Aura Sphere (Shadow Claw if no Iron Defense)
-      - If Iron Defense turn 1 or 2
-       - Shadow Claw the turn after Iron Defense
+    - If Iron Defense on Turn 1 or 2
+       - Shadow Claw, then finish using Swords Dance
+    - Aura Sphere (Shadow Claw if no Iron Defenses)
  ::::
  ::::pokemon[Mr. Mime]
     - Shadow Claw
  ::::
  ::::pokemon[Sylveon]{info="15/16 Range" infoColor=red}
     - Shadow Claw
-      - If you miss the range and die
-        - Send out Lapras
-        - Perish Song
-        - Revive Lucario
-        - Heal Lucario
-        - Perish Song
+    - If you miss the range and die
+       - Send out Lapras
+       - Perish Song
+       - Revive Lucario
+       - Heal Lucario
+       - Perish Song
  ::::
 :::::
 :info[Heal if 34 (36)]{color=yellow}
@@ -1060,15 +1056,15 @@ Max Repel → Keep applied until off of Mamoswine
 :::::trainer[Team Flare Grunt]
  ::::pokemon[Golbat]
     - Swords Dance
-      - If not hit by Acrobatics
-      - Swords Dance again
-      - Shadow Claw
+    - If not hit by Acrobatics
+       - Swords Dance again
+       - Shadow Claw
     - Otherwise
-      - Rock Tomb
+       - Rock Tomb
  ::::
  ::::pokemon[Manectric]
-    - (2 Swords Dances) Rock Tomb 
-    - (1 Swords Dance)  Shadow Claw (+ Aura Sphere):info[4/16 Range]{color=red}
+    - (If 2 Swords Dances) Rock Tomb 
+    - (If 1 Swords Dance)  Shadow Claw (+ Aura Sphere):info[4/16 Range]{color=red}
     - Give up on Calm Mind
  ::::
 :::::
@@ -1099,7 +1095,7 @@ Pickup **Rare Candy**
     - Shadow Claw
  ::::
  ::::pokemon[Jolteon]{info="Quick Attack can do 7/(8), Discharge 63/(64)" infoColor=blue}
-    - If Faked out
+    - If got Fake Out
       - Shadow Claw
     - Otherwise
       - Rock Tomb
@@ -1150,7 +1146,7 @@ GYM Puzzle
 :::::
 
 :info[Heal if 28 (29) or lower]{color=yellow}
- - _If already level 51_ 
+_If already level 51_ 
    - From the Restore menu
    - Use 2 Rare Candies 
    - 6 Proteins
@@ -1199,7 +1195,7 @@ Fight Liepard first if it will give you lvl 51, then use the Rare Candies and Pr
 :::::
 :::::trainer[Team Flare Grunt]
  ::::pokemon[Swalot]{info="+2 Spit Up does 32/(33) infoColor=blue"}
-    - Swords Dance x2/x3
+    - Swords Dance x2 (x3 if Swalot is still Stockpiled)
     - Shadow Claw
  ::::
 :::::
@@ -1359,7 +1355,7 @@ Fight Liepard first if it will give you lvl 51, then use the Rare Candies and Pr
  ::::
 :::::
 Catch Xerneas with Master Ball
-  - say no to getting him into the party
+  - Select No then Yes to decline adding Xerneas to party
 :::::trainer[Team Flare Lysandre]
  ::::pokemon[Mienfoo]
     - Close Combat
