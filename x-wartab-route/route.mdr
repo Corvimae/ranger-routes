@@ -444,7 +444,7 @@ Use a Repel
   :::::
   :::::pokemon[Granbull]{info="Remeber HP After" infoColor=pink}
      - Wing Attack x2
-     - Tach FLing over Karate Chop
+     - Teach Fling over Karate Chop
     :::if{source="Hawlucha" condition="startingLevel=19"}
      ::damage[Granbull’s Headbutt does at 23]{source="Hawlucha" special=false offensive=false movePower=70 level=23 opponentLevel=24 stab=false opponentStat=66}
     :::
@@ -529,37 +529,18 @@ Use PP Up if only got one massage and it was bad
   :::::
   :::::pokemon[Braixen]
      - Wing Attack
-    :::if{source="Hawlucha" condition="startingLevel=19"}
-    ::damage[Wing Attack +6 Range]{source="Hawlucha" special=false offensive=true combatStages=6 healthThreshold=82 theme=error movePower=60 level=25 opponentLevel=30 stab=true  opponentStat=46 theme=error}
-    :::   
-    :::if{source="Hawlucha" condition="startingLevel=20"}
-    ::damage[Wing Attack +6 Range]{source="Hawlucha" special=false offensive=true combatStages=6 healthThreshold=82 theme=error movePower=60 level=26 opponentLevel=30 stab=true  opponentStat=46 theme=error}
-    :::   
   :::::
   :::::pokemon[Absol]
      - Wing Attack
-    :::if{source="Hawlucha" condition="startingLevel=19"}
-    ::damage[Wing Attack +6 Range]{source="Hawlucha" special=false offensive=true combatStages=6 healthThreshold=80 theme=error movePower=60 level=25 opponentLevel=28 stab=true  opponentStat=48 theme=error}
-    :::   
-    :::if{source="Hawlucha" condition="startingLevel=20"}
-    ::damage[Wing Attack +6 Range]{source="Hawlucha" special=false offensive=true combatStages=6 healthThreshold=80 theme=error movePower=60 level=26 opponentLevel=28 stab=true  opponentStat=48 theme=error}
-    :::   
   :::::
 :::::::
 Head to the gym
 :::::trainer[Roller Skater Kate]
  ::::pokemon[Meditite]
     - Wing Attack
-   ::damage[Wing Attack Range]{source="Hawlucha" special=false offensive=true healthThreshold=57 effectiveness=2 theme=error movePower=60 level=26 opponentLevel=28 stab=true  opponentStat=38 theme=error}
  ::::
  ::::pokemon[Mienfoo]
-    - Wing Attack
-    :::if{source="Hawlucha" condition="startingLevel=19"}
-    ::damage[Wing Attack Range]{source="Hawlucha" special=false offensive=true healthThreshold=66 effectiveness=2 theme=error movePower=60 level=26 opponentLevel=28 stab=true  opponentStat=31 theme=error}
-    :::   
-    :::if{source="Hawlucha" condition="startingLevel=20"}
-    ::damage[Wing Attack Range]{source="Hawlucha" special=false offensive=true healthThreshold=66 effectiveness=2 theme=error movePower=60 level=27 opponentLevel=28 stab=true  opponentStat=31 theme=error}
-    :::   
+    - Wing Attack 
  ::::
 :::::
 :::::trainer[Roller Skater Shun]
@@ -579,18 +560,16 @@ Head to the gym
 Fight Dash first if you already meet the requirements to OHKO Heracross or will not meet them at a higher level
 
 :info[One less IV if fighting Rolanda first at L28]{color=yellow}
-::damage[L27 +0 Wing Attack ranges]{source="Hawlucha" special=false offensive=true healthThreshold=91 effectiveness=4 theme=error movePower=60 level=27 opponentLevel=30 stab=true  opponentStat=52 theme=error}
-::damage[L28 +0 Wing Attack ranges]{source="Hawlucha" special=false offensive=true healthThreshold=91 effectiveness=4 theme=error movePower=60 level=28 opponentLevel=30 stab=true  opponentStat=52 theme=error}
-::damage[L29 +0 Wing Attack ranges]{source="Hawlucha" special=false offensive=true healthThreshold=91 effectiveness=4 theme=error movePower=60 level=29 opponentLevel=30 stab=true  opponentStat=52 theme=error}
+::damage[L27 +0 Wing Attack ranges]{source="Hawlucha" special=false offensive=true evs=20 healthThreshold=91 effectiveness=4 theme=error movePower=60 level=27 opponentLevel=30 stab=true  opponentStat=52 theme=error}
+::damage[L28 +0 Wing Attack ranges]{source="Hawlucha" special=false offensive=true evs=20 healthThreshold=91 effectiveness=4 theme=error movePower=60 level=28 opponentLevel=30 stab=true  opponentStat=52 theme=error}
+::damage[L29 +0 Wing Attack ranges]{source="Hawlucha" special=false offensive=true evs=20 healthThreshold=91 effectiveness=4 theme=error movePower=60 level=29 opponentLevel=30 stab=true  opponentStat=52 theme=error}
 :::::::trainer[Roller Skater Dash]
   :::::pokemon[Heracross]
     :::if{source="Hawlucha" condition="startingLevel=19"}
      - (Swords Dance) Wing Attack
-     ::damage[Heracross’ Take Down does L27]{source="Hawlucha" special=false offensive=false movePower=90 level=27 opponentLevel=30 stab=false opponentStat=83}
     :::
     :::if{source="Hawlucha" condition="startingLevel=20"}
      - (Swords Dance) Wing Attack
-     ::damage[Heracross’ Take Down does L28]{source="Hawlucha" special=false offensive=false movePower=90 level=28 opponentLevel=30 stab=false opponentStat=83}
     :::
   :::::
 :::::::
@@ -833,7 +812,16 @@ Go right after the first climbing rope
   :::::
 :::::::
 ::::::::::
-:info[If Hawlucha fainted, do shopping early and PC heal Hawlucha]{color=yellow}
+
+:::card
+### Shopping (left):
+> #### Buy
+> - 11 Max Repels (^^) (12 if unconfident in movement)
+> - 1 Escape Rope (^^^)
+> - 11 Full Heals (^)
+> - 3 Revives (v<)
+> - MAX Hyper Potions (^^)
+:::
 
 Get **Lucky Egg**
 
@@ -848,15 +836,7 @@ Give Lucario Lucky Egg
 Swap Hawlucha with Lucario
 
 Fly to Coumarine
-:::card
-### Shopping (left):
-> #### Buy
-> - 11 Max Repels (^^) (12 if unconfident in movement)
-> - 1 Escape Rope (^^^)
-> - 11 Full Heals (^)
-> - 3 Revives (v<)
-> - MAX Hyper Potions (^^)
-:::
+
 No Wind: xx:10, xx:30, xx:50 for 10 minutes
 
 Pickup hidden **Power Plant Pass**
