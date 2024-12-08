@@ -99,6 +99,10 @@ Follow the drops in the gym
  ::::
  ::::pokemon[Vivillon]
     - Aerial Ace spam
+   :::card{theme=error}
+      - 21- Atk (24- IV) 93.8% 2 shot
+      - 22+ Atk (25+ IV) Leer once if Harden (66.8% 2 shot)
+   :::
     - Teach Knock Off over Fury Attack (Slot 3)
  ::::
 :::::
@@ -110,7 +114,7 @@ Get **5 Luxury Balls**
 :::::trainer[Pokémon Professor Sycamore]
  ::::pokemon[Bulbasaur]
     -  Aerial Ace (+ Fury Cutter)
-   ::damage[Aerial Ace Ranges]{source="Quacklin" special=false offensive=true movePower=60 level=13 healthThreshold=16 opponentLevel=10 stab=true opponentStat=20 theme=error}
+   ::damage[Aerial Ace Ranges]{source="Quacklin" special=false offensive=true movePower=60 level=13 healthThreshold=31 opponentLevel=10 stab=true opponentStat=17 theme=error effectiveness=2 stab=true}
  ::::
  ::::pokemon[Squirtle]
     - If used Fury Cutter 
@@ -159,12 +163,13 @@ Deposit Squirtle
 :::::::trainer[Tierno]
   :::::pokemon[Corphish]
     :::if{source="Quacklin" condition="atk=(x/28+/x)"}
-    - Aerial Ace (Leer if did less than half)
-    - Aerial Ace (x2)
+      :::card{theme=error}
+         - 31.3% 2HKO range    (50% range if in Yellow HP)
+      :::
+      - Aerial Ace (Leer if did less than half)
+      - Aerial Ace (x2)
     :::
-    :::card{theme=error}
-      - 31.3% 2HKO range    (50% range if in Yellow HP)
-    :::
+    
     :::if{source="Quacklin" condition="atk=~(x/28+/x)"}
     - Leer
     - Swords Dance
@@ -207,8 +212,7 @@ Run from Snorlax
 ::::::trainer[Trevor & Tierno]{info="Remember HP after" infoColor=pink}
    - Swords Dance
    :::if{source="Quacklin" condition="atk=(x/20+/x)"} 
-  - Did not get hit on turn 1
-  - Swords Dance
+  - If you didn't take any damage on Turn 1, Swords Dance again
    :::
  :::::pokemon[Corphish]
    - Aerial Ace until dead (Knock Off if Fletchling’s QA could kill Corphish)
@@ -273,15 +277,24 @@ Pickup **TM65 Shadow Claw** at the branch after the path goes down
   :::::  
 :::::::
 ::damage[Heal to full if you are poisoned or can die to Brick Break]{source="Quacklin" special=false offensive=false movePower=75 level=17 opponentLevel=20 stab=true opponentStat=31}
+
 :::::trainer[Team Flare Double]
+  :::if{source="Quacklin" condition="atk=(x/6-17/x)"}
+    :info[Don't Swords Dance (Scraggy 90.2% 2HKO, 41.8% SD+AA)]{color=red}
+    ::::pokemon[Scraggy]
+      - Aerial Ace x2
+    ::::
+  :::
+  :::if{source="Quacklin" condition="atk=(x/5-/x) || atk=(x/18+/x)"}
    - Swords Dance Turn 1     
- ::::pokemon[Scraggy]
+    ::::pokemon[Scraggy]
+      - Aerial Ace
+    ::damage[Aerial Ace Range]{source="Quacklin" special=false offensive=true combatStages=2 effectiveness=2 movePower=60 level=17 healthThreshold=50 opponentLevel=20 stab=true opponentStat=33 theme=error}
+    ::::
+  :::
+  ::::pokemon[Croagunk]
     - Aerial Ace
-   ::damage[Aerial Ace Range]{source="Quacklin" special=false offensive=true combatStages=2 effectiveness=2 movePower=60 level=17 healthThreshold=50 opponentLevel=20 stab=true opponentStat=33 theme=error}
- ::::
- ::::pokemon[Croagunk]
-    - Aerial Ace
- ::::
+  ::::
 :::::
 
 Die to a wild encounter.
@@ -335,12 +348,20 @@ Go to Geosenge centre and catch Hawlucha with Luxury Balls.
 ####    - Reset for another Hawlucha
   :::
 :::::
+
 Get massage (conservative estimate 90s for menu → massage, 30s for simple swap)
-  - A little bit more friendly.
-  - Somewhat more friendl
-  - Much more friendly
+  - A little bit more friendly (74%, +5 friendship)
+  - Somewhat more friendly (20%, +10 friendship)
+  - Much more friendly (6%, +30 friendship)
+
+
 
 Swap Farfetch’d back to front
+:::if{source="Hawlucha" condition="atk=(x/26+/7+) && startingLevel=19"}
+  :info[_Optional: Don't swap Farfetch'd back to front, Karate Chop is 13/16 to kill Amaura (guaranteed at x/x/26+)_]{color=red}
+:::
+
+
 :::::::trainer[Leader Grant]
   :::::pokemon[Amaura]
     - Leer until Quackling dies
@@ -354,10 +375,17 @@ Swap Farfetch’d back to front
     :::
   :::::
   :::::pokemon[Tyrunt]{info="if Unburden, you will outspeed after 2 Rock Tombs with Oran Berry" infoColor=blue}
-    :::if{source="Hawlucha" condition="atk=(21+/#/#) && startingLevel=19"}
+    :::if{source="Hawlucha" condition="atk=(x/26+/7-30) && startingLevel=19"}
+      - Karate Chop
+      - If Karate Chop crit
+         - Karate Chop
+      - Else
+         - Swords Dance
+         - Karate Chop
+    :::
+    :::if{source="Hawlucha" condition="atk=(21+/0-25/0-6) && startingLevel=19 || atk=(x/x/31) && startingLevel=19"}
       - Swords Dance x2
       - Karate Chop
-     ::damage[Rock Smash Range]{source="Hawlucha" special=false offensive=true healthThreshold=69 combatStages=4 theme=error movePower=40 level=21 effectiveness=2 opponentLevel=25 stab=true  opponentStat=49 theme=error}
     :::
     :::if{source="Hawlucha" condition="atk=(16-20/x/x) && startingLevel=19"}
       - Karate Chop
@@ -368,10 +396,24 @@ Swap Farfetch’d back to front
       - Swords Dance
       - Karate Chop x2
     :::
-    :::if{source="Hawlucha" condition="atk=(x/x/21+) && startingLevel=20"}
+    :::if{source="Hawlucha" condition="atk=(x/x/26+) && startingLevel=20"}
       - Swords Dance x2
       - Rock Smash
      ::damage[Rock Smash Range]{source="Hawlucha" special=false offensive=true healthThreshold=69 combatStages=4 theme=error movePower=40 level=22 effectiveness=2 opponentLevel=25 stab=true  opponentStat=49 theme=error}
+    :::
+    :::if{source="Hawlucha" condition="atk=(x/16+/25-) && startingLevel=20"}
+      ::damage[Rock Smash Range]{source="Hawlucha" special=false offensive=true healthThreshold=69 combatStages=4 theme=error movePower=40 level=22 effectiveness=2 opponentLevel=25 stab=true  opponentStat=49 theme=error}
+      
+      - If you want to risk the damage range
+         - Swords Dance x2
+         - Rock Smash
+      - Else      
+         - Rock Smash
+         - If Rock Smash crits AND gets defense drop
+            - Rock Smash
+         - Else
+            - Swords Dance
+            - Rock Smash
     :::
     :::if{source="Hawlucha" condition="atk=~(x/x/21+) && startingLevel=20"}
       - Swords Dance
@@ -383,14 +425,14 @@ Swap Hawlucha to the front of party
 
 Pickup hidden Protein
 
-_Optionally_
-  - _pickup X-Defense_
+_Optionally pickup X-Defense_
 
 Pickup hidden Ether
 
 Get double massage if possible
 :::::trainer[Swimmer Marissa]
  ::::pokemon[Masquerain]
+    - _Optionally use X-Defense_
     - Swords Dance / Encore on Gust and die
  ::::
 :::::
@@ -439,12 +481,18 @@ Use a Repel
      - Swords Dance x2
      - Wing Attack
   :::::
-  :::::pokemon[Doduo]{info="Has Quick Attack"}
+  :::::pokemon[Helioptile]{info="Has Quick Attack"}
      - Karate Chop / Fling
+     :::if{source="Hawlucha" condition="startingLevel=19"}
+      ::damage[Heliptile QA does at 23]{source="Hawlucha" special=false offensive=false movePower=40 level=23 opponentLevel=25 stab=true opponentStat=25}
+     :::
+     :::if{source="Hawlucha" condition="startingLevel=20"}
+      ::damage[Heliptile QA does at 23]{source="Hawlucha" special=false offensive=false movePower=40 level=24 opponentLevel=25 stab=true opponentStat=25}
+     :::
   :::::
   :::::pokemon[Granbull]{info="Remeber HP After" infoColor=pink}
      - Wing Attack x2
-     - Tach FLing over Karate Chop
+     - Teach Fling over Karate Chop
     :::if{source="Hawlucha" condition="startingLevel=19"}
      ::damage[Granbull’s Headbutt does at 23]{source="Hawlucha" special=false offensive=false movePower=70 level=23 opponentLevel=24 stab=false opponentStat=66}
     :::
@@ -503,7 +551,7 @@ Use PP Up if only got one massage and it was bad
      - Wing Attack x2
     :::
     :::if{source="Hawlucha" condition="speed=(x/x/10+) && startingLevel=19"}
-     - Swords Dance
+     - Swords Dance (or X-Speed anyway for friendship gain, Fake Out is most likely outcome)
      - Encore (if no Fake Out/Light Screen, the run is over, heal until Light Screen?)
      - Swords Dance x2
      - Encore
@@ -519,7 +567,7 @@ Use PP Up if only got one massage and it was bad
      - Wing Attack x2
     :::
     :::if{source="Hawlucha" condition="speed=(x/24+/#) && startingLevel=20"}
-     - Swords Dance
+     - Swords Dance (or X-Speed anyway for friendship gain, Fake Out is most likely outcome)
      - Encore (if no Fake Out/Light Screen, the run is over, heal until Light Screen?)
      - Swords Dance x2
      - Encore
@@ -529,37 +577,18 @@ Use PP Up if only got one massage and it was bad
   :::::
   :::::pokemon[Braixen]
      - Wing Attack
-    :::if{source="Hawlucha" condition="startingLevel=19"}
-    ::damage[Wing Attack +6 Range]{source="Hawlucha" special=false offensive=true combatStages=6 healthThreshold=82 theme=error movePower=60 level=25 opponentLevel=30 stab=true  opponentStat=46 theme=error}
-    :::   
-    :::if{source="Hawlucha" condition="startingLevel=20"}
-    ::damage[Wing Attack +6 Range]{source="Hawlucha" special=false offensive=true combatStages=6 healthThreshold=82 theme=error movePower=60 level=26 opponentLevel=30 stab=true  opponentStat=46 theme=error}
-    :::   
   :::::
   :::::pokemon[Absol]
      - Wing Attack
-    :::if{source="Hawlucha" condition="startingLevel=19"}
-    ::damage[Wing Attack +6 Range]{source="Hawlucha" special=false offensive=true combatStages=6 healthThreshold=80 theme=error movePower=60 level=25 opponentLevel=28 stab=true  opponentStat=48 theme=error}
-    :::   
-    :::if{source="Hawlucha" condition="startingLevel=20"}
-    ::damage[Wing Attack +6 Range]{source="Hawlucha" special=false offensive=true combatStages=6 healthThreshold=80 theme=error movePower=60 level=26 opponentLevel=28 stab=true  opponentStat=48 theme=error}
-    :::   
   :::::
 :::::::
 Head to the gym
 :::::trainer[Roller Skater Kate]
  ::::pokemon[Meditite]
     - Wing Attack
-   ::damage[Wing Attack Range]{source="Hawlucha" special=false offensive=true healthThreshold=57 effectiveness=2 theme=error movePower=60 level=26 opponentLevel=28 stab=true  opponentStat=38 theme=error}
  ::::
  ::::pokemon[Mienfoo]
-    - Wing Attack
-    :::if{source="Hawlucha" condition="startingLevel=19"}
-    ::damage[Wing Attack Range]{source="Hawlucha" special=false offensive=true healthThreshold=66 effectiveness=2 theme=error movePower=60 level=26 opponentLevel=28 stab=true  opponentStat=31 theme=error}
-    :::   
-    :::if{source="Hawlucha" condition="startingLevel=20"}
-    ::damage[Wing Attack Range]{source="Hawlucha" special=false offensive=true healthThreshold=66 effectiveness=2 theme=error movePower=60 level=27 opponentLevel=28 stab=true  opponentStat=31 theme=error}
-    :::   
+    - Wing Attack 
  ::::
 :::::
 :::::trainer[Roller Skater Shun]
@@ -579,18 +608,16 @@ Head to the gym
 Fight Dash first if you already meet the requirements to OHKO Heracross or will not meet them at a higher level
 
 :info[One less IV if fighting Rolanda first at L28]{color=yellow}
-::damage[L27 +0 Wing Attack ranges]{source="Hawlucha" special=false offensive=true healthThreshold=91 effectiveness=4 theme=error movePower=60 level=27 opponentLevel=30 stab=true  opponentStat=52 theme=error}
-::damage[L28 +0 Wing Attack ranges]{source="Hawlucha" special=false offensive=true healthThreshold=91 effectiveness=4 theme=error movePower=60 level=28 opponentLevel=30 stab=true  opponentStat=52 theme=error}
-::damage[L29 +0 Wing Attack ranges]{source="Hawlucha" special=false offensive=true healthThreshold=91 effectiveness=4 theme=error movePower=60 level=29 opponentLevel=30 stab=true  opponentStat=52 theme=error}
+::damage[L27 +0 Wing Attack ranges]{source="Hawlucha" special=false offensive=true evs=20 healthThreshold=91 effectiveness=4 theme=error movePower=60 level=27 opponentLevel=30 stab=true  opponentStat=52 theme=error}
+::damage[L28 +0 Wing Attack ranges]{source="Hawlucha" special=false offensive=true evs=20 healthThreshold=91 effectiveness=4 theme=error movePower=60 level=28 opponentLevel=30 stab=true  opponentStat=52 theme=error}
+::damage[L29 +0 Wing Attack ranges]{source="Hawlucha" special=false offensive=true evs=20 healthThreshold=91 effectiveness=4 theme=error movePower=60 level=29 opponentLevel=30 stab=true  opponentStat=52 theme=error}
 :::::::trainer[Roller Skater Dash]
   :::::pokemon[Heracross]
     :::if{source="Hawlucha" condition="startingLevel=19"}
      - (Swords Dance) Wing Attack
-     ::damage[Heracross’ Take Down does L27]{source="Hawlucha" special=false offensive=false movePower=90 level=27 opponentLevel=30 stab=false opponentStat=83}
     :::
     :::if{source="Hawlucha" condition="startingLevel=20"}
      - (Swords Dance) Wing Attack
-     ::damage[Heracross’ Take Down does L28]{source="Hawlucha" special=false offensive=false movePower=90 level=28 opponentLevel=30 stab=false opponentStat=83}
     :::
   :::::
 :::::::
@@ -654,8 +681,9 @@ Pickup **TM47 Low Sweep**
 ####  - Heal Hawlucha to full with Sweet Hearts
 ####  - Repel
 ####  - Teach Rock Smash to Lapras (Slot 1)
-####  - Teach Surf to Lapras (Slot 2)
-####  - Teach Strength to Lapras (Slot 3)
+####  - Teach Strength to Lapras (Slot 2)
+####  - Teach Surf to Lapras (Slot 3)
+####  - Teach Low Sweep to Lucario over Power-Up Punch (Slot 1)
 :::if{source="Hawlucha" condition="speed=(12+/#/#) && startingLevel=19"}
 #### - Teach Rock Tomb to Lucario over Metal Sound (Slot 3)
 :::
@@ -668,7 +696,6 @@ Pickup **TM47 Low Sweep**
 :::if{source="Hawlucha" condition="speed=~(3+/#/#) && startingLevel=20"}
 ####  - Teach Shadow Claw over Metal Sound
 :::
-####  - Teach Low Sweep to Lucario over Power-Up Punch (Slot 1)
 :::::
 :::::::trainer[Pokémon Trainer Calem]
   :::::pokemon[Meowstic]
@@ -782,17 +809,17 @@ Go right after the first climbing rope
    - Teach Rock Tomb over Shadow Claw (slot 3)
 :::
 :::if{source="Hawlucha" condition="startingLevel=19"}
-::damage[Jumpluff’s Acrobatics does]{source="Hawlucha" special=false offensive=false movePower=110 level=32 opponentLevel=30 stab=true effectiveness=2 opponentStat=44}
+::damage[Jumpluff’s Acrobatics does]{source="Hawlucha" special=false offensive=false movePower=110 level=32 evs=10 opponentLevel=30 stab=true effectiveness=2 opponentStat=44}
 ::::
 :::if{source="Hawlucha" condition="startingLevel=20"}
-::damage[Jumpluff’s Acrobatics does]{source="Hawlucha" special=false offensive=false movePower=110 level=33 opponentLevel=30 stab=true effectiveness=2 opponentStat=44}
+::damage[Jumpluff’s Acrobatics does]{source="Hawlucha" special=false offensive=false movePower=110 level=33 evs=10 opponentLevel=30 stab=true effectiveness=2 opponentStat=44}
 :::
-::damage[Take down does]{source="Hawlucha" special=false offensive=false movePower=90 level=33 opponentLevel=34 stab=false opponentStat=88}
+::damage[Take down does]{source="Hawlucha" special=false offensive=false movePower=90 level=33 opponentLevel=34 evs=10 stab=false opponentStat=88}
 
 ::::::::::if{source="Hawlucha" condition="speed=~(10-/x/x) && startingLevel=20 || speed=~(18-/x/x) && startingLevel=19"}
 :::::::trainer[Leader Ramos (without Lucario)]
   :::::pokemon[Jumpluff]
-     - Swords Dnace
+     - Swords Dance
      - Wing Attack
      - If Hawlucha dies 
        - Switch to Lucario
@@ -800,53 +827,51 @@ Go right after the first climbing rope
   :::::     
   :::::pokemon[Gogoat]
     :::if{source="Hawlucha" condition="atk=(x/x/15+)"}
-      - Wing Attack at 80+ Attack 
+      - Wing Attack (Low Sweep if Lucario)
     :::
     :::if{source="Hawlucha" condition="atk=~(x/x/15+)"}
-      - Flying Press
+      - Flying Press (Low Sweep if Lucario)
     :::
-    - If Lucario
-      - Low Sweep
   :::::
   :::::pokemon[Weepinbell]
-    :::if{source="Hawlucha" condition="atk=(x/x/15+)"}
-      - Wing Attack
-    :::
-    :::if{source="Hawlucha" condition="atk=~(x/x/15+)"}
-      - Wing Attack 
-    :::
-    - If Lucario
-      - Low Sweep
+    - Wing Attack (Low Sweep if Lucario)
+
   :::::
 :::::::
 ::::::::::
 ::::::::::if{source="Hawlucha" condition="speed=(10-/x/x) && startingLevel=20 || speed=(18-/x/x) && startingLevel=19"}
 :::::::trainer[Leader Ramos (with Lucario)]
   :::::pokemon[Jumpluff]
-     - Swords Dnace
+     - Swords Dance
      - Rock Tomb
   :::::
   :::::pokemon[Gogoat]
     - Switch to Hawlucha
     - Swords Dance
     :::if{source="Hawlucha" condition="atk=(x/x/15+)"}
-      - Wing Attack  at 80+ Attack 
+      - Wing Attack
     :::
     :::if{source="Hawlucha" condition="atk=~(x/x/15+)"}
       - Flying Press
     :::
   :::::
   :::::pokemon[Weepinbell]
-    :::if{source="Hawlucha" condition="atk=(x/x/15+)"}
-      - Wing Attack
-    :::
-    :::if{source="Hawlucha" condition="atk=~(x/x/15+)"}
-      - Wing Attack
-    :::
+    - Wing Attack (Low Sweep if Lucario)
   :::::
 :::::::
 ::::::::::
-:info[If Hawlucha fainted, do shopping early and PC heal Hawlucha]{color=yellow}
+
+If Hawlucha fainted, PC heal Hawlucha
+
+:::card
+### Shopping (left):
+> #### Buy
+> - 11 Max Repels (^^) (12 if unconfident in movement)
+> - 1 Escape Rope (^^^)
+> - 11 Full Heals (^)
+> - 3 Revives (v<)
+> - MAX Hyper Potions (^^)
+:::
 
 Get **Lucky Egg**
 
@@ -861,15 +886,7 @@ Give Lucario Lucky Egg
 Swap Hawlucha with Lucario
 
 Fly to Coumarine
-:::card
-### Shopping (right):
-> #### Buy
-> - 11 Max Repels (^^) (12 if unconfident in movement)
-> - 1 Escape Rope (^^^)
-> - 11 Full Heals (^)
-> - 3 Revives (v<)
-> - MAX Hyper Potions (^^)
-:::
+
 No Wind: xx:10, xx:30, xx:50 for 10 minutes
 
 Pickup hidden **Power Plant Pass**
@@ -902,7 +919,7 @@ Pickup hidden **Power Plant Pass**
 :::::
 :::::trainer[Team Flare Grunt]
  ::::pokemon[Mightyena]{info="12/16 Range" infoColor=red}
-    - Low Sweep
+    - Low Sweep (x2)
  ::::
 :::::
 :::::trainer[Team Flare Grunt]
@@ -910,23 +927,26 @@ Pickup hidden **Power Plant Pass**
     - Low Sweep
  ::::
  ::::pokemon[Golbat]
-    - Rock Tomb
     - Swords Dance
-      - Give up on Me First, heal if necessary
+    - Rock Tomb
  ::::
+
+Give up on Me First, heal if necessary
+
 :::::
 :::::trainer[Team Flare Grunt]
  ::::pokemon[Golbat]{info="Wing Attack does 27(29)" infoColor=blue}
     - Swords Dance
     - Rock Tomb
  ::::
- ::::pokemon[Golbat]
+ ::::pokemon[Mightyena]
     - Low Sweep
  ::::
 :::::
 :::::trainer[Team Flare Grunt]{info="Body Slam does 10-11/(12)" infoColor=blue}
  ::::pokemon[Swalot]
-    - Bone Rush (5 hits needed)
+    - Bone Rush spam (5 hits needed)
+    - _Finish with Rock Tomb if only one hit left_
  ::::
 :::::
 :::::trainer[Team Flare Grunt]
@@ -934,7 +954,8 @@ Pickup hidden **Power Plant Pass**
     - Low Sweep
  ::::
  ::::pokemon[Swalot]
-    - Bone Rush
+    - Bone Rush spam (4 hits needed)
+    - _Finish with Rock Tomb if only one hit left_
  ::::
 :::::
 :info[Heal if 20 HP or less]{color=yellow}
@@ -950,7 +971,7 @@ Pickup hidden **Power Plant Pass**
  ::::
 :::::
 :::::trainer[Team Flare Admin]
- ::::pokemon[Houndoom]{info="Fire Fang can do 84 (86)" infoColor=blue}
+ ::::pokemon[Houndoom]
     - Low Sweep    
  ::::
 :::::
@@ -962,31 +983,34 @@ Pickup hidden **Power Plant Pass**
 
 :::::trainer[Schoolboy Finnian (Elevator 3)]
 ::::pokemon[Dedenne]
-   - Bone Rush (3 hits) (+ Rock Tomb if only 2)
+   - Bone Rush spam (3 hits needed)
+   - _Finish with Rock Tomb if only one hit left_
 ::::
 :::::
 :::::trainer[Rising Star Estel (Elevator 1)]
  ::::pokemon[Raichu]
-    - Bone Rush (3 hits) (+ Rock Tomb if only 2)
+    - Bone Rush spam (3 hits needed)
+    - _Finish with Rock Tomb if only one hit left_
  ::::
 ::::: 
 :::::trainer[Ace Trainer Rico (Elevator 3)]{info="Thunder Punch does: (33)/34-39/(40)" infoColor=blue}
  ::::pokemon[Ampharos]
-    - Bone Rush (5 hits) (+ Rock Tomb if only 4)
+    - Bone Rush spam (5 hits needed)
+    - _Finish with Rock Tomb if only one hit left_
  ::::
 :::::
 :::::trainer[Poké Fan Lydie (Elevator 2)]
  ::::pokemon[Plusle]
     - Low Sweep
       - Teach Aura Sphere over Low Sweep (Slot 1)
-      - If already taught Aura Sphere, use Bone Rush.
+    - If already taught Aura Sphere, use Bone Rush.
  ::::
 :::::
 :info[Heal if less than 40 HP]{color=yellow}
 :::::trainer[Leader Clemont]
  ::::pokemon[Emolga]
     - Swords Dance
-    - Rock Tomb
+    - _Emolga uses Volt Switch and switches out_
  ::::
  ::::pokemon[Magneton]
     - Bone Rush 
@@ -994,6 +1018,8 @@ Pickup hidden **Power Plant Pass**
  ::::pokemon[Heliolisk]
     - Aura Sphere
  ::::
+ ::::pokemon[Emolga]
+    - Rock Tomb
 :::::
 :info[Heal to full]{color=yellow}
 
@@ -1016,21 +1042,21 @@ Pickup **Rare Candy**
 :::::trainer[Leader Valerie]
  ::::pokemon[Mawile]
     - Swords Dance x3
-    - Aura Sphere (Shadow Claw if no Iron Defense)
-      - If Iron Defense turn 1 or 2
-       - Shadow Claw the turn after Iron Defense
+    - If Iron Defense on Turn 1 or 2
+       - Shadow Claw, then finish using Swords Dance
+    - Aura Sphere (Shadow Claw if no Iron Defenses)
  ::::
  ::::pokemon[Mr. Mime]
     - Shadow Claw
  ::::
  ::::pokemon[Sylveon]{info="15/16 Range" infoColor=red}
     - Shadow Claw
-      - If you miss the range and die
-        - Send out Lapras
-        - Perish Song
-        - Revive Lucario
-        - Heal Lucario
-        - Perish Song
+    - If you miss the range and die
+       - Send out Lapras
+       - Perish Song
+       - Revive Lucario
+       - Heal Lucario
+       - Perish Song
  ::::
 :::::
 :info[Heal if 34 (36)]{color=yellow}
@@ -1060,15 +1086,15 @@ Max Repel → Keep applied until off of Mamoswine
 :::::trainer[Team Flare Grunt]
  ::::pokemon[Golbat]
     - Swords Dance
-      - If not hit by Acrobatics
-      - Swords Dance again
-      - Shadow Claw
+    - If not hit by Acrobatics
+       - Swords Dance again
+       - Shadow Claw
     - Otherwise
-      - Rock Tomb
+       - Rock Tomb
  ::::
  ::::pokemon[Manectric]
-    - (2 Swords Dances) Rock Tomb 
-    - (1 Swords Dance)  Shadow Claw (+ Aura Sphere):info[4/16 Range]{color=red}
+    - (If 2 Swords Dances) Rock Tomb 
+    - (If 1 Swords Dance)  Shadow Claw (+ Aura Sphere):info[4/16 Range]{color=red}
     - Give up on Calm Mind
  ::::
 :::::
@@ -1099,7 +1125,7 @@ Pickup **Rare Candy**
     - Shadow Claw
  ::::
  ::::pokemon[Jolteon]{info="Quick Attack can do 7/(8), Discharge 63/(64)" infoColor=blue}
-    - If Faked out
+    - If got Fake Out
       - Shadow Claw
     - Otherwise
       - Rock Tomb
@@ -1112,7 +1138,7 @@ Pickup **Rare Candy**
 
 :::::trainer[Psychic Paschal]{info="Remember HP after" infoColor=pink}
  ::::pokemon[Exeggutor]
-    - Shadow Claw x2
+    - Shadow Claw x2 (Swords Dance + Shadow Claw 94.5% OHKO, slightly faster)
  ::::
 :::::
 
@@ -1150,7 +1176,7 @@ GYM Puzzle
 :::::
 
 :info[Heal if 28 (29) or lower]{color=yellow}
- - _If already level 51_ 
+_If already level 51_ 
    - From the Restore menu
    - Use 2 Rare Candies 
    - 6 Proteins
@@ -1198,8 +1224,8 @@ Fight Liepard first if it will give you lvl 51, then use the Rare Candies and Pr
  ::::
 :::::
 :::::trainer[Team Flare Grunt]
- ::::pokemon[Swalot]{info="+2 Spit Up does 32/(33) infoColor=blue"}
-    - Swords Dance x2/x3
+ ::::pokemon[Swalot]{info="+2 Spit Up does 32/(33)" infoColor=blue}
+    - Swords Dance x2 (x3 if Swalot is still Stockpiled)
     - Shadow Claw
  ::::
 :::::
@@ -1220,7 +1246,11 @@ Fight Liepard first if it will give you lvl 51, then use the Rare Candies and Pr
     - Teach Close Combat over Shadow Claw (Slot 4)
  ::::
 :::::
+
+:info[Use PP Up(s) on Close Combat whenever you heal next]{color=red}
+
 :info[Heal to full if 66 (68) HP or less]{color=yellow}
+
 :::::trainer[Team Flare Grunt]
  ::::pokemon[Houndoom]
     - Aura Sphere
@@ -1319,9 +1349,8 @@ Fight Liepard first if it will give you lvl 51, then use the Rare Candies and Pr
     - Give up on Dragon Pulse
  ::::
 :::::
-- Bag
-  - Heal to full
-  - Use PP Up on Close Combat (both if have them)
+- Heal to full
+- Use PP Up(s) on Close Combat if haven't yet
 :::::trainer[Team Flare Double 3]
  ::::pokemon[Scrafty]
     - Aura Sphere
@@ -1359,7 +1388,7 @@ Fight Liepard first if it will give you lvl 51, then use the Rare Candies and Pr
  ::::
 :::::
 Catch Xerneas with Master Ball
-  - say no to getting him into the party
+  - Select No then Yes to decline adding Xerneas to party
 :::::trainer[Team Flare Lysandre]
  ::::pokemon[Mienfoo]
     - Close Combat
@@ -1412,7 +1441,7 @@ Max Repel
     - Rock Tomb
  ::::
  ::::pokemon[Crawdaunt]
-    - If can tank 100 / (102)
+    - If can tank 100 / (102) and desperate for time save
       - Swords Dance
     - Aura Sphere
  ::::
@@ -1423,7 +1452,21 @@ Max Repel
     - Give up on Extreme Speed
  ::::
 :::::
-:::::trainer[Pokémon Trainer Trevor]
+
+Free Heal
+:::::trainer[Pokémon Trainer Trevor (slower if Static, faster if no Static)]
+ ::::pokemon[Raichu]
+    - Close Combat
+ ::::
+ ::::pokemon[Florges]
+    - **If no Static**: Swords Dance + Close Combat
+    - **If Static** Swords Dance + Full Restore + Close Combat (probably die if get fully paralyzed)
+ ::::
+ ::::pokemon[Aerodactyl]
+    - Rock Tomb :info[Close Combat if did safe Trevor]{color=gray}
+ ::::
+:::::
+:::::trainer[Pokémon Trainer Trevor (safe)]
  ::::pokemon[Raichu]
     - Swords Dance (+ heal paralysis)
     - Rock Tomb
@@ -1433,10 +1476,10 @@ Max Repel
  ::::
  ::::pokemon[Aerodactyl]
     - Rock Tomb if you have an X-Atk left
-    - Otherwise
-      - Close Combat
+    - Otherwise Close Combat
  ::::
 :::::
+
 Bike to the forest
 
 :info[Heal if 71 or less HP]{color=yellow}
@@ -1471,7 +1514,7 @@ Fly out of the forest
     - Aura Sphere
  ::::
  ::::pokemon[Jynx]
-    - Rock Tomb :info[Close Combat]{color=gray}
+    - Rock Tomb 
  ::::
 :::::
 :::::trainer[Ace Trainer Theo]
@@ -1485,6 +1528,9 @@ Fly out of the forest
 :info[**Yellow x1**]{color=yellow}
 :info[**Green x3**]{color=green}
 :::::trainer[Leader Wulfric]
+
+  For Cryogonal, need 3 Close Combats after this fight, 4 if going for X Attack Calem fight
+
  ::::pokemon[Abomasnow]
     - Aura Sphere
  ::::
@@ -1513,7 +1559,7 @@ Fly out of the forest
  ::::
 :::::
 
-:info[Heal to full]{color=yellow}
+:info[Heal if 85- HP]{color=yellow}
 
 Teach Shadow Claw over Aura Sphere (Slot 1)
 
@@ -1522,7 +1568,8 @@ Teach Shadow Claw over Aura Sphere (Slot 1)
     - If you have an X-Attack left (and 2 Close Combats)
       - X Attack
     - Otherwise
-      - Swords Dance (x2 if Faked Out)
+      - Swords Dance (again if get Fake Out)
+
     - Shadow Claw
  ::::
  ::::pokemon[Delphox]
@@ -1541,14 +1588,19 @@ Teach Shadow Claw over Aura Sphere (Slot 1)
     - Close Combat
  ::::
 :::::
+
 :info[**Free heal from Ranger**]{color=pink}
+
+:info[**If you forgot to heal: https://pastebin.com/bS3XdUv8**]
+
+
 :::::trainer[Veteran Gerard]
  ::::pokemon[Banette]
     - Shadow Claw
  ::::
  ::::pokemon[Leafeon]
     - Swords Dance 
-    -Close Combat
+    - Close Combat
  ::::
 ::::: 
 :::::trainer[Veteran Timeo]
@@ -1571,7 +1623,7 @@ Teach Shadow Claw over Aura Sphere (Slot 1)
 :::::
 :::::trainer[Veteran Catrina]
  ::::pokemon[Glaceon]
-    - If Gigalith used Protect on Close Combat and you don't have 7 Close Combats
+    - If Gigalith used Protect on Close Combat and you didn't get safety PP UP
       - Swords Dance
       - Rock Tomb
     - Otherwise
@@ -1619,7 +1671,7 @@ Buy Full Restores (>) if none left
     - Close Combat
  ::::
  ::::pokemon[Chandelure]
-    - If low HP or playing it safe
+    - If took more damage than Talonflame QA
       - Shadow Claw
     - Otherwise
       - Rock Tomb
@@ -1634,9 +1686,8 @@ Buy Full Restores (>) if none left
     - Shadow Claw
  ::::
  ::::pokemon[Probopass]{info="Earth Power does 76-88 (90)" infoColor=blue}
-    - No Torment
-      - Shadow Claw x2
-    - Otherwise 
+    - **No Torment:** Shadow Claw x2
+    - **Otherwise**
       - Rock Tomb (Shadow Claw if you miss) 
       - Close Combat
  ::::
@@ -1649,7 +1700,7 @@ Buy Full Restores (>) if none left
     - Close Combat
  ::::
 :::::
-:info[Heal if 104 HP or lower]{color=yellow}
+:info[Heal if 120 HP or lower]{color=yellow}
 :::::trainer[Elite Four Drasna]
  ::::pokemon[Dragalge]{info="Thunderbolt does 41-48 (49)" infoColor=blue}
     - Swords Dance x2 
@@ -1658,25 +1709,24 @@ Buy Full Restores (>) if none left
     - Shadow Claw
  ::::
  ::::pokemon[Noivern]
-    - Close Combat (Rock Tomb if Close Combat on Probopass)
-    - :info[Clost Combat if safety PP Up]{color=gray}
+    - Close Combat 
  ::::
  ::::pokemon[Druddigon]
     - Close Combat
  ::::
  ::::pokemon[Altaria]
-    - Close Combat
+    - Rock Tomb :info[Close Combat]{color=gray}
  ::::
 :::::
 Heal to full
 
 Ether Close Combat
 
-Equip Lucarionite
+**Equip Lucarionite**
 
 :::::trainer[Elite Four Siebold]
  ::::pokemon[Clawitzer]
-    - [Mega Evolve] Close Combat
+    - **[Mega Evolve]** Close Combat
  ::::
  ::::pokemon[Gyarados]{info="15/16 range" infoColor=red}
     - Swords Dance
@@ -1703,7 +1753,7 @@ Equip Lucarionite
     - Close Combat
  ::::
  ::::pokemon[Aurorus]
-    - Rock Tomb :info[CloseCombat if you took no damage]{color=gray}
+    - Rock Tomb :info[Close Combat if you took no damage]{color=gray}
     - If miss, you are at full HP and Aurorus used Reflect
       - Swords Dance
       - If you got hit by Thunder
