@@ -1246,7 +1246,11 @@ Fight Liepard first if it will give you lvl 51, then use the Rare Candies and Pr
     - Teach Close Combat over Shadow Claw (Slot 4)
  ::::
 :::::
+
+:info[Use PP Up(s) on Close Combat whenever you heal next]{color=red}
+
 :info[Heal to full if 66 (68) HP or less]{color=yellow}
+
 :::::trainer[Team Flare Grunt]
  ::::pokemon[Houndoom]
     - Aura Sphere
@@ -1345,9 +1349,8 @@ Fight Liepard first if it will give you lvl 51, then use the Rare Candies and Pr
     - Give up on Dragon Pulse
  ::::
 :::::
-- Bag
-  - Heal to full
-  - Use PP Up on Close Combat (both if have them)
+- Heal to full
+- Use PP Up(s) on Close Combat if haven't yet
 :::::trainer[Team Flare Double 3]
  ::::pokemon[Scrafty]
     - Aura Sphere
@@ -1438,7 +1441,7 @@ Max Repel
     - Rock Tomb
  ::::
  ::::pokemon[Crawdaunt]
-    - If can tank 100 / (102)
+    - If can tank 100 / (102) and desperate for time save
       - Swords Dance
     - Aura Sphere
  ::::
@@ -1451,7 +1454,18 @@ Max Repel
 :::::
 
 Free Heal
-
+:::::trainer[Pokémon Trainer Trevor (slower if Static, faster if no Static)]
+ ::::pokemon[Raichu]
+    - Close Combat
+ ::::
+ ::::pokemon[Florges]
+    - **If no Static**: Swords Dance + Close Combat
+    - **If Static** Swords Dance + Full Restore + Close Combat (probably die if get fully paralyzed)
+ ::::
+ ::::pokemon[Aerodactyl]
+    - Rock Tomb :info[Close Combat if did safe Trevor]{color=gray}
+ ::::
+:::::
 :::::trainer[Pokémon Trainer Trevor (safe)]
  ::::pokemon[Raichu]
     - Swords Dance (+ heal paralysis)
@@ -1465,20 +1479,7 @@ Free Heal
     - Otherwise Close Combat
  ::::
 :::::
-:::::trainer[Pokémon Trainer Trevor (slower if Static, faster if no Static)]
- ::::pokemon[Raichu]
-    - Close Combat
- ::::
- ::::pokemon[Florges]
-    - **If no Static**: Swords Dance + Close Combat
-    - **If Static** Swords Dance + Full Restore + Close Combat (probably die if get fully paralyzed)
- ::::
- ::::pokemon[Aerodactyl]
-    - Rock Tomb if you have an X-Atk left
-    - Close Combat
-    - (Rock Tomb Jynx/Wulfric's Cryogonal to save a Close Combat)
- ::::
-:::::
+
 Bike to the forest
 
 :info[Heal if 71 or less HP]{color=yellow}
@@ -1513,7 +1514,7 @@ Fly out of the forest
     - Aura Sphere
  ::::
  ::::pokemon[Jynx]
-    - Rock Tomb :info[Close Combat if did safe Trevor]{color=gray}
+    - Rock Tomb 
  ::::
 :::::
 :::::trainer[Ace Trainer Theo]
@@ -1534,8 +1535,7 @@ Fly out of the forest
     - Aura Sphere
  ::::
  ::::pokemon[Cryogonal]
-    - **If did risky Trevor**: Rock Tomb
-    - **Otherwise** Close Combat
+    - Close Combat
  ::::
  ::::pokemon[Avalugg]
     - Aura Sphere
@@ -1589,7 +1589,8 @@ Teach Shadow Claw over Aura Sphere (Slot 1)
 :::::
 
 :info[**Free heal from Ranger**]{color=pink}
-**If you forgot to heal: https://pastebin.com/bS3XdUv8 **
+
+:info[**If you forgot to heal: https://pastebin.com/bS3XdUv8**]
 
 
 :::::trainer[Veteran Gerard]
@@ -1707,14 +1708,13 @@ Buy Full Restores (>) if none left
     - Shadow Claw
  ::::
  ::::pokemon[Noivern]
-    - Close Combat (Rock Tomb if Close Combat on Probopass)
-    - :info[Close Combat if safety PP Up]{color=gray}
+    - Close Combat 
  ::::
  ::::pokemon[Druddigon]
-    - Close Combat (+4 Shadow Claw 14/16)
+    - Close Combat
  ::::
  ::::pokemon[Altaria]
-    - Close Combat (+4 Shadow Claw 15/16)
+    - Rock Tomb :info[Close Combat]{color=gray}
  ::::
 :::::
 Heal to full
