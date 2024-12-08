@@ -163,12 +163,13 @@ Deposit Squirtle
 :::::::trainer[Tierno]
   :::::pokemon[Corphish]
     :::if{source="Quacklin" condition="atk=(x/28+/x)"}
-    - Aerial Ace (Leer if did less than half)
-    - Aerial Ace (x2)
+      :::card{theme=error}
+         - 31.3% 2HKO range    (50% range if in Yellow HP)
+      :::
+      - Aerial Ace (Leer if did less than half)
+      - Aerial Ace (x2)
     :::
-    :::card{theme=error}
-      - 31.3% 2HKO range    (50% range if in Yellow HP)
-    :::
+    
     :::if{source="Quacklin" condition="atk=~(x/28+/x)"}
     - Leer
     - Swords Dance
@@ -374,7 +375,15 @@ Swap Farfetch’d back to front
     :::
   :::::
   :::::pokemon[Tyrunt]{info="if Unburden, you will outspeed after 2 Rock Tombs with Oran Berry" infoColor=blue}
-    :::if{source="Hawlucha" condition="atk=(21+/#/#) && startingLevel=19"}
+    :::if{source="Hawlucha" condition="atk=(x/26+/7-30) && startingLevel=19"}
+      - Karate Chop
+      - If Karate Chop crit
+         - Karate Chop
+      - Else
+         - Swords Dance
+         - Karate Chop
+    :::
+    :::if{source="Hawlucha" condition="atk=(21+/0-25/0-6) && startingLevel=19 || atk=(x/x/31) && startingLevel=19"}
       - Swords Dance x2
       - Karate Chop
     :::
@@ -387,10 +396,24 @@ Swap Farfetch’d back to front
       - Swords Dance
       - Karate Chop x2
     :::
-    :::if{source="Hawlucha" condition="atk=(x/x/21+) && startingLevel=20"}
+    :::if{source="Hawlucha" condition="atk=(x/x/26+) && startingLevel=20"}
       - Swords Dance x2
       - Rock Smash
      ::damage[Rock Smash Range]{source="Hawlucha" special=false offensive=true healthThreshold=69 combatStages=4 theme=error movePower=40 level=22 effectiveness=2 opponentLevel=25 stab=true  opponentStat=49 theme=error}
+    :::
+    :::if{source="Hawlucha" condition="atk=(x/16+/25-) && startingLevel=20"}
+      ::damage[Rock Smash Range]{source="Hawlucha" special=false offensive=true healthThreshold=69 combatStages=4 theme=error movePower=40 level=22 effectiveness=2 opponentLevel=25 stab=true  opponentStat=49 theme=error}
+      
+      - If you want to risk the damage range
+         - Swords Dance x2
+         - Rock Smash
+      - Else      
+         - Rock Smash
+         - If Rock Smash crits AND gets defense drop
+            - Rock Smash
+         - Else
+            - Swords Dance
+            - Rock Smash
     :::
     :::if{source="Hawlucha" condition="atk=~(x/x/21+) && startingLevel=20"}
       - Swords Dance
