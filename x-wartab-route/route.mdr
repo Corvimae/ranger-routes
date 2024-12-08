@@ -586,9 +586,17 @@ Head to the gym
 :::::trainer[Roller Skater Kate]
  ::::pokemon[Meditite]
     - Wing Attack
+    ::damage[Wing Attack Range]{source="Hawlucha" special=false offensive=true healthThreshold=57 theme=error effectiveness=2 evs=16 movePower=60 level=26 opponentLevel=28 stab=true opponentStat=38}
+  
  ::::
  ::::pokemon[Mienfoo]
     - Wing Attack 
+    :::if{source="Hawlucha" condition="startingLevel=19"}
+      ::damage[Wing Attack Range]{source="Hawlucha" special=false offensive=true theme=error effectiveness=2 stab=true evs=16 movePower=60 level=26 opponentLevel=28 healthThreshold=66 opponentStat=31}
+    :::
+    :::if{source="Hawlucha" condition="startingLevel=20"}
+      ::damage[Wing Attack Range]{source="Hawlucha" special=false offensive=true theme=error effectiveness=2 stab=true evs=16 movePower=60 level=27 opponentLevel=28 healthThreshold=66 opponentStat=31}
+    :::
  ::::
 :::::
 :::::trainer[Roller Skater Shun]
@@ -598,6 +606,12 @@ Head to the gym
  ::::
  ::::pokemon[Throh]
     - Wing Attack
+    :::if{source="Hawlucha" condition="startingLevel=19"}
+      ::damage[Wing Attack Range]{source="Hawlucha" special=false offensive=true theme=error combatStages=2 effectiveness=2 stab=true evs=20 movePower=60 level=26 opponentLevel=28 healthThreshold=104 opponentStat=53}
+    :::
+    :::if{source="Hawlucha" condition="startingLevel=20"}
+      ::damage[Wing Attack Range]{source="Hawlucha" special=false offensive=true theme=error combatStages=2 effectiveness=2 stab=true evs=20 movePower=60 level=27 opponentLevel=28 healthThreshold=104 opponentStat=53}
+    :::
  ::::
  ::::pokemon[Machoke]
     - Wing Attack
@@ -623,8 +637,17 @@ Fight Dash first if you already meet the requirements to OHKO Heracross or will 
 :::::::
 :::::::trainer[Roller Skater Rolanda]
   :::::pokemon[Sawk]
+    :::if{source="Hawlucha" condition="startingLevel=19 && speed=(0+/11-/x) || startingLevel=20 && speed=(30-/2-/x)"}
+      - Slower than Sawk after one Low Sweep
+    :::
      - Swords Dance
      - Wing Attack
+     :::if{source="Hawlucha" condition="startingLevel=19"}
+      ::damage[Sawk Low Sweep does at L27]{source="Hawlucha" special=false offensive=false effectiveness=0.5 stab=true evs=10 movePower=65 level=27 opponentLevel=27 opponentStat=82}
+    :::
+    :::if{source="Hawlucha" condition="startingLevel=20"}
+      ::damage[Sawk Low Sweep does at L28]{source="Hawlucha" special=false offensive=false effectiveness=0.5 stab=true evs=10 movePower=65 level=28 opponentLevel=27 opponentStat=82}
+    :::
   :::::
   :::::pokemon[Hariyama]
     :::if{source="Hawlucha" condition="atk=(x/25+/7+) && startingLevel=19"}
@@ -641,6 +664,12 @@ Fight Dash first if you already meet the requirements to OHKO Heracross or will 
      :::
   :::::
 :::::::
+
+- Heal with Soda Pop unless very high HP
+
+::damage[Hawlucha Flying Press does]{source="Hawlucha" special=false offensive=false stab=true evs=10 movePower=80 level=29 opponentLevel=32 opponentStat=70}
+
+
 :::::::trainer[Leader Korrina]{info="Important: Remember if you X-Attack here or not" infoColor=yellow}
   :::::pokemon[Mienfoo]
     :::if{source="Hawlucha" condition="atk=(x/x/20+) && startingLevel=19"}
@@ -1105,7 +1134,7 @@ Max Repel → Keep applied until off of Mamoswine
 :::::
 Pickup **PP Up** if had to use the other one
   - You can pick it up anyway for safety 
-:info[Safety usages are marked in Gray]{color=gray}
+:info[Safety usages are marked in Green]{color=green}
 
 Heal to full
 
@@ -1223,12 +1252,18 @@ Fight Liepard first if it will give you lvl 51, then use the Rare Candies and Pr
     - Aura Sphere
  ::::
 :::::
+
+- Go Up-Left
+
 :::::trainer[Team Flare Grunt]
  ::::pokemon[Swalot]{info="+2 Spit Up does 32/(33)" infoColor=blue}
     - Swords Dance x2 (x3 if Swalot is still Stockpiled)
     - Shadow Claw
  ::::
 :::::
+
+- Take teleporter
+
 :::::trainer[Team Flare Aliana]
  ::::pokemon[Mightyena]
     - Aura Sphere
@@ -1237,6 +1272,10 @@ Fight Liepard first if it will give you lvl 51, then use the Rare Candies and Pr
     - Aura Sphere x2
  ::::
 :::::
+
+- Take left teleporter
+- Go Up, Right, Down
+
 :::::trainer[Team Flare Grunt]{info="Remeber HP After" infoColor=pink}
  ::::pokemon[Liepard]
     - Aura Sphere
@@ -1251,6 +1290,8 @@ Fight Liepard first if it will give you lvl 51, then use the Rare Candies and Pr
 
 :info[Heal to full if 66 (68) HP or less]{color=yellow}
 
+- Run Up-Right
+
 :::::trainer[Team Flare Grunt]
  ::::pokemon[Houndoom]
     - Aura Sphere
@@ -1260,13 +1301,20 @@ Fight Liepard first if it will give you lvl 51, then use the Rare Candies and Pr
     - Close Combat 
  ::::
 :::::
+
+- Go Right, Right, (Dodge Spinner) Down, Right-Down
+
 :::::trainer[Team Flare Grunt]
  ::::pokemon[Golbat]{info="Acrobatics does 64/(66)" infoColor=blue}
     - Swords Dance
     - Rock Tomb
  ::::
 :::::
+
 :info[Heal to full if 66/(68) or less]{color=yellow}
+
+- Take Teleporter
+
 :::::trainer[Team Flare Grunt]
  ::::pokemon[Toxicroak]
     - Swords Dance 
@@ -1276,6 +1324,9 @@ Fight Liepard first if it will give you lvl 51, then use the Rare Candies and Pr
     - Aura Sphere
  ::::
 :::::
+
+- Run Right through door
+
 :::::trainer[Team Flare Mable]
  ::::pokemon[Houndoom]
     - Aura Sphere
@@ -1284,6 +1335,10 @@ Fight Liepard first if it will give you lvl 51, then use the Rare Candies and Pr
     - Aura Sphere
  ::::
 :::::
+
+- Run Left through door
+- Go Down, Right-Down, Up-Left
+
 :::::trainer[Team Flare Xerosic]
  ::::pokemon[Crobat]{info="Air Slash does 36/(37)" infoColor=blue}
     - Swords Dance 
@@ -1398,7 +1453,7 @@ Catch Xerneas with Master Ball
  ::::
  ::::pokemon[Honchkrow]
     - Swords Dance 
-    - Rock Tomb :info[Close Combat]{color=gray}
+    - Rock Tomb :info[Close Combat]{color=green}
  ::::
  ::::pokemon[Gyarados]
     - Close Combat
@@ -1463,7 +1518,7 @@ Free Heal
     - **If Static** Swords Dance + Full Restore + Close Combat (probably die if get fully paralyzed)
  ::::
  ::::pokemon[Aerodactyl]
-    - Rock Tomb :info[Close Combat if did safe Trevor]{color=gray}
+    - Rock Tomb :info[Close Combat if did safe Trevor]{color=green}
  ::::
 :::::
 :::::trainer[Pokémon Trainer Trevor (safe)]
@@ -1569,7 +1624,6 @@ Teach Shadow Claw over Aura Sphere (Slot 1)
       - X Attack
     - Otherwise
       - Swords Dance (again if get Fake Out)
-
     - Shadow Claw
  ::::
  ::::pokemon[Delphox]
@@ -1661,7 +1715,6 @@ Buy Full Restores (>) if none left
       - Swords Dance
     - If Burnt
       - Full Restore
-      - _Full Restore on Talonflame instead if 24 - 34 HP left (experimental)_
     - Close Combat
  ::::
  ::::pokemon[Talonflame]{info="Quick Attack does 17-19 (20)" infoColor=blue}
@@ -1715,7 +1768,7 @@ Buy Full Restores (>) if none left
     - Close Combat
  ::::
  ::::pokemon[Altaria]
-    - Rock Tomb :info[Close Combat]{color=gray}
+    - Rock Tomb :info[Close Combat]{color=green}
  ::::
 :::::
 Heal to full
@@ -1753,7 +1806,7 @@ Ether Close Combat
     - Close Combat
  ::::
  ::::pokemon[Aurorus]
-    - Rock Tomb :info[Close Combat if you took no damage]{color=gray}
+    - Rock Tomb :info[Close Combat if you took no damage]{color=green}
     - If miss, you are at full HP and Aurorus used Reflect
       - Swords Dance
       - If you got hit by Thunder
