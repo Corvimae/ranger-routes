@@ -46,7 +46,7 @@ _ported by Fortunate_
 
 _notes by wartab_ [base doc](https://docs.google.com/document/d/1eI4u7X_p3weBLY8hAMuaF-LwcAtmqeT3YdLiwZPC0r4/edit)
 :::card
-Set console date to 14th February and time to 23:04 (adapt for skill level)
+Set console date to 14th February and time to 23:03 (adapt for skill level)
 :::
 - Choose the girl and give a single character name (! is fastest)
 - Open options and set 
@@ -86,26 +86,27 @@ Trade Bunnelby for Farfetch’d and move Farfetch’d to the front
  ::::
 :::::
 Follow the drops in the gym
-:::::trainer[Lass Charlotte]
- ::::pokemon[Kakuna]
+::::trainer[Lass Charlotte]
+ :::pokemon[Kakuna]
     -  Aerial Ace
- ::::
- ::::pokemon[Combee]
+ :::
+ :::pokemon[Combee]
     -  Aerial Ace
- ::::
- :::::trainer[Leader Viola]
- ::::pokemon[Surskit]
+  :::
+::::
+::::trainer[Leader Viola]
+  :::pokemon[Surskit]
     - Aerial Ace
- ::::
- ::::pokemon[Vivillon]
+  :::
+  :::pokemon[Vivillon]
     - Aerial Ace spam
-   :::card{theme=error}
+    :::card{theme=error}
       - 21- Atk (24- IV) 93.8% 2 shot
       - 22+ Atk (25+ IV) Leer once if Harden (66.8% 2 shot)
-   :::
+    :::
     - Teach Knock Off over Fury Attack (Slot 3)
- ::::
-:::::
+  :::
+::::
 Get the **3 X-Attacks** and **3 X-Defenses** in trainer school.
 
 Grab the **Repel**
@@ -116,30 +117,41 @@ Get **5 Luxury Balls**
     -  Aerial Ace (+ Fury Cutter)
    ::damage[Aerial Ace Ranges]{source="Quacklin" special=false offensive=true movePower=60 level=13 healthThreshold=31 opponentLevel=10 stab=true opponentStat=17 theme=error effectiveness=2 stab=true}
  ::::
- ::::pokemon[Squirtle]
+
+  ::::pokemon[Squirtle]
     - If used Fury Cutter 
       - Fury Cutter x2
     - Otherwise: Aerial Ace x2 / x3
-  :::card{theme=error}
-    - 2HKO Ranges
-        - 7.4% at 22/23 1-16
-       -  80.9% at 24+ 17+
-  :::
-   ::damage[Water Gun]{source="Quacklin" offensive=false special=true movePower=40 level=13 opponentLevel=10 stab=true opponentStat=17}
-   ::damage[Water Gun (Torrent)]{source="Quacklin" offensive=false special=true movePower=40 level=13 opponentLevel=10 stab=true opponentStat=17 torrent=true}
- ::::
- ::::pokemon[Charmander]
-  :::if{source="Quacklin" condition="atk=(x/17+/x)"}
-    :info[Very likely to knock Charmander into Blaze]{color=red}
-  :::
-  :::if{source="Quacklin" condition="atk=(x/24+/x)"}
-    :info[Leer + Aerial Ace is 14 / 16]{color=red}
-  :::
+
+    :::if{source="Quacklin" condition="atk=(x/1-16/x)"}
+      :::card{theme=error}
+        - Aerial Ace 2HKO Range: 7.4%
+      :::
+    :::
+  
+    :::if{source="Quacklin" condition="atk=(x/17+/x)"}
+      :::card{theme=error}
+        - Aerial Ace 2HKO Range: 80.9%
+      :::
+    :::
+
+    ::damage[Water Gun]{source="Quacklin" offensive=false special=true movePower=40 level=13 opponentLevel=10 stab=true opponentStat=17}
+    ::damage[Water Gun (Torrent)]{source="Quacklin" offensive=false special=true movePower=40 level=13 opponentLevel=10 stab=true opponentStat=17 torrent=true}
+  ::::
+
+
+  ::::pokemon[Charmander]
+    :::if{source="Quacklin" condition="atk=(x/17+/x)"}
+      :info[Very likely to knock Charmander into Blaze]{color=red}
+    :::
+    :::if{source="Quacklin" condition="atk=(x/24+/x)"}
+      :info[Leer + Aerial Ace is 14 / 16]{color=red}
+    :::
 
     - Aerial Ace x2
-   ::damage[Ember]{source="Quacklin" offensive=false special=true movePower=40 level=13 opponentLevel=10 stab=true opponentStat=17}
-   ::damage[Ember (Blaze)]{source="Quacklin" offensive=false special=true movePower=40 level=13 opponentLevel=10 stab=true opponentStat=17 torrent=true}
- ::::
+    ::damage[Ember]{source="Quacklin" offensive=false special=true movePower=40 level=13 opponentLevel=10 stab=true opponentStat=17}
+    ::damage[Ember (Blaze)]{source="Quacklin" offensive=false special=true movePower=40 level=13 opponentLevel=10 stab=true opponentStat=17 torrent=true}
+  ::::
 :::::
 :info[**Free heal**]{color=pink}
 
@@ -404,16 +416,13 @@ Swap Farfetch’d back to front
     :::if{source="Hawlucha" condition="atk=(x/16+/25-) && startingLevel=20"}
       ::damage[Rock Smash Range]{source="Hawlucha" special=false offensive=true healthThreshold=69 combatStages=4 theme=error movePower=40 level=22 effectiveness=2 opponentLevel=25 stab=true  opponentStat=49 theme=error}
       
-      - If you want to risk the damage range
-         - Swords Dance x2
-         - Rock Smash
-      - Else      
-         - Rock Smash
-         - If Rock Smash crits AND gets defense drop
-            - Rock Smash
-         - Else
-            - Swords Dance
-            - Rock Smash
+    
+      - Rock Smash
+      - If Rock Smash crits AND gets defense drop
+        - Rock Smash
+      - Else
+        - Swords Dance
+        - Rock Smash
     :::
     :::if{source="Hawlucha" condition="atk=~(x/x/21+) && startingLevel=20"}
       - Swords Dance
