@@ -1790,7 +1790,8 @@ Buy Full Restores (>) if none left
     - Close Combat
  ::::
 :::::
-:info[Heal if 120 HP or lower]{color=yellow}
+:info[Heal to full if 120- HP (168- if doing safe Drasna)]{color=yellow}
+
 :::::trainer[Elite Four Drasna]
  ::::pokemon[Dragalge]{info="Thunderbolt does 41-48 (49)" infoColor=blue}
     - Swords Dance x2 
@@ -1808,6 +1809,25 @@ Buy Full Restores (>) if none left
     - Rock Tomb :info[Close Combat]{color=green}
  ::::
 :::::
+
+:::::trainer[Elite Four Drasna (safe)]
+ ::::pokemon[Dragalge]{info="Thunderbolt does 41-48 (49)" infoColor=blue}
+    - Swords Dance x3
+    - If at 24 HP or less
+      - Heal to full
+    - Shadow Claw
+ ::::
+ ::::pokemon[Noivern]
+    - Shadow Claw
+ ::::
+ ::::pokemon[Druddigon]
+    - Shadow Claw
+ ::::
+ ::::pokemon[Altaria]
+    - Shadow Claw
+ ::::
+:::::
+
 Heal to full
 
 Ether Close Combat
