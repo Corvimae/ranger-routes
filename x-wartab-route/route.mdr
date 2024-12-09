@@ -169,9 +169,10 @@ Deposit Squirtle
 > #### Buy 
 > - Swords Dance (vv)
 
-- At the grass after Lucario cutscene:
+At the grass after Lucario cutscene:
   - Repel
   - Teach Swords Dance over Fury Cutter (slot 2).
+
 :::::::trainer[Tierno]
   :::::pokemon[Corphish]
     :::if{source="Quacklin" condition="atk=(x/28+/x)"}
@@ -216,7 +217,7 @@ Pickup **Rare Candy** in the fountain at the castle.
 
 Run from Snorlax
 
-- At Trevor & Tierno fight:
+At Trevor & Tierno fight:
   - Repel (keep applied until done with Rhyhorn)
   - (Super) Potion if took damage on Corphish
   - Equip Berry Juice
@@ -323,11 +324,10 @@ Register Bike
 
 Buy a dozen Soda Pops from the Waitress
 
-_Optionally Pickup hidden X-Speed for greater Lucky Egg consistency_
-  - _Using X items increases Hawlucha’s friendship_
+Pickup Hidden X Speed
 
-Go to Geosenge centre and catch Hawlucha with Luxury Balls.
-  - If Hawlucha and Farfetch’d are full HP use Aerial Ace.
+Go to Geosenge center and catch Hawlucha with Luxury Balls.
+  - If Hawlucha and Farfetch’d are full HP, weaken with Aerial Ace.
 
 :::::card{theme=warning}
   :::if{source="Hawlucha" condition="startingLevel=19"}
@@ -432,7 +432,7 @@ Swap Hawlucha to the front of party
 
 Pickup hidden Protein
 
-_Optionally pickup X-Defense_
+_Optionally pickup X-Defense for friendship gain_
 
 Pickup hidden Ether
 
@@ -561,7 +561,7 @@ Use Iron
 
 Use HP Up
 
-Use PP Up if only got one massage and it was bad
+Use PP Up if both massages were bad
 
 :info[Heal to full with Soda Pop]{color=yellow}
 :::::::trainer[Pokémon Trainer Calem]
@@ -631,10 +631,10 @@ Head to the gym
  ::::pokemon[Throh]
     - Wing Attack
     :::if{source="Hawlucha" condition="startingLevel=19"}
-      ::damage[Wing Attack Range]{source="Hawlucha" special=false offensive=true theme=error combatStages=2 effectiveness=2 stab=true evs=20 movePower=60 level=26 opponentLevel=28 healthThreshold=104 opponentStat=53}
+      ::damage[+2 Wing Attack Range]{source="Hawlucha" special=false offensive=true theme=error combatStages=2 effectiveness=2 stab=true evs=20 movePower=60 level=26 opponentLevel=28 healthThreshold=104 opponentStat=53}
     :::
     :::if{source="Hawlucha" condition="startingLevel=20"}
-      ::damage[Wing Attack Range]{source="Hawlucha" special=false offensive=true theme=error combatStages=2 effectiveness=2 stab=true evs=20 movePower=60 level=27 opponentLevel=28 healthThreshold=104 opponentStat=53}
+      ::damage[+2 Wing Attack Range]{source="Hawlucha" special=false offensive=true theme=error combatStages=2 effectiveness=2 stab=true evs=20 movePower=60 level=27 opponentLevel=28 healthThreshold=104 opponentStat=53}
     :::
  ::::
  ::::pokemon[Machoke]
@@ -689,7 +689,7 @@ Fight Dash first if you already meet the requirements to OHKO Heracross or will 
   :::::
 :::::::
 
-- Heal with Soda Pop unless very high HP
+Heal with Soda Pop unless very high HP
 
 ::damage[Hawlucha Flying Press does]{source="Hawlucha" special=false offensive=false stab=true evs=10 movePower=80 level=29 opponentLevel=32 opponentStat=70}
 
@@ -843,6 +843,7 @@ Go right after the first climbing rope
  ::::
  ::::pokemon[Exeggutor]
     - Wing Attack
+   ::damage[+2 Wing Attack ranges]{source="Hawlucha" special=false offensive=true evs=32 healthThreshold=104 combatStages=2 effectiveness=2 movePower=60 level=32 opponentLevel=31 stab=true opponentStat=55 theme=error}
    ::damage[Exeggutor’s Psyshock does]{source="Hawlucha" special=true offensive=false movePower=80 level=32 opponentLevel=31 stab=true opponentStat=48}
  ::::
 :::::
