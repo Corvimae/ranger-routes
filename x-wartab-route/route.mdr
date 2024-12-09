@@ -443,28 +443,45 @@ Get double massage if possible
     - Swords Dance / Encore on Gust and die
  ::::
 :::::
+
 Deposit Farfetch’d
+
 :::::::trainer[Leader Korrina]
   :::::pokemon[Lucario]
-     - Swords Dance x2-3
-     - Karate Chop / Rock Smash (x2)
-   :::if{source="Hawlucha" condition="startingLevel=19"}
-     ::damage[Rock Smash +4 Range]{source="Hawlucha" special=false offensive=true healthThreshold=75 combatStages=4 theme=error effectiveness=2 movePower=40 level=21 effectiveness=2 opponentLevel=22 stab=true  opponentStat=45 theme=error}
+    :::if{source="Hawlucha" condition="startingLevel=19 && atk=(16+/#/#)"}
+      - Swords Dance x2
+      - Karate Chop
+      ::damage[Karate Chop +4 Range]{source="Hawlucha" special=false offensive=true healthThreshold=75 combatStages=4 theme=error effectiveness=2 movePower=50 level=21 effectiveness=2 opponentLevel=25 stab=true opponentStat=45 theme=error}
     :::
-   :::if{source="Hawlucha" condition="startingLevel=20"}
-     ::damage[Rock Smash +4 Range]{source="Hawlucha" special=false offensive=true healthThreshold=75 combatStages=4 theme=error effectiveness=2 movePower=40 level=22 effectiveness=2 opponentLevel=22 stab=true  opponentStat=45 theme=error}
+    :::if{source="Hawlucha" condition="startingLevel=19 && atk=(15-/x/x)"}
+      - Swords Dance x3 (x2 if want to go for ranges)
+      - Karate Chop
+      ::damage[Karate Chop +4 Range]{source="Hawlucha" special=false offensive=true healthThreshold=75 combatStages=4 theme=error effectiveness=2 movePower=50 level=21 effectiveness=2 opponentLevel=25 stab=true opponentStat=45 theme=error}
+    :::
+    :::if{source="Hawlucha" condition="startingLevel=20 && atk=(x/12+/#)"}
+      - Swords Dance x2
+      - Rock Smash (x2)
+      ::damage[Rock Smash +4 Range]{source="Hawlucha" special=false offensive=true healthThreshold=75 combatStages=4 theme=error effectiveness=2 movePower=40 level=22 effectiveness=2 opponentLevel=25 stab=true opponentStat=45 theme=error}
+    :::
+    :::if{source="Hawlucha" condition="startingLevel=20 && atk=(#/11-/x)"}
+      - Swords Dance x3 (x2 if want to go for ranges)
+      - Rock Smash
+      ::damage[Rock Smash +4 Range]{source="Hawlucha" special=false offensive=true healthThreshold=75 combatStages=4 theme=error effectiveness=2 movePower=40 level=22 effectiveness=2 opponentLevel=25 stab=true opponentStat=45 theme=error}
     :::
   :::::
+
   :::::pokemon[Lucario]
-     - Karate Chop / Rock Smash (x2)
     :::if{source="Hawlucha" condition="startingLevel=19"}
-     ::damage[Karate Chop +4 Range]{source="Hawlucha" special=false offensive=true healthThreshold=75 combatStages=4 theme=error effectiveness=2 movePower=50 level=22 effectiveness=2 opponentLevel=22 stab=true  opponentStat=45 theme=error}
+      - Karate Chop
+      ::damage[Karate Chop +4 Range]{source="Hawlucha" special=false offensive=true healthThreshold=75 combatStages=4 theme=error effectiveness=2 movePower=50 level=22 effectiveness=2 opponentLevel=25 stab=true opponentStat=45 theme=error}
     :::
-   :::if{source="Hawlucha" condition="startingLevel=20"}
-     ::damage[Karate Chop +4 Range]{source="Hawlucha" special=false offensive=true healthThreshold=75 combatStages=4 theme=error effectiveness=2 movePower=50 level=23 effectiveness=2 opponentLevel=22 stab=true  opponentStat=45 theme=error}
+    :::if{source="Hawlucha" condition="startingLevel=20"}
+      - Rock Smash
+      ::damage[Rock Smash +4 Range]{source="Hawlucha" special=false offensive=true healthThreshold=75 combatStages=4 theme=error effectiveness=2 movePower=40 level=23 effectiveness=2 opponentLevel=25 stab=true opponentStat=45 theme=error}
     :::
   :::::
 :::::::
+
 Equip Jaw Fossil
 
 Use a Repel
