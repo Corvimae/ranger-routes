@@ -871,28 +871,29 @@ Go right after the first climbing rope
 ::damage[Take down does]{source="Hawlucha" special=false offensive=false movePower=90 level=33 opponentLevel=34 evs=10 stab=false opponentStat=88}
 
 ::::::::::if{source="Hawlucha" condition="speed=~(10-/x/x) && startingLevel=20 || speed=~(18-/x/x) && startingLevel=19"}
-:::::::trainer[Leader Ramos (without Lucario)]
-  :::::pokemon[Jumpluff]
-     - Swords Dance
-     - Wing Attack
-     - If Hawlucha dies 
-       - Switch to Lucario
-       - Rock Tomb
-  :::::     
-  :::::pokemon[Gogoat]
-    :::if{source="Hawlucha" condition="atk=(x/x/15+)"}
+  :::::::trainer[Leader Ramos (without Lucario)]
+    :::::pokemon[Jumpluff]
+      - Swords Dance
+      - Wing Attack
+      - If Hawlucha dies 
+        - Switch to Lucario
+        - Rock Tomb
+    :::::     
+    :::::pokemon[Gogoat]
+      :::if{source="Hawlucha" condition="atk=(x/x/15+)"}
+        - Wing Attack (Low Sweep if Lucario)
+      :::
+      :::if{source="Hawlucha" condition="atk=~(x/x/15+)"}
+        - Flying Press (Low Sweep if Lucario)
+      :::
+    :::::
+    :::::pokemon[Weepinbell]
       - Wing Attack (Low Sweep if Lucario)
-    :::
-    :::if{source="Hawlucha" condition="atk=~(x/x/15+)"}
-      - Flying Press (Low Sweep if Lucario)
-    :::
-  :::::
-  :::::pokemon[Weepinbell]
-    - Wing Attack (Low Sweep if Lucario)
 
-  :::::
-:::::::
+    :::::
+  :::::::
 ::::::::::
+
 ::::::::::if{source="Hawlucha" condition="speed=(10-/x/x) && startingLevel=20 || speed=(18-/x/x) && startingLevel=19"}
 :::::::trainer[Leader Ramos (with Lucario)]
   :::::pokemon[Jumpluff]
@@ -976,18 +977,20 @@ Pickup hidden **Power Plant Pass**
     - Low Sweep (x2)
  ::::
 :::::
+
 :::::trainer[Team Flare Grunt]
- ::::pokemon[Scraggy]
+  ::::pokemon[Scraggy]
     - Low Sweep
- ::::
- ::::pokemon[Golbat]
+  ::::
+  ::::pokemon[Golbat]
     - Swords Dance
     - Rock Tomb
- ::::
-
-Give up on Me First, heal if necessary
-
+    - _Give up on Me First_
+  ::::
 :::::
+
+:info[Heal if Necessary]{color="yellow"}
+
 :::::trainer[Team Flare Grunt]
  ::::pokemon[Golbat]{info="Wing Attack does 27(29)" infoColor=blue}
     - Swords Dance
@@ -1055,9 +1058,8 @@ Give up on Me First, heal if necessary
 :::::
 :::::trainer[Poké Fan Lydie (Elevator 2)]
  ::::pokemon[Plusle]
-    - Low Sweep
-      - Teach Aura Sphere over Low Sweep (Slot 1)
-    - If already taught Aura Sphere, use Bone Rush.
+    - Low Sweep (Bone Rush if already taught Aura Sphere)
+    - _Teach Aura Sphere over Low Sweep (Slot 1)_
  ::::
 :::::
 :info[Heal if less than 40 HP]{color=yellow}
@@ -1081,39 +1083,41 @@ Teach Shadow Claw over Bone Rush (Slot 4)
 
 Max Repel (drop it in the gym, unless feeling very confident about movement)
 :::::trainer[Pokémon Trainer Calem]
- ::::pokemon[Meowstic]
+  ::::pokemon[Meowstic]
     - X-Attack
     - Shadow Claw
- ::::
- ::::pokemon[Delphox]
+  ::::
+  ::::pokemon[Delphox]
     - Shadow Claw
- ::::
- ::::pokemon[Absol]{info="2/16 range with Light Screen" infoColor=red}
+  ::::
+  ::::pokemon[Absol]{info="2/16 range with Light Screen" infoColor=red}
     - Aura Sphere (x2 if Light Screen)
- ::::
+  ::::
 :::::
 Pickup **Rare Candy**
 :::::trainer[Leader Valerie]
- ::::pokemon[Mawile]
+  ::::pokemon[Mawile]
     - Swords Dance x3
     - If Iron Defense on Turn 1 or 2
-       - Shadow Claw, then finish using Swords Dance
+      - Shadow Claw, then finish setting up Swords Dance
     - Aura Sphere (Shadow Claw if no Iron Defenses)
- ::::
- ::::pokemon[Mr. Mime]
+  ::::
+  ::::pokemon[Mr. Mime]
     - Shadow Claw
- ::::
- ::::pokemon[Sylveon]{info="15/16 Range" infoColor=red}
+  ::::
+  ::::pokemon[Sylveon]{info="15/16 Range" infoColor=red}
     - Shadow Claw
     - If you miss the range and die
-       - Send out Lapras
-       - Perish Song
-       - Revive Lucario
-       - Heal Lucario
-       - Perish Song
- ::::
+      - Send out Lapras
+      - Perish Song
+      - Revive Lucario
+      - Heal Lucario
+      - Perish Song
+  ::::
 :::::
+
 :info[Heal if 34 (36)]{color=yellow}
+
 :::::trainer[Team Flare Admin]
  ::::pokemon[Scraggy]
     - Aura Sphere
@@ -1230,10 +1234,11 @@ GYM Puzzle
 :::::
 
 :info[Heal if 28 (29) or lower]{color=yellow}
-_If already level 51_ 
-   - From the Restore menu
-   - Use 2 Rare Candies 
-   - 6 Proteins
+
+_If already level 51_
+  - Pokemon Menu -> Lucario Restore
+    - Use 2 Rare Candies 
+    - 6 Proteins
 
 Fly to the center of Lumiose City
 
@@ -1249,7 +1254,7 @@ Fight Liepard first if it will give you lvl 51, then use the Rare Candies and Pr
 :::::trainer[Team Flare Grunt]
  ::::pokemon[Liepard]
     - Aura Sphere
-      - Give up on Heal Pulse
+    - _Give up on Heal Pulse_
  ::::
 :::::
 - Before entering the bookcase
@@ -1257,7 +1262,7 @@ Fight Liepard first if it will give you lvl 51, then use the Rare Candies and Pr
   - Use all 6 Protein
   - Heal if 90 or less HP
  
- :::::trainer[Team Flare Lysandre]
+:::::trainer[Team Flare Lysandre]
  ::::pokemon[Mienfoo]
     - Aura Sphere
  ::::
@@ -1307,7 +1312,7 @@ Fight Liepard first if it will give you lvl 51, then use the Rare Candies and Pr
  ::::
  ::::pokemon[Mightyena]
     - Aura Sphere
-    - Teach Close Combat over Shadow Claw (Slot 4)
+    - _Teach Close Combat over Shadow Claw (Slot 4)_
  ::::
 :::::
 
@@ -1326,6 +1331,8 @@ Fight Liepard first if it will give you lvl 51, then use the Rare Candies and Pr
     - Close Combat 
  ::::
 :::::
+
+:info[Heal to full if 64 (66) HP or less]{color=yellow}
 
 - Go Right, Right, (Dodge Spinner) Down, Right-Down
 
@@ -1373,13 +1380,15 @@ Fight Liepard first if it will give you lvl 51, then use the Rare Candies and Pr
     - Close Combat
  ::::
 :::::
-- Fly to Geosenge Town
-- PC Heal Lucario and Lapras
-   - Swap Lucario and Chespin
-   - Swap Lucario and Chespin
-   - Swap Lapras and Chespin
-   - Withdraw everything
-   - Withdraw everything (remember Lapras’ spot)
+
+Fly to Geosenge Town
+
+PC Heal Lucario and Lapras:
+  - Swap Lucario and Chespin
+  - Swap Lucario and Chespin
+  - Swap Lapras and Chespin
+  - Withdraw everything (remember Lapras’ spot)
+
 :::::trainer[Team Flare Grunt]
  ::::pokemon[Manectric]
     - Aura Sphere
@@ -1426,11 +1435,14 @@ Fight Liepard first if it will give you lvl 51, then use the Rare Candies and Pr
  ::::
  ::::pokemon[Manectric]{info="Discharge does 49 (51)" infoColor=blue}
     - Aura Sphere
-    - Give up on Dragon Pulse
+    - _Give up on Dragon Pulse_
  ::::
 :::::
-- Heal to full
-- Use PP Up(s) on Close Combat if haven't yet
+
+:info[Heal to full]{color="yellow"}
+
+Use PP Up(s) on Close Combat if haven't yet
+
 :::::trainer[Team Flare Double 3]
  ::::pokemon[Scrafty]
     - Aura Sphere
@@ -1485,7 +1497,7 @@ Catch Xerneas with Master Ball
 :::::
 Fly to Anistar
 
-Heal to full
+:info[Heal to full]{color="yellow"}
 
 Max Repel
 :::::trainer[Pokémon Professor Sycamore]{info="Remember HP after" infoColor=pink}
@@ -1543,7 +1555,7 @@ Free Heal
     - **If Static** Swords Dance + Full Restore + Close Combat (probably die if get fully paralyzed)
  ::::
  ::::pokemon[Aerodactyl]
-    - Rock Tomb :info[Close Combat if did safe Trevor]{color=green}
+    - Rock Tomb
  ::::
 :::::
 :::::trainer[Pokémon Trainer Trevor (safe)]
@@ -1555,8 +1567,7 @@ Free Heal
     - Close Combat
  ::::
  ::::pokemon[Aerodactyl]
-    - Rock Tomb if you have an X-Atk left
-    - Otherwise Close Combat
+    - Close Combat
  ::::
 :::::
 
@@ -1594,7 +1605,7 @@ Fly out of the forest
     - Aura Sphere
  ::::
  ::::pokemon[Jynx]
-    - Rock Tomb 
+    - Rock Tomb  :info[Close Combat]{color=green}
  ::::
 :::::
 :::::trainer[Ace Trainer Theo]
@@ -1609,18 +1620,19 @@ Fly out of the forest
 :info[**Green x3**]{color=green}
 :::::trainer[Leader Wulfric]
 
-  For Cryogonal, need 3 Close Combats after this fight, 4 if going for X Attack Calem fight
+  If going for X Attack Calem fight, need 4 Close Combats after this fight.
 
- ::::pokemon[Abomasnow]
+  ::::pokemon[Abomasnow]
     - Aura Sphere
- ::::
- ::::pokemon[Cryogonal]
+  ::::
+  ::::pokemon[Cryogonal]
     - Close Combat
- ::::
- ::::pokemon[Avalugg]
+  ::::
+  ::::pokemon[Avalugg]
     - Aura Sphere
- ::::
+  ::::
 :::::
+
 :::::trainer[Ace Trainer Robbie]
  ::::pokemon[Carbink]{info="Moonblast does 40 (42)" infoColor=blue}
     - Swords Dance 
