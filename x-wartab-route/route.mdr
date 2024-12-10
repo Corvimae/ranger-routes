@@ -1258,10 +1258,9 @@ GYM Puzzle
 
 :info[Heal if 28 (29) or lower]{color=yellow}
 
-_If already level 51_
-  - Pokemon Menu -> Lucario Restore
-    - Use 2 Rare Candies 
-    - 6 Proteins
+_If already level 51: Pokemon Menu -> Lucario Restore_
+  - _Use 2 Rare Candies_
+  - _6 Proteins_
 
 Fly to the center of Lumiose City
 
@@ -1575,7 +1574,7 @@ Free Heal
  ::::
  ::::pokemon[Florges]
     - **If no Static**: Swords Dance + Close Combat
-    - **If Static** Swords Dance + Full Restore + Close Combat (probably die if get fully paralyzed)
+    - **If Static**: Swords Dance + Full Restore + Close Combat (probably die if get fully paralyzed)
  ::::
  ::::pokemon[Aerodactyl]
     - Rock Tomb
@@ -1643,7 +1642,7 @@ Fly out of the forest
 :info[**Green x3**]{color=green}
 :::::trainer[Leader Wulfric]
 
-  If going for X Attack Calem fight, need 4 Close Combats after this fight.
+  _If going for X Attack Calem fight, need 4 Close Combats after this fight_
 
   ::::pokemon[Abomasnow]
     - Aura Sphere
