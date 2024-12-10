@@ -324,10 +324,12 @@ Register Bike
 
 Buy a dozen Soda Pops from the Waitress
 
-Pickup Hidden X Speed
+Pickup hidden X Speed
 
 Go to Geosenge center and catch Hawlucha with Luxury Balls.
   - If Hawlucha and Farfetch’d are full HP, weaken with Aerial Ace.
+  - _Full HP: 21.7% catch_
+  - _Half HP: 36.5% catch_
 
 :::::card{theme=warning}
   :::if{source="Hawlucha" condition="startingLevel=19"}
@@ -387,11 +389,19 @@ Swap Farfetch’d back to front
     :::
   :::::
   :::::pokemon[Tyrunt]{info="if Unburden, you will outspeed after 2 Rock Tombs with Oran Berry" infoColor=blue}
+    :::if{source="Hawlucha" condition="startingLevel=19"}
+      ::damage[Tyrunt Rock Tomb at L21 does]{source="Hawlucha" special=false offensive=false movePower=60 level=21 opponentLevel=25 stab=true opponentStat=55}
+    :::
+    :::if{source="Hawlucha" condition="startingLevel=20"}
+      ::damage[Tyrunt Rock Tomb at L22 does]{source="Hawlucha" special=false offensive=false movePower=60 level=22 opponentLevel=25 stab=true opponentStat=55}
+    :::
+
+    - _Heal with Soda Pop if you are dead to Rock Tomb unless faster from Unburden_
     :::if{source="Hawlucha" condition="atk=(x/26+/7-30) && startingLevel=19"}
       - Karate Chop
-      - If Karate Chop crit
+      - If Karate Chop crits
          - Karate Chop
-      - Else
+      - Otherwise
          - Swords Dance
          - Karate Chop
     :::
@@ -641,7 +651,13 @@ Head to the gym
     - Wing Attack
  ::::
 :::::
-:info[Teach Flying Press over Fling  at Lv28]{color=yellow}
+
+:::if{source="Hawlucha" condition="startingLevel=20 && atk=(x/x/15+)"}
+   :info[Don't teach Flying Press]{color="yellow"}
+:::
+:::if{source="Hawlucha" condition="startingLevel=20 && atk=(#/#/14-) || startingLevel=19"}
+   :info[Teach Flying Press over Fling  at Lv28]{color=yellow}
+:::
 
 Fight Dash first if you already meet the requirements to OHKO Heracross or will not meet them at a higher level
 
@@ -824,9 +840,15 @@ Pickup **TM47 Low Sweep**
 :::::::
 Go right after the first climbing rope
 :::::trainer[Pokémon Ranger Chaise]
- ::::pokemon[Simisage]{info="100% at 73+ attack" infoColor=red}
-    -  Flying Press
- ::::
+  ::::pokemon[Simisage]
+    :::if{source="Hawlucha" condition="startingLevel=20 && atk=(x/x/15+)"}
+      - Wing Attack x2
+    :::
+    :::if{source="Hawlucha" condition="startingLevel=20 && atk=(#/#/14-) || startingLevel=19"}
+      - Flying Press :info[100% at 73+ attack]{color="red"}
+    :::
+
+  ::::
 :::::
 :::::trainer[Pokémon Ranger Brooke]
  ::::pokemon[Roselia]
@@ -1100,13 +1122,14 @@ Pickup **Rare Candy**
     - Swords Dance x3
     - If Iron Defense on Turn 1 or 2
       - Shadow Claw, then finish setting up Swords Dance
+      - _If Shadow Claw crit kills Mawile, stop setting up Swords Dance and 2HKO Sylveon (Dazzling Gleam does ~50%)_
     - Aura Sphere (Shadow Claw if no Iron Defenses)
   ::::
   ::::pokemon[Mr. Mime]
     - Shadow Claw
   ::::
   ::::pokemon[Sylveon]{info="15/16 Range" infoColor=red}
-    - Shadow Claw
+    - Shadow Claw (x2)
     - If you miss the range and die
       - Send out Lapras
       - Perish Song
