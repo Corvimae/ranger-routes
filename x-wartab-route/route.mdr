@@ -421,7 +421,6 @@ Swap Farfetch’d back to front
     :::if{source="Hawlucha" condition="atk=(x/x/26+) && startingLevel=20"}
       - Swords Dance x2
       - Rock Smash
-     ::damage[Rock Smash Range]{source="Hawlucha" special=false offensive=true healthThreshold=69 combatStages=4 theme=error movePower=40 level=22 effectiveness=2 opponentLevel=25 stab=true  opponentStat=49 theme=error}
     :::
     :::if{source="Hawlucha" condition="atk=(x/16+/25-) && startingLevel=20"}
           
