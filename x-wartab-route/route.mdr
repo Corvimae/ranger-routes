@@ -1124,7 +1124,7 @@ Pickup **Rare Candy**
       - Shadow Claw
       - Finish setting up Swords Dance
       - Aura Sphere
-      - _If Shadow Claw crit kills Mawile, stop setting up Swords Dance and 2HKO Sylveon (Dazzling Gleam does ~50%)_
+      - _If Shadow Claw crit kills Mawile, stop setting up Swords Dance and 2HKO Sylveon (Dazzling Gleam does 54-63 (64))_
     - If Iron Defense Turn 3
       - Rock Tomb (crit is 9/16 range)
       - Aura Sphere (6/16 range from full)
@@ -1439,7 +1439,7 @@ PC Heal Lucario and Lapras:
  ::::pokemon[Gyarados]
     - Switch to Lapras
     - Rock Smash
-    - If not full HP and no Outrage
+    - If Lucario not full HP and no Outrage
       - Swap in Squirtle
       - Heal Lucario to full (Squirtle dies)
       - Switch in Lucario
