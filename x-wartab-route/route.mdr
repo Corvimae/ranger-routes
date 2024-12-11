@@ -1121,9 +1121,15 @@ Pickup **Rare Candy**
   ::::pokemon[Mawile]
     - Swords Dance x3
     - If Iron Defense on Turn 1 or 2
-      - Shadow Claw, then finish setting up Swords Dance
+      - Shadow Claw
+      - Finish setting up Swords Dance
+      - Aura Sphere
       - _If Shadow Claw crit kills Mawile, stop setting up Swords Dance and 2HKO Sylveon (Dazzling Gleam does ~50%)_
-    - Aura Sphere (Shadow Claw if no Iron Defenses)
+    - If Iron Defense Turn 3
+      - Rock Tomb (crit is 9/16 range)
+      - Aura Sphere (6/16 range from full)
+    - If no Iron Defense
+      - Shadow Claw
   ::::
   ::::pokemon[Mr. Mime]
     - Shadow Claw
@@ -1433,9 +1439,12 @@ PC Heal Lucario and Lapras:
  ::::pokemon[Gyarados]
     - Switch to Lapras
     - Rock Smash
-      - If not full HP and no Outrage switch to Squirtle 
-      - Revive Lapras 
-    - Switch to Lucario
+    - If not full HP and no Outrage
+      - Swap in Squirtle
+      - Heal Lucario to full (Squirtle dies)
+      - Switch in Lucario
+    - Otherwise
+      - Switch in Lucario
     - Swords Dance
     - Rock Tomb
  ::::
