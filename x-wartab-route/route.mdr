@@ -853,9 +853,16 @@ Go right after the first climbing rope
 :::::trainer[Pokémon Ranger Brooke]
  ::::pokemon[Roselia]
     - Wing Attack
+    :::if{source="Hawlucha" condition="startingLevel=20"}
+      - _Give up on Bounce_
+    :::
  ::::
  ::::pokemon[Wormadam]
     - Wing Attack
+    :::if{source="Hawlucha" condition="startingLevel=19"}
+      - _Give up on Bounce_
+    :::
+    - _Give up on Quick Guard_
  ::::
 :::::
 :::::trainer[Pokémon Ranger Twiggy]
@@ -1572,7 +1579,7 @@ Max Repel
     - If didn’t Swords Dance yet
       - Swords Dance
     - Close Combat
-    - Give up on Extreme Speed
+    - _Give up on Extreme Speed_
  ::::
 :::::
 
