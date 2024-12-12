@@ -43,9 +43,13 @@
 :::tracker{species="Lucario" nature="hasty" generation=6 hpIV=6 attackIV=25 defenseIV=16 spAttackIV=25 spDefenseIV=19 speedIV=31 baseStats="[[70, 110, 70, 115, 70, 90]]"}
 :::
 _ported by Fortunate_
+
 _Updated by WaveWarrior_
 
 _notes by wartab_ [base doc](https://docs.google.com/document/d/1eI4u7X_p3weBLY8hAMuaF-LwcAtmqeT3YdLiwZPC0r4/edit)
+
+_8 Protein and 1 Protein Strat_ [base doc](https://pastebin.com/rahQFiqH)
+
 :::card
 Set console date to 14th February and time to 23:03 (adapt for skill level)
 :::
@@ -565,13 +569,11 @@ Get Soothe Bell
 
 Equip **Soothe Bell**
 
-Use Protein
-
 Use Iron
 
 Use HP Up
 
-Use PP Up if both massages were bad
+Use PP Up
 
 :info[Heal to full with Soda Pop]{color=yellow}
 :::::::trainer[Pokémon Trainer Calem]
@@ -620,16 +622,16 @@ Head to the gym
 :::::trainer[Roller Skater Kate]
  ::::pokemon[Meditite]
     - Wing Attack
-    ::damage[Wing Attack Range]{source="Hawlucha" special=false offensive=true healthThreshold=57 theme=error effectiveness=2 evs=16 movePower=60 level=26 opponentLevel=28 stab=true opponentStat=38}
+    ::damage[Wing Attack Range]{source="Hawlucha" special=false offensive=true healthThreshold=57 theme=error effectiveness=2 movePower=60 level=26 opponentLevel=28 stab=true opponentStat=38}
   
  ::::
  ::::pokemon[Mienfoo]
     - Wing Attack 
     :::if{source="Hawlucha" condition="startingLevel=19"}
-      ::damage[Wing Attack Range]{source="Hawlucha" special=false offensive=true theme=error effectiveness=2 stab=true evs=16 movePower=60 level=26 opponentLevel=28 healthThreshold=66 opponentStat=31}
+      ::damage[Wing Attack Range]{source="Hawlucha" special=false offensive=true theme=error effectiveness=2 stab=true movePower=60 level=26 opponentLevel=28 healthThreshold=66 opponentStat=31}
     :::
     :::if{source="Hawlucha" condition="startingLevel=20"}
-      ::damage[Wing Attack Range]{source="Hawlucha" special=false offensive=true theme=error effectiveness=2 stab=true evs=16 movePower=60 level=27 opponentLevel=28 healthThreshold=66 opponentStat=31}
+      ::damage[Wing Attack Range]{source="Hawlucha" special=false offensive=true theme=error effectiveness=2 stab=true movePower=60 level=27 opponentLevel=28 healthThreshold=66 opponentStat=31}
     :::
  ::::
 :::::
@@ -641,10 +643,10 @@ Head to the gym
  ::::pokemon[Throh]
     - Wing Attack
     :::if{source="Hawlucha" condition="startingLevel=19"}
-      ::damage[+2 Wing Attack Range]{source="Hawlucha" special=false offensive=true theme=error combatStages=2 effectiveness=2 stab=true evs=20 movePower=60 level=26 opponentLevel=28 healthThreshold=104 opponentStat=53}
+      ::damage[+2 Wing Attack Range]{source="Hawlucha" special=false offensive=true theme=error combatStages=2 effectiveness=2 stab=true movePower=60 level=26 opponentLevel=28 healthThreshold=104 opponentStat=53}
     :::
     :::if{source="Hawlucha" condition="startingLevel=20"}
-      ::damage[+2 Wing Attack Range]{source="Hawlucha" special=false offensive=true theme=error combatStages=2 effectiveness=2 stab=true evs=20 movePower=60 level=27 opponentLevel=28 healthThreshold=104 opponentStat=53}
+      ::damage[+2 Wing Attack Range]{source="Hawlucha" special=false offensive=true theme=error combatStages=2 effectiveness=2 stab=true movePower=60 level=27 opponentLevel=28 healthThreshold=104 opponentStat=53}
     :::
  ::::
  ::::pokemon[Machoke]
@@ -662,9 +664,9 @@ Head to the gym
 Fight Dash first if you already meet the requirements to OHKO Heracross or will not meet them at a higher level
 
 :info[One less IV if fighting Rolanda first at L28]{color=yellow}
-::damage[L27 +0 Wing Attack ranges]{source="Hawlucha" special=false offensive=true evs=20 healthThreshold=91 effectiveness=4 theme=error movePower=60 level=27 opponentLevel=30 stab=true  opponentStat=52 theme=error}
-::damage[L28 +0 Wing Attack ranges]{source="Hawlucha" special=false offensive=true evs=20 healthThreshold=91 effectiveness=4 theme=error movePower=60 level=28 opponentLevel=30 stab=true  opponentStat=52 theme=error}
-::damage[L29 +0 Wing Attack ranges]{source="Hawlucha" special=false offensive=true evs=20 healthThreshold=91 effectiveness=4 theme=error movePower=60 level=29 opponentLevel=30 stab=true  opponentStat=52 theme=error}
+::damage[L27 +0 Wing Attack ranges]{source="Hawlucha" special=false offensive=true healthThreshold=91 effectiveness=4 theme=error movePower=60 level=27 opponentLevel=30 stab=true  opponentStat=52 theme=error}
+::damage[L28 +0 Wing Attack ranges]{source="Hawlucha" special=false offensive=true healthThreshold=91 effectiveness=4 theme=error movePower=60 level=28 opponentLevel=30 stab=true  opponentStat=52 theme=error}
+::damage[L29 +0 Wing Attack ranges]{source="Hawlucha" special=false offensive=true healthThreshold=91 effectiveness=4 theme=error movePower=60 level=29 opponentLevel=30 stab=true  opponentStat=52 theme=error}
 :::::::trainer[Roller Skater Dash]
   :::::pokemon[Heracross]
     :::if{source="Hawlucha" condition="startingLevel=19"}
@@ -952,9 +954,9 @@ If Hawlucha fainted, PC heal Hawlucha
 > #### Buy
 > - 11 Max Repels (^^) (12 if unconfident in movement)
 > - 1 Escape Rope (^^^)
-> - 11 Full Heals (^)
-> - 3 Revives (v<)
-> - MAX Hyper Potions (^^)
+> - 5 Full Heals (^)
+> - 2 Revive (v<)
+> - 16 Hyper Potions (^^)
 :::
 
 Get **Lucky Egg**
@@ -1108,6 +1110,8 @@ Pickup hidden **Power Plant Pass**
 :::::
 :info[Heal to full]{color=yellow}
 
+Use Protein on Lucario
+
 Teach Shadow Claw over Bone Rush (Slot 4)
 
 Max Repel (drop it in the gym, unless feeling very confident about movement)
@@ -1141,7 +1145,7 @@ Pickup **Rare Candy**
   ::::pokemon[Mr. Mime]
     - Shadow Claw
   ::::
-  ::::pokemon[Sylveon]{info="15/16 Range" infoColor=red}
+  ::::pokemon[Sylveon]
     - Shadow Claw (x2)
     - If you miss the range and die
       - Send out Lapras
@@ -1172,7 +1176,7 @@ Pickup **Rare Candy**
 :::::
 ### Shopping (right):
 > #### Buy
-> - 6 Proteins **do not use them yet**
+> - 7 Proteins **do not use them yet**
 
 :info[Heal if 106 (109) HP or below]{color=yellow}
 
@@ -1197,9 +1201,7 @@ Max Repel → Keep applied until off of Mamoswine
     - Aura Sphere
  ::::
 :::::
-Pickup **PP Up** if had to use the other one
-  - You can pick it up anyway for safety 
-:info[Safety usages are marked in Green]{color=green}
+Pickup **PP Up**
 
 Heal to full
 
@@ -1232,7 +1234,8 @@ Pickup **Rare Candy**
 
 :::::trainer[Psychic Paschal]{info="Remember HP after" infoColor=pink}
  ::::pokemon[Exeggutor]
-    - Shadow Claw x2 (Swords Dance + Shadow Claw 94.5% OHKO, slightly faster)
+    - Swords Dance
+    - Shadow Claw
  ::::
 :::::
 
@@ -1273,7 +1276,7 @@ GYM Puzzle
 
 _If already level 51: Pokemon Menu -> Lucario Restore_
   - _Use 2 Rare Candies_
-  - _6 Proteins_
+  - _7 Proteins_
 
 Fly to the center of Lumiose City
 
@@ -1294,7 +1297,7 @@ Fight Liepard first if it will give you lvl 51, then use the Rare Candies and Pr
 :::::
 - Before entering the bookcase
   - Use 2 Rare Candies
-  - Use all 6 Protein
+  - Use all 7 Protein
   - Heal if 90 or less HP
  
 :::::trainer[Team Flare Lysandre]
@@ -1351,7 +1354,7 @@ Fight Liepard first if it will give you lvl 51, then use the Rare Candies and Pr
  ::::
 :::::
 
-:info[Use PP Up(s) on Close Combat whenever you heal next]{color=red}
+:info[Use PP Up on Close Combat whenever you heal next]{color=red}
 
 :info[Heal to full if 66 (68) HP or less]{color=yellow}
 
@@ -1431,7 +1434,7 @@ PC Heal Lucario and Lapras:
  ::::pokemon[Scrafty]
     - Aura Sphere
  ::::
- ::::pokemon[Golbat]{info="4/16 range at L57, 9/16 at L58" infoColor=red}
+ ::::pokemon[Golbat]{info="5/16 range at L57, 10/16 at L58" infoColor=red}
     - Rock Tomb (+ Aura Sphere) 
  ::::
 :::::
@@ -1479,7 +1482,7 @@ PC Heal Lucario and Lapras:
 
 :info[Heal to full]{color="yellow"}
 
-Use PP Up(s) on Close Combat if haven't yet
+Use PP Up on Close Combat if haven't yet
 
 :::::trainer[Team Flare Double 3]
  ::::pokemon[Scrafty]
@@ -1528,7 +1531,7 @@ Catch Xerneas with Master Ball
  ::::
  ::::pokemon[Honchkrow]
     - Swords Dance 
-    - Rock Tomb :info[Close Combat]{color=green}
+    - Rock Tomb
  ::::
  ::::pokemon[Gyarados]
     - Close Combat
@@ -1545,7 +1548,7 @@ Max Repel
       - Swords Dance
       - Close Combat
     - Otherwise
-      - Close Combat (+ Aura Sphere):info[9/16 Range]{color=red}
+      - Close Combat (+ Aura Sphere):info[11/16 Range]{color=red}
  ::::
  ::::pokemon[Charizard]
     - Rock Tomb
@@ -1584,6 +1587,7 @@ Max Repel
 :::::
 
 Free Heal
+
 :::::trainer[Pokémon Trainer Trevor (slower if Static, faster if no Static)]
  ::::pokemon[Raichu]
     - Close Combat
@@ -1643,7 +1647,7 @@ Fly out of the forest
     - Aura Sphere
  ::::
  ::::pokemon[Jynx]
-    - Rock Tomb  :info[Close Combat]{color=green}
+    - Rock Tomb
  ::::
 :::::
 :::::trainer[Ace Trainer Theo]
@@ -1664,7 +1668,7 @@ Fly out of the forest
     - Aura Sphere
   ::::
   ::::pokemon[Cryogonal]
-    - Close Combat
+    - Close Combat (Rock Tomb if need to save one for Calem)
   ::::
   ::::pokemon[Avalugg]
     - Aura Sphere
@@ -1840,11 +1844,11 @@ Buy Full Restores (>) if none left
  ::::pokemon[Noivern]
     - Close Combat 
  ::::
- ::::pokemon[Druddigon]
+ ::::pokemon[Druddigon] :info[Shadow Claw 15/16]{color="red"}
     - Close Combat
  ::::
  ::::pokemon[Altaria]
-    - Rock Tomb :info[Close Combat]{color=green}
+    - Shadow Claw
  ::::
 :::::
 
@@ -1876,7 +1880,7 @@ Ether Close Combat
  ::::pokemon[Clawitzer]
     - **[Mega Evolve]** Close Combat
  ::::
- ::::pokemon[Gyarados]{info="15/16 range" infoColor=red}
+ ::::pokemon[Gyarados]
     - Swords Dance
     - Close Combat   
  ::::
@@ -1901,7 +1905,7 @@ Ether Close Combat
     - Close Combat
  ::::
  ::::pokemon[Aurorus]
-    - Rock Tomb :info[Close Combat if you took no damage]{color=green}
+    - Rock Tomb
     - If miss, you are at full HP and Aurorus used Reflect
       - Swords Dance
       - If you got hit by Thunder
