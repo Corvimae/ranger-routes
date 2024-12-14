@@ -940,7 +940,20 @@ Go right after the first climbing rope
 :::::::
 ::::::::::
 
-If Hawlucha fainted, PC heal Hawlucha
+:::card{theme="error"}
+***If Hawlucha fainted on Ramos OR you used Protein on Hawlucha:***
+- PC heal Hawlucha
+- Use Protein on Hawlucha if you haven't yet
+- Shopping (left)
+> #### Buy
+> - 11 Max Repels (^^)
+> - 1 Escape Ropte (^^^)
+> - 11 Full Heals (^)
+> - 3 Revives (v<)
+> - MAX Hyper Potions (^^) (Should be 19 with standard shopping)
+:::
+
+Use any remaining Sweet Hearts on Hawlucha
 
 Get **Lucky Egg**
 
@@ -956,7 +969,8 @@ Swap Hawlucha with Lucario
 
 Fly to Coumarine
 
-:::card
+If you haven't shopped yet, enter the center and shop
+
 ### Shopping (left):
 > #### Buy
 > - 11 Max Repels (^^)
@@ -964,7 +978,6 @@ Fly to Coumarine
 > - 5 Full Heals (^)
 > - 2 Revive (v<)
 > - 16 Hyper Potions (^^)
-:::
 
 No Wind: xx:10, xx:30, xx:50 for 10 minutes
 
@@ -1169,7 +1182,7 @@ Pickup **Rare Candy**
 :::::
 ### Shopping (right):
 > #### Buy
-> - 7 Proteins **do not use them yet**
+> - 7 (MAX) Proteins **do not use them yet** (only 6 Proteins if used Protein on Hawlucha and did the corresponding Courmarine shop)
 
 :info[Heal if 106 (109) HP or below]{color=yellow}
 
@@ -1269,11 +1282,11 @@ GYM Puzzle
 
 _If already level 51: Pokemon Menu -> Lucario Restore_
   - _Use 2 Rare Candies_
-  - _7 Proteins_
+  - _Use all Proteins_
 
 Fly to the center of Lumiose City
 
-Fight Liepard first if it will give you lvl 51, then use the Rare Candies and Proteins
+_If Liepard gives you level 51, fight it first, then use all Rare Candies and Proteins, then fight Scrafty. This should only happen with a good bit of exp from optionals._
 
 :::::trainer[Team Flare Grunt]
  ::::pokemon[Scrafty]{info="5/16 range at L50, 14/16 at L53" infoColor=red}
@@ -1290,7 +1303,7 @@ Fight Liepard first if it will give you lvl 51, then use the Rare Candies and Pr
 :::::
 - Before entering the bookcase
   - Use 2 Rare Candies
-  - Use all 7 Protein
+  - Use all Protein
   - Heal if 90 or less HP
  
 :::::trainer[Team Flare Lysandre]
