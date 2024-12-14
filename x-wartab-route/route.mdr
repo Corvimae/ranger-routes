@@ -44,7 +44,7 @@
 :::
 _ported by Fortunate_
 
-_Updated by WaveWarrior_
+_Updated and maintained by WaveWarrior_
 
 _notes by wartab_ [base doc](https://docs.google.com/document/d/1eI4u7X_p3weBLY8hAMuaF-LwcAtmqeT3YdLiwZPC0r4/edit)
 
@@ -654,12 +654,8 @@ Head to the gym
  ::::
 :::::
 
-:::if{source="Hawlucha" condition="startingLevel=20 && atk=(x/x/15+)"}
-   :info[Don't teach Flying Press]{color="yellow"}
-:::
-:::if{source="Hawlucha" condition="startingLevel=20 && atk=(#/#/14-) || startingLevel=19"}
-   :info[Teach Flying Press over Fling  at Lv28]{color=yellow}
-:::
+
+:info[Teach Flying Press over Fling  at Lv28]{color=yellow}
 
 Fight Dash first if you already meet the requirements to OHKO Heracross or will not meet them at a higher level
 
@@ -692,22 +688,24 @@ Fight Dash first if you already meet the requirements to OHKO Heracross or will 
     :::
   :::::
   :::::pokemon[Hariyama]
-    :::if{source="Hawlucha" condition="atk=(x/25+/7+) && startingLevel=19"}
+    :::if{source="Hawlucha" condition="atk=(x/29+/11+) && startingLevel=19"}
      - Wing Attack
     :::
-    :::if{source="Hawlucha" condition="atk=~(x/25+/7+) && startingLevel=19"}
+    :::if{source="Hawlucha" condition="atk=~(x/29+/11+) && startingLevel=19"}
      - Flying Press
     :::
-    :::if{source="Hawlucha" condition="atk=(x/12+/#) && startingLevel=20"}
+    :::if{source="Hawlucha" condition="atk=(x/21+/4+) && startingLevel=20"}
      - Wing Attack
     :::
-    :::if{source="Hawlucha" condition="atk=~(x/12+/#) && startingLevel=20"}
+    :::if{source="Hawlucha" condition="atk=~(x/21+/4+) && startingLevel=20"}
      - Flying Press
      :::
   :::::
 :::::::
 
 Heal with Soda Pop unless very high HP
+
+You are faster than Korrina's Hawlucha with (x/x/22+)
 
 ::damage[Hawlucha Flying Press does]{source="Hawlucha" special=false offensive=false stab=true evs=10 movePower=80 level=29 opponentLevel=32 opponentStat=70}
 
@@ -799,11 +797,11 @@ Pickup **TM47 Low Sweep**
      - Shadow Claw
     :::
   :::::
-  :::::pokemon[Braixen]
+  :::::pokemon[Braixen]    
     :::if{source="Hawlucha" condition="speed=(12+/#/#) && startingLevel=19"}
      - Flying Press
     :::
-    :::if{source="Hawlucha" condition="speed=(3+/#/#) && startingLevel=20 && atk=~(x/28+/8+)"}
+    :::if{source="Hawlucha" condition="speed=(3+/#/#) && startingLevel=20 && atk=~(x/x/14+)"}
      - Flying Press
     :::
     :::if{source="Hawlucha" condition="speed=(3+/#/#) && startingLevel=20 && atk=(x/28+/8+)"}
@@ -843,12 +841,7 @@ Pickup **TM47 Low Sweep**
 Go right after the first climbing rope
 :::::trainer[Pokémon Ranger Chaise]
   ::::pokemon[Simisage]
-    :::if{source="Hawlucha" condition="startingLevel=20 && atk=(x/x/15+)"}
-      - Wing Attack x2
-    :::
-    :::if{source="Hawlucha" condition="startingLevel=20 && atk=(#/#/14-) || startingLevel=19"}
-      - Flying Press :info[100% at 73+ attack]{color="red"}
-    :::
+   - Flying Press :info[100% at 73+ attack]{color="red"}
 
   ::::
 :::::
@@ -911,10 +904,10 @@ Go right after the first climbing rope
         - Rock Tomb
     :::::     
     :::::pokemon[Gogoat]
-      :::if{source="Hawlucha" condition="atk=(x/x/15+)"}
+      :::if{source="Hawlucha" condition="atk=(x/x/23+)"}
         - Wing Attack (Low Sweep if Lucario)
       :::
-      :::if{source="Hawlucha" condition="atk=~(x/x/15+)"}
+      :::if{source="Hawlucha" condition="atk=~(x/x/23+)"}
         - Flying Press (Low Sweep if Lucario)
       :::
     :::::
@@ -949,16 +942,6 @@ Go right after the first climbing rope
 
 If Hawlucha fainted, PC heal Hawlucha
 
-:::card
-### Shopping (left):
-> #### Buy
-> - 11 Max Repels (^^) (12 if unconfident in movement)
-> - 1 Escape Rope (^^^)
-> - 5 Full Heals (^)
-> - 2 Revive (v<)
-> - 16 Hyper Potions (^^)
-:::
-
 Get **Lucky Egg**
 
 :info[Heal Lucario if got hit by Acrobatics]{color=yellow}
@@ -972,6 +955,16 @@ Give Lucario Lucky Egg
 Swap Hawlucha with Lucario
 
 Fly to Coumarine
+
+:::card
+### Shopping (left):
+> #### Buy
+> - 11 Max Repels (^^)
+> - 1 Escape Rope (^^^)
+> - 5 Full Heals (^)
+> - 2 Revive (v<)
+> - 16 Hyper Potions (^^)
+:::
 
 No Wind: xx:10, xx:30, xx:50 for 10 minutes
 
