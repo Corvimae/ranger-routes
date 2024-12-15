@@ -953,7 +953,7 @@ Go right after the first climbing rope
 > - MAX Hyper Potions (^^) (Should be 19 with standard shopping)
 :::
 
-Use any remaining Sweet Hearts on Hawlucha
+Use any remaining Sweet Hearts on Hawlucha (3 friendship per Sweet Heart)
 
 Get **Lucky Egg**
 
@@ -1002,10 +1002,10 @@ Pickup hidden **Power Plant Pass**
 :::::
 :::::trainer[Team Flare Grunt]
  ::::pokemon[Croagunk]{info="Revenge does 42(44)" infoColor=blue}
-    - Swords Dance
+    - Swords Dance {info="Full Heal if confused" infoColor=blue}
     - Low Sweep
  ::::
- ::::pokemon[Golbat]{info="Full Heal if confused" infoColor=blue}
+ ::::pokemon[Golbat]
     - Rock Tomb
  ::::
 :::::
@@ -1020,7 +1020,7 @@ Pickup hidden **Power Plant Pass**
     - Low Sweep
   ::::
   ::::pokemon[Golbat]
-    - Swords Dance
+    - Swords Dance {info="Full Heal if confused" infoColor=blue}
     - Rock Tomb
     - _Give up on Me First_
   ::::
@@ -1120,7 +1120,8 @@ Use Protein on Lucario
 
 Teach Shadow Claw over Bone Rush (Slot 4)
 
-Max Repel (drop it in the gym, unless feeling very confident about movement)
+Max Repel (drop it in gym)
+
 :::::trainer[Pokémon Trainer Calem]
   ::::pokemon[Meowstic]
     - X-Attack
@@ -1199,7 +1200,7 @@ Max Repel → Keep applied until off of Mamoswine
  ::::pokemon[Manectric]
     - (If 2 Swords Dances) Rock Tomb 
     - (If 1 Swords Dance)  Shadow Claw (+ Aura Sphere):info[4/16 Range]{color=red}
-    - Give up on Calm Mind
+    - _Give up on Calm Mind_
  ::::
 :::::
 :::::trainer[Team Flare Mable]
@@ -1440,7 +1441,7 @@ PC Heal Lucario and Lapras:
  ::::pokemon[Scrafty]
     - Aura Sphere
  ::::
- ::::pokemon[Golbat]{info="5/16 range at L57, 10/16 at L58" infoColor=red}
+ ::::pokemon[Golbat]{info="5/16 range" infoColor=red}
     - Rock Tomb (+ Aura Sphere) 
  ::::
 :::::
