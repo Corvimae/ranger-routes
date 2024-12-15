@@ -102,19 +102,28 @@ Follow the drops in the gym
     -  Aerial Ace
   :::
 ::::
-::::trainer[Leader Viola]
-  :::pokemon[Surskit]
+:::::trainer[Leader Viola]
+  ::::pokemon[Surskit]
     - Aerial Ace
-  :::
-  :::pokemon[Vivillon]
+  ::::
+  ::::pokemon[Vivillon]
     - Aerial Ace spam
-    :::card{theme=error}
-      - 21- Atk (24- IV) 93.8% 2 shot
-      - 22+ Atk (25+ IV) Leer once if Harden (66.8% 2 shot)
+
+    :::if{source="Quacklin" condition="atk=(x/24-/x)"}
+      :::card{theme="error"}
+        - 93.8% 2 shot
+      :::
     :::
+
+    :::if{source="Quacklin" condition="atk=(x/25+/x)"}
+      :::card{theme="error"}
+        - Leer once if Harden (66.8% 2 shot)
+      :::
+    :::
+
     - Teach Knock Off over Fury Attack (Slot 3)
-  :::
-::::
+  ::::
+:::::
 Get the **3 X-Attacks** and **3 X-Defenses** in trainer school.
 
 Grab the **Repel**
@@ -129,6 +138,7 @@ Get **5 Luxury Balls**
   ::::pokemon[Squirtle]
     - If used Fury Cutter 
       - Fury Cutter x2
+      - Switch back to Aerial Ace if Withdraw or miss
     - Otherwise: Aerial Ace x2 / x3
 
     :::if{source="Quacklin" condition="atk=(x/1-16/x)"}
