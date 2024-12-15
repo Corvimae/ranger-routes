@@ -1595,7 +1595,7 @@ Max Repel
 
 Free Heal
 
-:::::trainer[Pokémon Trainer Trevor (slower if Static, faster if no Static)]
+:::::trainer[Pokémon Trainer Trevor (faster on average, slightly risky)]
  ::::pokemon[Raichu]
     - Close Combat
  ::::
@@ -1763,7 +1763,7 @@ Teach Shadow Claw over Aura Sphere (Slot 1)
 :::::
 :::::trainer[Veteran Catrina]
  ::::pokemon[Glaceon]
-    - If Gigalith used Protect on Close Combat and you didn't get safety PP UP
+    - If Gigalith used Protect on Close Combat
       - Swords Dance
       - Rock Tomb
     - Otherwise
@@ -1793,7 +1793,8 @@ Deposit all Pokémon
 
 PC Heal Lucario
 
-Buy Full Restores (>) if none left
+Buy Full Restores (>) if none left or low on Hypers (need 3-4 for rest of game)
+
 :::::trainer[Elite Four Malva]
  ::::pokemon[Pyroar]
     - Swords Dance 
@@ -1851,8 +1852,8 @@ Buy Full Restores (>) if none left
  ::::pokemon[Noivern]
     - Close Combat 
  ::::
- ::::pokemon[Druddigon] :info[Shadow Claw 15/16]{color="red"}
-    - Close Combat
+ ::::pokemon[Druddigon]
+    - Close Combat :info[Shadow Claw 15/16]{color="red"}
  ::::
  ::::pokemon[Altaria]
     - Shadow Claw
