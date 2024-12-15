@@ -53,8 +53,11 @@ _8 Protein and 1 Protein Strat_ [base doc](https://pastebin.com/rahQFiqH)
 :::card
 Set console date to 14th February and time to 23:03 (adapt for skill level)
 :::
-- Choose the girl and give a single character name (! is fastest)
-- Open options and set 
+ 
+
+Choose the girl and give a single character name (! is fastest)
+
+Open options and set 
   - Text Speed Fast
   - Battle Effects: Off
   - Battle Style Set
@@ -174,9 +177,7 @@ Deposit Squirtle
 > #### Buy 
 > - Swords Dance (vv)
 
-At the grass after Lucario cutscene:
-  - Repel
-  - Teach Swords Dance over Fury Cutter (slot 2).
+At the grass after Lucario cutscene, Repel and teach Swords Dance over Fury Cutter (slot 2)
 
 :::::::trainer[Tierno]
   :::::pokemon[Corphish]
@@ -228,23 +229,23 @@ At Trevor & Tierno fight:
   - Equip Berry Juice
 
 ::::::trainer[Trevor & Tierno]{info="Remember HP after" infoColor=pink}
-   - Swords Dance
-   :::if{source="Quacklin" condition="atk=(x/20+/x)"} 
-  - If you didn't take any damage on Turn 1, Swords Dance again
-   :::
- :::::pokemon[Corphish]
-   - Aerial Ace until dead (Knock Off if Fletchling’s QA could kill Corphish)
- :::::
- :::::pokemon[Pikachu]
-   - Knock Off
+  :::::pokemon[Corphish]
+    - Swords Dance
+    :::if{source="Quacklin" condition="atk=(x/20+/x)"} 
+      - If you didn't take any damage on Turn 1, Swords Dance again
+    :::
+    - Aerial Ace until dead (Knock Off if Fletchling’s QA could kill Corphish)
+  :::::
+  :::::pokemon[Pikachu]
+    - Knock Off
     ::damage[Thunder Shock L14]{source="Quacklin" special=true offensive=false movePower=40 level=14 opponentLevel=14 stab=true effectiveness=2 opponentStat=19}
     ::damage[Thunder Shock L15]{source="Quacklin" special=true offensive=false movePower=40 level=15 opponentLevel=14 stab=true effectiveness=2 opponentStat=19}
- :::::
- :::::pokemon[Flabébé]
-   - Aerial Ace
+  :::::
+  :::::pokemon[Flabébé]
+    - Aerial Ace
     ::damage[Fairy Wind L14]{source="Quacklin" special=true offensive=false movePower=40 level=14 opponentLevel=14 stab=true opponentStat=22}
     ::damage[Fairy Wind L15]{source="Quacklin" special=true offensive=false movePower=40 level=15 opponentLevel=14 stab=true opponentStat=22}  
- :::::
+  :::::
 ::::::
 Pickup **PP Up** south of the previous fight
 
@@ -303,11 +304,11 @@ Pickup **TM65 Shadow Claw** at the branch after the path goes down
       - Aerial Ace x2
     ::::
   :::
-  :::if{source="Quacklin" condition="atk=(x/5-/x) || atk=(x/18+/x)"}
-   - Swords Dance Turn 1     
+  :::if{source="Quacklin" condition="atk=(x/5-/x) || atk=(x/18+/x)"}    
     ::::pokemon[Scraggy]
+      - Swords Dance
       - Aerial Ace
-    ::damage[Aerial Ace Range]{source="Quacklin" special=false offensive=true combatStages=2 effectiveness=2 movePower=60 level=17 healthThreshold=50 opponentLevel=20 stab=true opponentStat=33 theme=error}
+      ::damage[Aerial Ace Range]{source="Quacklin" special=false offensive=true combatStages=2 effectiveness=2 movePower=60 level=17 healthThreshold=50 opponentLevel=20 stab=true opponentStat=33 theme=error}
     ::::
   :::
   ::::pokemon[Croagunk]
