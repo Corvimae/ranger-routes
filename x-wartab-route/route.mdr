@@ -212,16 +212,16 @@ Pickup the **Star Piece** south of Camphrier Town
 > #### Sell
 > -  Star Piece
 > #### Buy 
-> - 8 Repels (^^)
-> - 4 Super Potions (<)
+> - 8 Repels (^^) (v<)
+> - 4 Super Potions (<) (>v)
 > - 1 Antidote (v)
-> - 2 Awakenings (vv)
+> - 2 Awakenings (vv) (^)
 > #### Buy (If Potion used)
-> - 8 Repels (^^)
-> - 2 Potions (<^)
-> - 3 Super Potions (v)
+> - 8 Repels (^^) (v<)
+> - 2 Potions (<^) (^)
+> - 3 Super Potions (v) (>v)
 > - 1 Antidote (v)
-> - 2 Awakenings (vv)
+> - 2 Awakenings (vv) (^)
 
 Get **Berry Juice**
 
@@ -287,12 +287,6 @@ Pickup **TM65 Shadow Claw** at the branch after the path goes down
       - Swords Dance x2
       - Aerial Ace (x2)
       :info[+4 Aerial Ace 6/16 range]{color=red}
-    :::
-    :::if{source="Quacklin" condition="atk=31" level=17}
-      - _If Level 17_
-      - Leer
-      - Swords Dance x2
-      - Aerial Ace
     :::
     :::if{source="Quacklin" condition="atk=~(x/27+/x)"}
       - Swords Dance x3
@@ -388,7 +382,7 @@ Get massage (conservative estimate 90s for menu → massage, 30s for simple swap
 
 Swap Farfetch’d back to front
 :::if{source="Hawlucha" condition="atk=(x/26+/7+) && startingLevel=19"}
-  :info[_Optional: Don't swap Farfetch'd back to front, Karate Chop is 13/16 to kill Amaura (guaranteed at x/x/26+)_]{color=red}
+  :info[_Optional: Don't swap Farfetch'd back to front, Karate Chop is 13/16 to kill Amaura with (x/26+/7-26) (guaranteed at x/x/26+)_]{color=red}
 :::
 
 
@@ -447,7 +441,7 @@ Swap Farfetch’d back to front
         - Swords Dance
         - Rock Smash
     :::
-    :::if{source="Hawlucha" condition="atk=~(x/x/21+) && startingLevel=20"}
+    :::if{source="Hawlucha" condition="atk=(#/15-/x) && startingLevel=20"}
       - Swords Dance
       - Rock Smash x2
     :::
@@ -519,7 +513,8 @@ Use a Repel
      ::damage[Swords Dance + Karate Chop]{source="Hawlucha" special=false offensive=true healthThreshold=76 movePower=50 combatStages=2 effectiveness=2 level=22 opponentLevel=26 stab=true opponentStat=36 theme=error}
     :::
     :::if{source="Hawlucha" condition="startingLevel=20"}
-     -  Rock Smash x2-3
+     - Rock Smash x2-3
+     - _If first Rock Smash hits into yellow and gets defense drop, Wing Attack kills_
      - Teach Fling over Rock Smash
     :::
   :::::
@@ -531,11 +526,12 @@ Use a Repel
      - Wing Attack
   :::::
   :::::pokemon[Helioptile]{info="Has Quick Attack"}
-     - Karate Chop / Fling
      :::if{source="Hawlucha" condition="startingLevel=19"}
+      - Karate Chop
       ::damage[Heliptile QA does at 23]{source="Hawlucha" special=false offensive=false movePower=40 level=23 opponentLevel=25 stab=true opponentStat=25}
      :::
      :::if{source="Hawlucha" condition="startingLevel=20"}
+      - Fling
       ::damage[Heliptile QA does at 23]{source="Hawlucha" special=false offensive=false movePower=40 level=24 opponentLevel=25 stab=true opponentStat=25}
      :::
   :::::
@@ -714,7 +710,7 @@ Fight Dash first if you already meet the requirements to OHKO Heracross or will 
   :::::
 :::::::
 
-Heal with Soda Pop unless very high HP
+Heal with Soda Pop unless very high HP (you can heal turn 1 if don't need to X Attack)
 
 You are faster than Korrina's Hawlucha with (x/x/22+)
 
@@ -724,10 +720,12 @@ You are faster than Korrina's Hawlucha with (x/x/22+)
 :::::::trainer[Leader Korrina]{info="Important: Remember if you X-Attack here or not" infoColor=yellow}
   :::::pokemon[Mienfoo]
     :::if{source="Hawlucha" condition="atk=(x/x/20+) && startingLevel=19"}
+     - _(Heal if didn't before fight)_
      - Swords Dance (Again if Fake Out)
      - Wing Attack
     :::
     :::if{source="Hawlucha" condition="atk=(x/x/21+) && startingLevel=20"}
+     - _(Heal if didn't before fight)_
      - Swords Dance (Again if Fake Out)
      - Wing Attack
     :::
@@ -952,7 +950,7 @@ Go right after the first climbing rope
 ::::::::::
 
 :::card{theme="error"}
-***If Hawlucha fainted on Ramos OR you used Protein on Hawlucha:***
+***If Hawlucha fainted on Ramos OR you used Protein on Hawlucha OR you plan to Protein skip in Laverre:***
 - PC heal Hawlucha
 - Use Protein on Hawlucha if you haven't yet
 - Shopping (left)
@@ -968,20 +966,18 @@ Use any remaining Sweet Hearts on Hawlucha (3 friendship per Sweet Heart)
 
 Get **Lucky Egg**
 
-:info[Heal Lucario if got hit by Acrobatics]{color=yellow}
+:::card{theme="info"}
+***Menu after getting Lucky Egg***
+- Heal Lucario if got hit by Acrobatics
+- Teach Fly to Hawlucha over Flying Press
+- Turn off Experience Share
+- Give Lucario Lucky Egg
+- Swap Hawlucha with Lucario
+- Fly to Coumarine
+:::
 
-Teach Fly to Hawlucha over Flying Press
-
-Turn off Experience Share
-
-Give Lucario Lucky Egg
-
-Swap Hawlucha with Lucario
-
-Fly to Coumarine
-
-If you haven't shopped yet, enter the center and shop
-
+:::card{theme="error"}
+***If you haven't shopped yet, enter the center and shop***
 ### Shopping (left):
 > #### Buy
 > - 11 Max Repels (^^)
@@ -989,6 +985,7 @@ If you haven't shopped yet, enter the center and shop
 > - 5 Full Heals (^)
 > - 2 Revive (v<)
 > - 16 Hyper Potions (^^)
+:::
 
 No Wind: xx:10, xx:30, xx:50 for 10 minutes
 
@@ -1013,7 +1010,7 @@ Pickup hidden **Power Plant Pass**
 :::::
 :::::trainer[Team Flare Grunt]
  ::::pokemon[Croagunk]{info="Revenge does 42(44)" infoColor=blue}
-    - Swords Dance {info="Full Heal if confused" infoColor=blue}
+    - Swords Dance :info[Full Heal if confused]{color="blue"}
     - Low Sweep
  ::::
  ::::pokemon[Golbat]
@@ -1031,7 +1028,7 @@ Pickup hidden **Power Plant Pass**
     - Low Sweep
   ::::
   ::::pokemon[Golbat]
-    - Swords Dance {info="Full Heal if confused" infoColor=blue}
+    - Swords Dance :info[Full Heal if confused (or yolo)]{color="blue"}
     - Rock Tomb
     - _Give up on Me First_
   ::::
@@ -1192,9 +1189,10 @@ Pickup **Rare Candy**
     - Aura Sphere x2
  ::::
 :::::
+
 ### Shopping (right):
 > #### Buy
-> - 7 (MAX) Proteins **do not use them yet** (only 6 Proteins if used Protein on Hawlucha and did the corresponding Courmarine shop)
+> - MAX (6-7) Proteins **do not use them yet** (can skip on bad runs)
 
 :info[Heal if 106 (109) HP or below]{color=yellow}
 
