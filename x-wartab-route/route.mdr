@@ -1560,11 +1560,7 @@ Max Repel
 :::::trainer[Pokémon Professor Sycamore]{info="Remember HP after" infoColor=pink}
  ::::pokemon[Venusaur]
     - Swords Dance
-    - If Damaged
-      - Swords Dance
-      - Close Combat
-    - Otherwise
-      - Close Combat (+ Aura Sphere):info[11/16 Range]{color=red}
+    - Close Combat (+ Aura Sphere) :info[11/16 Range]{color=red}
  ::::
  ::::pokemon[Charizard]
     - Rock Tomb
@@ -1610,7 +1606,7 @@ Free Heal
  ::::
  ::::pokemon[Florges]
     - **If no Static**: Swords Dance + Close Combat
-    - **If Static**: Swords Dance + Full Restore + Close Combat (probably die if get fully paralyzed)
+    - **If Static**: Swords Dance + Full Restore + Close Combat (you die if fully paralyzed on SD turn into Moonblast)
  ::::
  ::::pokemon[Aerodactyl]
     - Rock Tomb
@@ -1618,7 +1614,8 @@ Free Heal
 :::::
 :::::trainer[Pokémon Trainer Trevor (safe)]
  ::::pokemon[Raichu]
-    - Swords Dance (+ heal paralysis)
+    - Swords Dance
+    - Heal para (Raichu always uses Nuzzle)
     - Rock Tomb
  ::::
  ::::pokemon[Florges]
