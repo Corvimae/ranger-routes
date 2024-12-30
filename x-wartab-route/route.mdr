@@ -363,7 +363,6 @@ Go to Geosenge center and catch Hawlucha with Luxury Balls.
 ####   - Teach Swords Dance over Roost (Slot 2)
 ####   - Teach Rock Smash over Aerial Ace (Slot 3)
 ####   - Swap Oran Berry to Hawlucha if holding it
-  :info[_Optional: Move Swords Dance to slot 2 (for muscle memory_)]{color=yellow}
   :::
   :::if{source="Hawlucha" condition="speed=~(x/24+/1+) && startingLevel=20"}
  ####  - Pick up hidden X-Speed
@@ -513,7 +512,7 @@ Use a Repel
      ::damage[Swords Dance + Karate Chop]{source="Hawlucha" special=false offensive=true healthThreshold=76 movePower=50 combatStages=2 effectiveness=2 level=22 opponentLevel=26 stab=true opponentStat=36 theme=error}
     :::
     :::if{source="Hawlucha" condition="startingLevel=20"}
-     - Rock Smash x2-3
+     - Rock Smash x2 (+ Wing Attack)
      - _If first Rock Smash hits into yellow and gets defense drop, Wing Attack kills_
      - Teach Fling over Rock Smash
     :::
