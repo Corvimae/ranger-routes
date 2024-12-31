@@ -67,7 +67,7 @@ Pick Chespin
 
 :::::trainer[Pokémon Trainer Shauna]
  ::::pokemon[Froakie]
-    - Vine Whip x2 (/ x3)
+    - Vine Whip x2-3
  ::::
 :::::
 
@@ -82,8 +82,8 @@ Catch Bunnelby
 :::::
 :::::trainer[Lass Anna]
  ::::pokemon[Pikachu]
-    - Vine Whip x2/3
-    - Don't use the Paralyze Heal
+    - Vine Whip x2-3
+    - _Don't use the Paralyze Heal_
  ::::
 :::::
 Trade Bunnelby for Farfetch’d and move Farfetch’d to the front
@@ -117,7 +117,7 @@ Follow the drops in the gym
 
     :::if{source="Quacklin" condition="atk=(x/25+/x)"}
       :::card{theme="error"}
-        - Leer once if Harden (66.8% 2 shot)
+        - If Harden turn 1, Leer once then go back to Aerial Ace spam
       :::
     :::
 
@@ -138,7 +138,7 @@ Get **5 Luxury Balls**
   ::::pokemon[Squirtle]
     - If used Fury Cutter 
       - Fury Cutter x2
-      - Switch back to Aerial Ace if Withdraw or miss
+      - _Switch back to Aerial Ace if Withdraw or miss_
     - Otherwise: Aerial Ace x2 / x3
 
     :::if{source="Quacklin" condition="atk=(x/1-16/x)"}
@@ -242,7 +242,7 @@ At Trevor & Tierno fight:
   :::::pokemon[Corphish]
     - Swords Dance
     :::if{source="Quacklin" condition="atk=(x/20+/x)"} 
-      - If you didn't take any damage on Turn 1, Swords Dance again
+      - _If you didn't take any damage on Turn 1, Swords Dance again_
     :::
     - Aerial Ace until dead (Knock Off if Fletchling’s QA could kill Corphish)
   :::::
@@ -261,9 +261,9 @@ Pickup **PP Up** south of the previous fight
 
 :info[Take free heal if paralysed or low HP]{color=yellow}
 
-Pickup HP Up
+Pickup **HP Up**
 
-Head to the Pokémon Centre and leave immediately
+Head to the Pokémon Center and leave immediately
 
 Go to the lab and leave after the cutscene
 
@@ -334,7 +334,7 @@ Register Bike
 
 Buy a dozen Soda Pops from the Waitress
 
-Pickup hidden X Speed
+Pickup hidden **X-Speed**
 
 Go to Geosenge center and catch Hawlucha with Luxury Balls.
   - If Hawlucha and Farfetch’d are full HP, weaken with Aerial Ace.
@@ -372,7 +372,7 @@ Go to Geosenge center and catch Hawlucha with Luxury Balls.
   :::
 :::::
 
-Get massage (conservative estimate 90s for menu → massage, 30s for simple swap)
+Get massage
   - A little bit more friendly (74%, +5 friendship)
   - Somewhat more friendly (20%, +10 friendship)
   - Much more friendly (6%, +30 friendship)
@@ -388,7 +388,7 @@ Swap Farfetch’d back to front
 :::::::trainer[Leader Grant]
   :::::pokemon[Amaura]
     - Leer until Quackling dies
-    - Swap to Hawlucha
+    - Swap to Hawlucha (check nature if still have Oran Berry)
     - Karate Chop/Rock Smash
    :::if{source="Hawlucha" condition="startingLevel=19"}
      ::damage[Karate Chop without Leer ranges]{source="Hawlucha" special=false offensive=true healthThreshold=79 movePower=50 effectiveness=4 level=21 opponentLevel=25 stab=true opponentStat=35 theme=error}
@@ -448,11 +448,11 @@ Swap Farfetch’d back to front
 :::::::
 Swap Hawlucha to the front of party
 
-Pickup hidden Protein
+Pickup hidden **Protein**
 
 _Optionally pickup X-Defense for friendship gain_
 
-Pickup hidden Ether
+Pickup hidden **Ether**
 
 Get double massage if possible
 :::::trainer[Swimmer Marissa]
@@ -518,7 +518,7 @@ Use a Repel
     :::
   :::::
 :::::::
-:info[Heal to full]{color=yellow}
+:info[Heal to full if took damage]{color=yellow}
 :::::::trainer[Ace Trainer Monique]
   :::::pokemon[Doduo]
      - Swords Dance x2
@@ -575,11 +575,11 @@ Get Soothe Bell
 
 Equip **Soothe Bell**
 
-Use Iron
+Use **Iron**
 
-Use HP Up
+Use **HP Up**
 
-Use PP Up
+Use **PP Up**
 
 :info[Heal to full with Soda Pop]{color=yellow}
 :::::::trainer[Pokémon Trainer Calem]
@@ -629,7 +629,6 @@ Head to the gym
  ::::pokemon[Meditite]
     - Wing Attack
     ::damage[Wing Attack Range]{source="Hawlucha" special=false offensive=true healthThreshold=57 theme=error effectiveness=2 movePower=60 level=26 opponentLevel=28 stab=true opponentStat=38}
-  
  ::::
  ::::pokemon[Mienfoo]
     - Wing Attack 
@@ -663,7 +662,7 @@ Head to the gym
 
 :info[Teach Flying Press over Fling  at Lv28]{color=yellow}
 
-Fight Dash first if you already meet the requirements to OHKO Heracross or will not meet them at a higher level
+:info[Fight Rolanda before Dash if doing so will get you a better range on Heracross]{color="red"}
 
 :info[One less IV if fighting Rolanda first at L28]{color=yellow}
 ::damage[L27 +0 Wing Attack ranges]{source="Hawlucha" special=false offensive=true healthThreshold=91 effectiveness=4 theme=error movePower=60 level=27 opponentLevel=30 stab=true  opponentStat=52 theme=error}
@@ -682,7 +681,7 @@ Fight Dash first if you already meet the requirements to OHKO Heracross or will 
 :::::::trainer[Roller Skater Rolanda]
   :::::pokemon[Sawk]
     :::if{source="Hawlucha" condition="startingLevel=19 && speed=(0+/11-/x) || startingLevel=20 && speed=(30-/2-/x)"}
-      - Slower than Sawk after one Low Sweep
+      - _Slower than Sawk after one Low Sweep_
     :::
      - Swords Dance
      - Wing Attack
@@ -709,9 +708,9 @@ Fight Dash first if you already meet the requirements to OHKO Heracross or will 
   :::::
 :::::::
 
-Heal with Soda Pop unless very high HP (you can heal turn 1 if don't need to X Attack)
+:info[Heal with Soda Pop unless very high HP (you can heal turn 1 if don't need to X Attack)]
 
-You are faster than Korrina's Hawlucha with (x/x/22+)
+:info[You are faster than Korrina's Hawlucha with (x/x/22+)]{color="red"}
 
 ::damage[Hawlucha Flying Press does]{source="Hawlucha" special=false offensive=false stab=true evs=10 movePower=80 level=29 opponentLevel=32 opponentStat=70}
 
@@ -850,7 +849,6 @@ Go right after the first climbing rope
 :::::trainer[Pokémon Ranger Chaise]
   ::::pokemon[Simisage]
    - Flying Press :info[100% at 73+ attack]{color="red"}
-
   ::::
 :::::
 :::::trainer[Pokémon Ranger Brooke]
@@ -961,7 +959,7 @@ Go right after the first climbing rope
 > - MAX Hyper Potions (^^) (Should be 19 with standard shopping)
 :::
 
-Use any remaining Sweet Hearts on Hawlucha (3 friendship per Sweet Heart)
+Use any remaining Sweet Hearts on Hawlucha
 
 Get **Lucky Egg**
 
