@@ -1187,6 +1187,8 @@ Pickup **Rare Candy**
  ::::
 :::::
 
+**If you die to Manectric and Meowstic kills, you will not hit lvl 51 before Lysandre 1. Backup is use Rare Candies at lvl 52 after Swalot. Lysandre 1 Gyarados 13/16 range with 8 Proteins in this case.**
+
 ### Shopping (right):
 > #### Buy
 > - MAX (6-7) Proteins **do not use them yet** (can skip on bad runs)
@@ -1234,9 +1236,9 @@ Pickup **Rare Candy**
     - Shadow Claw
  ::::
  ::::pokemon[Jolteon]{info="Quick Attack can do 7/(8), Discharge 63/(64)" infoColor=blue}
-    - If got Fake Out
+    - If used 2 Swords Dance (Fake Out)
       - Shadow Claw
-    - Otherwise
+    - Otherwise (No Fake Out)
       - Rock Tomb
       - Shadow Claw
  ::::
