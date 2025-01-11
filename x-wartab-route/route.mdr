@@ -1871,7 +1871,7 @@ Buy Full Restores (>) if none left or low on Hypers (need 3-4 for rest of game)
     - Close Combat :info[Shadow Claw 15/16]{color="red"}
  ::::
  ::::pokemon[Altaria]
-    - Shadow Claw
+    - Shadow Claw :info[Rock Tomb if less than 8 Proteins]{color="red"}
  ::::
 :::::
 
