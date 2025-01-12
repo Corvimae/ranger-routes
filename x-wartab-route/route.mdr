@@ -963,7 +963,7 @@ Go right after the first climbing rope
 > - MAX Hyper Potions (^^) (Should be 19 with standard shopping)
 :::
 
-Use any remaining Sweet Hearts on Hawlucha
+Use any remaining Sweet Hearts on Hawlucha (also Protein if died to Ramos)
 
 Get **Lucky Egg**
 
@@ -1112,7 +1112,7 @@ Pickup hidden **Power Plant Pass**
 :::::trainer[Leader Clemont]
  ::::pokemon[Emolga]
     - Swords Dance
-    - _Emolga uses Volt Switch and switches out_
+    - _Emolga uses Volt Switch and switches out. If you get the ultra rare Quick Attack, use Rock Tomb._
  ::::
  ::::pokemon[Magneton]
     - Bone Rush 
@@ -1911,9 +1911,9 @@ Ether Close Combat
  ::::pokemon[Clawitzer]
     - **[Mega Evolve]** Close Combat
  ::::
- ::::pokemon[Gyarados]
+ ::::pokemon[Gyarados]{info="15/16 with 6 Proteins" infoColor=red}
     - Swords Dance
-    - Close Combat   
+    - Close Combat
  ::::
  ::::pokemon[Barbaracle]
     - Close Combat
