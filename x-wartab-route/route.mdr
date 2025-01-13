@@ -136,10 +136,11 @@ Get **5 Luxury Balls**
  ::::
 
   ::::pokemon[Squirtle]
-    - If used Fury Cutter 
+    - _If used Fury Cutter _
       - Fury Cutter x2
       - _Switch back to Aerial Ace if Withdraw or miss_
-    - Otherwise: Aerial Ace x2 / x3
+    - _Otherwise_
+      Aerial Ace x2 / x3
 
     :::if{source="Quacklin" condition="atk=(x/1-16/x)"}
       :::card{theme=error}
@@ -281,6 +282,8 @@ Pickup **TM65 Shadow Claw** at the branch after the path goes down
    ::damage[Aerial Ace +2 ranges]{source="Quacklin" special=false combatStages=2 offensive=true movePower=60 level=16 healthThreshold=42 combat opponentLevel=18 stab=true opponentStat=17 theme=error} 
  ::::
 :::::
+
+:info[Don't heal poison]{color="red}
 
 :info[Heal if necessary]{color="yellow"}
 
