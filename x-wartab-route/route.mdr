@@ -136,7 +136,7 @@ Get **5 Luxury Balls**
  ::::
 
   ::::pokemon[Squirtle]
-    - _If used Fury Cutter _
+    - _If used Fury Cutter_
       - Fury Cutter x2
       - _Switch back to Aerial Ace if Withdraw or miss_
     - _Otherwise_
@@ -283,7 +283,7 @@ Pickup **TM65 Shadow Claw** at the branch after the path goes down
  ::::
 :::::
 
-:info[Don't heal poison]{color="red}
+:info[Don't heal poison]{color="red"}
 
 :info[Heal if necessary]{color="yellow"}
 
