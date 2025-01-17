@@ -140,7 +140,7 @@ Get **5 Luxury Balls**
       - Fury Cutter x2
       - _Switch back to Aerial Ace if Withdraw or miss_
     - _Otherwise_
-      - Aerial Ace x2 / x3
+    - Aerial Ace x2 / x3
 
     :::if{source="Quacklin" condition="atk=(x/1-16/x)"}
       :::card{theme=error}
