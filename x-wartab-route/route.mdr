@@ -913,8 +913,9 @@ Go right after the first climbing rope
     :::::pokemon[Jumpluff]
       - Swords Dance
       - Wing Attack
-      - _If Hawlucha dies _
+      - _If Hawlucha dies_
         - Switch to Lucario
+        - **[Mega Evolve]** Swords Dance
         - Rock Tomb
     :::::     
     :::::pokemon[Gogoat]
@@ -1128,7 +1129,7 @@ Pickup hidden **Power Plant Pass**
 :::::
 :info[Heal to full]{color=yellow}
 
-Use **Protein** on Lucario
+Use **Protein** on Lucario if you still have it
 
 Teach Shadow Claw over Bone Rush (Slot 4)
 
@@ -1882,7 +1883,7 @@ Buy Full Restores (>) if none left or low on Hypers (need 3-4 for rest of game)
     - Close Combat :info[Shadow Claw 15/16]{color="red"}
  ::::
  ::::pokemon[Altaria]
-    - Shadow Claw :info[Rock Tomb if used less than 8 Proteins on Lucario]{color="red"}
+    - Shadow Claw :info[Rock Tomb if used fewer than 8 Proteins on Lucario]{color="red"}
  ::::
 :::::
 
