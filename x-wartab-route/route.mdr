@@ -140,7 +140,7 @@ Get **5 Luxury Balls**
       - Fury Cutter x2
       - _Switch back to Aerial Ace if Withdraw or miss_
     - _Otherwise_
-      Aerial Ace x2 / x3
+      - Aerial Ace x2 / x3
 
     :::if{source="Quacklin" condition="atk=(x/1-16/x)"}
       :::card{theme=error}
@@ -521,7 +521,7 @@ Use a Repel
     :::if{source="Hawlucha" condition="startingLevel=20"}
      - Rock Smash x2 (+ Wing Attack)
      - _If first Rock Smash hits into yellow and gets defense drop, Wing Attack kills_
-     - Teach Fling over Rock Smash
+     - _Teach Fling over Rock Smash_
     :::
   :::::
 :::::::
@@ -543,7 +543,7 @@ Use a Repel
   :::::
   :::::pokemon[Granbull]{info="Remeber HP After" infoColor=pink}
      - Wing Attack x2
-     - Teach Fling over Karate Chop
+     - _Teach Fling over Karate Chop_
     :::if{source="Hawlucha" condition="startingLevel=19"}
      ::damage[Granbull’s Headbutt does at 23]{source="Hawlucha" special=false offensive=false movePower=70 level=23 opponentLevel=24 stab=false opponentStat=66}
     :::
