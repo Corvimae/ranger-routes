@@ -672,9 +672,9 @@ Head to the gym
 :info[Fight Rolanda before Dash if doing so will get you a better range on Heracross]{color="red"}
 
 :info[One less IV if fighting Rolanda first at L28]{color=yellow}
-::damage[L27 +0 Wing Attack ranges]{source="Hawlucha" special=false offensive=true evs=20 healthThreshold=91 effectiveness=4 theme=error movePower=60 level=27 opponentLevel=30 stab=true  opponentStat=52 theme=error}
-::damage[L28 +0 Wing Attack ranges]{source="Hawlucha" special=false offensive=true evs=20 healthThreshold=91 effectiveness=4 theme=error movePower=60 level=28 opponentLevel=30 stab=true  opponentStat=52 theme=error}
-::damage[L29 +0 Wing Attack ranges]{source="Hawlucha" special=false offensive=true evs=20 healthThreshold=91 effectiveness=4 theme=error movePower=60 level=29 opponentLevel=30 stab=true  opponentStat=52 theme=error}
+::damage[L27 +0 Wing Attack ranges]{source="Hawlucha" special=false offensive=true healthThreshold=91 effectiveness=4 theme=error movePower=60 level=27 opponentLevel=30 stab=true  opponentStat=52 theme=error}
+::damage[L28 +0 Wing Attack ranges]{source="Hawlucha" special=false offensive=true healthThreshold=91 effectiveness=4 theme=error movePower=60 level=28 opponentLevel=30 stab=true  opponentStat=52 theme=error}
+::damage[L29 +0 Wing Attack ranges]{source="Hawlucha" special=false offensive=true healthThreshold=91 effectiveness=4 theme=error movePower=60 level=29 opponentLevel=30 stab=true  opponentStat=52 theme=error}
 :::::::trainer[Roller Skater Dash]
   :::::pokemon[Heracross]
     :::if{source="Hawlucha" condition="startingLevel=19"}
