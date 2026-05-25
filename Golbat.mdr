@@ -1,0 +1,1711 @@
+:::::tracker{species="Squirtle" baseStats="[[44, 48, 65, 50, 64, 43], [59, 63, 80, 65, 80, 58], [79, 83, 100, 85, 105, 78]]" type="Water" generation=3 directInput=true}
+5:
+  6 -> 0, 0, 0, 1, 0, 0
+  7 -> 0, 0, 0, 1, 0, 2
+  8 -> 0, 0, 0, 1, 0, 2
+  9 -> 0, 0, 1, 1, 0, 2
+  10 -> 0, 0, 2, 1, 0, 2
+  11 -> 0, 0, 3, 1, 0, 2
+  12 -> 0, 0, 4, 1, 0, 2
+  13 -> 0, 0, 4, 1, 0, 2
+  14 -> 3, 0, 4, 1, 0, 3
+  15 -> 3, 0, 8, 1, 0, 4
+  16 -> 4, 0, 11, 1, 0, 4
+  17 -> 4, 0, 13, 1, 0, 7
+  18 -> 5, 0, 14, 1, 0, 10
+  19 -> 7, 4, 20, 3, 0, 13
+  20 -> 7, 4, 20, 3, 0, 16
+  21 -> 7, 4, 20, 3, 0, 16
+  :::::
+
+:::::tracker{species="Zubat" baseStats="[[40, 45, 35, 30, 40, 55], [75, 80, 70, 65, 75, 90]]" type="Poison/Flying" generation=3 directInput=false}
+8:
+  9 -> 1, 0, 0, 0, 0, 2
+  10 -> 1, 0, 1, 0, 0, 3
+  11 -> 1, 0, 1, 1, 0, 5
+  12 -> 2, 0, 1, 2, 0, 6
+  13 -> 2, 0, 5, 2, 0, 7
+  14 -> 2, 1, 6, 3, 0, 8
+  15 -> 3, 4, 6, 3, 0, 9
+  16 -> 3, 5, 7, 3, 0, 12
+  17 -> 4, 6, 10, 3, 0, 12
+  18 -> 4, 8, 10, 5, 0, 14
+  19 -> 4, 9, 10, 5, 1, 17
+  20 -> 4, 9, 10, 5, 1, 17
+  21 -> 4, 9, 10, 5, 1, 17
+  22 -> 4, 9, 10, 5, 1, 17
+  23 -> 4, 9, 10, 8, 2, 21
+  24 -> 4, 11, 10, 10, 2, 21
+  25 -> 7, 11, 11, 10, 3, 22
+  26 -> 7, 12, 12, 12, 3, 22
+  27 -> 9, 13, 15, 12, 3, 24
+  28 -> 9, 13, 19, 13, 3, 26
+  29 -> 13, 13, 19, 18, 4, 26
+  30 -> 13, 16, 20, 17, 4, 26
+  31 -> 13, 16, 22, 21, 4, 30
+  32 -> 13, 20, 25, 21, 4, 30
+  33 -> 15, 20, 27, 21, 4, 35
+  34 -> 15, 23, 27, 23, 4, 40
+  35 -> 15, 23, 29, 28, 5, 44
+  36 -> 15, 33, 30, 28, 7, 49
+  37 -> 16, 34, 31, 30, 9, 49
+  38 -> 16, 36, 34, 30, 9, 49
+  39 -> 16, 36, 34, 30, 9, 49
+  40 -> 16, 36, 34, 30, 9, 49
+  41 -> 16, 36, 34, 30, 9, 49
+  42 -> 16, 36, 34, 30, 9, 49
+  43 -> 16, 36, 34, 30, 9, 49
+  44 -> 16, 56, 34, 30, 9, 49
+  45 -> 16, 59, 34, 35, 10, 52
+  46 -> 18, 61, 38, 35, 11, 62
+  47 -> 21, 61, 38, 41, 13, 72
+  48 -> 21, 64, 38, 41, 13, 75
+  49 -> 26, 69, 43, 41, 13, 75
+  50 -> 29, 69, 45, 41, 13, 77
+  51 -> 29, 73, 45, 44, 13, 80
+  52 -> 29, 75, 46, 46, 14, 80
+  53 -> 31, 75, 50, 48, 16, 80
+  54 -> 31, 80, 52, 48, 18, 80
+  55 -> 31, 80, 52, 56, 18, 82
+  56 -> 31, 89, 52, 56, 18, 84
+  57 -> 31, 93, 52, 59, 18, 87
+
+9:
+  10 -> 1, 0, 0, 0, 0, 2
+  11 -> 1, 0, 1, 0, 0, 5
+  12 -> 1, 0, 1, 2, 0, 5
+  13 -> 2, 0, 5, 2, 0, 6
+  14 -> 2, 1, 6, 3, 0, 8
+  15 -> 3, 3, 6, 3, 0, 11
+  16 -> 3, 5, 6, 3, 0, 12
+  17 -> 4, 6, 9, 3, 0, 12
+  18 -> 4, 8, 10, 5, 0, 14
+  19 -> 4, 9, 10, 5, 1, 17
+  20 -> 4, 9, 10, 5, 1, 17
+  21 -> 4, 9, 10, 5, 1, 17
+  22 -> 4, 9, 10, 5, 1, 17
+  23 -> 4, 9, 10, 8, 2, 21
+  24 -> 4, 11, 10, 10, 2, 21
+  25 -> 7, 11, 11, 10, 3, 22
+  26 -> 7, 12, 12, 12, 3, 22
+  27 -> 9, 13, 15, 12, 3, 24
+  28 -> 9, 13, 19, 13, 3, 26
+  29 -> 13, 13, 19, 18, 4, 26
+  30 -> 13, 16, 20, 17, 4, 26
+  31 -> 13, 16, 22, 21, 4, 30
+  32 -> 13, 20, 25, 21, 4, 30
+  33 -> 15, 20, 27, 21, 4, 35
+  34 -> 15, 23, 27, 23, 4, 40
+  35 -> 15, 23, 29, 28, 5, 44
+  36 -> 15, 33, 30, 28, 7, 49
+  37 -> 16, 34, 31, 30, 9, 49
+  38 -> 16, 36, 34, 30, 9, 49
+  39 -> 16, 36, 34, 30, 9, 49
+  40 -> 16, 36, 34, 30, 9, 49
+  41 -> 16, 36, 34, 30, 9, 49
+  42 -> 16, 36, 34, 30, 9, 49
+  43 -> 16, 36, 34, 30, 9, 49
+  44 -> 16, 56, 34, 30, 9, 49
+  45 -> 16, 59, 34, 35, 10, 52
+  46 -> 18, 61, 38, 35, 11, 62
+  47 -> 21, 61, 38, 41, 13, 72
+  48 -> 21, 64, 38, 41, 13, 75
+  49 -> 26, 69, 43, 41, 13, 75
+  50 -> 29, 69, 45, 41, 13, 77
+  51 -> 29, 73, 45, 44, 13, 80
+  52 -> 29, 75, 46, 46, 14, 80
+  53 -> 31, 75, 50, 48, 16, 80
+  54 -> 31, 80, 52, 48, 18, 80
+  55 -> 31, 80, 52, 56, 18, 82
+  56 -> 31, 89, 52, 56, 18, 84
+  57 -> 31, 93, 52, 59, 18, 87
+
+10:
+  11 -> 1, 0, 0, 0, 0, 3
+  12 -> 1, 0, 0, 0, 0, 5
+  13 -> 1, 0, 1, 2, 0, 6
+  14 -> 2, 1, 5, 3, 0, 8
+  15 -> 3, 3, 6, 3, 0, 9
+  16 -> 3, 5, 6, 3, 0, 11
+  17 -> 4, 6, 10, 3, 0, 12
+  18 -> 4, 8, 10, 5, 0, 14
+  19 -> 4, 9, 10, 5, 1, 17
+  20 -> 4, 9, 10, 5, 1, 17
+  21 -> 4, 9, 10, 5, 1, 17
+  22 -> 4, 9, 10, 5, 1, 17
+  23 -> 4, 9, 10, 8, 2, 21
+  24 -> 4, 11, 10, 10, 2, 21
+  25 -> 7, 11, 11, 10, 3, 22
+  26 -> 7, 12, 12, 12, 3, 22
+  27 -> 9, 13, 15, 12, 3, 24
+  28 -> 9, 13, 19, 13, 3, 26
+  29 -> 13, 13, 19, 18, 4, 26
+  30 -> 13, 16, 20, 17, 4, 26
+  31 -> 13, 16, 22, 21, 4, 30
+  32 -> 13, 20, 25, 21, 4, 30
+  33 -> 15, 20, 27, 21, 4, 35
+  34 -> 15, 23, 27, 23, 4, 40
+  35 -> 15, 23, 29, 28, 5, 44
+  36 -> 15, 33, 30, 28, 7, 49
+  37 -> 16, 34, 31, 30, 9, 49
+  38 -> 16, 36, 34, 30, 9, 49
+  39 -> 16, 36, 34, 30, 9, 49
+  40 -> 16, 36, 34, 30, 9, 49
+  41 -> 16, 36, 34, 30, 9, 49
+  42 -> 16, 36, 34, 30, 9, 49
+  43 -> 16, 36, 34, 30, 9, 49
+  44 -> 16, 56, 34, 30, 9, 49
+  45 -> 16, 59, 34, 35, 10, 52
+  46 -> 18, 61, 38, 35, 11, 62
+  47 -> 21, 61, 38, 41, 13, 72
+  48 -> 21, 64, 38, 41, 13, 75
+  49 -> 26, 69, 43, 41, 13, 75
+  50 -> 29, 69, 45, 41, 13, 77
+  51 -> 29, 73, 45, 44, 13, 80
+  52 -> 29, 75, 46, 46, 14, 80
+  53 -> 31, 75, 50, 48, 16, 80
+  54 -> 31, 80, 52, 48, 18, 80
+  55 -> 31, 80, 52, 56, 18, 82
+  56 -> 31, 89, 52, 56, 18, 84
+  57 -> 31, 93, 52, 59, 18, 87
+
+11:
+  12 -> 1, 0, 0, 0, 0, 3
+  13 -> 1, 0, 1, 2, 0, 5
+  14 -> 2, 1, 5, 3, 0, 8
+  15 -> 3, 3, 6, 3, 0, 9
+  16 -> 3, 5, 6, 3, 0, 11
+  17 -> 4, 6, 10, 3, 0, 12
+  18 -> 4, 8, 10, 5, 0, 14
+  19 -> 4, 9, 10, 5, 1, 17
+  20 -> 4, 9, 10, 5, 1, 17
+  21 -> 4, 9, 10, 5, 1, 17
+  22 -> 4, 9, 10, 5, 1, 17
+  23 -> 4, 9, 10, 8, 2, 21
+  24 -> 4, 11, 10, 10, 2, 21
+  25 -> 7, 11, 11, 10, 3, 22
+  26 -> 7, 12, 12, 12, 3, 22
+  27 -> 9, 13, 15, 12, 3, 24
+  28 -> 9, 13, 19, 13, 3, 26
+  29 -> 13, 13, 19, 18, 4, 26
+  30 -> 13, 16, 20, 17, 4, 26
+  31 -> 13, 16, 22, 21, 4, 30
+  32 -> 13, 20, 25, 21, 4, 30
+  33 -> 15, 20, 27, 21, 4, 35
+  34 -> 15, 23, 27, 23, 4, 40
+  35 -> 15, 23, 29, 28, 5, 44
+  36 -> 15, 33, 30, 28, 7, 49
+  37 -> 16, 34, 31, 30, 9, 49
+  38 -> 16, 36, 34, 30, 9, 49
+  39 -> 16, 36, 34, 30, 9, 49
+  40 -> 16, 36, 34, 30, 9, 49
+  41 -> 16, 36, 34, 30, 9, 49
+  42 -> 16, 36, 34, 30, 9, 49
+  43 -> 16, 36, 34, 30, 9, 49
+  44 -> 16, 56, 34, 30, 9, 49
+  45 -> 16, 59, 34, 35, 10, 52
+  46 -> 18, 61, 38, 35, 11, 62
+  47 -> 21, 61, 38, 41, 13, 72
+  48 -> 21, 64, 38, 41, 13, 75
+  49 -> 26, 69, 43, 41, 13, 75
+  50 -> 29, 69, 45, 41, 13, 77
+  51 -> 29, 73, 45, 44, 13, 80
+  52 -> 29, 75, 46, 46, 14, 80
+  53 -> 31, 75, 50, 48, 16, 80
+  54 -> 31, 80, 52, 48, 18, 80
+  55 -> 31, 80, 52, 56, 18, 82
+  56 -> 31, 89, 52, 56, 18, 84
+  57 -> 31, 93, 52, 59, 18, 87 
+ :::::
+
+## Pokémon FireRed/LeafGreen Alt Main Golbat
+
+If manipping Squirtle, go for Natures Mild or Rash, and min. IV: Atk x/22/x, Def 7/0/x, Sp.Atk x/x/28, Speed: x/19/x.  
+Attack and speed are useful for bridge rival.  
+If not manipping Squirtle, want 12 Atk at level 6, 11 Sp.Atk at level 5 (12 at level 6 with +1 on level up), and outspeed Bulbasaur.  
+For manipless, change "directinput=true" to "directinput=false" in the first line of the source file.
+
+Before starting your run, make sure your save file has the following:
+  - Text: Fast
+  - Battle Animations: Off
+  - Style: Set
+  - Button Mode: L=A
+
+Give yourself a 1 character name  
+Head outside then head north towards the grass have Oak stop you  
+Mash through text until you can pick Squirtle (middle Pokeball). Give it a one character name
+- Optional: check stats here (can skip)
+
+Head down and fight your rival
+
+:::::trainer[Rival 1]
+  - Tackle spam
+  - After the battle, check your Level 6 stats and enter them into the tracker
+:::::
+
+If manipless, put cursor on Bag when leaving lab (skips a cutscene before Route 1)
+
+Grab the Potion from mart guy
+
+Kill at least a Level 3 or a Level 2 on Route 1
+- Can kill Level 2 + Level 3 to hit Level 7 (not necessary, but having Bubble for Sammy helps)
+
+Grab the parcel at the mart then head back to Oak’s lab
+
+Catch Rattata/Pidgey if you come across them on the second way up (Tackle/Bubble to weaken)
+  - Don’t try to force an encounter since there’s backups later
+
+Head to Viridian Forest
+
+- Skip all the Bugcatchers until Sammy
+- Grab the Antidote after the second Bugcatcher (after the sign)
+- Grab the hidden Potion next to Sammy
+
+:::::::trainer[Bug Catcher Sammy]
+  :::::pokemon[Weedle]
+    :::if{source="Squirtle" condition="spe=13-" level=7}
+	  :info[Slower at -0 Speed]{color=red}
+	:::
+	:::if{source="Squirtle" condition="spe=14" level=7}
+      :info[Ties at -0 Speed (at Level 7) - slower at Level 6]{color=yellow}
+	:::
+    - Swap Tackle to Slot 2
+	- Bubble spam (if you don't have Bubble, Tail Whip and Tackle spam)
+    - Weedle's Poison Sting always does 3
+	- A poison tick does 2 if you have 23 or less Max HP, 3 if you have 24 or more Max HP
+  :::::
+:::::::
+
+If you got poisoned, Antidote depending on your SpAtk:
+:::if{source="Squirtle" condition="spa=14" level=8}
+- You won't be able to OHKO Geodude, Antidote so Tackle from Geodude puts you into high Torrent for Sandshrew (usually around 12-14HP)
+:::
+:::if{source="Squirtle" condition="spa=15+" level=8}
+- Antidote at 7/25, 6/26 or 7/27 HP (to keep Torrent for Sandshrew)
+- Can go to 5 or 6 HP if you get Level 12 for Onix or can OHKO it at Level 11 (28+ SpAtk Modest/Mild/Rash)
+:::
+
+Head to the gym, fight the minion
+
+:::::::trainer[Camper Liam]
+  :::::pokemon[Geodude]
+    - Bubble (x2)
+    ::damage[Chance to OHKO with Bubble*]{source="Squirtle" offensive=true movePower=20 level=8 opponentStat=11 healthThreshold=28 special=true stab=true torrent=true effectiveness=4}
+    ::damage[Geodude's Tackle]{source="Squirtle" offensive=false movePower=35 level=8 opponentLevel=10 opponentStat=21 special=false stab=false}
+  :::::
+  :::::pokemon[Sandshrew]
+	:::if{source="Squirtle" condition="spa=15-" level=9}
+      - Bubble x3
+	:::
+	:::if{source="Squirtle" condition="spa=16+" level=9}
+      - Bubble* x2 (75% to 2HKO in Torrent)
+	:::
+    ::damage[Sandshrew's Scratch]{source="Squirtle" offensive=false movePower=40 level=9 opponentLevel=11 opponentStat=21 special=false stab=false}
+  :::::
+:::::::
+
+:::::::trainer[Leader Brock]
+  :::::pokemon[Geodude]
+    Bubble (x2)
+    ::damage[Chance to OHKO with Bubble* (at Level 10)]{source="Squirtle" offensive=true movePower=20 level=10 opponentStat=12 healthThreshold=31 special=true stab=true torrent=true effectiveness=4}
+    ::damage[Chance to OHKO with Bubble (at Level 11)]{source="Squirtle" offensive=true movePower=20 level=11 opponentStat=12 healthThreshold=31 special=true stab=true effectiveness=4}
+    ::damage[Chance to OHKO with Bubble* (at Level 11)]{source="Squirtle" offensive=true movePower=20 level=11 opponentStat=12 healthThreshold=31 special=true stab=true torrent=true effectiveness=4}
+    ::damage[Geodude's Tackle (at Level 10)]{source="Squirtle" offensive=false movePower=35 level=10 opponentLevel=12 opponentStat=24 special=false stab=false}
+    ::damage[Geodude's Tackle (at Level 10 - after using Withdraw)]{source="Squirtle" offensive=false movePower=35 level=10 combatStages=1 opponentLevel=12 opponentStat=24 special=false stab=false}
+    ::damage[Geodude's Tackle (at Level 11)]{source="Squirtle" offensive=false movePower=35 level=11 opponentLevel=12 opponentStat=24 special=false stab=false}
+    ::damage[Geodude's Tackle (at Level 11 - after using Withdraw)]{source="Squirtle" offensive=false movePower=35 level=11 combatStages=1 opponentLevel=12 opponentStat=24 special=false stab=false}
+  :::::
+  :::::pokemon[Onix]
+	:::if{source="Squirtle" condition="spe=15-" level=11}
+      :info[Slower than Onix after a Bubble speedfall]{color=red}
+	:::
+	:::if{source="Squirtle" condition="spe=16" level=11}
+      :info[Tied with Onix after a Bubble speedfall]{color=yellow}
+	:::
+    :::if{source="Squirtle" condition="spe=17+" level=11}
+	  :info[Faster than Onix after a Bubble speedfall]{color=green}
+    :::
+    - Bubble (x2)
+    ::damage[Chance to OHKO with Bubble*]{source="Squirtle" offensive=true movePower=20 level=11 opponentStat=18 healthThreshold=33 special=true stab=true torrent=true effectiveness=4}
+    ::damage[Chance to OHKO with Bubble* (at Level 12)]{source="Squirtle" offensive=true movePower=20 level=12 opponentStat=18 healthThreshold=33 special=true stab=true torrent=true effectiveness=4}
+    ::damage[Onix's Tackle]{source="Squirtle" offensive=false movePower=35 level=11 opponentLevel=14 opponentStat=17 special=false}
+    ::damage[Onix's Tackle (after using Withdraw)]{source="Squirtle" offensive=false movePower=35 level=11 combatStages=1 opponentLevel=14 opponentStat=17 special=false}
+    ::damage[Onix's Rock Tomb]{source="Squirtle" offensive=false movePower=50 level=11 opponentLevel=14 opponentStat=17 special=false stab=true}
+    ::damage[Onix's Rock Tomb (after using Withdraw)]{source="Squirtle" offensive=false movePower=50 level=11 combatStages=1 opponentLevel=14 opponentStat=17 special=false stab=true}
+  :::::
+  - Teach WG over Tail Whip (Slot 1)
+:::::::
+
+After leaving the gym, enter the Mart
+
+:::card
+Sell: Rock Tomb
+
+Buy:
+- 9 Potions (10 if 2 Antidotes or 0 Para Heal)
+- 3 Antidotes (can buy 2 if still have one)
+- 1 Parlyz Heal (if no cutter yet)
+- 3 Awakenings
+- 1 Escape Rope
+- 4 Repels
+:::
+
+Head to Route 3 to get your running shoes
+
+:::::::trainer[Bug Catcher Colton]
+  - Try to end up at an HP after this fight where you keep Torrent for at least Level 14
+  :::::pokemon[Caterpie]
+    :::if{source="Squirtle" condition="spe=20-" level=13}
+	  :info[Slower at -1 Speed]{color=red}
+	:::
+	:::if{source="Squirtle" condition="spe=21+" level=13}
+      :info[Ties at -1 Speed]{color=yellow}
+	:::
+    - WG (x2)
+    ::damage[Chance to OHKO with WG*]{source="Squirtle" offensive=true movePower=40 level=13 opponentStat=9 healthThreshold=29 special=true stab=true torrent=true}
+    ::damage[Caterpie's Tackle]{source="Squirtle" offensive=false movePower=35 level=13 opponentLevel=10 opponentStat=11 special=false stab=false}
+  :::::
+  :::::pokemon[Weedle]
+    - WG (x2)
+    ::damage[Chance to OHKO with WG*]{source="Squirtle" offensive=true movePower=40 level=13 opponentStat=9 healthThreshold=28 special=true stab=true torrent=true}
+    - Weedle's Poison Sting always does 3
+  :::::
+  :::::pokemon[Caterpie]
+    :::if{source="Squirtle" condition="spe=20-" level=13}
+	  :info[Slower at -1 Speed]{color=red}
+	:::
+	:::if{source="Squirtle" condition="spe=21+" level=13}
+      :info[Ties at -1 Speed]{color=yellow}
+	:::
+    - WG (x2)
+    ::damage[Chance to OHKO with WG*]{source="Squirtle" offensive=true movePower=40 level=13 opponentStat=9 healthThreshold=29 special=true stab=true torrent=true}
+    ::damage[Caterpie's Tackle]{source="Squirtle" offensive=false movePower=35 level=13 opponentLevel=10 opponentStat=11 special=false stab=false}
+  :::::
+:::::::
+
+Fight the Bugcatcher, NOT the Lass above
+
+:::::::trainer[Bug Catcher Greg]
+  :::::pokemon[Weedle]
+	:::if{source="Squirtle" condition="spe=17-" level=13}
+      :info[Slower at -1 Speed]{color=red}
+	:::
+    :::if{source="Squirtle" condition="spe=18-19" level=13}
+	  :info[Tied at -1 Speed]{color=yellow}
+	:::
+    :::if{source="Squirtle" condition="spe=20+" level=13}
+	  :info[Faster at -1 Speed]{color=green}
+	:::
+    - WG (x2)
+    ::damage[Chance to OHKO with WG (at Level 13)]{source="Squirtle" offensive=true movePower=40 level=13 opponentStat=8 healthThreshold=26 special=true stab=true}
+    ::damage[Chance to OHKO with WG* (at Level 13)]{source="Squirtle" offensive=true movePower=40 level=13 opponentStat=8 healthThreshold=26 special=true stab=true torrent=true}
+    ::damage[Chance to OHKO with WG (at Level 14)]{source="Squirtle" offensive=true movePower=40 level=14 opponentStat=8 healthThreshold=26 special=true stab=true}
+    ::damage[Chance to OHKO with WG* (at Level 14)]{source="Squirtle" offensive=true movePower=40 level=14 opponentStat=8 healthThreshold=26 special=true stab=true torrent=true}
+    - Weedle's Poison Sting always does 3
+  :::::
+  :::::pokemon[Caterpie]
+    :::if{source="Squirtle" condition="spe=19-" level=14}
+	  :info[Slower at -1 Speed]{color=red}
+	:::
+	:::if{source="Squirtle" condition="spe=20" level=14}
+      :info[Ties at -1 Speed]{color=yellow}
+	:::
+    :::if{source="Squirtle" condition="spe=21+" level=14}
+	  :info[Faster at -1 Speed]{color=green}
+	:::
+    - WG (x2)
+    ::damage[Chance to OHKO with WG]{source="Squirtle" offensive=true movePower=40 level=14 opponentStat=7 healthThreshold=27 special=true stab=true}
+    - Caterpie's Tackle always does 2
+  :::::
+  :::::pokemon[Kakuna]
+    - WG (x2)
+    ::damage[Chance to OHKO with WG*]{source="Squirtle" offensive=true movePower=40 level=14 opponentStat=9 healthThreshold=27 special=true stab=true torrent=true}
+  :::::
+  :::::pokemon[Metapod]
+    - WG (x2)
+    ::damage[Chance to OHKO with WG*]{source="Squirtle" offensive=true movePower=40 level=14 opponentStat=9 healthThreshold=28 special=true stab=true torrent=true}
+  :::::
+:::::::
+
+:::::::trainer[Bug Catcher James]
+  :::::pokemon[Caterpie]
+    :::if{source="Squirtle" condition="spe=20-" level=15}
+	  :info[Slower at -1 Speed]{color=red}
+	:::
+	:::if{source="Squirtle" condition="spe=21-22" level=15}
+      :info[Ties at -1 Speed]{color=yellow}
+	:::
+    :::if{source="Squirtle" condition="spe=23+" level=15}
+	  :info[Faster at -1 Speed]{color=green}
+	:::
+    - WG (x2)
+    ::damage[Chance to OHKO with WG]{source="Squirtle" offensive=true movePower=40 level=15 opponentStat=8 healthThreshold=30 special=true stab=true}
+    ::damage[Caterpie's Tackle]{source="Squirtle" offensive=false movePower=35 level=15 opponentLevel=11 opponentStat=11 special=false stab=false}
+  :::::
+  :::::pokemon[Metapod]
+    - WG (x2)
+    ::damage[Chance to OHKO with WG*]{source="Squirtle" offensive=true movePower=40 level=15 opponentStat=10 healthThreshold=32 special=true stab=true torrent=true}
+  :::::
+:::::::
+
+Avoid the lass
+
+If you didn’t catch a Flyer yet, catch a Spearow/Pidgey now in the grass below the lass (Bubble to weaken)
+- If you come across a Nidoran and don't have a Rattata either, you can catch it (can learn Cut and Strength)
+
+Grab the hidden Persim Berry to the left of the poke center
+Optional: Buy Magikarp (useful as switch fodder) and heal in the center (to preserve potions)
+Enter Mt. Moon
+
+Mt. Moon menu:
+  - Register the TM case
+  - Give the Persim Berry to Squirtle
+  - Use a Repel
+
+Grab the Rare Candy below the Bug Catcher and the escape rope  
+Get TM Thief and hidden Ether (down the ladder near youngster Josh)  
+Fight Hiker Marcos
+
+:::::::trainer[Hiker Marcos]
+  - Bubble x3
+:::::::
+
+Get the Revive.  
+Catch Zubat on B2F.  
+Tackle if Level 8 or 9, Water Gun if level 10 or 11. Always Bubble in Torrent.  
+Repel after you caught it.  
+If you catch a Lvl 10 Paras, you can use it to repel trick for Zubat.  
+Before the mandatory Rocket, switch Zubat to the front, switch setting to shift.
+:::if{source="Zubat" condition="startingLevel=8"}
+  Teach Zubat Thief.
+:::
+
+Note: Whenever Wartortle faints an opponent Pokemon, all strats below assume that you then switch back to Zubat immediately.
+
+:::::::trainer[Rocket Grunt]
+  :::::pokemon[Rattata]
+	- Switch to Wartortle: WG x2
+	::damage[Rattata's Hyper Fang]{source="Squirtle" offensive=false movePower=80 level=16 evolution=1 opponentLevel=13 opponentStat=19 special=false stab=true}
+	::damage[Rattata's Quick Attack]{source="Squirtle" offensive=false movePower=40 level=16 evolution=1 opponentLevel=13 opponentStat=19 special=false stab=true}
+  :::::
+  :::::pokemon[Zubat]
+	- Switch to Wartortle: WG x2
+        ::damage[Chance to OHKO with WG*]{source="Squirtle" offensive=true movePower=40 level=16 evolution=1 opponentStat=13 healthThreshold=33 special=true stab=true torrent=true}
+  :::::
+:::::::
+
+:::::::trainer[Super Nerd Miguel]
+  :::::pokemon[Grimer]
+	- Switch to Wartortle and WG x2-3
+  :::::
+  :::::pokemon[Voltorb]
+    Switch to Wartortle: WG x2
+    ::damage[Chance to OHKO with WG* (at Level 17)]{source="Squirtle" offensive=true movePower=40 level=17 evolution=1 opponentStat=16 healthThreshold=31 special=true stab=true torrent=true}
+  :::::
+  :::::pokemon[Koffing]
+    Switch to Wartortle: WG x2
+    ::damage[Chance to OHKO with WG* (at Level 17)]{source="Squirtle" offensive=true movePower=40 level=17 evolution=1 opponentStat=15 healthThreshold=31 special=true stab=true torrent=true}
+  :::::
+   :::::::
+
+Grab the Helix Fossil, then leave Mt. Moon
+
+Optional: grab the hidden Great Ball in the corner left of the Karate Guys if you need to catch a Cutter (makes the catch pretty much guaranteed)
+
+Talk to the right Karate Guy and teach 
+- Mega Kick over Withdraw (Slot 4)
+
+Enter the grass and catch your cutter (Rattata/Sandshrew - Tackle to weaken - Great Ball catch is guaranteed at <70% HP)
+
+Heal in the center if you skipped Mt. Moon center or with Potions if you took the Mt. Moon center
+Get the rare candy
+
+:::::::trainer[Rival 2]
+  :::::pokemon[Pidgeotto]
+    - Sac an HM Friend before switching to Wartortle if Zubat is at full health as Pidgeotto is likely to go for Sand Attack
+	- MK x2
+	::damage[Pidgeotto's Quick Attack]{source="Squirtle" offensive=false movePower=40 level=17 evolution=1 opponentLevel=17 opponentStat=26 special=false stab=true}
+  :::::
+  :::::pokemon[Bulbasaur]
+	MK x2
+	- Back to Zubat, then switch to an HM Friend (not Paras). If Bulbasaur puts the HM Friend to sleep, potion Wartortle.  
+	Also, switch in another HM Friend to Ether Megakick if you missed a kick on Pidgeotto.
+    ::damage[Bulbasaur's Vine Whip]{source="Squirtle" offensive=false movePower=35 level=17 evolution=1 opponentLevel=18 opponentStat=30 special=true stab=true effectiveness=2}
+    ::damage[Bulbasaur's Vine Whip (in Overgrow)]{source="Squirtle" offensive=false movePower=35 level=17 evolution=1 opponentLevel=18 opponentStat=30 special=true stab=true torrent=true effectiveness=2}
+  :::::
+  :::::pokemon[Abra]
+    - Astonish x2 + Leech Life
+  :::::
+  :::::pokemon[Rattata]
+    - After the rat comes in, switch to Wartortle
+	- MK or WG x2 (need at least one MK PP for later)
+    ::damage[Rattata's Quick Attack]{source="Squirtle" offensive=false movePower=40 level=17 evolution=1 opponentLevel=15 opponentStat=24 special=false stab=true}
+  :::::
+:::::::
+
+:::::::trainer[Bug Catcher Cale]
+ :::if{source="Zubat" condition="startingLevel=8"}
+  Zubat solos this fight:  
+  Caterpie: Astonish x4 (+Leech Life)  
+  Metapod: Thief x5  
+  Kakuna: Thief x4-5
+  Weedle: Astonish x4
+ :::
+ :::if{source="Zubat" condition="startingLevel=9"}
+  Caterpie: Astonish x4 (+Leech Life)  
+  Metapod: switch to Wartortle: WG  
+  Kakuna: switch to Wartortle: WG  
+  Weedle: Astonish x4
+ :::
+ :::if{source="Zubat" condition="startingLevel=10-11"}
+   Switch train all 4 pokes.
+ :::
+:::::::
+
+Ether Megakick if you haven't yet
+
+:::::::trainer[Lass Ali]
+  :::::pokemon[Pidgey]
+    Switch to Wartortle: MK (at least 3 PP left) or WG x2
+  :::::
+  :::::pokemon[Oddish]
+    Switch to Wartortle: MK  
+  Absorb does 6-7(8) damage
+  :::::
+  :::::pokemon[Bellsprout]
+  :::if{source="Zubat" condition="startingLevel=8-9"}
+    Astonish x5 (+Thief if you have PP left)
+  ::: 
+  :::if{source="Zubat" condition="startingLevel=10-11"}
+    Switch train if Wartortle has MK PP left
+  :::
+  :::::
+:::::::
+
+:::::::trainer[Youngster Timmy]
+  Switch train both pokes, use WG
+:::::::
+
+:::::::trainer[Lass Reli]
+  Switch train both pokes, use WG
+:::::::
+
+:::if{source="Zubat" condition="startingLevel=8"}
+  Fight Camper Ethan first before doing Misty.  
+  Mankey outspeeds and can do a lot of damage. Heal Wartortle and consider sacking an HM friend for the safe switch in.
+:::
+:::if{source="Zubat" condition="startingLevel=9-11"}
+  Teach Bite over Bubble and do Misty now.
+:::  
+
+:::::::trainer[Camper Ethan]
+  :::::pokemon[Mankey]
+    Switch to Wartortle
+    WG x2 (87% to 2HKO out of torrent for manipped Squirtle)  
+    WP* if doing Ethan after Misty
+	::damage[Mankey's Karate Chop]{source="Squirtle" offensive=false movePower=50 level=18 evolution=1 opponentLevel=18 opponentStat=33 special=false stab=true}
+  :::::
+:::::::
+
+Heal in the center
+Head to Misty's gym
+
+:::::::trainer[Misty]
+  :::::pokemon[Staryu]
+    Switch to Wartortle: Bite + MK (if 1 Harden) or Bite + WG + Bite (if 2 Hardens)  
+    Misty only has 1 Super Potion, if you manage to put Staryu into Heal range, just spam Bite on Starmie
+  :::::
+  :::::pokemon[Starmie]
+    Sac 2 HM friends to potion Wartortle before switching it back in
+    :::if{source="Squirtle" condition="spa=34-38" evolution=1 level=19}
+      Bite + Tackle/WG (x2) + Bite
+    :::
+    Try to avoid hitting Starmie into heal range
+    ::damage[Starmie's Swift]{source="Squirtle" offensive=false movePower=60 level=19 evolution=1 opponentLevel=21 opponentStat=39 special=false stab=false}
+    ::damage[Starmie's Water Pulse]{source="Squirtle" offensive=false movePower=60 level=19 evolution=1 opponentLevel=21 opponentStat=47 special=true stab=true effectiveness=0.5}
+  :::::
+:::::::
+
+After the fight, leave the gym, then:
+- Teach Water Pulse over Tackle
+
+:::::::trainer[Rocket Grunt]
+  :::::pokemon[Ekans]
+    - Switch to Wartortle and WP*
+  :::::
+  :::::pokemon[Zubat]
+    - Switch to Wartortle: WP
+::damage[Chance to OHKO with WP]{source="Squirtle" offensive=true movePower=60 level=20 evolution=1 opponentStat=17 healthThreshold=37 special=true stab=true}
+  :::::
+:::::::
+  
+Get TM Attract if Zubat is female
+
+  Fight the bottom hiker
+  :::::::trainer[Hiker Wayne]
+    :::::pokemon[Onix]
+	  - Switch to Wartortle: WG
+    :::::
+  :::::::
+
+Pass Dan, fight the Picknicker below him
+
+:::::::trainer[Picknicker Kelsey]
+  :::if{source="Zubat" condition="startingLevel=8-9"}
+   Zubat: Bite spam
+  :::
+  :::if{source="Zubat" condition="startingLevel=10"}
+   NidoM: Zubat bites  
+   NidoF: Switch to Wartortle: WP*
+  :::  
+  :::if{source="Zubat" condition="startingLevel=11"}
+   Switch train against both pokes
+  ::: 
+:::::::
+
+Fight the hiker first:
+
+:::::::trainer[Hiker Nob]
+  Switch train all 4 pokes  
+  3 Geodudes: WG  
+  Machop: WP
+  ::damage[Geodude's Rock Throw]{source="Squirtle" offensive=false movePower=50 level=20 evolution=1 opponentLevel=13 opponentStat=25 special=false stab=true}
+:::::::
+
+Let the camper see you from max distance so that we get access to the TM behind him
+
+:::::::trainer[Camper Flint]
+  :::::pokemon[Rattata]
+    - Switch to Wartortle and WP
+	::damage[Rattata's Quick Attack]{source="Squirtle" offensive=false movePower=40 level=20 evolution=1 opponentLevel=14 opponentStat=18 special=false stab=true}
+	::damage[Rattata's Hyper Fang]{source="Squirtle" offensive=false movePower=80 level=20 evolution=1 opponentLevel=14 opponentStat=18 special=false stab=true}
+  :::::
+  :::::pokemon[Ekans]
+  :::if{source="Zubat" condition="startingLevel=8-10"}
+   Zubat: Bite spam
+  :::
+  :::if{source="Zubat" condition="startingLevel=11"}
+   Switch to Wartortle: WP
+  :::  
+  :::::
+:::::::
+
+Get TM Secret Power  
+Teach Secret Power over Thief/Supersonic  
+Change setting to Set mode
+
+:::::::trainer[Lass Haley]
+  Spam Secret Power
+::damage[Pidgey's Quick Attack]{source="Zubat" offensive=false movePower=40 level=17 evolution=0 opponentLevel=13 opponentStat=16 special=false stab=true}
+:::::::
+
+Talk to Bill, get the S.S. Ticket, then run back to Cerulean
+
+:::::::trainer[Rocket Grunt]
+  :::::pokemon[Machop]
+    SP x4
+  :::::
+  :::::pokemon[Drowzee]
+	Switch to Wartortle and MK
+  :::::
+:::::::
+
+Run down through the underground tunnel, after exiting, get the rare candy, run down and fight the bottom trainer (avoid the Bugcatcher on the way)
+
+:::::::trainer[Camper Jeff]
+  :::::pokemon[Spearow]
+    SP x2
+    ::damage[Spearow's Fury Attack (per hit)]{source="Zubat" offensive=false movePower=15 level=18 evolution=1 opponentLevel=16 opponentStat=24 special=false stab=false}
+  :::::
+  :::::pokemon[Raticate]
+    Switch to Wartortle and WP x2
+    ::damage[Raticate's Hyper Fang]{source="Squirtle" offensive=false movePower=80 level=21 evolution=1 opponentLevel=16 opponentStat=30 special=false stab=true}
+    ::damage[Raticate's Quick Attack]{source="Squirtle" offensive=false movePower=40 level=21 evolution=1 opponentLevel=16 opponentStat=30 special=false stab=true}
+  :::::
+:::::::
+
+Check Zubat's speed at level 19. Need 29 speed to outspeed Kadabra (has 47 speed) as Golbat.  
+Rare candy x3 to level 22  
+Teach Wing Attack over Leech Life
+
+Enter the mart
+
+:::card
+Buy:
+- 6 Super Potions
+- 4 Parlyz Heal
+- 7 Repels
+:::
+
+Head to the S.S. Anne, take the boat heal immediately if low on health, then head up towards the captain's room
+
+:::::::trainer[Rival 3]
+  :::::pokemon[Pidgeotto]
+    If faster than Kadabra: WA x2  
+    If not faster than Kadabra: consider WA+SP (range if bad attack)  
+    Switch out if you get Sand-Attacked and faster than Kadabra  
+    Switch out after defeating Pidgeotto if Sand-Attacked and not faster than Kadabra
+    ::damage[Pidgeotto's Gust]{source="Zubat" offensive=false movePower=40 level=22 evolution=1 opponentLevel=19 opponentStat=28 special=false stab=true}
+  :::::
+ :::::pokemon[Kadabra]
+   :::if{source="Zubat" condition="speed=(# / 6- / x)"}
+     :info[Slower than Kadabra]{color=red}
+   :::
+   :::if{source="Zubat" condition="speed=(x / 7-11 / x)"}
+     :info[Ties with Kadabra]{color=yellow}
+   :::
+   :::if{source="Zubat" condition="speed=(x / 12+ / #)"}
+     :info[Faster than Kadabra]{color=green}
+   :::
+   WA (SP if not faster than Kadabra and used WA last on Pidgeotto)
+   Watch out for Disable!!
+   ::damage[Chance to OHKO with Secret Power]{source="Zubat" offensive=true movePower=70 level=22 statModifier=1.1 evolution=1 opponentStat=16 healthThreshold=43 special=false stab=false}
+   ::damage[Kadabra's Confusion]{source="Zubat" offensive=false movePower=50 level=22 evolution=1 opponentLevel=18 opponentStat=49 special=true stab=true effectiveness=2}
+  :::::
+ :::::pokemon[Raticate]
+	- WA x2
+   	::damage[Raticate's Hyper Fang]{source="Zubat" offensive=false movePower=80 level=22 evolution=1 opponentLevel=16 opponentStat=34 special=false stab=true}
+	::damage[Raticate's Quick Attack]{source="Zubat" offensive=false movePower=40 level=22 evolution=1 opponentLevel=16 opponentStat=34 special=false stab=true}
+  :::::
+  :::::pokemon[Ivysaur]
+    - WA+SP
+  :::::
+ :::::::
+
+Talk to the captain for HM Cut (teach it to your Rattata/Sandshrew/Nidoran at some point before the bike shop)
+- Can take boat heal on the way out if low on health
+
+Get the Bike Voucher if you haven't grabbed it yet, then run back up to Cerulean City
+
+Enter the Bike shop and get the bike, then leave and menu:
+- Register and use the Bike
+
+Head to the right towards Rock Tunnel
+
+:::::::trainer[Jr. Trainer Alicia]
+  WA x4  
+:::::::
+
+Get TM Aerial Ace  
+Note: Until Celadon, if both WA and SP kill, prefer SP for PP management.
+
+:::::::trainer[Bug Catcher Conner]
+  :::::pokemon[Caterpie]
+	WA
+  :::::
+  :::::pokemon[Venonat]
+	WA
+  :::::
+  :::::pokemon[Weedle]
+	WA / SP
+     ::damage[Chance to OHKO Weedle with SP]{source="Zubat" offensive=true movePower=70 level=24 statModifier=1.1 evolution=1 opponentStat=15 healthThreshold=46 special=false stab=false}
+  :::::
+:::::::
+
+- Grab the hidden Chesto Berry if you ran out of Awakenings (to the left of the Hiker)
+- Grab the hidden Rare Candy before jumping the ledge, head towards Rock Tunnel
+- Cut the top bush next to the Pokemon Center, (optional) grab the hidden Super Potion behind it
+
+After entering Rock Tunnel:
+- Repel immediately (Re-Repel whenever it runs out)
+
+:::::::trainer[Pokémaniac Ashton]
+  :::::pokemon[Cubone]
+    WA x3
+  :::::
+  :::::pokemon[Slowpoke]
+    Bite x2
+	::damage[Slowpoke's Confusion]{source="Zubat" offensive=false movePower=50 level=24 evolution=1 opponentLevel=23 opponentStat=24 special=true stab=true effectiveness=2}
+  :::::
+:::::::
+
+:::::::trainer[Pokémaniac Winston]
+  :::::pokemon[Slowpoke]
+    Bite x2
+	::damage[Slowpoke's Confusion]{source="Zubat" offensive=false movePower=50 level=24 evolution=1 opponentLevel=23 opponentStat=24 special=true stab=true effectiveness=2}
+  :::::
+:::::::
+
+:::::::trainer[Picknicker Martha]
+  WA x2  
+:::::::
+
+Fight the hiker to the right
+
+:::::::trainer[Hiker Eric]
+  :::::pokemon[Machop]
+	WA
+  :::::
+  :::::pokemon[Onix]
+	- Bite x2
+	::damage[Onix' Rock Throw]{source="Zubat" offensive=false movePower=50 level=25 evolution=1 opponentLevel=20 opponentStat=25 special=false stab=true effectiveness=2}
+  :::::
+:::::::
+
+  After the ladder, bike down and fight Hiker Oliver
+  :::::::trainer[Hiker Oliver]
+    :::::pokemon[Onix]
+      Bite x2
+	::damage[Onix' Rock Throw]{source="Zubat" offensive=false movePower=50 level=26 evolution=1 opponentLevel=20 opponentStat=25 special=false stab=true effectiveness=2}
+    :::::
+    :::::pokemon[Onix]
+      Bite x2
+    :::::
+    :::::pokemon[Geodude]
+      Bite x2
+      ::damage[Geodudes' Rock Throw]{source="Zubat" offensive=false movePower=50 level=26 evolution=1 opponentLevel=20 opponentStat=37 special=false stab=true effectiveness=2}
+    :::::
+  :::::::
+
+:::::::trainer[Picknicker Sofia]
+  :::::pokemon[Jigglypuff]
+	- WA (+SP)
+    ::damage[Chance to OHKO with WA]{source="Zubat" offensive=true movePower=60 level=26 statModifier=1.1 evolution=1 opponentStat=13 healthThreshold=79 special=false stab=true}
+  :::::
+  :::::pokemon[Pidgey]
+    WA / SP
+    ::damage[Chance to OHKO with SP]{source="Zubat" offensive=true movePower=70 level=26 statModifier=1.1 evolution=1 opponentStat=18 healthThreshold=47 special=false stab=false}
+  :::::
+  :::::pokemon[Meowth]
+    WA / SP
+   ::damage[Chance to OHKO with SP]{source="Zubat" offensive=true movePower=70 level=26 statModifier=1.1 evolution=1 opponentStat=17 healthThreshold=47 special=false stab=false}
+  :::::
+:::::::
+
+:::::::trainer[Hiker Dudley]
+  :::::pokemon[Geodude]
+    Bite x2
+     ::damage[Both Geodudes' Rock Throw]{source="Zubat" offensive=false movePower=50 level=27 evolution=1 opponentLevel=21 opponentStat=38 special=false stab=true effectiveness=2}
+  :::::
+  :::::pokemon[Geodude]
+    Bite x2
+  :::::
+  :::::pokemon[Graveler]
+    Bite x2
+ ::damage[Graveler's Rock Throw]{source="Zubat" offensive=false movePower=50 level=27 evolution=1 opponentLevel=21 opponentStat=44 special=false stab=true effectiveness=2}
+  :::::
+:::::::
+
+:::::::trainer[Picknicker Dana]
+  :::::pokemon[Meowth]
+	- WA / SP
+::damage[Chance to OHKO Meowth with SP]{source="Zubat" offensive=true movePower=70 level=27 evolution=1 opponentStat=19 healthThreshold=46 special=false stab=false}
+  :::::
+  :::::pokemon[Oddish]
+	- WA
+  :::::
+  :::::pokemon[Pidgey] 
+	- WA
+  :::::
+:::::::
+
+Bike south and get TM Return  
+Head back north, then left to the next route, fight the Lass (Gamer's Growlith has Roar and can burn with Ember)
+
+:::::::trainer[Lass Julia]
+  :::::pokemon[Clefairy]
+    SP x2
+  :::::
+  :::::pokemon[Clefairy]
+    SP x2
+  :::::
+:::::::
+
+Avoid all the trainers and head into the building above the bikers  
+Head straight to Erika's gym  
+Head through the right side of the gym
+
+:::::::trainer[Picknicker Tina]
+  - WA x2  
+:::::::
+
+:::::::trainer[Lass Lisa]
+  - WA x2  
+:::::::
+
+:::::::trainer[Leader Erika]
+  :::::pokemon[Victreebel]
+	- WA x2
+  :::::
+  :::::pokemon[Tangela]
+	- WA x2 (can Bite+WA if not paralyzed)
+  :::::
+  :::::pokemon[Vileplume]
+	- WA x2 (heal para before the final attack)
+  :::::
+:::::::
+
+Head to the game corner
+
+:::::::trainer[Rocket Grunt]
+  :::::pokemon[Raticate]
+ 	WA (+SP)
+    ::damage[Chance to OHKO with WA]{source="Zubat" offensive=true movePower=60 level=30 statModifier=1.1 evolution=1 opponentStat=29 healthThreshold=52 special=false stab=true}
+	::damage[Raticate's Hyper Fang]{source="Zubat" offensive=false movePower=80 level=30 evolution=1 opponentLevel=20 opponentStat=37 special=false stab=true}
+	::damage[Raticate's Quick Attack]{source="Zubat" offensive=false movePower=40 level=30 evolution=1 opponentLevel=20 opponentStat=37 special=false stab=true}
+  :::::
+  :::::pokemon[Zubat]
+    SP
+  :::::
+:::::::
+
+Heal out of Koffing's Selfdestruct damage range  
+Teach Aerial Ace over Wing Attack  
+Teach Return over Secret Power  
+Teach Giga Drain over Astonish/Thief  
+Talk to the poster and head into the Rocket Hideout
+
+- Grab hidden PP Up
+- Grab hidden Nugget
+
+:::::::trainer[Lift Key Grunt]
+  :::::pokemon[Koffing]
+	Bite+Return
+	::damage[Koffing's Self Destruct]{source="Zubat" offensive=false movePower=200 level=30 statModifier=0.5 evolution=1 opponentLevel=21 opponentStat=32 special=false stab=false}
+  :::::
+  :::::pokemon[Zubat]
+    Return
+  :::::
+:::::::
+
+Grab the Lift Key, then head back up
+- On the way back up, grab the Rare Candy
+- Head towards the elevator to floor B4
+- Grab Calcium
+- Fight the left Rocket Grunt first
+
+:::::::trainer[Left Rocket Grunt]
+  :::::pokemon[Sandshrew]
+	Giga Drain
+  :::::
+  :::::pokemon[Ekans]
+    AA (+Return)
+    ::damage[Chance to OHKO with AA]{source="Zubat" offensive=true movePower=60 level=31 statModifier=1.1 evolution=1 opponentStat=22 combatStages=-1 healthThreshold=49 special=false stab=true}
+  :::::
+  :::::pokemon[Sandslash]
+    Bite + Giga Drain
+  :::::
+:::::::
+
+:::::::trainer[Right Rocket Grunt]
+  :::::pokemon[Ekans]
+   AA (+Return)
+    ::damage[Chance to OHKO with AA]{source="Zubat" offensive=true movePower=60 level=31 statModifier=1.1 evolution=1 opponentStat=22 combatStages=-1 healthThreshold=49 special=false stab=true}
+  :::::
+  :::::pokemon[Sandshrew]
+    Giga Drain
+  :::::
+  :::::pokemon[Arbok]
+    AA x3
+  :::::
+:::::::
+
+:::::::trainer[Giovanni 1]
+  :::::pokemon[Onix]
+	Giga Drain
+  :::::
+  :::::pokemon[Rhyhorn]
+    Giga Drain
+  :::::
+  :::::pokemon[Kangaskhan]
+   :::if{source="Zubat" condition="speed=(25- / 0 / x)"}
+     :info[Slower than Kangaskhan]{color=red}
+   :::
+   :::if{source="Zubat" condition="speed=(26-28 / 1-3 / x)"}
+     :info[Tied with Kangaskhan]{color=yellow}
+   :::
+   :::if{source="Zubat" condition="speed=(29+ / 4+ / #)"}
+     :info[Faster than Kangaskhan]{color=green}
+   :::
+    AA x4-5
+    ::damage[Kangaskhan's Mega Punch]{source="Zubat" offensive=false movePower=80 level=32 evolution=1 opponentLevel=29 opponentStat=68 combatStages=0 special=false stab=true}
+    ::damage[Kangaskhan's Mega Punch (at -1)]{source="Zubat" offensive=false movePower=80 level=32 evolution=1 opponentLevel=29 opponentStat=68 combatStages=-1 special=false stab=true}
+  :::::
+:::::::
+
+After Giovanni:
+- Grab the Silph Scope
+- Heal
+- Use an Escape Rope
+
+Bike left to get Fly  
+Then head to the mart and take the elevator to 5F (vv)
+
+:::::::card
+  **Shopping: (bottom vendor)**
+
+  Sell:
+  - 2 Nuggets
+  - 1 PP Up
+  - 1 Calcium
+ 
+  Buy:
+  - 38 X Attacks
+  - 6 X Defend
+  - 5 X Speed
+  - 3 X Specials
+  - 11 Guard Specs
+:::::::
+
+Take the elevator back down, grab the Tea, then bike to Vermillion (through Saffron).  
+Get the hidden Max Ether south of the Poke Center, then enter the Gym.
+
+Do cans (save after finding the first one)
+
+:::::::trainer[Gentleman Tucker]
+  :::::pokemon[Pikachu]
+    Return
+  :::::
+:::::::
+
+:::::::trainer[Leader Surge]
+  :::::pokemon[Voltorb]
+    Return (x2)
+  :::::
+  :::::pokemon[Pikachu]
+    Return
+  :::::
+  :::::pokemon[Raichu]
+    Return + AA
+	::damage[Raichu's Shock Wave]{source="Zubat" offensive=false movePower=60 level=33 evolution=1 opponentLevel=24 opponentStat=52 special=true stab=true effectiveness=2}
+	::damage[Raichu's Quick Attack]{source="Zubat" offensive=false movePower=40 level=33 evolution=1 opponentLevel=24 opponentStat=43 special=false stab=false}
+  :::::
+:::::::
+
+After leaving the gym:
+- Heal
+- Para heal if necessary
+- Teach Fly to bird
+- Repel
+- Fly to Lavender Town
+
+:::::::trainer[Rival 4]
+  :::::pokemon[Pidgeotto]
+    - X Attack, Guard Spec, AA
+    ::damage[Chance to OHKO with AA (at +1)]{source="Zubat" offensive=true movePower=60 level=33 statModifier=1.1 evolution=1 opponentStat=35 combatStages=1 healthThreshold=69 special=false stab=true}
+  :::::
+  :::::pokemon[Kadabra]
+    AA
+  :::::
+  :::::pokemon[Gyarados]
+    AA x2
+    ::damage[Gyarados's Thrash]{source="Zubat" offensive=false movePower=90 level=33 evolution=1 opponentLevel=23 opponentStat=65 special=false stab=false}
+  :::::
+  :::::pokemon[Growlithe]
+    AA
+  :::::
+  :::::pokemon[Ivysaur]
+    AA
+  :::::
+:::::::
+
+Optional: Grab the Elixir in 4F  
+Head to the 5th floor avoiding all optional trainers along the way  
+Use the heal pad
+
+:::::::trainer[Channeler Tammy]
+  :::::pokemon[Haunter]
+    Bite
+  :::::
+:::::::
+
+:::::::trainer[Channeler Jennifer]
+  :::::pokemon[Gastly]
+    Bite
+  :::::
+:::::::
+
+:::::::trainer[Channeler Emilia]
+  :::::pokemon[Gastly]
+    Bite
+  :::::
+:::::::
+
+Grab the Rare Candy before fighting Marowak
+
+:::::::trainer[Ghost Marowak]
+  :::::pokemon[Marowak]
+    - Giga Drain, Giga Drain, AA
+  :::::
+:::::::
+
+Head upstairs and let every Rocket Grunt walk up to you along the way
+
+:::::::trainer[Rocket Grunt]
+  :::::pokemon[Zubat]
+    Return
+  :::::
+  :::::pokemon[Zubat]
+    Return
+  :::::
+  :::::pokemon[Golbat]
+    AA+Return
+  :::::
+:::::::
+
+:::::::trainer[Rocket Grunt]
+  :::::pokemon[Koffing]
+    Bite x2
+    ::damage[Koffing's Self Destruct]{source="Zubat" offensive=false movePower=200 level=35 statModifier=0.5 evolution=1 opponentLevel=26 opponentStat=38 special=false stab=false}
+  :::::
+  :::::pokemon[Drowzee]
+    AA (+Return)
+    ::damage[Chance to OHKO with AA]{source="Zubat" offensive=true movePower=60 level=35 statModifier=1.1 evolution=1 opponentStat=28 healthThreshold=67 special=false stab=true}
+  :::::
+:::::::
+
+:::::::trainer[Rocket Grunt]
+  :::::pokemon[Zubat]
+    Return
+  :::::
+  :::::pokemon[Zubat]
+    Return
+  :::::
+  :::::pokemon[Rattata]
+    Return
+  :::::
+  :::::pokemon[Raticate]
+    AA
+    ::damage[Chance to OHKO with AA]{source="Zubat" offensive=true movePower=60 level=35 statModifier=1.1 evolution=1 opponentStat=32 healthThreshold=58 special=false stab=true}
+    ::damage[Raticate's Hyper Fang]{source="Zubat" offensive=false movePower=80 level=35 evolution=1 opponentLevel=23 opponentStat=46 special=false stab=true}
+  :::::
+:::::::
+
+Talk to the old man to exit, afterwards
+- Talk to him to get the Poke Flute
+- Leave the house
+- Fly to Celadon
+
+Bike to Snorlax and run away  
+Pass the bikers (pause/bag/whatever manip)  
+Grab the hidden Rare Candy (3rd sign down) and the hidden Max Elixir (at the end of Cycling Road)  
+Head straight to the Safari Zone
+
+Before the grass in the second area
+- Repel
+
+Get the Full Restore (in the second area)  
+Get TM Steel Wing  
+Get the Protein  
+Get the Gold Teeth  
+Get the Revive
+
+Enter the house and get Surf, 
+- Fly to Fuchsia and enter the Gym
+- Heal and use Protein during bag manip of first spinner
+
+:::::::trainer[Juggler Kirk]
+  :::::pokemon[Drowzee]
+    X Attack, AA
+    ::damage[Chance to OHKO with AA (at +1)]{source="Zubat" offensive=true movePower=60 level=35 statModifier=1.1 evolution=1 opponentStat=35 combatStages=1 healthThreshold=78 special=false stab=true}
+    ::damage[Drowzee's Psychic]{source="Zubat" offensive=false movePower=90 level=35 evolution=1 opponentLevel=31 opponentStat=31 special=true stab=true effectiveness=2}
+  :::::
+  :::::pokemon[Drowzee]
+    AA
+   ::damage[Chance to OHKO with AA (at +1)]{source="Zubat" offensive=true movePower=60 level=36 statModifier=1.1 evolution=1 opponentStat=32 combatStages=1 healthThreshold=78 special=false stab=true}
+  :::::
+  :::::pokemon[Kadabra]
+    Return
+  :::::
+  :::::pokemon[Drowzee]
+    AA
+   ::damage[Chance to OHKO with AA (at +1)]{source="Zubat" offensive=true movePower=60 level=36 statModifier=1.1 evolution=1 opponentStat=32 combatStages=1 healthThreshold=78 special=false stab=true}
+  :::::
+:::::::
+
+:::::::trainer[Leader Koga]
+  :::::pokemon[Koffing]
+    X Defend + X Attack + AA x2
+    ::damage[Koffing's Self Destruct (at +1)]{source="Zubat" offensive=false movePower=200 level=36 evolution=1 statModifier=0.5 opponentLevel=37 opponentStat=53 combatStages=1 special=false stab=false}
+  :::::
+  :::::pokemon[Muk]
+    X Attack + AA x2 (3rd X Attack after first AA if not confident 2nd AA will kill)  
+    Should Muk use Acid Armor, use additional X Attack and adept. Try to avoid putting it into heal range if possible.
+    ::damage[Muk's Sludge (at +1)]{source="Zubat" offensive=false movePower=65 level=36 evolution=1 opponentLevel=39 opponentStat=77 combatStages=1 special=false stab=true effectiveness=0.5}
+  :::::
+  :::::pokemon[Koffing]
+    AA x2
+  :::::
+  :::::pokemon[Weezing]
+    AA x3
+    ::damage[Weezing's Sludge (at +1)]{source="Zubat" offensive=false movePower=65 level=37 evolution=1 opponentLevel=43 opponentStat=82 combatStages=1 special=false stab=true effectiveness=0.5}
+  :::::
+:::::::
+
+Leave the gym, bike to the right to enter the Warden's house  
+Talk to him and get Strength, then go to the rock
+
+Menu:
+  Teach Surf and Strength to Wartortle  
+  Get the Rare Candy  
+  Fly to Saffron City and bike to Silph Co. (can do mart now if out of Super Potions)  
+  Take the elevator to 10F  
+  Fight the rocket grunt to get access to the rare candy
+
+:::::::trainer[Rocket Grunt]
+  :::::pokemon[Machoke]
+    AA (+Return)
+::damage[Chance to OHKO with AA]{source="Zubat" offensive=true movePower=60 level=37 statModifier=1.1 evolution=1 opponentStat=51 healthThreshold=95 special=false stab=true effectiveness=2}
+Seismic Toss does 33 damage
+  :::::
+:::::::
+
+Get the Rare Candy  
+Optional: Get the Carbos (if nothing else, boosts friendship)
+:::if{source="Zubat" condition="speed=(x / 12-13 / x)"}
+  :info[Carbos needed to outspeed Sabrina's Alakazam]{color=green}
+:::
+:::if{source="Zubat" condition="speed=(x / 23-27 / 3-7)"}
+  :info[Carbos needed to outspeed R22 Rival's Alakazam]{color=green}
+:::
+:::if{source="Zubat" condition="speed=(0 / x / x)"}
+  :info[Carbos needed to outspeed Blaine's Rapidash]{color=green}
+:::
+:::if{source="Zubat" condition="speed=(13-17 / x / x)"}
+  :info[Carbos needed to outspeed Giovanni's Dugtrio]{color=green}
+:::
+
+- Elevator to 5F
+- Bag or pause manip the Scientist Walker
+- Bag manip the Rocket Spinner
+- Get the Card Key, bag manip the Rocket Spinner again
+- Get the Protein in the room next to the walker
+- Warp to 3F
+- Get the hidden Protein
+- Optional: Get the Hyper Potion in the room next to the warp that leads to the rival fight
+
+Menu:
+- Use all rare candies (important to do this first so the friendship evolution starts later)
+- Heal
+- Use the Max Ether on AA
+- Use the Proteins
+- Use the Carbos if you got it
+
+:::::::trainer[Rival 5]
+  :::::pokemon[Pidgeot]
+	X Attack + AA + Guard Spec + AA
+	If you get Feather Dance, switch out and try again  
+	Can do first AA before X Attack with above average Attack stat
+    ::damage[Pidgeot's Wing Attack]{source="Zubat" offensive=false movePower=60 level=44 evolution=1 statModifier=1.1 opponentLevel=37 opponentStat=68 special=false stab=true}
+    ::damage[Pidgeot's Quick Attack]{source="Zubat" offensive=false movePower=40 level=44 evolution=1 statModifier=1.1 opponentLevel=37 opponentStat=68 special=false stab=true}
+  :::::
+  :::::pokemon[Alakazam]
+    - AA (Return does about the same as AA right now)
+    ::damage[Chance to OHKO with AA (at +1)]{source="Zubat" offensive=true movePower=60 level=44 evolution=1 statModifier=1.1 combatStages=1 opponentStat=44 healthThreshold=87 special=false stab=true}
+  :::::
+  :::::pokemon[Gyarados]
+    - AA x2   
+      Dragon Rage does 40 damage
+  :::::
+  :::::pokemon[Growlithe]
+	- AA
+  :::::
+  :::::pokemon[Venusaur]
+	- AA (x2)
+	::damage[Chance to OHKO with AA (at +1)]{source="Zubat" offensive=true movePower=60 level=44 evolution=1 statModifier=1.1 combatStages=1 opponentStat=70 healthThreshold=121 special=false stab=true effectiveness=2}
+  :::::
+:::::::
+
+Get Lapras (for Perish Song strat on Lorelei)
+
+:::::::trainer[Rocket Grunt]
+  :::::pokemon[Cubone]
+    Giga Drain
+::damage[Chance to OHKO with Giga Drain]{source="Zubat" offensive=true movePower=60 level=45 evolution=1 opponentStat=37 healthThreshold=74 special=true stab=false effectiveness=2}
+  :::::
+  :::::pokemon[Drowzee]
+    AA
+  :::::
+  :::::pokemon[Marowak]
+    Giga Drain + AA (need one GD PP for Giovanni)
+  :::::
+:::::::
+
+Optional: Get the hidden Revive
+
+:::::::trainer[Giovanni 2]
+  :::::pokemon[Nidorino]
+	- 2 X Attack + Return
+  :::::
+  :::::pokemon[Rhyhorn]
+	- Giga Drain    
+  :::::
+  :::::pokemon[Kangaskhan]
+	- Return x2
+	Watch Golbat's speed at the level up here, need 100 to outspeed Sabrina's Alakazam
+	::damage[Kangaskhan's Mega Punch]{source="Zubat" offensive=false movePower=80 level=45 statModifier=1.1 evolution=1 opponentLevel=35 opponentStat=82 special=false stab=true}
+  :::::
+  :::::pokemon[Nidoqueen]
+	- Return x2
+	::damage[Nidoqueen's Bodyslam]{source="Zubat" offensive=false movePower=85 level=46 statModifier=1.1 evolution=1 opponentLevel=41 opponentStat=84 special=false stab=false}
+  :::::
+:::::::
+
+After the fight:
+- Heal
+- Escape rope out
+- Bike to the mart
+
+Buy:
+- 2 Escape Ropes
+- 5 Max Repels
+- 2 Full Heals
+- (max) Hyper Potions
+
+Tile Puzzle: Top Left, Bottom Left, Down
+
+:::::::trainer[Leader Sabrina]
+  :::::pokemon[Kadabra]
+	- AA
+  :::::
+  :::::pokemon[Mr. Mime]
+	- X Attack, AA (x2 if Barrier)
+	::damage[Mr. Mime's Psybeam]{source="Zubat" offensive=false movePower=65 level=46 evolution=1 opponentLevel=37 opponentStat=79 special=true stab=true effectiveness=2}
+  :::::
+  :::::pokemon[Venomoth]
+	(X Speed +) AA
+	- X Speed if you don't outspeed Alakazam
+    ::damage[Venomoth's Psybeam]{source="Zubat" offensive=false movePower=65 level=46 evolution=1 opponentLevel=38 opponentStat=65 special=true stab=false effectiveness=2}
+  :::::
+  :::::pokemon[Alakazam]
+    :::if{source="Zubat" condition="speed=(# / 11- / x)"}
+      :info[Not faster than Alakazam at +0]{color=red}
+    :::
+    :::if{source="Zubat" condition="speed=(x / 12+ / #)"}
+      :info[Faster than Alakazam at +0]{color=green}
+    :::
+    Return
+  :::::
+:::::::
+
+After the fight:
+- Use Max Repel
+- Escape Rope out of the gym
+- Fly to Pallet Town
+- Optional: Mom heal
+- Bike to the water and surf south
+
+Enter the mansion  
+Optional: Grab Carbos (if nothing else, boosts friendship)
+:::if{source="Zubat" condition="speed=(x / 23-25 / 3-5)"}
+  :info[2nd Carbos needed to outspeed R22 Rival's Alakazam]{color=green}
+:::
+:::if{source="Zubat" condition="speed=(13-14 / x / x)"}
+  :info[2nd Carbos needed to outspeed Giovanni's Dugtrio]{color=green}
+:::
+Grab the hidden Elixir and the Secret Key on the table
+
+Menu again:
+- Switch HM Friend to front
+- Take away Persim Berry from Wartortle if still there
+- Heal
+- Max Elixir
+- Use Carbos if you got it
+- Escape Rope out and bike to the gym
+
+Puzzle Answers: A,B,B,B,A,B
+
+:::::::trainer[Leader Blaine]
+  :::::pokemon[Growlithe]
+	- Sac, switch in Golbat, Return
+  :::::
+  :::::pokemon[Ponyta]
+    4-5 X Attack + Guard Spec + AA  
+    If Arcanine is an ohko range, want Golbat to be in kill range of Arcanine's Flamethrower (it will go for Roar if it doesn't see the kill) or just use an extra X Attack  
+    Ponyta has 5 Fire Blast PP
+    
+    Alt strat: 3 X Attack + AA if you can tank a Fire Blast from Arcanine  
+    Do not guard spec with the alt strat, Arcanine's Intimidate lowers Attack to +2 and it won't use Roar
+   
+    ::damage[Ponyta's Fire Blast]{source="Zubat" offensive=false movePower=120 level=47 evolution=1 opponentLevel=40 opponentStat=57 special=true stab=true}
+  :::::
+  :::::pokemon[Rapidash]
+     Return
+  :::::
+  :::::pokemon[Arcanine]
+    Return  
+    Alt strat: Return x2 (guaranteed unless very low Atk IV and -Nature)  
+    If you miss the range and die, switch in Lapras and use Perish Song
+    ::damage[Chance to OHKO with Return (at +4)]{source="Zubat" offensive=true movePower=95 level=47 statModifier=1.1 evolution=1 combatStages=4 opponentStat=80 healthThreshold=141 special=false stab=false}
+    ::damage[Chance to OHKO with Return (at +5)]{source="Zubat" offensive=true movePower=95 level=47 statModifier=1.1 evolution=1 combatStages=5 opponentStat=80 healthThreshold=141 special=false stab=false}
+    ::damage[Arcanine's Fire Blast]{source="Zubat" offensive=false movePower=120 level=47 evolution=1 opponentLevel=47 opponentStat=108 special=true stab=true}
+  :::::
+:::::::
+
+Leave the gym
+
+**SAY NO TO BILL**
+
+Fly to Viridian and bike to the Gym
+
+Take the spinny tile on the right
+
+:::::::trainer[Blackbelt Takashi]
+  :::::pokemon[Machoke]
+	AA
+	::damage[Chance to OHKO with AA]{source="Zubat" offensive=true movePower=60 level=47 statModifier=1.1 evolution=1 opponentStat=62 healthThreshold=113 special=false stab=true effectiveness=2}
+	Both Machokes' Seismic Toss do 38 damage
+  :::::
+  :::::pokemon[Machop]
+	AA
+  :::::
+  :::::pokemon[Machoke]    
+	AA
+::damage[Chance to OHKO with AA]{source="Zubat" offensive=true movePower=60 level=48 statModifier=1.1 evolution=1 opponentStat=62 healthThreshold=113 special=false stab=true effectiveness=2}
+  :::::
+:::::::
+
+:::::::trainer[Cooltrainer Warren]
+  :::::pokemon[Marowak]
+    Giga Drain + X Attack + AA
+  :::::
+  :::::pokemon[Rhyhorn]
+    Giga Drain
+  :::::
+  :::::pokemon[Marowak]
+    AA x2
+  :::::
+  :::::pokemon[Nidorina]
+    Bite + Return
+::damage[Chance to OHKO with Return (at +1)]{source="Zubat" offensive=true movePower=97 level=48 statModifier=1.1 evolution=1 opponentStat=61 combatStages=1 healthThreshold=108 special=false stab=false}
+  :::::
+  :::::pokemon[Nidoqueen]
+    Return x2
+  :::::
+:::::::
+
+:::::::trainer[Leader Giovanni]
+  :::::pokemon[Rhyhorn]
+    Giga Drain
+  :::::
+  :::::pokemon[Rhyhorn]
+    Giga Drain
+  :::::
+  :::::pokemon[Dugtrio]
+   :::if{source="Zubat" condition="speed=(12- / x / x)"}
+     :info[Not faster than Dugtrio]{color=red}
+   :::
+   :::if{source="Zubat" condition="speed=(13+ / # / #)"}
+     :info[Faster than Dugtrio]{color=green}
+   :::
+	X Attack + AA
+  :::::
+  :::::pokemon[Nidoqueen]
+	Return x2
+	- Watch speed at level up: need 116 speed to outspeed Alakazam  
+     ::damage[Nidoqueen's Bodyslam]{source="Zubat" offensive=false movePower=85 level=49 statModifier=1.1 evolution=1 opponentLevel=44 opponentStat=77 special=false stab=false}
+  :::::
+  :::::pokemon[Nidoking]
+	AA + Return
+::damage[Nidoking's Thrash]{source="Zubat" offensive=false movePower=90 level=50 statModifier=1.1 evolution=1 opponentLevel=45 opponentStat=87 special=false stab=false}
+  :::::
+:::::::
+
+After exiting, bike to Route 22.
+
+Before the grass:
+- Max Repel
+- Heal to full
+
+:::::::trainer[Rival 6]
+  :::::pokemon[Pidgeot]
+	X Attack, (X Speed) Return (X Attack) Guard Spec, Return  
+        X Speed if less than 116 speed at last level up  
+	2nd X Attack if not comfortable with Alakazam range (return is at approx. 98 power, friendship is probably not maxed yet)
+    ::damage[Pidgeot's Wing Attack]{source="Zubat" offensive=false movePower=60 level=50 statModifier=1.1 evolution=1 opponentLevel=47 opponentStat=88 special=false stab=true}
+    ::damage[Pidgeot's Quick Attack]{source="Zubat" offensive=false movePower=40 level=50 statModifier=1.1 evolution=1 opponentLevel=47 opponentStat=88 special=false stab=true}
+  :::::
+ :::::pokemon[Alakazam]
+   :::if{source="Zubat" condition="speed=(# / 22- / 2-)"}
+     :info[Slower than Alakazam (at +0)]{color=red}
+   :::
+   :::if{source="Zubat" condition="speed=(x / 23+ / 3+)"}
+     :info[Faster than Alakazam (at +0)]{color=green}
+   :::
+    - Return
+    ::damage[Chance to OHKO with Return (at +1)]{source="Zubat" offensive=true movePower=98 level=50 statModifier=1.1 evolution=1 combatStages=1 opponentStat=55 healthThreshold=117 special=false stab=false}
+  :::::
+ :::::pokemon[Rhyhorn]
+    Giga Drain
+  :::::
+ :::::pokemon[Growlithe]
+	Return
+  :::::
+  :::::pokemon[Gyarados]
+	Return x2
+     ::damage[Gyarados' Hydro Pump]{source="Zubat" offensive=false movePower=120 level=51 statModifier=1.1 evolution=1 opponentLevel=45 opponentStat=60 special=true stab=true}
+  :::::
+   :::::pokemon[Venusaur]
+	AA + Return
+	::damage[Venusaur's Razor Leaf]{source="Zubat" offensive=false movePower=55 level=51 statModifier=1.1 evolution=1 opponentLevel=53 opponentStat=126 special=true stab=true effectiveness=0.25}
+  :::::
+:::::::
+
+Continue towards Victory Road  
+Get the Rare Candy  
+Every trainer here is an optional trainer, so avoid them all  
+After VR, get the Lum Berry  
+Use Rare Candy and equip Lum Berry
+
+Use the PC
+- Deposit everyone except Lapras and one HM friend
+- Withdraw Golbat
+- Party Order: Lapras, HM Friend, Golbat
+
+Buy Max Full Restores (vv)  
+Optional: Can buy 1-2 Revives if none in bag
+
+:::::::trainer[Elite Four Lorelei]
+  :::::pokemon[Dewgong]
+    Perish Song, Body Slam x2, switch to Golbat
+  :::::
+  :::::pokemon[Cloyster]
+ 	Spam X Attack until Dewgong's Hail stops, then attack once with Giga Drain (+0-2) or Return (+3 or more)  
+	After attacking once, continue with X Attack to +5  
+	After the 4th and final hail damage from Cloyster's Hail, if at +5 already, can do one of the following:
+	- Heal Golbat to full (so it can tank Lapras' Ice Beam)
+	- Heal Lapras to full (important for backup strat)
+	- Go to +6  
+	Finish Cloyster with Return or Giga Drain
+  :::::
+  :::::pokemon[Dewgong]
+	Return
+	::damage[Chance to OHKO with Return (at +5) after 2 Lapras' Body Slam]{source="Zubat" offensive=true movePower=102 level=52 statModifier=1.1 evolution=1 combatStages=5 opponentStat=103 healthThreshold=150 special=false stab=false}
+	::damage[Chance to OHKO with Return (at +5) after 1 Lapras' Body Slam]{source="Zubat" offensive=true movePower=102 level=52 statModifier=1.1 evolution=1 combatStages=5 opponentStat=103 healthThreshold=150 special=false stab=false}
+  :::::
+  :::::pokemon[Slowbro]
+    AA + Return
+::damage[Slowbro's Ice Beam]{source="Zubat" offensive=false movePower=95 level=52 statModifier=1.1 evolution=1 opponentLevel=52 opponentStat=124 special=true stab=false effectiveness=2} 
+  :::::
+  :::::pokemon[Jynx]
+    AA
+  :::::
+  :::::pokemon[Lapras]
+    Return x2  
+    If you die to Ice Beam, switch in Lapras (at full health), use Perish Song, revive Golbat, switch in HM friend when your Lapras dies, heal Golbat to full, switch in Golbat when HM friend dies
+    ::damage[Lapras' Ice Beam]{source="Zubat" offensive=false movePower=95 level=52 statModifier=1.1 evolution=1 opponentLevel=54 opponentStat=101 special=true stab=true effectiveness=2} 
+  :::::
+:::::::
+
+Switch Golbat to the front and heal  
+Can equip Persim Berry if you have it and Lum Berry gone 
+
+:::::::trainer[Elite Four Bruno]
+  :::::pokemon[Onix]
+	Guard Spec + 3 X Attack + Giga Drain  
+	Onix will use Roar one turn after you go to +3
+    ::damage[Onix's Rock Tomb]{source="Zubat" offensive=false movePower=50 level=53 statModifier=1.1 evolution=1 opponentLevel=51 opponentStat=66 special=false stab=true effectiveness=2} 
+    ::damage[Chance to OHKO with Giga Drain]{source="Zubat" offensive=true movePower=60 level=53 statModifier=1.1 evolution=1 opponentStat=72 healthThreshold=112 special=true stab=false effectiveness=4}
+  :::::
+  :::::pokemon[Hitmonchan]
+	(X Attack+) AA  
+	4th X Attack with bad attack to guarantee Machamp range
+	::damage[Hitmonchan's Rock Tomb]{source="Zubat" offensive=false movePower=50 level=53 statModifier=1.1 evolution=1 opponentLevel=53 opponentStat=132 special=false stab=false effectiveness=2} 
+  :::::
+  :::::pokemon[Machamp]
+	AA  
+	::damage[Chance to OHKO with AA (at +3)]{source="Zubat" offensive=true movePower=60 level=53 statModifier=1.1 evolution=1 combatStages=3 opponentStat=111 healthThreshold=183 special=false stab=true effectiveness=2}
+  :::::
+  :::::pokemon[Hitmonlee]
+	AA
+  :::::
+  :::::pokemon[Onix]
+	Giga Drain    
+    ::damage[Onix's Double-Edge]{source="Zubat" offensive=false movePower=120 level=53 statModifier=1.1 evolution=1 opponentLevel=54 opponentStat=69 special=false stab=false}
+    ::damage[Chance to OHKO with Giga Drain]{source="Zubat" offensive=true movePower=60 level=53 statModifier=1.1 evolution=1 opponentStat=75 healthThreshold=118 special=true stab=false effectiveness=4}
+  :::::
+:::::::
+
+:::::::trainer[Elite Four Agatha]
+  :::::pokemon[Gengar]
+	2 X Attack, 1 X Speed, AA x2	
+    ::damage[Gengar's Shadow Punch]{source="Zubat" offensive=false movePower=60 level=54 statModifier=1.1 evolution=1 opponentLevel=54 opponentStat=100 special=false stab=true}
+  :::::
+:::::pokemon[Haunter]
+   AA
+   ::damage[Chance to OHKO with AA (at +2)]{source="Zubat" offensive=true movePower=60 level=54 statModifier=1.1 evolution=1 combatStages=2 opponentStat=68 healthThreshold=126 special=false stab=true}
+  :::::
+ :::::pokemon[Gengar]
+	AA x2
+::damage[Gengar's Shadow Ball]{source="Zubat" offensive=false movePower=80 level=54 statModifier=1.1 evolution=1 opponentLevel=58 opponentStat=87 special=false stab=true}
+  :::::
+  :::::pokemon[Golbat]
+	AA + Guard Spec + Return
+::damage[Enemy Golbat's Air Cutter]{source="Zubat" offensive=false movePower=55 level=54 statModifier=1.1 evolution=1 opponentLevel=54 opponentStat=107 special=false stab=true}
+  :::::
+  :::::pokemon[Arbok]
+    Return x2
+	::damage[Arbok's Iron Tail]{source="Zubat" offensive=false movePower=100 level=55 statModifier=1.1 evolution=1 opponentLevel=56 opponentStat=117 special=false stab=false}
+  :::::
+:::::::
+
+Switch Lapras to front (only Hyper Beam can OHKO it)  
+Golbat should be in the 3rd slot now  
+Heal to Full  
+Teach Steel Wing over Bite
+
+:::::::trainer[Elite Four Lance]
+  :::::pokemon[Gyarados]
+	Sac, 2 X Defend + 1 X Speed + 4 X Attack + AA x2  
+	Heal out of Dragonite's Outrage Damage Range before killing Gyarados
+	::damage[Gyarados' Hyper Beam (at +2)]{source="Zubat" offensive=false movePower=150 level=55 statModifier=1.1 evolution=1 combatStages=2 opponentLevel=56 opponentStat=161 special=false stab=false}
+  :::::
+:::::pokemon[Aerodactyl]
+  Steel Wing   
+::damage[Chance to OHKO with Steel Wing (at +4)]{source="Zubat" offensive=true movePower=70 level=55 statModifier=1.1 evolution=1 combatStages=4 opponentStat=106 healthThreshold=178 special=false stab=false effectiveness=2}
+  :::::
+  :::::pokemon[Dragonair]
+    Return
+::damage[Chance to OHKO with Return (at +4)]{source="Zubat" offensive=true movePower=102 level=55 statModifier=1.1 evolution=1 combatStages=4 opponentStat=91 healthThreshold=146 special=false stab=false}
+  :::::
+  :::::pokemon[Dragonite]
+    Return x2  
+    If you miss the range due to bad attack, Lance cannot heal if he's locked into Outrage
+::damage[Dragonite's Outrage]{source="Zubat" offensive=false movePower=90 level=55 statModifier=1.1 evolution=1 opponentLevel=60 opponentStat=143 special=true stab=true}
+  :::::
+  :::::pokemon[Dragonair]
+     Return
+::damage[Chance to OHKO with Return (at +4)]{source="Zubat" offensive=true movePower=102 level=56 statModifier=1.1 evolution=1 combatStages=4 opponentStat=91 healthThreshold=146 special=false stab=false}
+  :::::
+:::::::
+
+Before Champ:
+- Heal to full
+- Use an Elixir
+- Teach Attract if female Golbat
+- Revive HM Friend in 2nd slot if dead (due to Lorelei backup)
+
+:::::::trainer[Champion]
+  :::::pokemon[Pidgeot]
+	Guard Spec, switch in Golbat, (Attract) 2 X Defend, 1 X Speed, 4 X Attack, 2 X Special, AA, AA
+	- Keep refreshing Guard Spec when it runs out
+    ::damage[Pidgeot's Aerial Ace at +2]{source="Zubat" offensive=false movePower=60 level=56 statModifier=1.1 evolution=1 combatStages=2 opponentLevel=59 opponentStat=117 special=false stab=true}
+    ::damage[Pidgeot's Aerial Ace w/ critical hit]{source="Zubat" offensive=false movePower=60 level=56 statModifier=1.1 evolution=1 combatStages=-2 opponentLevel=59 opponentStat=117 special=false stab=true}
+  :::::
+  :::::pokemon[Alakazam]
+    AA
+  :::::
+  :::::pokemon[Rhydon]
+    (Guard Spec +) Giga Drain  
+    Guard Spec if it ran out already
+    ::damage[Rhydon's Rock Tomb at +2]{source="Zubat" offensive=false movePower=50 level=56 statModifier=1.1 evolution=1 combatStages=2 opponentLevel=59 opponentStat=176 special=false stab=true effectiveness=2}
+  :::::
+  :::::pokemon[Gyarados]
+	Return, heal, Return  
+	If Gyarados uses Hydro Pump, heal again until it either misses or uses a different move, need to be at high HP for Arcanine
+    ::damage[Gyarados' Hydro Pump]{source="Zubat" offensive=false movePower=120 level=57 statModifier=1.1 evolution=1 opponentLevel=59 opponentStat=94 special=true stab=true}
+  :::::
+  :::::pokemon[Arcanine]
+	Return (+ heal) + Return  
+	NEED TO HEAL IF DEAD TO EXTREMESPEED  
+	Arcanine will use Roar (at +3 or higher) if you have pokes alive in the back
+    ::damage[Arcanine's Extremespeed]{source="Zubat" offensive=false movePower=80 level=57 statModifier=1.1 evolution=1 combatStages=2 opponentLevel=61 opponentStat=158 special=false stab=false}
+    ::damage[Arcanine's Flamethrower]{source="Zubat" offensive=false movePower=95 level=57 statModifier=1.1 evolution=1 opponentLevel=61 opponentStat=159 special=true stab=true}
+  :::::
+ :::::pokemon[Venusaur]
+	AA (x2)
+  ::damage[Chance to OHKO with AA (at +3)]{source="Zubat" offensive=true movePower=60 level=57 statModifier=1.1 evolution=1 combatStages=3 opponentStat=129 healthThreshold=193 special=false stab=true effectiveness=2}
+  :::::
+:::::::
+
+Ending split is on fadeout after Hall of Fame
