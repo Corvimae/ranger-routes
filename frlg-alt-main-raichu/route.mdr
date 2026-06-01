@@ -1028,7 +1028,8 @@ Head upstairs and let every Rocket Grunt walk up to you along the way
     ::damage[Chance to OHKO with SW]{source="Pika" offensive=true movePower=60 level=34 evolution=1 opponentStat=28 healthThreshold=56 special=true stab=true}
   :::::
   :::::pokemon[Drowzee]
-    Return
+    Return (TB with bad attack)
+    ::damage[Chance to OHKO with TB]{source="Pika" offensive=true movePower=95 level=35 evolution=1 opponentStat=45 healthThreshold=67 special=true stab=true}
   :::::
 :::::::
 
@@ -1241,7 +1242,7 @@ Get the hidden Revive
 
 After the fight:
 - Heal
-- If doing alt strat on Sabrina, Elixir now
+- If doing alt strat on Sabrina, Max Elixir now
 - Escape rope out
 - Bike to the mart
 
