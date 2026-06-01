@@ -148,7 +148,8 @@ Head to Viridian Forest
 - Grab the Antidote after the second Bugcatcher (after the sign)
 - Grab the Potion in the corner before Sammy
 - Grab the hidden Potion next to Sammy
-- Stall for Pika before Sammy: Tackle a lvl 3 once (Thundershock does 6-(8)), yoloball a lvl 5 (Thundershock usually does 10-(12))
+- Stall for Pika before Sammy: Tackle a lvl 3 once (Thundershock does 6-(8)), yoloball a lvl 5 (Thundershock usually does 10-(12))  
+- Give Pika a 1 character name  
 - Switch Pika to the front
 
 Note: If male Pika has -Def Nature and low Def IV, you will not make it past Viridian Gym.
@@ -251,8 +252,8 @@ Avoid the lass
 
 If you didn’t catch a Flyer yet, catch a Spearow/Pidgey now in the grass below the lass (QA to weaken)
 
-Grab the hidden Persim Berry to the left of the poke center
-Heal in the center
+Grab the hidden Persim Berry to the left of the poke center  
+Heal in the center  
 Enter Mt. Moon
 
 Mt. Moon menu:
@@ -265,12 +266,12 @@ Get the hidden Ether and TM Thief (down the ladder near Youngster Josh)
 Get the Revive  
 Dodge the Rocket spinner
 
- :::if{source="Pika" condition="spa=(25+ / 9-18 / 9-) && startingLevel=3"}
-     :info[2HKO a L11 Pika if you happen to see one to level up to level 12 before the Rocket]{color=red}
- :::
- :::if{source="Pika" condition="spa=(x / x / 25+) && startingLevel=3"}
-     :info[2HKO a L11 Pika if you happen to see one to level up to level 12 before the Rocket]{color=red}
- :::
+:::if{source="Pika" condition="spa=(25+ / 9-18 / 9-) && startingLevel=3"}
+  :info[2HKO a L11 Pika if you happen to see one to level up to level 12 before the Rocket]{color=red}
+:::
+:::if{source="Pika" condition="spa=(x / x / 25+) && startingLevel=3"}
+  :info[2HKO a L11 Pika if you happen to see one to level up to level 12 before the Rocket]{color=red}
+:::
 
 :::::::trainer[Rocket Grunt]
   :::::pokemon[Rattata]
@@ -966,8 +967,8 @@ Buy:
   :::::
   :::::pokemon[Ivysaur]
     Return x2
-    ::damage[Ivysaur's Razor Leaf]{source="Pika" offensive=false movePower=55 level=33 opponentLevel=25 opponentStat=48 special=true stab=true}
-    ::damage[Ivysaur's Razor Leaf (in Overgrow)]{source="Pika" offensive=false movePower=55 level=33 opponentLevel=25 opponentStat=48 special=true stab=true torrent=true}
+    ::damage[Ivysaur's Razor Leaf]{source="Pika" offensive=false movePower=55 level=33 evolution=1 opponentLevel=25 opponentStat=48 special=true stab=true}
+    ::damage[Ivysaur's Razor Leaf (in Overgrow)]{source="Pika" offensive=false movePower=55 level=33 evolution=1 opponentLevel=25 opponentStat=48 special=true stab=true torrent=true}
   :::::
 :::::::
 
