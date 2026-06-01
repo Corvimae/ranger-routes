@@ -1372,8 +1372,8 @@ Rare Candy twice to L49
     ::damage[Marowak's Bonemerang (per hit)]{source="Pika" offensive=false movePower=50 level=49 statModifier=1.1 evolution=1 opponentLevel=37 opponentStat=68 special=false stab=true effectiveness=2}
   :::::
   :::::pokemon[Marowak]
-    Sac HM friend to safely switch in Lapras, then Surf, then potion Raichu  
-    Return
+    Sac HM friend (not bird) to safely switch in Lapras, then Surf, then potion Raichu (Lapras faints), Return  
+    If Lapras kills Marowak with a crit, the only difference is that Raichu will still be at L50 for Rival's Rhyhorn
     ::damage[Marowak's Bonemerang (per hit)]{source="Pika" offensive=false movePower=50 level=49 statModifier=1.1 evolution=1 opponentLevel=37 opponentStat=68 special=false stab=true effectiveness=2}
   :::::
   :::::pokemon[Rhyhorn]
