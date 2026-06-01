@@ -677,7 +677,7 @@ After entering Rock Tunnel:
 :::::::
 
 Get the Revive  
-Ether Mega Kick
+Ether Mega Kick (can delay if 3 PP left)
 
 :::::::trainer[Picknicker Martha]
   :::::pokemon[Oddish]
@@ -838,10 +838,10 @@ Take the stairs to 5F
 
 Take the elevator back down, grab the Tea, then bike to Vermillion gym (through Saffron).  
 
-Do cans (save after finding the first one)  
 Use Thunder Stone  
 Teach Return over Thundershock  
-Teach Fly to your bird
+Teach Fly to your bird  
+Do cans (save after finding the first one)  
 
 :::::::trainer[Gentleman Tucker]
   :::::pokemon[Pikachu]
@@ -858,7 +858,7 @@ Teach Fly to your bird
     TB (to avoid Static)
   :::::
   :::::pokemon[Raichu]
-    TB+BB (or MK if you have one left)
+    TB+Return (or MK if you have one left)
    ::damage[Chance to OHKO with MK]{source="Pika" offensive=true movePower=120 level=30 evolution=1 opponentStat=31 healthThreshold=62 special=false stab=false}
   :::::
 :::::::
@@ -1611,8 +1611,8 @@ Before Champ:
 :::::::trainer[Champion]
   :::::pokemon[Pidgeot]
     Guard Spec (HM friend faints) + (Attract +) (X Speed +) 6 X Attack + Guard Spec + Return  
-    X Speed if slower than Alakazam
-    Need to Guard Spec the turn before attacking Pidgeot so that it lasts until Arcanine comes in
+    X Speed if slower than Alakazam  
+    Need to Guard Spec the turn before attacking Pidgeot so that it lasts until Arcanine comes in  
     If Rhydon is a range at +6, could use 2-3 X Defend to tank Earthquake
     ::damage[Pidgeot's Aerial Ace]{source="Pika" offensive=false movePower=60 level=57 statModifier=1.1 evolution=1 opponentLevel=59 opponentStat=117 special=false stab=true effectiveness=0.5}
   :::::
