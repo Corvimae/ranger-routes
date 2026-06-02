@@ -112,7 +112,7 @@
   58 -> 36, 96, 59, 64, 17, 71
 :::::
 
-## Pokémon FireRed/LeafGreen Alt Main Golbat
+## Pokémon FireRed/LeafGreen Alt Main Raichu
 
 Before starting your run, make sure your save file has the following:
   - Text: Fast
@@ -121,7 +121,8 @@ Before starting your run, make sure your save file has the following:
   - Button Mode: L=A
 
 Give yourself a 1 character name  
-Head outside then head north towards the grass have Oak stop you  
+Optional: Get the PC potion  
+Head outside then, head north towards the grass have Oak stop you  
 Mash through text until you can pick Squirtle (middle Pokeball). Give it a one character name
 
 Head down and fight your rival
@@ -147,7 +148,8 @@ Head to Viridian Forest
 - Grab the Antidote after the second Bugcatcher (after the sign)
 - Grab the Potion in the corner before Sammy
 - Grab the hidden Potion next to Sammy
-- Stall for Pika before Sammy: Tackle a lvl 3 once (Thundershock does 6-(8)), yoloball a lvl 5 (Thundershock usually does 10-(12))
+- Stall for Pika before Sammy: Tackle a lvl 3 once (Thundershock does 6-(8)), yoloball a lvl 5 (Thundershock usually does 10-(12))  
+- Give Pika a 1 character name  
 - Switch Pika to the front
 
 Note: If male Pika has -Def Nature and low Def IV, you will not make it past Viridian Gym.
@@ -183,7 +185,7 @@ Head to the gym, fight the minion
   :::::
 :::::::
 
-Switch setting to Set mode
+Switch setting to Set mode  
 After leaving the gym, enter the Mart
 
 :::card
@@ -250,8 +252,8 @@ Avoid the lass
 
 If you didn’t catch a Flyer yet, catch a Spearow/Pidgey now in the grass below the lass (QA to weaken)
 
-Grab the hidden Persim Berry to the left of the poke center
-Heal in the center
+Grab the hidden Persim Berry to the left of the poke center  
+Heal in the center  
 Enter Mt. Moon
 
 Mt. Moon menu:
@@ -264,12 +266,12 @@ Get the hidden Ether and TM Thief (down the ladder near Youngster Josh)
 Get the Revive  
 Dodge the Rocket spinner
 
- :::if{source="Pika" condition="spa=(25+ / 9-18 / 9-) && startingLevel=3"}
-     :info[2HKO a L11 Pika if you happen to see one to level up to level 12 before the Rocket]{color=red}
- :::
- :::if{source="Pika" condition="spa=(x / x / 25+) && startingLevel=3"}
-     :info[2HKO a L11 Pika if you happen to see one to level up to level 12 before the Rocket]{color=red}
- :::
+:::if{source="Pika" condition="spa=(25+ / 9-18 / 9-) && startingLevel=3"}
+  :info[2HKO a L11 Pika if you happen to see one to reach L12 before the Rocket]{color=red}
+:::
+:::if{source="Pika" condition="spa=(x / x / 25+) && startingLevel=3"}
+  :info[2HKO a L11 Pika if you happen to see one to reach L12 before the Rocket]{color=red}
+:::
 
 :::::::trainer[Rocket Grunt]
   :::::pokemon[Rattata]
@@ -321,6 +323,8 @@ Heal in the center
 Get the Rare Candy  
 Use one Rare Candy to get to level 15  
 Teach Double Team over Thunder Wave
+
+Try to keep Squirtle alive, need it on R25 later
 
 :::::::trainer[Rival 2]
   :::::pokemon[Pidgeotto]
@@ -441,7 +445,7 @@ Pass Dan, fight the Picknicker below him
   :::::
 :::::::
 
-Use the elixir
+Use the elixir  
 Fight the camper
 
 :::::::trainer[Camper Flint]
@@ -508,7 +512,8 @@ Buy:
 - 3 Repels
 :::
 
-Head to the S.S. Anne, enter the 2nd room from the left
+Head to the S.S. Anne, enter the 2nd room from the left  
+Could boat heal first if low on HP
 
 :::::::trainer[Tyler]
   :::::pokemon[NidoM]
@@ -518,7 +523,7 @@ Head to the S.S. Anne, enter the 2nd room from the left
 :::::::
 
 Get TM Brick Break  
-Teach Brick Break over Double Team
+Teach Brick Break over Double Team  
 Take the boat heal
 
 :::::::trainer[Rival 3]
@@ -563,7 +568,8 @@ Grab the Sitrus Berry
 Get the hidden rare candy  
 Use both Rare Candies to get Pika to L25  
 Teach Cut to Rat/Shrew  
-Equip Oran/Sitrus Berry (do not use the Sitrus Berry with bad Defense, need it for later)
+Equip Oran/Sitrus Berry (do not use the Sitrus Berry with bad Defense, need it for later)  
+Can skip equipping the berry if faster than Starmie and good SpA
 
 :::::::trainer[Misty]
   :::::pokemon[Staryu]
@@ -620,7 +626,8 @@ Head to the right towards Rock Tunnel
     ::damage[Chance to OHKO with MK]{source="Pika" offensive=true movePower=120 level=26 statModifier=1.1 opponentStat=24 healthThreshold=44 special=false stab=false}
   :::::
   :::::pokemon[Bellsprout]
-    MK
+    MK (TB)
+    ::damage[Chance to OHKO with TB]{source="Pika" offensive=true movePower=95 level=26 opponentStat=13 healthThreshold=46 special=true stab=true effectiveness=0.5}
   :::::
 :::::::
 
@@ -639,8 +646,8 @@ Get TM Aerial Ace
   :::::
 :::::::
 
-- Grab the hidden Chesto Berry if you ran out of Awakenings
-- Grab the hidden Rare Candy before jumping the ledge, head towards Rock Tunnel
+- Grab the hidden Chesto Berry  
+- Grab the hidden Rare Candy before jumping the ledge
 - Heal in the Center
 - Cut the top bush next to the Pokemon Center, grab the hidden Super Potion behind it
 - Get the hidden Cheri Berry
@@ -652,7 +659,7 @@ After entering Rock Tunnel:
 :::::::trainer[Pokémaniac Ashton]
   :::::pokemon[Cubone]
    :::if{source="Pika" condition="atk=36+" level=26}
-     BB x4 or MK x2 + BB
+     BB x4 or BB + MK x2
    :::
    :::if{source="Pika" condition="atk=35-" level=26}
      MK x3 (MK x2 + BB with good rolls, BB does about 23%)
@@ -675,7 +682,7 @@ After entering Rock Tunnel:
 :::::::
 
 Get the Revive  
-Ether Mega Kick
+Ether Mega Kick (can delay if 3 PP left)
 
 :::::::trainer[Picknicker Martha]
   :::::pokemon[Oddish]
@@ -719,14 +726,15 @@ After the ladder, bike down and fight Hiker Oliver
     ::damage[Onix' Rock Throw (-2)]{source="Pika" offensive=false movePower=50 level=28 combatStages=-2 opponentLevel=20 opponentStat=23 special=false stab=true}
   :::::
 :::::::
-
-Max Ether Brick Break  
+ 
 Heal to full  
-Use another Repel
+Use another Repel  
+Max Ether Brick Break  
+BB PP count is tight until Tower Rival, if you plan to use BB on Sofia's Jigglypuff, consider using the Max Ether after that fight
 
 :::::::trainer[Picknicker Sofia]
   :::::pokemon[Jigglypuff]
-    BB / TB
+    TB (BB)
     ::damage[Chance to OHKO with TB]{source="Pika" offensive=true movePower=95 level=28 opponentStat=15 healthThreshold=79 special=true stab=true}
   :::::
   :::::pokemon[Pidgey]
@@ -787,22 +795,22 @@ Head back north, then left to the next route, fight the Lass
 :::::::
 
 Avoid all the trainers and head into the building above the bikers  
-Bike to Celadon City and get the hidden PP Up
+Bike to Celadon City and get the hidden PP Up  
 Bike left to get Fly  
-Then head to the mart and take the stairs to 4F (vv)
+Then head to the mart and take the stairs to 4F
 
 :::::::card
-  **Shopping: (bottom vendor)**
+  **Shopping:**
 
   Sell:
+  - 1 Nugget
+  - 1 PP Up
   - TM Water Pulse
   - TM Roar (if female Pika)
   - TM Attract (if male Pika)
   - TM Dig
   - TM Aerial Ace
   - TM Thief
-  - 1 Nugget
-  - 1 PP Up
  
   Buy:
   - Thunder Stone
@@ -836,10 +844,10 @@ Take the stairs to 5F
 
 Take the elevator back down, grab the Tea, then bike to Vermillion gym (through Saffron).  
 
-Do cans (save after finding the first one)  
 Use Thunder Stone  
 Teach Return over Thundershock  
-Teach Fly to your bird
+Teach Fly to your bird  
+Do cans (save after finding the first one)  
 
 :::::::trainer[Gentleman Tucker]
   :::::pokemon[Pikachu]
@@ -856,7 +864,7 @@ Teach Fly to your bird
     TB (to avoid Static)
   :::::
   :::::pokemon[Raichu]
-    TB+BB (or MK if you have one left)
+    TB+Return (or MK if you have one left)
    ::damage[Chance to OHKO with MK]{source="Pika" offensive=true movePower=120 level=30 evolution=1 opponentStat=31 healthThreshold=62 special=false stab=false}
   :::::
 :::::::
@@ -943,7 +951,8 @@ After Giovanni:
 
 :::card
 Buy:
-- 10 Super Potions
+- 10 Super Potions (8 if out of Revives)
+- 0 Revives (1 if none in inventory)
 - 3 Escape Ropes
 - 2 Super Repels
 :::
@@ -965,8 +974,8 @@ Buy:
   :::::
   :::::pokemon[Ivysaur]
     Return x2
-    ::damage[Ivysaur's Razor Leaf]{source="Pika" offensive=false movePower=55 level=33 opponentLevel=25 opponentStat=48 special=true stab=true}
-    ::damage[Ivysaur's Razor Leaf (in Overgrow)]{source="Pika" offensive=false movePower=55 level=33 opponentLevel=25 opponentStat=48 special=true stab=true torrent=true}
+    ::damage[Ivysaur's Razor Leaf]{source="Pika" offensive=false movePower=55 level=33 evolution=1 opponentLevel=25 opponentStat=48 special=true stab=true}
+    ::damage[Ivysaur's Razor Leaf (in Overgrow)]{source="Pika" offensive=false movePower=55 level=33 evolution=1 opponentLevel=25 opponentStat=48 special=true stab=true torrent=true}
   :::::
 :::::::
 
@@ -1000,7 +1009,6 @@ Save if out of Revives
 :::::::trainer[Ghost Marowak]
   :::::pokemon[Marowak]
     Return x3-4  
-    Could consider X Defend turn 1
     ::damage[Marowak's Bonemerang (per hit)]{source="Pika" offensive=false movePower=50 level=34 evolution=1 opponentLevel=30 opponentStat=62 special=false stab=true effectiveness=2}
   :::::
 :::::::
@@ -1026,7 +1034,8 @@ Head upstairs and let every Rocket Grunt walk up to you along the way
     ::damage[Chance to OHKO with SW]{source="Pika" offensive=true movePower=60 level=34 evolution=1 opponentStat=28 healthThreshold=56 special=true stab=true}
   :::::
   :::::pokemon[Drowzee]
-    Return
+    Return (TB with bad attack)
+    ::damage[Chance to OHKO with TB]{source="Pika" offensive=true movePower=95 level=35 evolution=1 opponentStat=45 healthThreshold=67 special=true stab=true}
   :::::
 :::::::
 
@@ -1052,14 +1061,13 @@ Talk to the old man to exit, afterwards
 - Fly to Celadon City
 - Bike left to Snorlax and run away
 
-Pass the bikers (pause/bag/whatever manip)  
 Grab the hidden Rare Candy (3rd sign down) and the hidden Max Elixir (at the end of Cycling Road)  
 Head straight to the Safari Zone
 
 Before the grass in the second area
 - Super Repel
 
-Get the Full Restore (in the second area)  
+Get the Full Restore  
 Get the Protein  
 Get the Gold Teeth  
 Get the Revive
@@ -1239,7 +1247,7 @@ Get the hidden Revive
 
 After the fight:
 - Heal
-- If doing alt strat on Sabrina, Elixir now
+- Max Elixir
 - Escape rope out
 - Bike to the mart
 
@@ -1265,7 +1273,7 @@ Tile Puzzle: Top Left, Bottom Left, Down
   :::::
   :::::pokemon[Venomoth]
     (X Speed +) Return  
-    Alt strat: TB
+    Alt strat: TB  
     X Speed if you don't outspeed Alakazam
     ::damage[Chance to OHKO with TB (at +1)]{source="Pika" offensive=true movePower=95 level=45 evolution=1 combatStages=1 opponentStat=62 healthThreshold=101 special=true stab=true}
     ::damage[Chance to OHKO with Return (at +1)]{source="Pika" offensive=true movePower=102 level=45 evolution=1 combatStages=1 statModifier=1.1 opponentStat=55 healthThreshold=101 special=false stab=false}
@@ -1289,7 +1297,7 @@ After the fight:
 - Use Max Repel
 - Teach Surf to Lapras
 - Use Max Elixir (if no mom heal)
-- Potion (if no mom heal)
+- Heal to full (if no mom heal)
 - Escape Rope out of the gym
 - Fly to Pallet Town
 - Optional: Mom heal
@@ -1297,13 +1305,13 @@ After the fight:
 
 Enter the mansion  
 :::if{source="Pika" condition="speed=(23-25 / x / x)"}
-  :info[2nd Carbos needed to outspeed R22 Rival's Alakazam]{color=green}
+  :info[2nd Carbos needed to outspeed R22 Rival's Alakazam]{color=red}
 :::
 :::if{source="Pika" condition="speed=(x / 21-23 / 0-1)"}
-  :info[2nd Carbos needed to outspeed Agatha's Gengar]{color=green}
+  :info[2nd Carbos needed to outspeed Agatha's Gengar]{color=red}
 :::
 :::if{source="Pika" condition="speed=(x / 27-28 / 4-5)"}
-  :info[2nd Carbos needed to outspeed Champ's Alakazam]{color=green}
+  :info[2nd Carbos needed to outspeed Champ's Alakazam]{color=red}
 :::
 
 Grab the hidden Elixir, the Full Restore and the Secret Key
@@ -1348,7 +1356,7 @@ Take the spinny tile on the right
 
 :::::::trainer[Blackbelt Takashi]
   :::::pokemon[Machoke]
-    TB (+SW) (can SW x2 if TB cannot ohko)
+    TB (+SW)
     ::damage[Chance to OHKO with TB]{source="Pika" offensive=true movePower=95 level=46 statModifier=1.1 evolution=1 opponentStat=55 healthThreshold=113 special=true stab=true}
 	Both Machokes' Seismic Toss do 38 damage
   :::::
@@ -1356,7 +1364,7 @@ Take the spinny tile on the right
     TB
   :::::
   :::::pokemon[Machoke]
-    TB (+SW) (can SW x2 if TB cannot ohko)
+    TB (+SW)
     ::damage[Chance to OHKO with TB]{source="Pika" offensive=true movePower=95 level=46 statModifier=1.1 evolution=1 opponentStat=55 healthThreshold=113 special=true stab=true}
   :::::
 :::::::
@@ -1369,8 +1377,8 @@ Rare Candy twice to L49
     ::damage[Marowak's Bonemerang (per hit)]{source="Pika" offensive=false movePower=50 level=49 statModifier=1.1 evolution=1 opponentLevel=37 opponentStat=68 special=false stab=true effectiveness=2}
   :::::
   :::::pokemon[Marowak]
-    Sac HM friend to safely switch in Lapras, then Surf, then potion Raichu  
-    Return
+    Sac Squirtle to safely switch in Lapras, then Surf, then potion Raichu (Lapras faints), Return  
+    If Lapras kills Marowak with a crit, the only difference is that Raichu will still be at L50 for R22 Rival's Rhyhorn
     ::damage[Marowak's Bonemerang (per hit)]{source="Pika" offensive=false movePower=50 level=49 statModifier=1.1 evolution=1 opponentLevel=37 opponentStat=68 special=false stab=true effectiveness=2}
   :::::
   :::::pokemon[Rhyhorn]
@@ -1389,8 +1397,8 @@ Rare Candy twice to L49
 :::::::
 
 Equip Sitrus Berry  
-If Rhyhorn's Earthquake can OHKO, switch an HM friend to the front  
-If Earthquake is a guaranteed OHKO, you can try to pp stall (heal with Hyper Potion 10x).  
+If Rhyhorn's Earthquake can OHKO (at +0), switch your bird to the front  
+If Earthquake is a guaranteed OHKO (at +0), you can try to pp stall (heal with Hyper Potion 10x).  
 If female and bad Defense, can teach Attract over Shock Wave now and use it on Rhyhorn.  
 Save
 
@@ -1400,6 +1408,8 @@ Save
     X Defend if Earthquake can ohko  
     +2 enough with god Atk (see Nidoqueen range)
     ::damage[Rhyhorn's Earthquake (at +0)]{source="Pika" offensive=false movePower=100 level=49 statModifier=1.1 evolution=1 opponentLevel=45 opponentStat=81 special=false stab=true effectiveness=2}
+    ::damage[Rhyhorn's Earthquake (at +1)]{source="Pika" offensive=false movePower=100 level=49 statModifier=1.1 evolution=1 combatStages=1 opponentLevel=45 opponentStat=81 special=false stab=true effectiveness=2}
+    ::damage[Rhyhorn's Earthquake (at +2)]{source="Pika" offensive=false movePower=100 level=49 statModifier=1.1 evolution=1 combatStages=2 opponentLevel=45 opponentStat=81 special=false stab=true effectiveness=2}
   :::::
   :::::pokemon[Dugtrio]
     BB
@@ -1437,8 +1447,8 @@ Use the 2nd Carbos if you got it
     ::damage[Chance to OHKO with SW]{source="Pika" offensive=true movePower=60 level=51 statModifier=1.1 evolution=1 opponentStat=103 healthThreshold=148 special=true stab=true effectiveness=4}
   :::::
   :::::pokemon[Growlithe]
-    X Attack x2 + Return/TB
-    need to be able to tank Psychic if not faster than Alakazam or if Return is a range  
+    X Attack x2 + Return/TB  
+    Need to be able to tank Psychic if not faster than Alakazam or if Return is a range  
     Could TB Growlithe if slower than Alakazam, it has Disable (unlikely to use it)
     ::damage[Chance to OHKO with TB]{source="Pika" offensive=true movePower=95 level=51 statModifier=1.1 evolution=1 opponentStat=58 healthThreshold=112 special=true stab=true}
   :::::
@@ -1501,8 +1511,7 @@ Save
 :::::::trainer[Elite Four Bruno]
   :::::pokemon[Onix]
     Guard Spec (cutter faints) + 2 X Defend (+ Attract) + 4 X Attack + Brick Break  
-    If Guard Spec runs out when you go to +3, attack now and go to +4 on the next Onix
-    Can also use 1 X Defend before Guard Spec (Onix can sometimes lead with Earthquake) if you have 4 X Speed in your inventory, need to use one to undo the Rock Tomb Speed drop
+    If Guard Spec runs out when you go to +3, attack now (if you can ohko) and go to +4 on the next Onix  
     ::damage[Onix's Earthquake (at +2)]{source="Pika" offensive=false movePower=100 level=54 statModifier=1.1 evolution=1 combatStages=2 opponentLevel=51 opponentStat=66 special=false stab=true effectiveness=2} 
     ::damage[Onix's Earthquake (at +1)]{source="Pika" offensive=false movePower=100 level=54 statModifier=1.1 evolution=1 combatStages=1 opponentLevel=51 opponentStat=66 special=false stab=true effectiveness=2} 
     ::damage[Chance to OHKO with Brick Break (at +3)]{source="Pika" offensive=true movePower=75 level=54 statModifier=1.1 combatStages=3 evolution=1 opponentStat=183 healthThreshold=112 special=false stab=false effectiveness=2}
@@ -1564,7 +1573,7 @@ Heal to full
 
 Heal to Full  
 Teach Attract over Shock Wave if female  
-Elixir if you didn't have Shockwave available for Agatha or missed TB on Gengar (need 9 TB PP)  
+Elixir if you didn't have Shockwave available for Agatha or missed TB on Gengar (need 9 TB PP to finish the run)  
 Equip Cheri or Lum Berry if you still have one
 
 :::::::trainer[Elite Four Lance]
@@ -1609,9 +1618,9 @@ Before Champ:
 :::::::trainer[Champion]
   :::::pokemon[Pidgeot]
     Guard Spec (HM friend faints) + (Attract +) (X Speed +) 6 X Attack + Guard Spec + Return  
-    X Speed if slower than Alakazam
-    Need to Guard Spec the turn before attacking Pidgeot so that it lasts until Arcanine comes in
-    If Rhydon is a range at +6, could use 2-3 X Defend to tank Earthquake
+    X Speed if slower than Alakazam  
+    Need to Guard Spec the turn before attacking Pidgeot so that it lasts until Arcanine comes in  
+    If Rhydon is a range at +6 (due to horrible Attack), could use 2 X Defend to tank Earthquake
     ::damage[Pidgeot's Aerial Ace]{source="Pika" offensive=false movePower=60 level=57 statModifier=1.1 evolution=1 opponentLevel=59 opponentStat=117 special=false stab=true effectiveness=0.5}
   :::::
   :::::pokemon[Rhydon]
@@ -1630,14 +1639,14 @@ Before Champ:
   :::::
   :::::pokemon[Gyarados]
     TB  
-    Need to be at +6 with Guard Spec up for Arcanine
+    Want to be at +6 with Guard Spec up for Arcanine
     ::damage[Chance to OHKO with TB]{source="Pika" offensive=true movePower=95 level=57 statModifier=1.1 evolution=1 opponentStat=141 healthThreshold=199 special=true stab=true effectiveness=4}
   :::::
   :::::pokemon[Arcanine]
     Return
-    ::damage[Chance to OHKO with Return]{source="Pika" offensive=true movePower=102 level=58 statModifier=1.1 combatStages=6 evolution=1 opponentStat=121 healthThreshold=199 special=false stab=false}
+    ::damage[Chance to OHKO with Return (at +6)]{source="Pika" offensive=true movePower=102 level=58 statModifier=1.1 combatStages=6 evolution=1 opponentStat=121 healthThreshold=199 special=false stab=false}
+    ::damage[Chance to OHKO with Return (at +5)]{source="Pika" offensive=true movePower=102 level=58 statModifier=1.1 combatStages=5 evolution=1 opponentStat=121 healthThreshold=199 special=false stab=false}
     ::damage[Arcanine's Extremespeed]{source="Pika" offensive=false movePower=80 level=58 statModifier=1.1 evolution=1 opponentLevel=61 opponentStat=158 special=false stab=false}
-    ::damage[Arcanine's Extremespeed (at +1)]{source="Pika" offensive=false movePower=80 level=58 statModifier=1.1 evolution=1 combatStages=1 opponentLevel=61 opponentStat=158 special=false stab=false}
     ::damage[Arcanine's Flamethrower]{source="Pika" offensive=false movePower=95 level=58 statModifier=1.1 evolution=1 opponentLevel=61 opponentStat=159 special=true stab=true}
   :::::
  :::::pokemon[Venusaur]

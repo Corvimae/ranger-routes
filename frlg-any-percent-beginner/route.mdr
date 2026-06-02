@@ -124,7 +124,7 @@ Avoid all non mandatory trainers
 
 Grab this hidden potion if necessary
 
-![](https://cdn.discordapp.com/attachments/917309676717244436/1039412148499140678/Sammy_Candy.png)
+![](Sammy_Candy.png)
 
 :::::trainer[Bug Catcher Sammy]
   :::pokemon[Weedle]
@@ -138,7 +138,7 @@ Grab this hidden potion if necessary
 
 If poisoned, Antidote on the HP in the chart below
 
-![](https://cdn.discordapp.com/attachments/917309676717244436/1039413257242419200/Antidote_HP.png)
+![](Antidote_HP.png)
 
 Head straight to the gym
 
@@ -252,11 +252,11 @@ If you didn’t catch Pidgey on route 1, catch a Spearow/Pidgey now in the grass
   - If no HM Slaves, can catch Nidoran F/M for Cut + Strength
   - Can Bag Manip the Lass for a free pass
 
-![](https://cdn.discordapp.com/attachments/917309676717244436/1039429533180370964/Persim_Location.png)
+![](Persim_Location.png)
 
 Grab this Persim Berry if 28-29 SPA or the chart below says to “Grab Persim” 
 
-![](https://cdn.discordapp.com/attachments/917309676717244436/1039428835688579113/Persim_Grab.png)
+![](Persim_Grab.png)
 
 Run up 8 tiles in Mount Moon then::
   - Register TM Case
@@ -265,11 +265,11 @@ Run up 8 tiles in Mount Moon then::
 
 Grab this Rare Candy near the Bug Catcher (after fighting him if you’re fighting him)
 
-![](https://cdn.discordapp.com/attachments/917309676717244436/1039429908369260564/Moon_Candy.png)
+![](Moon_Candy.png)
 
 Fight ONE of these optional trainers for exp depending on the situation 
 
-![](https://cdn.discordapp.com/attachments/917309676717244436/1039430465737719808/Moon_Trainers.png)
+![](Moon_Trainers.png)
 
 ::variable{name="fight" type="select" title="Which trainer will you fight?" options='["Robby", "Josh", "Marcos", "Grunt"]'}
 
@@ -374,7 +374,7 @@ Head to Cerulean City
 
 Grab this hidden Rare Candy
 
-![](https://cdn.discordapp.com/attachments/917309676717244436/1039436488556957789/Cerulean_Candy.png)
+![](Cerulean_Candy.png)
 
 Menu:
 - Potion Twice
@@ -498,7 +498,7 @@ Use a Potion before Rival
 
 Go above the Hiker and grab this Hidden Elixir
 
-![](https://cdn.discordapp.com/attachments/917309676717244436/1039450232703942658/Elixir.png)
+![](Elixir.png)
 
 Fight the bottom hiker
 
@@ -574,11 +574,11 @@ Head to the Dig house
 
 *Grab this hidden Rare Candy*
 
-![](https://cdn.discordapp.com/attachments/917309676717244436/1039455506873450516/Route6_Candy.png)
+![](Route6_Candy.png)
 
 *Consider this Sitrus Berry with low Sp.Def*
 
-![](https://cdn.discordapp.com/attachments/917309676717244436/1039455914706620416/Sitrus_Berry.png)
+![](Sitrus_Berry.png)
 
 Avoid the Bug Catcher and fight the Camper below the girl trainer
 
@@ -628,7 +628,7 @@ Head to the S.S. Anne
 
 Ivysaur Bite+Mega Kick 2HKO tanges = 
 
-![](https://cdn.discordapp.com/attachments/917309676717244436/1039460355396616202/Ivyaur_2HKO.png)
+![](Ivyaur_2HKO.png)
 
 Talk to the captain for HM Cut and take the Bed Lady’s free heal on the way out
 
@@ -640,7 +640,7 @@ Save after you find the 1st Can puzzle
 - Soft reset if you didn’t get the 2nd Can after saving
 - Optimal Can movement are the following
 
-![](https://cdn.discordapp.com/attachments/917309676717244436/1039474592852475924/Can_Order.png)
+![](Can_Order.png)
 
 :::::trainer[Gentleman Tucker]
   :::pokemon[Pikachu]
@@ -714,11 +714,11 @@ Run-into-bike manip the Hiker spinner (If you mess up just use bike from the bag
 
 Consider these hidden Berries if no Awakenings (Chesto) or Paralyze Heals (Cheri) left
 
-![](https://cdn.discordapp.com/attachments/917309676717244436/1039516529038999602/Chesto_and_Cherri.png)
+![](Chesto_and_Cherri.png)
 
 Grab this hidden Rare Candy after the Hiker 
 
-![](https://cdn.discordapp.com/attachments/917309676717244436/1039516829808332910/Tunnel_Candy.png)
+![](Tunnel_Candy.png)
 
 Use Elixir on a Repel menu as necessary for Mega Kick PP
 
@@ -756,7 +756,7 @@ Optional: Grab the Elixir before Martha (below and left of her)
 
 Oddish 2HKO ranges =
 
-![](https://cdn.discordapp.com/attachments/917309676717244436/1039514893675671592/Oddish_Kick.png)
+![](Oddish_Kick.png)
 
 *Fight the left Bottom Hiker*
 
@@ -765,7 +765,7 @@ Oddish 2HKO ranges =
     Water Gun
 :::::
 
-![](https://cdn.discordapp.com/attachments/917309676717244436/1043882409055236096/Bottom_Hiker.png)
+![](Bottom_Hiker.png)
 
 :::::trainer[Hiker Oliver]
   :::pokemon[Onix]
@@ -851,11 +851,11 @@ Talk to the poster and head into the Rocket Hideout
 
 Grab this Rare Candy before going into the Spinny Tiles 
 
-![](https://cdn.discordapp.com/attachments/917309676717244436/1039520343762686002/Game_Corner_Candy.png)
+![](Game_Corner_Candy.png)
 
 Grab these Black Glasses before heading downstairs to Lift Key guy
 
-![](https://cdn.discordapp.com/attachments/917309676717244436/1039520683773919242/BlackGlasses.png)
+![](BlackGlasses.png)
 
 BEFORE battling the lift key guy:
  - Rare Candy to 35
@@ -1014,7 +1014,7 @@ Head to the 5th floor avoiding all optional trainers along the way
 
 **Backup X-Accuracy South of the staircase one floor above the Haunter Lady(if you used it on Rival)**
 
-![](https://cdn.discordapp.com/attachments/917309676717244436/1039540436517257246/Backup_X_Accuracy.png)
+![](Backup_X_Accuracy.png)
 
 :::::trainer[Channeler Jennifer]
   :::pokemon[Gastly]
@@ -1030,7 +1030,7 @@ Head to the 5th floor avoiding all optional trainers along the way
 
 Grab this Rare Candy before fighting Marowak
 
-![](https://cdn.discordapp.com/attachments/917309676717244436/1039540528129265684/Tower_Candy.png)
+![](Tower_Candy.png)
 
 :::if{source="Squirtle" condition="$fight == 'Marcos'"}
     Add 1 Defense IV to your squirtle to get accurate calcs of Marowak's Bonemerang(reduce it back after 
@@ -1087,11 +1087,11 @@ Bag manip the spinners at the beginning of Cycling Road
 
 Grab this hidden Rare Candy (3rd sign down)
 
-![](https://cdn.discordapp.com/attachments/917309676717244436/1039542815530688542/Cycling_Candy.png)
+![](Cycling_Candy.png)
 
 Grab this hidden Elixir
 
-![](https://cdn.discordapp.com/attachments/917309676717244436/1039542815165788180/Cycling_Elixir.png)
+![](Cycling_Elixir.png)
 
 Head through the *right* side of the gym
 
@@ -1105,11 +1105,11 @@ Head straight to the Safari Zone
 
 Always Grab this Full Restore
 
-![](https://cdn.discordapp.com/attachments/917309676717244436/1039543389680578560/Safari_Restore.png)
+![](Safari_Restore.png)
 
 Can grab this hidden revive for safety
 
-![](https://cdn.discordapp.com/attachments/917309676717244436/1039543389294706758/Safari_Revive.png)
+![](Safari_Revive.png)
 
 **Get the Gold Teeth and HM Surf in the house** 
 
@@ -1152,19 +1152,19 @@ The 1st and 3rd trainer in this gym are spinners, fight the 2nd guy
 
 Go to the mansion (approach from the left side)
 
-![](https://cdn.discordapp.com/attachments/917309676717244436/1042705897610301451/Carbos_Chart.png)
+![](Carbos_Chart.png)
 
 **Grab this Carbos if “Grab Carbos” on the chart above (Can bag manip the walker downstairs)**
 
-![](https://cdn.discordapp.com/attachments/917309676717244436/1039546661275435109/Mansion_Carbos.png)
+![](Mansion_Carbos.png)
 
 Grab this hidden Elixir
 
-![](https://cdn.discordapp.com/attachments/917309676717244436/1039547193012527154/Mansion_Elixir.png)
+![](Mansion_Elixir.png)
 
 Grab this TM14 (Blizzard) and then grab secret key on table
 
-![](https://cdn.discordapp.com/attachments/917309676717244436/1039547192710545468/Mansion_Blizzard.png)
+![](Mansion_Blizzard.png)
 
 **Before exiting Cinnabar Mansion:**
 - **Teach Strength to Sandshrew if you caught one**
@@ -1552,7 +1552,7 @@ Heal to Full before Lance
 
 Lance Dragon Rage x2 Hyper Beam Chart
 
-![](https://cdn.discordapp.com/attachments/917309676717244436/1042720352658280508/Gyara_Dead_Chart.png)
+![](Gyara_Dead_Chart.png)
 
 :::::trainer[Lance)]
   :::pokemon[Gyarados]
