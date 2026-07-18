@@ -42,6 +42,9 @@
   46 -> 4, 2, 0, 0, 2, 3
   47 -> 6, 5, 1, 0, 6, 3
   48 -> 7, 10, 1, 4, 6, 4
+  49 -> 7, 17, 2, 4, 7, 4
+  50 -> 7, 22, 4, 4, 9, 4
+  51 -> 14, 22, 4, 4, 9, 8
 ::: 
 :::card{theme=info}
 Ported by Fortunate 
@@ -217,7 +220,7 @@ Heal to full.
 - Remove the Silk Scarf (unless risking quick Brawly).
 - Heal to full.
 - Ether Echoed Voice :info[(DON'T MASH A)]{Color=red}
-- Remeber HP at end of fight
+- Remember HP at end of fight
 
 :::::trainer[Leader Brawly without Silk Scarf]
   :::pokemon[Machop]
@@ -251,12 +254,15 @@ After exiting the gym, head north to Granite Cave.
 - Super Repel.
 
 :::if{source="Mudkip" condition="speed=(x/12+/x)"}
- ::variable{name="ppskip" type="boolean" title="-Can Skip PP UP" defaultValue=0}
+ :::variable{name="ppskip" type="boolean" title="Skip the PP UP?" defaultValue=0}
+    If you select yes, skip picking up the PP UP in Slateport Beach. You wont' have super potions and less X items.
 :::
 
 Get Soft Sand
+:::if{source="Mudkip" condition="!$ppskip"}
+Grab PP Up
+:::
 
-Grab/Skip PP UP
 
 
 :::::trainer[Team Magma Grunt]
@@ -538,21 +544,43 @@ Go to the mart.
 Head north towards the cable car, and at the grass:
 - Use a Max Repel (keep applied until the end of the game).
 - Heal if yellow/red hp
-- Teach Strength over Water Gun (Slot 3)
+
 
 :::::trainer[Team Magma Grunt]
   :::pokemon[Poochyena]
     - Bulldoze
   :::
   :::pokemon[Koffing]
-    - Strength x3
+    - Water Gun x3
+
+    :::if{source="Mudkip" condition="spatk=(17-19 / 0-2 / x)" theme=error}
+      **5.08% Non-Torrent + Torrent 2HKO**
+    :::
+    :::if{source="Mudkip" condition="spatk=(20-23 / 3-7 / x)" theme=error}
+      **20.31% Non-Torrent + Torrent 2HKO**
+    :::
+    :::if{source="Mudkip" condition="spatk=(24+ / 8-11 / x)" theme=error}
+      **43.75% Non-Torrent + Torrent 2HKO**
+    :::
+    :::if{source="Mudkip" condition="spatk=(x / 12-19 / 0-7)" theme=error}
+      **70.31% Non-Torrent + Torrent 2HKO**
+    :::
+    :::if{source="Mudkip" condition="spatk=(x / 20-23 / 8-11)" theme=error}
+      **97.66% Non-Torrent + Torrent 2HKO**
+    :::
+    :::if{source="Mudkip" condition="spatk=(x / 24+ / 12+)" theme=error}
+      **100% Non-Torrent + Torrent 2HKO**
+    :::
+
+    - Non-Torrent 2HKO is 45.3% at (x/x/24+) StAtk.
+    - Shiny 3HKO range at bad Sp. Atk.
   :::
 :::::
 
 :::::trainer[Magma Admin Tabitha]
   :::pokemon[Koffing]
     - Heal at any point if Self-Destruct can kill
-    - Strength  until Self-Destruct
+    - Water Gun until Self-Destruct
 
   ::damage[Koffing's Self-Destruct]{source="Mudkip" evolution=1 offensive=false movePower=200 level=24 opponentLevel=24 opponentStat=36 combatStages=0 stab=false}
   :::
@@ -563,6 +591,7 @@ Head north towards the cable car, and at the grass:
 
 - Equip a Persim Berry.
 - Heal to **full**.
+- Teach Strength over Water Gun (Slot 3)
 
 :::::::trainer[Magma Leader Maxie]
   :::::pokemon[Mightyena]{info="1 Swagger is required, 2 Swaggers is ideal Heal Confusion using Full Heals and HP as needed" infoColor=gray}
@@ -751,11 +780,29 @@ Heal to full.
   :::::
 :::::::
 
-- Heal to full.
+- Heal to full. (May want to skip heal if going for risky torrent OHKO see damage calc below)
 - Teach Surf over Bulldoze (Slot 1)
 
 :::::trainer[Team Magma Double]
   - Surf (x2)
+  :::if{source="Mudkip" condition="spatk=(23- / 6- / x)" theme=warning}
+    **0/16 Torrent Surf on Camerupt OHKO**
+  :::
+  :::if{source="Mudkip" condition="spatk=(24+ / 7-16 / 3-)" theme=warning}
+    **1/16 Torrent Surf on Camerupt OHKO**
+  :::
+  :::if{source="Mudkip" condition="spatk=(x / 17-23 / 4-10)" theme=warning}
+    **5/16 Torrent Surf on Camerupt OHKO**
+  :::
+  :::if{source="Mudkip" condition="spatk=(x / 24-26 / 11-13)" theme=warning}
+    **9/16 Torrent Surf on Camerupt OHKO**
+  :::
+  :::if{source="Mudkip" condition="spatk=(x / 27+ / 14-26)" theme=warning}
+    **13/16 Torrent Surf on Camerupt OHKO**
+  :::
+  :::if{source="Mudkip" condition="spatk=(x / x / 27+)" theme=warning}
+    **16/16 Torrent Surf on Camerupt OHKO**
+  :::
 :::::
 
 - Swap Latios with Marshtomp.
@@ -778,15 +825,44 @@ Heal to full.
     - Dragon Breath x2
   :::
 :::::
-- Remember HP after
 :::::trainer[Magma Admin Tabitha]
   :::pokemon[Camerupt]{info="Remember HP after" infoColor=blue}
-    Surf (x2) :info[100% at 82+ Sp. Attack (x / x / 14+)]{color=red}
+    Surf (x2) :info[100% at 86+ Sp. Attack (x / 10+ / 0+)]{color=red}
   :::
 :::::
-- Heal to full and equip Mystic Water if HP is the following:
 
+  :::if{source="Latios" condition="def=(0-3/x/x) && speed=(0-16/x/x)" theme=warning}
+    **Heal to full and equip Mystic Water if HP is 63 or less**
+  :::
+  :::if{source="Latios" condition="def=(4-16/x/x) && speed=(0-16/x/x)" theme=warning}
+    **Heal to full and equip Mystic Water if HP is 59 or less**
+  :::
+  :::if{source="Latios" condition="def=(17+/0-13/x) && speed=(0-16/x/x)" theme=warning}
+    **Heal to full and equip Mystic Water if HP is 55 or less**
+  :::
+  :::if{source="Latios" condition="def=(x/14+/0-16) && speed=(0-16/x/x)" theme=warning}
+    **Heal to full and equip Mystic Water if HP is 51 or less**
+  :::
+  :::if{source="Latios" condition="def=(x/x/17+) && speed=(0-16/x/x)" theme=warning}
+    **Heal to full and equip Mystic Water if HP is 47 or less**
+  :::
+  :::if{source="Latios" condition="def=(0-3/x/x) && speed=(17+/#/#)" theme=warning}
+    **Heal to full and equip Mystic Water if HP is 37 or less**
+  :::
+  :::if{source="Latios" condition="def=(4-16/x/x) && speed=(17+/#/#)" theme=warning}
+    **Heal to full and equip Mystic Water if HP is 35 or less**
+  :::
+  :::if{source="Latios" condition="def=(17+/0-13/x) && speed=(17+/#/#)" theme=warning}
+    **Heal to full and equip Mystic Water if HP is 33 or less**
+  :::
+  :::if{source="Latios" condition="def=(x/14+/0-16) && speed=(17+/#/#)" theme=warning}
+    **Heal to full and equip Mystic Water if HP is 31 or less**
+  :::
+  :::if{source="Latios" condition="def=(x/x/17+) && speed=(17+/#/#)" theme=warning}
+    **Heal to full and equip Mystic Water if HP is 29 or less**
+  :::
 
+Heal and equip menu logic above based on the following:
 ![mysyticwaterflowchart](mysyticwaterflowchart.jpg)
 
 
@@ -794,7 +870,7 @@ Heal to full.
   ::::pokemon[Slugma]
     - Surf
   ::::
-  ::::pokemon[Grovyle]{info="Need 2 X-SpAtks for winona Faster at 68+ Speed (17+ / 0+ / 0+)" infoColor=blue}
+  ::::pokemon[Grovyle]{info="Need 2 X-SpAtks for Winona Faster at 68+ Speed (17+ / 0+ / 0+)" infoColor=blue}
    :::if{source="Latios" condition="spatk=(x/24+/#)"}
     - X-Sp. Atk
     - Luster Purge (+ Dragon Breath)
@@ -858,7 +934,7 @@ Gym puzzle:
   :::
 :::::
 
-Grab Persim Berries (left) Can skip w/ 2 left (Need one for and Sidney)
+Grab Persim Berries (left) Can skip w/ 2 left (Need one for Wallace and Sidney)
 
 Get the free heal before surfing to Mt. Pyre.
 
@@ -872,7 +948,7 @@ Get the free heal before surfing to Mt. Pyre.
   :::pokemon[Numel]
     - Surf
   :::
-  :::pokemon[Mightyena]
+  :::pokemon[Mightyena]{info="faster than paralyzed Mightyena with 82+ Speed (x/20+/0+)" infoColor=blue}
     - Dragon Breath
     - If still green HP: Surf
     - Otherwise: Dragon Breath
@@ -899,8 +975,10 @@ If you took Damage:
   :::::
 :::::::
 
-- Heal to full-ish
+- Heal to full-ish if playing safe or in Assurance Range
 - Fly to Slateport City.
+
+::damage[Mightyena's Assurance]{source="Latios" offensive=false effectiveness=2 movePower=60 stab=true level=33 opponentLevel=36 opponentStat=69}
 
 ### Slateport Shopping.
 > #### Buy (Top):
@@ -915,7 +993,53 @@ Bike to the Harbor.
 
 :::::trainer[Team Magma Grunt]
   :::pokemon[Mightyena]
-    -  Dragon Breath/Surf x2 (Dragon Breath)
+    -  Surf + Dragon Breath
+    - If bad first roll and no Embargo, can finish with Surf (be very mindful of Surf PP in this case)
+  :::
+  :::if{source="Latios" condition="spatk=(23-/x/x)" theme=error}
+    **42.2% or less Surf + Dragon Breath 2HKO**
+  :::
+  :::if{source="Latios" condition="spatk=(24-26/x/x)" theme=error}
+    **53.1% Surf + Dragon Breath 2HKO**
+  :::
+  :::if{source="Latios" condition="spatk=(27+/0-2/x)" theme=error}
+    **75.4% Surf + Dragon Breath 2HKO**
+  :::
+  :::if{source="Latios" condition="spatk=(x/3-5/x)" theme=error}
+    **83.6% Surf + Dragon Breath 2HKO**
+  :::
+  :::if{source="Latios" condition="spatk=(x/6-8/x)" theme=error}
+    **89% Surf + Dragon Breath 2HKO**
+  :::
+  :::if{source="Latios" condition="spatk=(x/9-11/x)" theme=error}
+    **93.4% Surf + Dragon Breath 2HKO**
+  :::
+  :::if{source="Latios" condition="spatk=(x/12-14/x)" theme=error}
+    **96% Surf + Dragon Breath 2HKO**
+  :::
+  :::if{source="Latios" condition="spatk=(x/15-20/x)" theme=error}
+    **99% Surf + Dragon Breath 2HKO**
+  :::
+  :::if{source="Latios" condition="spatk=(x/21+/#)" theme=error}
+    **100% Surf + Dragon Breath 2HKO**
+  :::
+  :::if{source="Latios" condition="spatk=(0-2/x/x)" theme=error}
+    **45.3% Surf x2 2HKO**
+  :::
+  :::if{source="Latios" condition="spatk=(6-8/x/x)" theme=error}
+    **67.2% Surf x2 2HKO**
+  :::
+  :::if{source="Latios" condition="spatk=(9-14/x/x)" theme=error}
+    **81.3% Surf x2 2HKO**
+  :::
+  :::if{source="Latios" condition="spatk=(15-17/x/x)" theme=error}
+    **91% Surf x2 2HKO**
+  :::
+  :::if{source="Latios" condition="spatk=(18-23/x/x)" theme=error}
+    **91% Surf x2 2HKO**
+  :::
+  :::if{source="Latios" condition="spatk=(24+/#/#)" theme=error}
+    **100% Surf x2 2HKO**
   :::
 :::::
 
@@ -930,7 +1054,7 @@ Bike to the Harbor.
 
 - Heal to full if took damage
 
-:::::::trainer[Brendan 4]{info="nothing but pain"}
+:::::::trainer[Brendan 4]
   :::::pokemon[Swellow]{info="Faster at 98+ Speed (Lv. 34: x / x / 28+)" infoColor=blue}
     - X Sp. Attack
     :::if{source="Latios" condition="spatk=(31- / 9- / x)"}
@@ -946,6 +1070,21 @@ Bike to the Harbor.
     - Consider Luster Purge or Fly turn 2 if Dragon Breath does less than half
     
     ::damage[Sceptile's Dual Chop]{source="Latios" offensive=false effectiveness=4 movePower=40 stab=false level=34 opponentLevel=39 opponentStat=78}
+    :::if{source="Latios" condition="spatk=(x/4-12/x)" theme=error}
+    **62.5% +1 DragonBreath 2HKO**
+    :::
+    :::if{source="Latios" condition="spatk=(x/13-18/x)" theme=error}
+    **83.2% +1 DragonBreath 2HKO**
+    :::
+    :::if{source="Latios" condition="spatk=(x/19-27/0)" theme=error}
+    **96.5% +1 DragonBreath 2HKO**
+    :::
+    :::if{source="Latios" condition="spatk=(x/28+/1-9)" theme=error}
+    **99.6% +1 DragonBreath 2HKO**
+    :::
+    :::if{source="Latios" condition="spatk=(x/x/10+)" theme=error}
+    **100% +1 DragonBreath 2HKO**
+    :::
 
   :::::
   :::::pokemon[Magcargo]
@@ -963,8 +1102,9 @@ Only need 3 Luster Purge/8 or 9 surfs from here (Dont leppa either if you have t
 
 If damaged, open your item menu:
   - Heal to full
-  - Leppa if needed
+  - Leppa Luster Purge if needed (+Surf if you need it)
 
+::damage[Mightyena's Assurance]{source="Latios" offensive=false effectiveness=2 movePower=60 stab=true evs=8 level=35 opponentLevel=37 opponentStat=71}
 
 :::::trainer[Team Magma Grunt]
   :::pokemon[Mightyena]
@@ -980,6 +1120,7 @@ Go behind the bed and pick up Master Ball.
 - First: Bottom right ball
 - Then: Upper left ball (talk diagonally)
 
+Puzzle: Middle, Left, Top
 
 :::::trainer[Team Magma Grunt]
   :::pokemon[Numel]
@@ -995,7 +1136,7 @@ Go behind the bed and pick up Master Ball.
 :::::
 
 :::::trainer[Magma Admin Courtney]
-  :::pokemon[Camerupt]{info="Take note of Surf PP (need like 2 maybe 3 for TnL, 1 for maxie)" infoColor=blue}
+  :::pokemon[Camerupt]{info="Take note of Surf PP (need like 2 maybe 3 for TnL, 1 for Maxie)" infoColor=blue}
     - Surf
   :::
 :::::
@@ -1004,7 +1145,7 @@ If damaged Heal to full
 
 :::::trainer[Liza & Tate]
   - Surf/ X Sp. Attack
-  - Surf/ X Sp. Attack
+  - Surf/ X Sp. Attack :info[(Can knock into heal range w/ too high SpA]{color=gray}
   - Surf as needed :info[(Need 1 surf for maxie) having only 1 loses a turn]{color=gray}
 :::::
 
@@ -1025,37 +1166,38 @@ Open your item menu:
   :::
 :::::
 
-Heal if needed
+Heal if dead to Take Down
 
 :::::trainer[Magma Leader Maxie]
  ::::pokemon[Mightyena]  
   :::if{source="Latios" condition="speed=(x/27+/4+)"}
-    - Guard Spec
-    - X Sp. Attack (x2) :info[If Crobat is guaranteed at +1, you should go for +1 always]{color=gray}
-    - Surf (Dragon Breath) :info[Can Dragon Breath (x2) if only one Surf left]{color=gray}
+    - Guard Spec :info[If Embargo, just go (GLHF)]{color=red}
+    - X Sp. Attack (x1-2) :info[If Crobat is guaranteed at +1, you should go for +1 always]{color=gray}
+    - Surf (Dragon Breath x2) :info[Can Dragon Breath (x2) if only one Surf left]{color=gray}
    ::damage[Take Down]{source="Latios" offensive=false movePower=90 stab=false level=37 evs=16 opponentLevel=41 opponentStat=78}   
   :::  
   :::if{source="Latios" condition="speed=~(x/27+/4+)"}
-    - Guard Spec
+    - Guard Spec :info[If Embargo, just go (GLHF)]{color=red}
     - X Speed
     - X Sp. Attack (x2) :info[If Crobat is guaranteed at +1, you should go for +1 always]{color=gray}
-    - Surf (Dragon Breath)
-     - Can Dragon Breath (x2) if only one Surf left
+    - Surf (Dragon Breath x2) :info[Can Dragon Breath (x2) if only one Surf left]{color=gray}
    ::damage[Take Down]{source="Latios" offensive=false movePower=90 stab=false level=37 evs=16 opponentLevel=41 opponentStat=78}  
  ::::
  ::::pokemon[Weezing]
-    -  Luster Purge
+    -  Luster Purge :info[OHKO at +1]{color=gray}
  ::::
  ::::pokemon[Crobat]
     - Luster Purge
     ::damage[+1 Luster Purge vs Crobat]{source="Latios" special=true movePower=70 stab=true level=38 evs=8 opponentStat=77 healthThreshold=120 combatStages=1 effectiveness=2 theme=error}
  ::::
  ::::pokemon[Camerupt]
-    - Surf
+    - Surf :info[OHKO at +0]{color=gray}
  ::::
 :::::
 
 Catch Groudon with the Master Ball.
+
+<b><a href="https://docs.google.com/document/d/1stn8F7NBYv-KbPX7xbzq53HcVo-xG6XFHZESDdVDVa4/edit#bookmark=id.kl5qnzgabkh3" target="_blank">Link to notes if you want to do Overheat Skip (Experimental, really only YOLO strat).</a></b>
 
 - Open your Pokémon menu:
   - Move Groudon to Slot 1
@@ -1064,6 +1206,7 @@ Catch Groudon with the Master Ball.
     - Teach Smack Down over Rest (Slot 2) 
     - Teach Swords Dance over Lava Plume (Slot 1) 
     - Teach Overheat over Precipice Blades (slot 4)
+
 
 
 ![Ice puzzle momement pt. 1](ice-puzzle-1.png)
@@ -1097,12 +1240,12 @@ Catch Groudon with the Master Ball.
 
 - Fly to Route 126.
 - Menu:
-  - Equip a Persim Berry if have one extra :info[(NEED ONE FOR SIDNEY)]{color=yellow}
+  - Equip a Persim Berry if have one extra :info[(NEED ONE FOR SIDNEY)]{color=red}
   - Teach Waterfall over Dragon Breath to Latios (Slot 2)
 
 
 - At the Pokémon Center
-  - Organize menu: :info[(DO NOT HEAL MARSHTOMP)]{color=yellow}
+  - Organize menu: :info[(DO NOT HEAL MARSHTOMP)]{color=red}
     - Deposit Groudon
     - Groudon over Latios
     - Deposit Castform
@@ -1132,7 +1275,7 @@ Catch Groudon with the Master Ball.
   :::
 :::::
 
-:info[Grab Elixir if no more Leppas (straight ahead in right rock after battle)]{color=yellow}
+:info[Grab Elixir if no more Leppas (straight ahead in front of the small rock after battle)]{color=blue}
 
 :::::trainer[Export Theodore]
   :::pokemon[Sawk]{info="Faster at 85+ Speed (16+ / 0+ / 0+)" infoColor=blue}
@@ -1162,11 +1305,11 @@ Catch Groudon with the Master Ball.
     :::if{source="Groudon" condition="speed=(5-/x/x)"}
     - X-Speed
     - Smack Down
-    - Earthquake (Overhaet if less than 3 Earthquakes) 
+    - Earthquake (Overheat if less than 3 Earthquakes) 
     :::
     :::if{source="Groudon" condition="speed=~(5-/x/x)"}
     - Smack Down
-    - Earthquake (Overhaet if less than 3 Earthquakes) 
+    - Earthquake (Overheat if less than 3 Earthquakes) 
     :::
      ::damage[Flash Cannon]{source="Groudon" special=true movePower=80 stab=true level=47 opponentLevel=46 evs=4 opponentStat=115 offensive=false effectiveness=1 theme=error}
   :::::
@@ -1180,7 +1323,7 @@ Catch Groudon with the Master Ball.
 
 -Deposit Marshtomp and PC heal Groudon. 
   - If you're low on Full Restores, consider buying a few.
-  - Equip Persim Berry if haven’t already done so!
+  - **Equip Persim Berry if haven’t already done so!**
 
 :::::::trainer[Elite Four Sidney]
   :::::pokemon[Mightyena]{info="Only KO Mightyena at +3 Attack"}
@@ -1189,13 +1332,14 @@ Catch Groudon with the Master Ball.
       - Earthquake
     :::
     :::if{source="Groudon" condition="speed=(#/8-/x)"}
+      - X Speed x 2 
       - Swords Dance x2
-      - X Speed x2
       - Full Heal
       - Earthquake
     :::
   :::::
   :::::pokemon[Shiftry]{info="Shiftry is faster if +1 Speed and Sun"}
+    ::damage[Shiftry's Leaf Blade ]{source="Groudon" special=false movePower=90 stab=true level=48 opponentLevel=50 evs=0 opponentStat=109 offensive=false effectiveness=2 theme=error}
    :::if{source="Groudon" condition="atk=(x/15+/#)"}
     - Earthquake :info[15/16 range at (x/15-18/x)]{color=gray}
     - If Earthquake missed range, Smack Down, Overheat
@@ -1214,17 +1358,16 @@ Catch Groudon with the Master Ball.
     
     If Earthquake missed range, Smack Down, Overheat
    ::: 
-    ::damage[Shiftry's Leaf Blade ]{source="Groudon" special=false movePower=90 stab=true level=48 opponentLevel=50 evs=0 opponentStat=109 offensive=false effectiveness=2 theme=error}
   :::::
-  :::::pokemon[Cacturne]
-    - Earthquake
+  :::::pokemon[Cacturne]{info="+5 Smack Down 100% with 147+ Atk (30+/0+/0+)" infoColor=gray}
+    - Earthquake :info[Overheat if Spiky Shield and want to +2 Glacia]{color=gray}
   :::::
   :::::pokemon[Sharpedo]{info="Aqua Jet does 60 max" infoColor=blue}
     - Heal if Aqua Jet range
-    - Earthquake
+    - Smack Down
      ::damage[Sharpedo's Aqua Jet]{source="Groudon" special=false movePower=40 stab=true level=48 opponentLevel=50 evs=1 opponentStat=141 offensive=false effectiveness=2 theme=error}
   :::::
-  :::::pokemon[Absol]
+  :::::pokemon[Absol]{info="Smackdown at +5" infoColor=gray}
     - Earthquake
   :::::
 :::::::
@@ -1274,25 +1417,18 @@ Open your item menu:
   :::::
 :::::::
 
-- Bag
-  - Heal to full
-  - Use Leppa on EQ (Slot 3) DONT MASH A  (or elixir)
-  - Equip Red Orb if dont have it on
-  - Teach Strength over Overheat (Slot 4)
-
-
 :::::::trainer[Glacia]
   :::::pokemon[Glalie]{info="Make sure to set 30 vs 31 IV speed" infoColor=blue}
     :::if{source="Groudon" condition="speed=(#/30-/10-)"}
     - X Speed
     :::
-
-    - Swords Dance
-    - Earthquake
+    - Swords Dance x2 (can only go 1x if going for +2 ranges below)
+    - Smack Down
+      ::damage[+2 Smack Down vs Glalie 1]{source="Groudon" evolution=1 special=false evs=22 movePower=50 stab=false level=49 opponentLevel=52 opponentStat=101 offensive=true healthThreshold=149 effectiveness=2 combatStages=2 theme=error}
   :::::
-  :::::pokemon[Walrein]
-    - Earthquake (x2)
-      ::damage[+2 Earthquake vs Walrein]{source="Groudon" evolution=1 evs=16 special=false movePower=100 stab=true level=50 opponentLevel=54 opponentStat=106 offensive=true healthThreshold=187 effectiveness=1 combatStages=2 theme=error}
+  :::::pokemon[Walrein]{info="Smackdown if you went +4" infoColor=gray}
+    - Smack Down/Earthquake (EQ if have any left otherwise SD)
+      ::damage[+2 Earthquake vs Walrein]{source="Groudon" evolution=1 special=false movePower=100 stab=true level=50 opponentLevel=54 opponentStat=106 offensive=true healthThreshold=187 effectiveness=1 combatStages=2 theme=error}
   :::::
   :::::pokemon[Froslass]
     - Smack Down
@@ -1301,13 +1437,17 @@ Open your item menu:
     - Smack Down
   :::::
   :::::pokemon[Glalie]
-    - Earthquake (+ Smack Down if Protect)
+    - Smack Down
+      ::damage[+2 Smack Down vs Glalie 2]{source="Groudon" evolution=1 special=false movePower=50 stab=false level=50 opponentLevel=52 opponentStat=101 offensive=true healthThreshold=149 effectiveness=2 combatStages=2 theme=error}
   :::::
 :::::::
 
 - Bag:
+  - Equip Silk Scarf (Should be at the top)
   - Heal to full if needed
-  - Equip Silk Scarf
+  - Teach Strength over Overheat (Slot 4)
+  - Use Leppa on EQ (Slot 3) DONT MASH A (or elixir)
+
 
 :::::::trainer[Elite Four Drake]
   :::::pokemon[Altaria]{info="Heal when Dragon Pulse KOs" infoColor=blue}
@@ -1348,7 +1488,7 @@ Open your item menu:
      ::damage[Altaria's Dragon Pulse]{source="Groudon" special=true offensive=false evs=8 movePower=85 level=51 opponentLevel=53 stab=true opponentStat=83}
   :::::
   :::::pokemon[Kingdra]
-    - Earthquake
+    - Strength :info[+4 100% with 147+ (7+/0+/0+)]{color=gray}
   :::::
   :::::pokemon[Flygon]{info="Boomburst does 71 max" infoColor=blue}
     - (X Speed if haven't)
@@ -1359,7 +1499,8 @@ Open your item menu:
     - Strength
   :::::
   :::::pokemon[Salamence]
-    - Smack Down
+    - Smack Down :info[Strength at +5]{color=gray}
+    ::damage[+3 Smack Down vs Salamence]{source="Groudon" evolution=0  evs=24 special=false movePower=50 stab=false level=52 opponentLevel=55 opponentStat=97 offensive=true healthThreshold=173 effectiveness=2 combatStages=3 theme=error}
   :::::
 :::::::
 
