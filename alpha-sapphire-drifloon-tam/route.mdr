@@ -33,14 +33,12 @@ Make sure Mudkip is deposited before starting.
   :info[_Level 8_]{color="gray"}
 :::::
 
-- Grab the Oran Berries from the left tree before entering the forest.
-
 - Pick up the Balm Mushroom.
 - Pick up the Ether.
 
 - Pick up the Super Potion hidden in the grass behind the flower shop (bottom-right single grassless tile of the three).
-- Grab the Cheri Berries from the middl treed at the top-right of the pond (run past the fisher).
-- Grab the Cheri Berries from the left tree at the top-right of the pond.
+- Grab the Cheri Berries from the middle tree at the top-right of the pond (run past the fisher).
+- Grab the Oran Berries from the left tree at the top-right of the pond.
 - Pick up the X Defense (before entering Rustboro, run to the right and follow the outside of the fence).
 
 - Enter the center and withdraw Mudkip.
@@ -257,6 +255,8 @@ Fight the bug catcher on purpose.
 
 Head to the gym.
 
+**Save before every fight here.**
+
 :::::trainer[Pokemon Trainer Wally]
   :::pokemon[Ralts]
     - Ominous Wind
@@ -297,8 +297,6 @@ Head to the gym.
 - Use a Leppa Berry on Ominous Wind.
 - Equip a Cheri Berry.
 - Heal to full.
-
-**Save before Wattson.**
 
 :::::trainer[Leader Wattson]
   :::pokemon[Magnemite (Setup)]{info="If Magnemite uses Volt Tackle turn one for some reason, this fight is a mess."}
@@ -376,6 +374,7 @@ At the rocks:
 :::::
 
 - Heal to full.
+- Grab the Nugget in the crater outside of the house.
 
 :::::trainer[Poke Maniac Steve]
   :::pokemon[Aron]{info="If you get Roar'd, switch Drifloon back in!"}
@@ -386,7 +385,6 @@ At the rocks:
 
 - Heal to full.
 
-- Grab the Nugget in the crater outside of the house.
 - Grab the Comet Shard in the first crater outside Meteor Falls.
 - Grab the Rare Bone in the second crater outside Meteor Falls.
 - If you have no Ominous Wind uses left, use a Leppa Berry on Ominous Wind.
@@ -465,12 +463,13 @@ Fight the roaming girl on purpose.
   :::
   :::pokemon[Carvanha]
     - Charge Beam
-  
   :::
 :::::
 
 - Heal to full.
 - Use a Full Heal if poisoned.
+
+- Swap Mudkip to the front.
 
 **Save before Archie.**
 
@@ -494,6 +493,7 @@ Fight the roaming girl on purpose.
   :::
 :::::
 
+- Swap Drifloon to the front.
 - Get the free heal.
 
 Flannery gym puzzle:
@@ -681,6 +681,7 @@ Get the Skitty heal :info[in a flash!]{color=gray}.
 :::::
 
 - Heal if in yellow HP.
+- Save the game.
 
 :::::trainer[Team Aqua Grunt]
   :::pokemon[Mightyena]
