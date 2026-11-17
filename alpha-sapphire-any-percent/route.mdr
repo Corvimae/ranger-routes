@@ -176,6 +176,9 @@ Immediately after entering Rusturf Tunnel:
   - Teach Echoed Voice over Tackle (slot 1).
   - Teach Rock Tomb over Mud Slap (slot 4).
 
+
+::variable{name="ppuskip" type="boolean" title="PP Up Skip (Default No) -VERY RISKY- Only recommended for top times" defaultValue=0}
+
 :::::::trainer[Team Aqua Grunt]
   :::::pokemon[Poochyena]{info="Faster before Rock Tomb hit at 15+ Speed (20+ / 4+ / 0+)" infoColor=blue}
     - Rock Tomb
@@ -184,11 +187,12 @@ Immediately after entering Rusturf Tunnel:
 :::::::
 
 Go back to Rustboro and head to the Devon Corporation. Watch the cutscenes, then head to the mart.
-
+:::if{source="Mudkip" condition=!$ppuskip}
 ### Rustboro Shopping
 > #### Buy
 > - 2 Repels (^^)
 > - 4 Super Potions (<v)
+:::
 
 Go back through Petalburg Woods and meet Mr. Briney in his house. Intercept him by standing on the tile to the bottom-left of the table immediately, then press up when he asks you where you want to go.
 
@@ -200,6 +204,9 @@ Head to the gym.
 - Equip the Silk Scarf.
 - Heal to full.
 
+:::if{source="Mudkip" condition=$ppuskip}
+- You can Buy 1 Fresh Water for Museum safety (or Hideki)
+:::
 :::::trainer[Battle Girl Laura]
   :::pokemon[Meditite]
     - Echoed Voice x3 / x4 (/ x5) (+ Water Gun)
@@ -257,18 +264,30 @@ Heal to full.
 
 After exiting the gym, head north to Granite Cave.
 
+:::if{source="Mudkip" condition=$ppuskip}
+- Grap Super Repel
+:::
+
 - Heal to full.
+
+:::if{source="Mudkip" condition=!$ppuskip}
 - Use a Repel (keep repels active until they run out).
+:::
+:::if{source="Mudkip" condition=$ppuskip}
+- Use/Skip Super Repel
+:::
 
 After talking to Steven, head back to the dock and talk to Mr. Briney. Sail to Slateport (press up once).
 
 At the beach, go to the north-east and get the Soft Sand from the pink tuber standing next to the blue tuber.
 
+:::if{source="Mudkip" condition=!$ppuskip}
 ![Soft Sand location](soft-sand.png)
 
 Go to the north-west of the beach and grab the PP Up.
 
 ![PP Up location](pp-up.png)
+:::
 
 Head to Stern's Shipyard and watch the cutscene.
 
@@ -310,6 +329,7 @@ Head to the museum.
   :::
 :::::
 
+:::if{source="Mudkip" condition=!$ppuskip}
 ### Slateport Shopping
 > #### Sell (Top)
 > - ALL Poké Balls
@@ -341,6 +361,33 @@ Head to the museum.
 > :::
 > #### Buy (Bottom)
 > - 4 Super Repels (^^)
+:::
+
+:::if{source="Mudkip" condition=$ppuskip}
+### Slateport Shopping
+> #### Sell (Top)
+> - ALL Poké Balls
+> - Balm Mushroom
+> - Great Ball
+> #### Buy (Top)
+> :::if{source="Mudkip" condition="speed=(x / 28+ / 16+) && atk=(#/#/14-)"}
+> - 5 X Speed
+> :::
+> :::if{source="Mudkip" condition="speed=(#/ 27- / 15-) || atk=(x/x/15+)"}
+> - 6 X Speed
+> :::
+> :::if{source="Mudkip" condition="atk=(x/x/15+)"}
+> - 7 X Attack (v)
+> :::
+> :::if{source="Mudkip" condition="atk=(#/#/14-)"}
+> - 8 X Attack (v)
+> :::
+> - 1 X Defend (v)
+> - 3 X-Sp. Atk (>^^)
+> #### Buy (Bottom)
+> - 4 Super Repels (^^)
+:::
+
 
 :::card
 - If your Attack is good (see ranges below), you can skip an X Attack on Norman.
@@ -368,12 +415,14 @@ After beating Isabel:
 - Equip the Silk Scarf.
 - Use a Super Repel.
 
+
+
 :::::::trainer[Brendan 2]
   :::::pokemon[Slugma]
-    :::if{source="Mudkip" condition="(speed=(21- / 4- / x) || speed=(27+ / 9+ / #)) && spatk=(# / 18- / 2-)"}
+    :::if{source="Mudkip" condition="((speed=(21- / 4- / x) || speed=(27+ / 9+ / #)) && spatk=(# / 18- / 2-)) && !$ppuskip"}
     - X Sp. Attack x4
     :::
-    :::if{source="Mudkip" condition="speed=(22-26 / 5 - 8 / x) || spatk=~(# / 18- / 2-)"}
+    :::if{source="Mudkip" condition="(speed=(22-26 / 5 - 8 / x) || spatk=~(# / 18- / 2-)) && !$ppuskip"}
     - X Sp. Attack x3
     ::: 
     :::if{source="Mudkip" condition="speed=(21- / 4- / x)"}
@@ -383,26 +432,39 @@ After beating Isabel:
     - X Speed x2
     :::
     - (Heal if one Incinerate will put you into Grovyle's Quick Attack range)
-    - Echoed Voice x2
+    - Echoed Voice x2 (x3 if PP UP skip)
 
     ::damage[Slugma's Incinerate]{source="Mudkip" evolution=1 offensive=false movePower=60 special=true level=17 evs=0 opponentLevel=18 stab=true opponentStat=34 effectiveness=0.5}
   :::::
   :::::pokemon[Grovyle]
     - Echoed Voice (x2)
+    :::if{source="Mudkip" condition="!$ppuskip"}
     ::damage[+3 Echoed Voice vs Grovyle]{source="Mudkip" evolution=1 movePower=120 special=true combatStages=3 level=18 evs=1 opponentStat=31 healthThreshold=54 otherPowerModifier=1.2 theme=error}
-
+    :::
     ::damage[Grovyle's Quick Attack]{source="Mudkip" evolution=1 offensive=false movePower=40 level=18 evs=5 opponentLevel=20 opponentStat=35}
   :::::
   :::::pokemon[Wailmer]
-    - Echoed Voice
+    - Echoed Voice (x2 if PP UP Skip) :info[Whirlpool residual damage is 7 (unless 0-3 HP IV, which is 6).]{color=blue}
+    :::if{source="Mudkip" condition="$ppuskip"}
+    ::damage[Wailmer's Water Gun]{source="Mudkip" evolution=1 offensive=false movePower=40 special=true level=18 opponentLevel=18 stab=true opponentStat=34 effectiveness=1}
+    ::damage[Wailmer's Whirlpool]{source="Mudkip" evolution=1 offensive=false movePower=35 special=true level=18 opponentLevel=18 stab=true opponentStat=34 effectiveness=1}
+    :::
   :::::
 :::::::
+
 
 :info[**Free heal**]{color=pink}
 
 Optional: Get the hidden Revive before the next spinner.
 
-Get Leppa Berries from one bush before entering Mauville. Drop Repel and get the Mach Bike.
+:::if{source="Mudkip" condition="!$ppuskip"}
+Get Leppa Berries from one bush before entering Mauville. :info[_Can skip and get VR Elixir and Chimney Heal instead_]{color=gray}
+:::
+:::if{source="Mudkip" condition="$ppuskip"}
+Skip Leppas
+:::
+
+Drop Repel and get the Mach Bike.
 
 ### Mauville Shopping
 > #### Buy (Top):
@@ -456,7 +518,9 @@ Puzzle (room 2): Top-right blue switch, red switch, top-right blue switch.
 :::::trainer[Leader Wattson]
   :::pokemon[Magnemite]
     - Water Gun
+    :::if{source="Mudkip" condition="!$ppuskip || ($ppuskip && speed=(20+ / 2+ / #))"}
     - X Speed
+    :::
     - Bulldoze
   :::
   :::pokemon[Magneton]
@@ -495,7 +559,7 @@ Head through the cave. After exiting, grab the Persim Berries from the middle bu
     :::if{source="Mudkip" condition="atk=(x / 15-24 / 0-5)" theme=error}
       **Bulldoze x2 is a 99.5 range.**
     :::
-    :::if{source="Mudkip" condition="atk=(x / 15+ / 6+)" theme=error}
+    :::if{source="Mudkip" condition="atk=(x / 25+ / 6+)" theme=error}
       **Bulldoze x2 is a 100% range.**
     :::
   :::::
@@ -584,9 +648,13 @@ Enter the cable car building (watch out for the spinner in front!) and talk to t
   :::
 :::::
 
-- Equip a Persim Berry.
+:::if{source="Mudkip" condition="!$ppuskip"}
+- Equip a Persim Berry. :info[_If Leppa Skip keep soft sand to save menu later._]{color=red}
 - Heal to **full**.
-
+:::
+:::if{source="Mudkip" condition="$ppuskip"}
+- Heal to full if significantly damaged. (Try to skip)
+:::
 :::::::trainer[Aqua Leader Archie]
   :::::pokemon[Mightyena]{info="Heal Confusion using Full Heals and HP as needed" infoColor=gray}
     :::if{source="Mudkip" condition="speed=(x / 28+ / 16+)"}
@@ -607,7 +675,7 @@ Enter the cable car building (watch out for the spinner in front!) and talk to t
   :::::
   :::::pokemon[Golbat]{info="Faster at +1 at 34+ Speed (28+ / 12+ / 0+)" infoColor=blue}
     - Rock Tomb
-    :::if{source="Mudkip" condition="atk=(x / 19+ / 3+)"}
+    :::if{source="Mudkip" condition="atk=(x / 19+ / 3-14)"}
      - Rock Smash
     :::
     :::if{source="Mudkip" condition="atk=~(x / 19+ / 3+)"}
@@ -620,9 +688,14 @@ Enter the cable car building (watch out for the spinner in front!) and talk to t
 
 Exit the peak at the left-most tile and bike straight down without stopping. Go to the gym.
 
-- Use a Leppa Berry on Bulldoze (mash A).
+:::if{source="Mudkip" condition="!$ppuskip"}
+- Use a Leppa Berry on Bulldoze (mash A). :info[_If skipped Leppa take free heal from old lady on Mt. Chimney_]{color=red}
 - Heal to full (unless no significant damage was taken).
-- Equip the Soft Sand.
+- Equip the Soft Sand if used Persim
+:::
+:::if{source="Mudkip" condition="$ppuskip"}
+- Take free heal from old lady on Mt. Chimney
+:::
 
 Gym puzzle:
 - Right pad
@@ -676,7 +749,7 @@ Inside the gym, always take the right door when given a choice.
 
 Heal to full.
 
-:::::trainer[Ace Trainer George]
+:::::trainer[Ace Trainer George]{info="If no spare X Attacks RS spam" infoColor=gray}
   :::pokemon[Linoone]
     - X Attack
     - Bulldoze
@@ -1050,6 +1123,7 @@ Bike to the Harbor.
     - Surf :info[Fly does ~50% damage if you're out of Mist Ball PP]{color=gray}
 
     _If Brendan uses Detect on Fly, use Mist Ball then Fly and pray._
+::damage[Sceptile's Dual Chop]{source="Latias" offensive=false effectiveness=4 movePower=40 stab=false level=34 opponentLevel=39 opponentStat=78}
 
     :info[If you die here, Revive on Castform, heal to full, and spam Fly.]{color=red}
   :::::
@@ -1276,6 +1350,8 @@ At the Pokémon Center, deposit Castform and Latias. PC heal Kyogre, but keep Ma
   :::
 :::::
 
+Pick up Elixir if skipped Leppas and did not get Ether from Rock Smash.
+
 :::::trainer[Export Theodore]
   :::pokemon[Sawk]{info="Faster at 85+ Speed (16+ / 0+ / 0+)" infoColor=blue}
     - Surf
@@ -1437,11 +1513,11 @@ Heal to full.
       - X Speed 
       - Calm Mind x2
       - _If you can survive another Crunch:_
-        - Leppa Berry Surf
+        - Leppa Berry/Elixir Surf
         - Heal to full
       - _Otherwise:_
         - Heal to full
-        - Leppa Berry Surf
+        - Leppa Berry/Elixir Surf
       - Surf
     :::
   :::::
@@ -1496,7 +1572,7 @@ Heal to full.
     :::
     - Calm Mind x2
     - _If Light Screen is up:_
-      - Leppa Berry Surf
+      - Leppa Berry/Elixir Surf
       - Calm Mind until Light Screen is about to fade :info[Light Screen lasts 5 turns.]{color=gray}
     - Surf
   :::::
@@ -1515,7 +1591,7 @@ Heal to full.
 :::::::
 
 - Heal to full.
-- Leppa Berry Surf if you didn't in the previous fight.
+- Elixir or Leppa Berry Surf if you didn't in the previous fight.
 - Remove Blue Orb if you equipped it before the last fight, and re-equip Mystic Water.
 
 :::::::trainer[Elite Four Drake]
@@ -1597,11 +1673,5 @@ Heal if below 75%.
     ::damage[+3 Surf vs Mega Metagross without Rain with Mystic Water]{source="Kyogre" special=true movePower=90 stab=true level=53 evs=6 opponentStat=144 healthThreshold=172 otherPowerModifier=1.2 combatStages=3 theme=error}
 
     ::damage[Metagross' Bullet Punch]{source="Kyogre" offensive=false movePower=40 stab=true level=53 evs=9 opponentLevel=59 opponentStat=185 effectiveness=0.5 otherModifier=1.3}
-  :::::
-:::::::
-
-:::::::trainer[Brendan 5]
-  :::::pokemon[Swellow]
-    - Calm Mind x1000
   :::::
 :::::::
